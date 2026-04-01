@@ -139,3 +139,21 @@
 \newcommand{\sposadj}{\textcolor{postdarkorange}{\sffamily adj.}}
 \newcommand{\sposconj}{\textcolor{posdarkpurple}{\sffamily conj.}}
 \newcommand{\sposlocprep}{\textcolor{postdarkteal}{\sffamily loc.prép.}}
+
+
+\newenvironment{listWithRemark}{
+    \begin{longtblr}[
+        caption = {},
+        entry = none,
+        label = none,
+    ]{
+        width = \textwidth,
+        colspec = {Q[0.76,l,t] | Q[0.24,l,t]},
+        rows = {valign=t},
+        rowsep = 8pt,
+        column{1} = {leftsep=0pt},
+        column{2} = {leftsep=0pt,rightsep=0pt},
+    }
+}{
+    \end{longtblr}
+}
