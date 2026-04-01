@@ -241,3 +241,24 @@
 }{%
     \end{leftgraybox}
 }
+
+\newenvironment{collocationTable}{
+        \begin{longtblr}[
+        caption = {},
+        entry = none,
+        label = none,
+    ]{
+        width = \textwidth,
+        colspec = {Q[0.3,l,t] Q[0.3,l,t] Q[0.4,l,t]},
+        rows = {valign=t},
+        rowsep = 0pt,
+        row{1} = {abovesep=3pt, belowsep=4pt},
+        column{1} = {leftsep=0pt},
+        column{3} = {rightsep=0pt},
+        hline{1} = {0.8pt, solid},
+        hline{2} = {0.5pt, solid},
+        hline{Z} = {0.8pt, solid},
+    }
+}{
+    \end{longtblr}
+}
