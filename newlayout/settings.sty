@@ -222,3 +222,22 @@
 }{%
     \end{betterList}
 }
+
+\newenvironment{vocabEntry}[3]{%
+    {\large #1}\hspace{3pt}#2\hfill{\kt #3}\\[-10pt]
+    \noindent\textcolor{gray!50}{\rule{\linewidth}{0.4pt}}
+    \begin{betterList}
+}{%
+    \end{betterList}
+}
+
+\newcommand{\vocabMot}[3]{%
+    #1\hspace{6pt}#2\\[-3pt]\hspace*{6pt}{\kt #3}%
+}
+
+\newenvironment{vocabRemark}{%
+    \begin{leftgraybox}
+    \textbf{Mots dérivés}{\hei 派生词}\vspace{4pt}\\
+}{%
+    \end{leftgraybox}
+}
