@@ -1,0 +1,17 @@
+# 忽略所有文件
+*
+
+# 保留 .gitignore 本身
+!.gitignore
+
+# 保留 newlayout/ 目录（以便 git 进入）
+!newlayout/
+newlayout/*
+
+# 保留 newlayout/ 下的 TeX 源文件
+!newlayout/*.tex
+!newlayout/*.sty
+!newlayout/*.cls
+!newlayout/*.bib
+!newlayout/*.bbx
+!newlayout/*.cbx

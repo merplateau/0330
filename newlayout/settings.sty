@@ -1,0 +1,135 @@
+\RequirePackage[left=2.00cm, right=1.50cm, top=1.50cm, bottom=1.50cm]{geometry}
+
+% 表格增强
+\RequirePackage{tabularx}
+\RequirePackage{tabularray}
+\DefTblrTemplate{contfoot-text}{default}{}
+\DefTblrTemplate{conthead-text}{default}{}
+
+% 设置段落格式：无首行缩进，段间距 0.5em，也就是西文风格
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+% 为了双栏
+\RequirePackage{xcolor} % 颜色支持
+\RequirePackage[most]{tcolorbox} % 文字底框
+\RequirePackage{setspace}
+\RequirePackage{ragged2e}
+\RequirePackage{titlesec}
+
+% 定义垂直间距
+\newcommand{\cinq}{\vspace{5pt}}
+\newcommand{\dix}{\vspace{10pt}}
+\newcommand{\quinze}{\vspace{15pt}}
+
+\newcommand{\og}{«~}
+\newcommand{\fg}{~»}
+
+% 西文字体：Times New Roman，无衬线：Comic Sans MS
+\RequirePackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Comic Sans MS}
+
+% 中文主字体：宋体
+\setCJKmainfont{STSong}
+
+% 中文辅助字体：黑体，\ht 命令切换
+\setCJKfamilyfont{hei}{PingFang SC}
+\newcommand{\hei}{\CJKfamily{hei}}
+
+% 中文辅助字体：楷体，\kt 命令切换
+\setCJKfamilyfont{kt}{STKaiti}
+\newcommand{\kt}{\CJKfamily{kt}}
+
+% 从放电气体动力学学来的，文本框相关
+\tcbuselibrary{skins, breakable}
+\tcbuselibrary{theorems}
+\RequirePackage{fontawesome5}
+
+\definecolor{myblue}{RGB}{200,225,240}
+
+\newtcolorbox{centerbluebox}{
+    enhanced,
+    colback = myblue,
+    boxrule = 0pt,
+    frame hidden,
+    breakable,
+    center,
+    before skip = 0ex,
+    after skip = 3ex
+}
+
+\newtcolorbox{leftgraybox}{
+    enhanced,
+    colback = black!5,
+    colbacktitle = black!5,
+    coltitle = black,
+    boxrule = 0pt,
+    frame hidden,
+    breakable,
+    left = 4pt,
+    right = 4pt,
+    top = 4pt,
+    bottom = 4pt,
+    boxsep = 0pt,
+    nobeforeafter
+}
+
+\newtcolorbox{notebox}{
+    enhanced,
+    colback = gray!15,
+    colframe = black!20,
+    boxrule = 0pt,
+    arc = 0pt,
+    left = 6pt,
+    right = 6pt,
+    top = 6pt,
+    bottom = 6pt,
+    width = \linewidth,
+    before skip = 0pt,
+    after skip = 0pt
+}
+
+% 搭配说明行：中文楷体，西文默认字体，整体灰色，带缩进
+\newcommand{\iiex}[1]{\hspace{10pt}{\kt\color{gray!80}#1}\vspace{3pt}}
+
+% 词性标签通用命令：\postag{底色}{字色}{文字}
+\newcommand{\postag}[3]{%
+  \tcbox[%
+    enhanced, nobeforeafter, tcbox raise base,
+    boxrule = 0pt, arc = 3pt,
+    colback = #1, colframe = #1,
+    left = 4pt, right = 4pt, top = 2pt, bottom = 2pt,
+    boxsep = 0pt
+  ]{\sffamily\color{#2}#3}%
+}
+
+% 各词性颜色定义
+\definecolor{poslightblue}{RGB}{220, 235, 255}   % v.t.  蓝
+\definecolor{posdarkblue}{RGB}{20, 60, 150}
+\definecolor{poslightgreen}{RGB}{218, 245, 220}  % n.m.  绿
+\definecolor{posdarkgreen}{RGB}{30, 110, 50}
+\definecolor{poslightrose}{RGB}{255, 220, 228}   % n.f.  玫红
+\definecolor{posdarkrose}{RGB}{160, 30, 70}
+\definecolor{poslightorange}{RGB}{255, 235, 210} % adj.  橙
+\definecolor{postdarkorange}{RGB}{160, 80, 10}
+\definecolor{poslightpurple}{RGB}{235, 220, 255} % conj. 紫
+\definecolor{posdarkpurple}{RGB}{90, 30, 150}
+\definecolor{poslightteal}{RGB}{210, 245, 242}   % loc.prép. 青
+\definecolor{postdarkteal}{RGB}{20, 110, 100}
+
+% 词性标签命令（带底纹）
+\newcommand{\posvt}{\postag{poslightblue}{posdarkblue}{v.t.}}
+\newcommand{\posnm}{\postag{poslightgreen}{posdarkgreen}{n.m.}}
+\newcommand{\posnf}{\postag{poslightrose}{posdarkrose}{n.f.}}
+\newcommand{\posadj}{\postag{poslightorange}{postdarkorange}{adj.}}
+\newcommand{\posconj}{\postag{poslightpurple}{posdarkpurple}{conj.}}
+\newcommand{\poslocprep}{\postag{poslightteal}{postdarkteal}{loc.prép.}}
+
+% 词性标签命令（无底纹，仅保留字体颜色）
+\newcommand{\sposvt}{\textcolor{posdarkblue}{\sffamily v.t.}}
+\newcommand{\sposnm}{\textcolor{posdarkgreen}{\sffamily n.m.}}
+\newcommand{\sposnf}{\textcolor{posdarkrose}{\sffamily n.f.}}
+\newcommand{\sposadj}{\textcolor{postdarkorange}{\sffamily adj.}}
+\newcommand{\sposconj}{\textcolor{posdarkpurple}{\sffamily conj.}}
+\newcommand{\sposlocprep}{\textcolor{postdarkteal}{\sffamily loc.prép.}}
