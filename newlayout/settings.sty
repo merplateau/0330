@@ -30,9 +30,6 @@
 \setmainfont{Times New Roman}
 \setsansfont{Comic Sans MS}
 
-% 中文主字体：宋体
-\setCJKmainfont{STSong}
-
 % 中文辅助字体：黑体，\ht 命令切换
 \setCJKfamilyfont{hei}{PingFang SC}
 \newcommand{\hei}{\CJKfamily{hei}}
@@ -128,6 +125,12 @@
 
 % 带圈数字
 \RequirePackage{pifont}
+
+% 允许任意字号，消除 size substitution 警告
+\RequirePackage{anyfontsize}
+
+% 用 bookmark 替代 hyperref 的 rerun 机制
+\RequirePackage{bookmark}
 
 % 词性标签命令（无底纹，仅保留字体颜色）
 \newcommand{\sposvt}{\textcolor{posdarkblue}{\sffamily v.t.}}
