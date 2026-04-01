@@ -1,5 +1,7 @@
 \RequirePackage[left=2.00cm, right=1.50cm, top=1.50cm, bottom=1.50cm]{geometry}
 
+\RequirePackage{xparse} % 用于定义带参数的命令
+
 % 表格增强
 \RequirePackage{tabularx}
 \RequirePackage{tabularray}
@@ -188,3 +190,35 @@
     \end{centerbluebox}
 }
 
+\newenvironment{betterList}{
+    \begin{tblr}{
+        width = \linewidth,
+        colspec = {Q[0.02,l,t] Q[0.13,l,t] Q[0.85,l,t]},
+        rows = {valign=t},
+        rowsep = 4pt,
+        column{1} = {leftsep=0pt},
+        column{2} = {leftsep=0pt},
+        column{3} = {leftsep=0pt,rightsep=0pt},
+    }
+}{
+    \end{tblr}
+}
+
+\NewDocumentCommand{\exampleSentenceRemark}{O{}}{
+    \ifblank{#1}{}{
+        \begin{leftgraybox}
+        \textbf{Remarque}{\hei 备注}
+
+        #1
+        \end{leftgraybox}
+    }
+}
+
+\newenvironment{exampleSentence}[3]{%
+    \llap{\bf{#1}\quad}#2\par
+    {\kt #3}\\[-10pt]
+    \noindent\textcolor{gray!50}{\rule{\linewidth}{0.4pt}}
+    \begin{betterList}
+}{%
+    \end{betterList}
+}
