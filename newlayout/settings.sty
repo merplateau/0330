@@ -188,38 +188,3 @@
     \end{centerbluebox}
 }
 
-\newenvironment{betterList}{
-    \begin{tblr}{
-        width = \linewidth,
-        colspec = {Q[0.02,l,t] Q[0.13,l,t] Q[0.85,l,t]},
-        rows = {valign=t},
-        rowsep = 4pt,
-        column{1} = {leftsep=0pt},
-        column{2} = {leftsep=0pt},
-        column{3} = {leftsep=0pt,rightsep=0pt},
-    }
-}{
-    \end{tblr}
-}
-
-% exampleSentence{编号}{法语原文}{中文翻译}[句子结构][语法分析][考点提示][Remarque]
-% 后四个参数为可选，传空或不传则跳过对应行/右栏
-\NewDocumentCommand{\exampleSentence}{m m m O{} O{} O{} O{}}{%
-    {\llap{\bf{#1}\quad}#2
-    {\kt #3}\\[-10pt]
-    \noindent\textcolor{gray!50}{\rule{\linewidth}{0.4pt}}
-    \begin{betterList}
-    \ifblank{#4}{}{& {\hei 句子结构} & #4 \\}%
-    \ifblank{#5}{}{& {\hei 语法分析} & #5 \\}%
-    \ifblank{#6}{}{& {\hei 考点提示} & #6 \\}%
-    \end{betterList}
-    }%
-    &
-    \ifblank{#7}{}{%
-        \begin{leftgraybox}
-        \textbf{Remarque}{\hei 备注}
-
-        #7
-        \end{leftgraybox}%
-    }%
-}
