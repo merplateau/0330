@@ -15,3 +15,12 @@ newlayout/*
 !newlayout/*.bib
 !newlayout/*.bbx
 !newlayout/*.cbx
+
+!prompt/
+prompt/*
+
+!prompt/*.json
+!prompt/*.jsonc
+!prompt/*.md
+
+!README.md

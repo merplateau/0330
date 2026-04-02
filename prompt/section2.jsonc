@@ -1,0 +1,16 @@
+{
+
+    "collocations":[ // 常用搭配
+        /*
+        入选标准：
+
+        */
+        {
+            "listIndex": "", // 序号
+            "collocation": "", // 常用搭配
+            "meaning": "", // 释义
+            "usage": "", // 用法说明
+            "exampleSentence": "" // 课文例句
+        }
+    ]
+}

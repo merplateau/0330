@@ -1,0 +1,49 @@
+{
+  "sentences": [
+    {
+      "listIndex": 1,
+      "sentence": "En 1905, Einstein entra un jour dans le bureau de poste de Berne.",
+      "translatedSentence": "1905年的一天，爱因斯坦走进了伯尔尼的一家邮局。",
+      "sentenceStructure": "时间状语 En 1905, un jour + 主语 Einstein + 谓语 entra + 地点状语 dans le bureau de poste de Berne",
+      "grammarAnalysis": "entra 是动词 entrer 的简单过去时第三人称单数形式。简单过去时常用于书面语，叙述过去发生且已经完成的动作。",
+      "examKeyPoints": "简单过去时的变位识别（尤其是第三组动词）及其与复合过去时在语体上的区别。",
+      "commonMistakes": "将简单过去时误认为是未完成过去时或复合过去时，导致时态理解错误。"
+    },
+    {
+      "listIndex": 2,
+      "sentence": "Il s'approcha d'un guichet et donna à l'employé une enveloppe jaune adressée à la revue scientifique de Leipzig, Annalen der Physik.",
+      "translatedSentence": "他走向一个窗口，把一个黄色的信封递给邮局职员，信封上写着莱比锡的科学刊物《物理学年鉴》的地址。",
+      "sentenceStructure": "主语 Il + 谓语1 s'approcha + 补语 d'un guichet + 并列谓语2 donna + 间接宾语 à l'employé + 直接宾语 une enveloppe jaune + 过去分词短语作定语 adressée à la revue scientifique de Leipzig, Annalen der Physik",
+      "grammarAnalysis": "s'approcher de 为代动词，表示“靠近”，此处使用简单过去时；adressée à ... 是过去分词短语作后置定语，修饰 enveloppe，因 enveloppe 为阴性单数，故过去分词 adresser 需配合为 adressée。",
+      "examKeyPoints": "代动词 s'approcher de 的用法；过去分词作定语时的性数配合原则。",
+      "commonMistakes": "误将 s'approcher de 理解为“接近”但忘记加介词 de；或忽略过去分词 adressée 的性数配合。"
+    },
+    {
+      "listIndex": 3,
+      "sentence": "Dans cette enveloppe, il y avait trente feuilles de papier, fruit d'un énorme travail qui durait plusieurs années.",
+      "translatedSentence": "这个信封里装着三十页纸，这是持续了数年之久的巨大劳动的成果。",
+      "sentenceStructure": "地点状语 Dans cette enveloppe + 无人称结构 il y avait + 主语 trente feuilles de papier + 同位语 fruit d'un énorme travail + 关系从句 qui durait plusieurs années（修饰 travail）",
+      "grammarAnalysis": "il y avait 是 il y a 的未完成过去时形式，表示过去某时存在的状态；fruit d'un énorme travail 是名词短语，作前面整个句子的同位语，起解释说明作用；qui durait 是关系从句，动词 durait 为未完成过去时，表示过去持续进行的动作。",
+      "examKeyPoints": "il y a 的未完成过去时用法；同位语的识别与理解；未完成过去时表示过去持续状态。",
+      "commonMistakes": "未能识别 fruit d'un énorme travail 是同位语，导致句子结构分析错误；混淆未完成过去时与复合过去时的用法。"
+    },
+    {
+      "listIndex": 4,
+      "sentence": "Pour Einstein, l'école fut toujours une charge fatigante: maîtres et professeurs demandaient aux élèves d'apprendre par cœur règles, dates, noms et prénoms; lui, il pensait qu'il n'était pas utile de perdre son temps à étudier ce que l'on pouvait trouver dans les livres et les dictionnaires; il cherchait plutôt à connaître le pourquoi des choses.",
+      "translatedSentence": "对爱因斯坦来说，学校总是一个沉重的负担：老师要求学生们背诵各种规则、日期、姓名；而他认为，把时间浪费在研究那些可以在书本和词典里找到的东西上毫无用处；他宁愿去探究事物的原因。",
+      "sentenceStructure": "状语 Pour Einstein + 主语 l'école + 谓语 fut + 表语 une charge fatigante + 冒号后为解释说明的并列复合句。第一部分：主语 maîtres et professeurs + 谓语 demandaient + 间接宾语 aux élèves + 不定式短语作直接宾语 d'apprendre par cœur règles, dates, noms et prénoms。第二部分：主语 lui（强调）+ 主语 il + 谓语 pensait + 宾语从句 que ...。宾语从句中：形式主语 il + 谓语 n'était pas + 表语 utile + 不定式短语作真正主语 de perdre son temps à étudier ce que l'on pouvait trouver dans les livres et les dictionnaires，其中 ce que l'on pouvait trouver... 为宾语从句作 étudier 的宾语。第三部分：主语 il + 谓语 cherchait + 状语 plutôt + 不定式短语 à connaître le pourquoi des choses。",
+      "grammarAnalysis": "fut 是 être 的简单过去时，此处用于表示过去的一种状态；demandaient 是 demander 的未完成过去时，表示过去的习惯性动作；pensait 是 penser 的未完成过去时，表示过去的想法；n'était pas utile de + inf. 是无人称结构，表示“做某事无用”；ce que 引导名词性从句，作 étudier 的宾语；chercher à faire qch. 表示“力求做某事，试图做某事”。",
+      "examKeyPoints": "简单过去时与未完成过去时的区别与功能；无人称结构 il est + adj. + de + inf. 的否定形式；chercher à faire 的固定搭配；ce que 引导的名词性从句作宾语。",
+      "commonMistakes": "混淆 futur simple 和简单过去时；对无人称结构中的真正主语（不定式短语）识别不清；错误理解 pourquoi des choses 为“为什么有事物”而非“事物的原因”。"
+    },
+    {
+      "listIndex": 5,
+      "sentence": "Depuis, le nom du grand savant fut connu, même de ceux qui ne savaient rien de la science.",
+      "translatedSentence": "从那时起，这位伟大科学家的名字变得家喻户晓，甚至对那些对科学一无所知的人来说也是如此。",
+      "sentenceStructure": "时间状语 Depuis + 主语 le nom du grand savant + 谓语 fut connu + 状语 même de ceux + 关系从句 qui ne savaient rien de la science（修饰 ceux）",
+      "grammarAnalysis": "fut connu 是 être connu 的简单过去时被动语态；de ceux 中的 de 引出被动句中的施动者补语（agent），即“被……所知道”；关系从句中使用未完成过去时 savaient，表示过去的状态。",
+      "examKeyPoints": "简单过去时在被动语态中的使用；被动语态中施动者补语的介词（par/de）选择；de 在此表示“在……看来”或引出施动者。",
+      "commonMistakes": "将 fut 误认为是虚拟式或条件式；对被动句中介词 de 的用法不熟悉；将 rien de la science 误解为“关于科学的什么都没有”。"
+    }
+  ]
+}
