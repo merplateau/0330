@@ -190,6 +190,16 @@
     \end{centerbluebox}
 }
 
+\newcommand{\sectionTitleIV}{
+    \vspace{30pt}
+    \begin{centerbluebox}
+        \begin{center}
+            {\fontsize{14}{14}\selectfont IV. EXERCICES DE TRADUCTION }
+            {\fontsize{12}{14}\selectfont \hei 翻译练习参考}
+        \end{center}
+    \end{centerbluebox}
+}
+
 \newenvironment{betterList}{
     \begin{tblr}{
         width = \linewidth,
@@ -261,4 +271,37 @@
     }
 }{
     \end{longtblr}
+}
+
+\newcommand{\frcn}[2]{
+    {#1}\vspace{14pt}\\
+    {\kt #2}\\
+    \vspace{20pt}
+}
+
+\newcommand{\cnfr}[3]{
+    \llap{\bf{#1}\quad}#2\vspace{14pt}\\
+    {#3}\\
+    \vspace{10pt}
+}
+
+\newcommand{\frcnTitle}{
+    {\fontsize{12}{12}\selectfont TRADUIRE DU FRANÇAIS EN CHINOIS }
+    {\fontsize{11}{12}\selectfont \hei 法译中}\vspace{15pt}
+}
+
+\newcommand{\cnfrTitle}{
+    \vspace{15pt}\par
+    {\fontsize{12}{12}\selectfont TRADUIRE DU CHINOIS EN FRANÇAIS }
+    {\fontsize{11}{12}\selectfont \hei 中译法}\vspace{15pt}
+}
+
+\NewDocumentCommand{\translationRemark}{O{}}{
+    \ifblank{#1}{}{
+        \begin{leftgraybox}
+        \textbf{Strategies}{\hei 翻译技巧}
+
+        #1
+        \end{leftgraybox}
+    }
 }
