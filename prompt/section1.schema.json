@@ -27,7 +27,7 @@
     "sentenceEntry": {
       "type": "object",
       "required": [
-        "listIndex",
+        "index",
         "sentence",
         "translatedSentence",
         "sentenceStructure",
@@ -36,7 +36,7 @@
         "commonMistakes"
       ],
       "properties": {
-        "listIndex": {
+        "index": {
           "type": "integer",
           "description": "序号，从1开始的正整数"
         },
