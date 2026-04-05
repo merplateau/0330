@@ -23,4 +23,8 @@ prompt/*
 !prompt/*.jsonc
 !prompt/*.md
 
+!output/
+output/*
+!output/*.json
+
 !README.md
