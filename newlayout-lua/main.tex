@@ -1,0 +1,404 @@
+\documentclass[a4paper,UTF8,fontset=none]{ctexart}
+\usepackage{iftex}
+\ifLuaTeX\else
+  \PackageError{main}{Please compile this file with LuaLaTeX}{Run lualatex main.tex.}
+\fi
+
+\usepackage{settings}
+\usepackage{hyperref}
+\usepackage{luacode}
+
+\input{whichJson}
+
+\begin{luacode*}
+require("lualibs")
+
+jsonlayout = jsonlayout or {}
+
+local function is_blank(value)
+    if value == nil then
+        return true
+    end
+    local value_type = type(value)
+    if value_type == "string" then
+        return value:match("^%s*$") ~= nil
+    end
+    if value_type == "table" then
+        return next(value) == nil
+    end
+    return false
+end
+
+local tex_substitutions = {
+    ["\\"] = "\\textbackslash{}",
+    ["{"] = "\\{",
+    ["}"] = "\\}",
+    ["#"] = "\\#",
+    ["$"] = "\\$",
+    ["%"] = "\\%",
+    ["&"] = "\\&",
+    ["_"] = "\\_",
+    ["~"] = "\\textasciitilde{}",
+    ["^"] = "\\textasciicircum{}",
+}
+
+local circled_digit_commands = {
+    ["①"] = "\\ding{172}",
+    ["②"] = "\\ding{173}",
+    ["③"] = "\\ding{174}",
+    ["④"] = "\\ding{175}",
+    ["⑤"] = "\\ding{176}",
+    ["⑥"] = "\\ding{177}",
+    ["⑦"] = "\\ding{178}",
+    ["⑧"] = "\\ding{179}",
+    ["⑨"] = "\\ding{180}",
+    ["⑩"] = "\\ding{181}",
+    ["⑪"] = "\\ding{182}",
+    ["⑫"] = "\\ding{183}",
+    ["⑬"] = "\\ding{184}",
+    ["⑭"] = "\\ding{185}",
+    ["⑮"] = "\\ding{186}",
+    ["⑯"] = "\\ding{187}",
+    ["⑰"] = "\\ding{188}",
+    ["⑱"] = "\\ding{189}",
+    ["⑲"] = "\\ding{190}",
+    ["⑳"] = "\\ding{191}",
+}
+
+local function tex_escape(value)
+    if value == nil then
+        return ""
+    end
+    local text = tostring(value)
+    text = text:gsub("^\239\187\191", "")
+    text = text:gsub("\r\n", "\n"):gsub("\r", "\n")
+    text = text:gsub("[\\{}#%%$&_~^]", tex_substitutions)
+    for character, command in pairs(circled_digit_commands) do
+        text = text:gsub(character, command)
+    end
+    text = text:gsub("\n+", "\\\\ ")
+    return text
+end
+
+local function emit(...)
+    local output = table.concat({...})
+    output = output:gsub("\r\n", "\n"):gsub("\r", "\n")
+    output = output:gsub("\n", " ")
+    tex.sprint(output)
+end
+
+local function pos_colors(part_of_speech)
+    local pos = (part_of_speech or ""):lower()
+    if pos:find("^n%.m") then
+        return "poslightgreen", "posdarkgreen"
+    end
+    if pos:find("^n%.f") then
+        return "poslightrose", "posdarkrose"
+    end
+    if pos:find("^adj") then
+        return "poslightorange", "postdarkorange"
+    end
+    if pos:find("^v") then
+        return "poslightblue", "posdarkblue"
+    end
+    if pos:find("^loc") then
+        return "poslightteal", "postdarkteal"
+    end
+    return "black!10", "black!70"
+end
+
+local function boxed_pos_tag(part_of_speech)
+    if is_blank(part_of_speech) then
+        return ""
+    end
+    local background, foreground = pos_colors(part_of_speech)
+    return string.format(
+        "\\postag{%s}{%s}{%s}",
+        background,
+        foreground,
+        tex_escape(part_of_speech)
+    )
+end
+
+local function inline_pos_tag(part_of_speech)
+    if is_blank(part_of_speech) then
+        return ""
+    end
+    local _, foreground = pos_colors(part_of_speech)
+    return string.format(
+        "\\textcolor{%s}{\\sffamily %s}",
+        foreground,
+        tex_escape(part_of_speech)
+    )
+end
+
+local function emit_empty_two_column_row()
+    emit("\\SetCell[c=2]{l} {\\itshape 暂无内容} \\\\\n")
+end
+
+local function emit_empty_three_column_row()
+    emit("\\SetCell[c=3]{l} {\\itshape 暂无内容} \\\\\n")
+end
+
+local function render_better_list_row(label, content)
+    if is_blank(content) then
+        return
+    end
+    emit(string.format("{}&{\\hei %s}&{%s}\\\\\n", label, content))
+end
+
+local function join_lines(lines)
+    if #lines == 0 then
+        return ""
+    end
+    return table.concat(lines, " \\\\\n")
+end
+
+local function format_vocab_collocations(entries)
+    local lines = {}
+    for _, entry in ipairs(entries or {}) do
+        local collocation = tex_escape(entry.vocabularyCollocation)
+        local meaning = tex_escape(entry.vocabularyCollocationMeaning)
+        if not is_blank(collocation) and not is_blank(meaning) then
+            lines[#lines + 1] = collocation .. " \\hspace{6pt} " .. meaning
+        elseif not is_blank(collocation) then
+            lines[#lines + 1] = collocation
+        elseif not is_blank(meaning) then
+            lines[#lines + 1] = meaning
+        end
+    end
+    return join_lines(lines)
+end
+
+local function format_inflection_info(info)
+    if type(info) ~= "table" or next(info) == nil then
+        return ""
+    end
+    local ordered_fields = {
+        {"动词类型", "verbType"},
+        {"直陈式现在时", "present"},
+        {"复合过去时", "compoundPast"},
+        {"简单将来时", "simpleFuture"},
+        {"未完成过去时", "imperfect"},
+        {"现在虚拟式", "presentSubjunctive"},
+        {"记忆技巧", "memoryAids"},
+    }
+    local lines = {}
+    for _, field in ipairs(ordered_fields) do
+        local label = field[1]
+        local key = field[2]
+        local value = info[key]
+        if not is_blank(value) then
+            lines[#lines + 1] = string.format("\\textbf{%s：} %s", label, tex_escape(value))
+        end
+    end
+    return join_lines(lines)
+end
+
+local function format_derived_words(entries)
+    local lines = {}
+    for _, entry in ipairs(entries or {}) do
+        local word = tex_escape(entry.derivedWord)
+        local part_of_speech = inline_pos_tag(entry.derivedWordPartOfSpeech)
+        local meaning = tex_escape(entry.derivedWordMeaning)
+        lines[#lines + 1] = string.format("\\vocabMot{%s}{%s}{%s}", word, part_of_speech, meaning)
+    end
+    return table.concat(lines, " \\\\\n")
+end
+
+local function render_note_box(fr_title, cn_title, content)
+    if is_blank(content) then
+        emit("{}")
+        return
+    end
+    emit(
+        "\\begin{leftgraybox}" ..
+        "\\textbf{" .. fr_title .. "}{\\hei " .. cn_title .. "}\\par " ..
+        tex_escape(content) ..
+        "\\end{leftgraybox}"
+    )
+end
+
+local function render_sentence_entry(item, fallback_index)
+    local display_index = item.index or fallback_index
+    emit(
+        "\\begin{exampleSentence}{" .. tex_escape(display_index) .. "}{" ..
+        tex_escape(item.sentence) .. "}{" ..
+        tex_escape(item.translatedSentence) .. "}\n"
+    )
+    render_better_list_row("句子结构", tex_escape(item.sentenceStructure))
+    render_better_list_row("语法分析", tex_escape(item.grammarAnalysis))
+    emit("\\end{exampleSentence}\n&\n")
+    render_note_box("Remarque", "备注", item.commonMistakes)
+end
+
+local function render_collocation_table(entries)
+    emit("\\begin{collocationTable}\n")
+    emit("{\\hei 常用搭配} & {\\hei 释义} & {\\hei 用法说明} \\\\\n")
+    if #entries == 0 then
+        emit_empty_three_column_row()
+    else
+        for _, entry in ipairs(entries) do
+            emit(
+                "{" .. tex_escape(entry.collocation) .. "} & " ..
+                "{" .. tex_escape(entry.meaning) .. "} & " ..
+                "{" .. tex_escape(entry.usage) .. "} \\\\\n"
+            )
+            if not is_blank(entry.exampleSentence) then
+                emit("\\SetCell[c=3]{l} \\iiex{" .. tex_escape(entry.exampleSentence) .. "} \\\\\n")
+            end
+        end
+    end
+    emit("\\end{collocationTable}\n")
+end
+
+local function render_vocabulary_entry(item)
+    emit(
+        "\\begin{vocabEntry}{" .. tex_escape(item.vocabulary) .. "}{" ..
+        boxed_pos_tag(item.partOfSpeech) .. "}{" ..
+        tex_escape(item.definition) .. "}\n"
+    )
+    render_better_list_row("常用搭配", format_vocab_collocations(item.vocabularyCollocations))
+    render_better_list_row("近义辨析", tex_escape(item.synonymAnalysis))
+    render_better_list_row("变位信息", format_inflection_info(item.inflectionInfo))
+    render_better_list_row("性数变化", tex_escape(item.genderNumberVariation))
+    render_better_list_row("位置", tex_escape(item.position))
+    render_better_list_row("复数形式", tex_escape(item.pluralForm))
+    render_better_list_row("用法说明", tex_escape(item.useExplanation))
+    emit("\\end{vocabEntry}\n&\n")
+    local derived_words = format_derived_words(item.derivedWords)
+    if is_blank(derived_words) then
+        emit("{}")
+    else
+        emit("\\begin{vocabRemark}\n" .. derived_words .. "\n\\end{vocabRemark}")
+    end
+end
+
+local function render_translation_part(part)
+    emit("\\sectionTitleIV\n\n")
+    emit("\\begin{listWithRemark}\n")
+
+    local has_content = false
+    local french_to_chinese = part.frenchToChinesePractice or {}
+    if type(french_to_chinese) == "table"
+        and (not is_blank(french_to_chinese.frenchOriginalSentence)
+        or not is_blank(french_to_chinese.chineseTranslation)
+        or not is_blank(french_to_chinese.fr2cnStrategy)) then
+        emit("\\frcnTitle\n&\n{}\n\\\\\n")
+        emit(
+            "\\frcn{" .. tex_escape(french_to_chinese.frenchOriginalSentence) .. "}{" ..
+            tex_escape(french_to_chinese.chineseTranslation) .. "}\n&\n"
+        )
+        render_note_box("Strategies", "翻译技巧", french_to_chinese.fr2cnStrategy)
+        has_content = true
+    end
+
+    local chinese_to_french = part.chineseToFrenchPractice or {}
+    if type(chinese_to_french) == "table" and #chinese_to_french > 0 then
+        if has_content then
+            emit("\\\\\n")
+        end
+        emit("\\cnfrTitle\n&\n{}\n\\\\\n")
+        for index, entry in ipairs(chinese_to_french) do
+            local display_index = entry.index or index
+            emit(
+                "\\cnfr{" .. tex_escape(display_index) .. "}{" ..
+                tex_escape(entry.chineseOriginalSentence) .. "}{" ..
+                tex_escape(entry.frenchTranslation) .. "}\n&\n"
+            )
+            render_note_box("Strategies", "翻译技巧", entry.cn2frStrategy)
+            if index < #chinese_to_french then
+                emit("\\\\\n")
+            end
+        end
+        has_content = true
+    end
+
+    if not has_content then
+        emit_empty_two_column_row()
+    end
+
+    emit("\\end{listWithRemark}\n")
+end
+
+local function load_json_file(filename)
+    local handle = io.open(filename, "r")
+    if not handle then
+        tex.error(
+            "JSON file not found",
+            {
+                "Unable to open: " .. filename,
+                "Check \\JsonDataDir and \\JsonDataFileName in main.tex.",
+            }
+        )
+        return nil
+    end
+
+    local raw_data = handle:read("*a")
+    handle:close()
+    raw_data = raw_data:gsub("^\239\187\191", "")
+
+    local decoded = utilities.json.tolua(raw_data)
+    if not decoded then
+        tex.error(
+            "JSON parse failed",
+            {
+                "Unable to parse: " .. filename,
+                "Make sure the file is valid JSON without comments or trailing text.",
+            }
+        )
+        return nil
+    end
+    return decoded
+end
+
+function jsonlayout.render_file(filename)
+    local data = load_json_file(filename)
+    if not data then
+        return
+    end
+
+    emit("\\sectionTitleI\n\n")
+    emit("\\begin{listWithRemark}\n")
+    local sentences = data.sentences or {}
+    if #sentences == 0 then
+        emit_empty_two_column_row()
+    else
+        for index, item in ipairs(sentences) do
+            render_sentence_entry(item, index)
+            if index < #sentences then
+                emit("\\\\\n")
+            end
+        end
+    end
+    emit("\\end{listWithRemark}\n")
+
+    emit("\\newpage\n")
+    emit("\\sectionTitleII\n\n")
+    emit("以下搭配均来自课文：\n\n")
+    render_collocation_table(data.collocations or {})
+
+    emit("\\newpage\n")
+    emit("\\sectionTitleIII\n\n")
+    emit("\\begin{listWithRemark}\n")
+    local vocabulary_entries = data.vocabulary or {}
+    if #vocabulary_entries == 0 then
+        emit_empty_two_column_row()
+    else
+        for index, item in ipairs(vocabulary_entries) do
+            render_vocabulary_entry(item)
+            if index < #vocabulary_entries then
+                emit("\\\\\n")
+            end
+        end
+    end
+    emit("\\end{listWithRemark}\n")
+
+    emit("\\newpage\n")
+    render_translation_part(data.traslationPart or data.translationPart or {})
+end
+\end{luacode*}
+
+\begin{document}
+\directlua{jsonlayout.render_file("\luaescapestring{\JsonDataDir/\JsonDataFileName}")}
+\end{document}

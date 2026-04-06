@@ -16,6 +16,23 @@ newlayout/*
 !newlayout/*.bbx
 !newlayout/*.cbx
 
+# 保留 newlayout-lua/ 目录（以便 git 进入）
+!newlayout-lua/
+newlayout-lua/*
+
+# 保留 newlayout-lua/ 下的 Lua 源文件
+!newlayout-lua/*.lua
+
+# 保留 newlayout-lua/ 下的 TeX 源文件
+!newlayout-lua/*.tex
+newlayout-lua/whichJson.tex
+# 这个文件特殊，不追踪
+!newlayout-lua/*.sty
+!newlayout-lua/*.cls
+!newlayout-lua/*.bib
+!newlayout-lua/*.bbx
+!newlayout-lua/*.cbx
+
 !prompt/
 prompt/*
 
@@ -26,5 +43,6 @@ prompt/*
 !output/
 output/*
 !output/*.json
+!output/*.pdf
 
 !README.md
