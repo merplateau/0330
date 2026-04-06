@@ -1,0 +1,1003 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "J'ai failli être pris par les agents de police.",
+            "translatedSentence": "我差点被警察抓住。",
+            "sentenceStructure": "主句：J'ai failli être pris — 主语 j' + 谓语结构 ai failli（险些）+ 被动不定式 être pris；par les agents de police 为施动者补语。",
+            "grammarAnalysis": "① faillir + inf. 是固定结构，表示「险些做了某事」，在现代法语中几乎只以复合过去时形式 j'ai failli + inf. 出现。② être pris 为被动语态不定式，由 être + 过去分词构成；par 引导施动者。",
+            "commonMistakes": "学生常将 faillir 误解为「失败」（实为「险些，差点」）。另需注意：faillir 后直接接不定式，无需 de；被动不定式 être pris 中，过去分词须与主语保持性数一致（主语为阳性单数 je，pris 不变）。"
+        },
+        {
+            "index": "2",
+            "sentence": "J'ai eu tout juste le temps d'entrer dans un couloir avant qu'on ne me voie.",
+            "translatedSentence": "我刚好有时间闪进一条走廊，没被他们看到。",
+            "sentenceStructure": "主句：J'ai eu tout juste le temps d'entrer dans un couloir；avant que 引导时间状语从句：avant qu'on ne me voie。",
+            "grammarAnalysis": "① avoir le temps de + inf. 为固定搭配，表示「有时间做某事」；加 tout juste 强调时间极为紧迫。② avant que 引导的从句须用虚拟式（voie 为 voir 的现在虚拟式第三人称单数）。③ ne 为虚义 ne（ne explétif），出现在 avant que、à moins que、de peur que 等从句中，不表否定，书面语常见，口语中可省略。",
+            "commonMistakes": "① 最常见错误：将虚义 ne 理解为否定，把 avant qu'on ne me voie 误译为「在没人看见我之前」，导致语义相反；正确译义为「在有人看见我之前」。② avant que 后必须用虚拟式，勿误用直陈式。③ 注意 avant que（主从句主语不同）vs. avant de + inf.（主从句主语相同），两者不可混用。"
+        },
+        {
+            "index": "3",
+            "sentence": "Tu peux me dire à quoi ça vous avance, ces barricades, ces batailles de rue, ces obstacles...?",
+            "translatedSentence": "你能告诉我，这些路障、街头巷战、这些障碍……对你们到底有什么用？",
+            "sentenceStructure": "主句：Tu peux me dire；间接疑问从句（宾语从句）：à quoi ça vous avance；后跟右置同位语列举：ces barricades, ces batailles de rue, ces obstacles（对主语 ça 的口语式解释）。",
+            "grammarAnalysis": "① 间接疑问句中疑问词后恢复正常语序（主谓不倒装）：à quoi ça vous avance，而非 à quoi vous avance ça。② avancer qn. / ça avance à qn.：口语表达，意为「对某人有用、有益处」，此处为讽刺性反问。③ 后置列举 ces barricades... 是对代词 ça 的解释性右置脱位结构（dislocation droite），为法语口语常见现象。",
+            "commonMistakes": "① avancer 此处非「前进」，而是口语义「有用，有什么帮助」，不熟悉此义会导致全句误译；② 间接疑问句中语序不倒装，勿错写成 à quoi vous avance ça；③ 注意 à quoi ça vous avance 中省略了引号内的讽刺语气，翻译时需还原这种质问口吻。"
+        },
+        {
+            "index": "4",
+            "sentence": "Nous, ce que nous voulons, c'est de changer complètement la société pour que rien ne soit comme avant.",
+            "translatedSentence": "我们想要的，是彻底改变这个社会，让一切都不再像以前那样。",
+            "sentenceStructure": "强调结构：Nous（主题提示语）+ ce que nous voulons（主语关系从句）+ c'est de changer...（表语）；pour que 引导目的状语从句：pour que rien ne soit comme avant。",
+            "grammarAnalysis": "① ce que...c'est de + inf. 是法语口语中常见的强调结构，将宾语提前强调。② pour que 引导目的状语从句，谓语须用虚拟式（soit 为 être 的现在虚拟式）。③ rien ne + 动词：否定代词 rien 与 ne 搭配构成完全否定（此处 ne 为正常否定，非虚义 ne），虚拟式 soit 受 pour que 支配。",
+            "commonMistakes": "① c'est de + inf. 中的 de 在口语中有时省略，但考试书面语须保留；② pour que 后必须用虚拟式，勿误用直陈式；③ 注意辨别：此处 rien ne soit 中的 ne 是真实否定（与 rien 配合），不是虚义 ne，勿与 avant que 从句中的虚义 ne 混淆。"
+        },
+        {
+            "index": "5",
+            "sentence": "C'est tout le système qu'il faut renverser.",
+            "translatedSentence": "整个制度都必须被推翻。",
+            "sentenceStructure": "裂句结构（phrase clivée）：C'est... que 强调宾语 tout le système；主句部分：il faut renverser（非人称句）。",
+            "grammarAnalysis": "① c'est... que 为强调句型，将宾语 tout le système 提取出来加以强调，相当于英语的 it is...that 强调句。② il faut + inf. 为非人称句，表示必要性「必须……」。③ 注意与 c'est... qui 的区别：强调主语时用 c'est... qui，强调宾语或状语时用 c'est... que。",
+            "commonMistakes": "① 强调句 c'est... que 和 c'est... qui 的选用规则：被强调成分为主语时用 qui，其余（宾语、状语）一律用 que；② il faut 后接不定式，勿误用虚拟式（il faut que + 虚拟式和 il faut + inf. 均正确，但句型不同）。"
+        },
+        {
+            "index": "6",
+            "sentence": "Et il faudra attendre longtemps avant que tu ne la voies, ta révolution!",
+            "translatedSentence": "在你亲眼见到你的革命之前，还要等很长时间呢！",
+            "sentenceStructure": "主句：il faudra attendre longtemps（非人称句，简单将来时）；avant que 引导时间状语从句：avant que tu ne la voies；ta révolution 为代词 la 的右置同位语（dislocation droite）。",
+            "grammarAnalysis": "① 简单将来时 faudra（falloir 的将来时）用于对未来的预测，此处带有父亲讽刺儿子的语气。② avant que 从句须用虚拟式 voies（voir 的现在虚拟式），附加虚义 ne（ne explétif）。③ 先行代词 la 指代其后出现的 ta révolution，是口语右置脱位结构，la 与 ta révolution 指代同一对象。",
+            "commonMistakes": "① 再次出现虚义 ne：avant que tu ne la voies 中 ne 不表示否定，勿误译；② 代词 la 与后置同位语 ta révolution 的关系须理解清楚，la 不可忽略不译；③ falloir 为常考不规则动词，简单将来时为 il faudra（词干 faudr-）。"
+        },
+        {
+            "index": "7",
+            "sentence": "Ce n'est que le lendemain, par la radio, que j'ai appris la suite des événements.",
+            "translatedSentence": "直到第二天，我才通过收音机得知了后续事件的经过。",
+            "sentenceStructure": "限制性裂句结构：ce n'est que [时间状语] + [方式状语] + que + 主句；主句：j'ai appris la suite des événements（复合过去时）。",
+            "grammarAnalysis": "① ne...que 为限制性副词结构，意为「只、仅仅」，与 seulement 同义但语气更强；译成汉语常为「直到……才……」。② ce n'est que...que 是强调状语的裂句结构，将时间状语 le lendemain 提取强调。③ 两个 que 功能不同：第一个属于 ne...que 限制结构，第二个引导主句部分。",
+            "commonMistakes": "① ne...que 不是一般否定，而是限制性表达，翻译为「直到……才……」而非「没有……」；② 两个 que 的功能混淆是常见错误，需在分析句子结构时加以区分；③ par la radio 表示「通过广播/收音机」，par 在此表示媒介手段。"
+        },
+        {
+            "index": "8",
+            "sentence": "Je participais à la manifestation pour que la Sorbonne ouvre de nouveau ses portes et que les choses changent, mais mon courage s'arrêtait là.",
+            "translatedSentence": "我参加游行，是为了让索邦大学重新开门、让一切有所改变，但我的勇气也就仅止于此了。",
+            "sentenceStructure": "主句：Je participais à la manifestation（未完成过去时）+ 并列目的状语从句 pour que...et que...；转折分句：mais mon courage s'arrêtait là。",
+            "grammarAnalysis": "① 未完成过去时 participais、s'arrêtait 表示过去持续的状态或正在进行的背景动作。② pour que 引导目的状语从句，谓语用虚拟式；并列第二个从句用 et que 代替重复的 pour que，谓语仍用虚拟式（changent）。③ 两个虚拟式：ouvre（ouvrir 的现在虚拟式第三人称单数）、changent（changer 的现在虚拟式第三人称复数）。④ s'arrêter là 为固定表达，意为「到此为止，不再继续」。",
+            "commonMistakes": "① 并列目的从句中 et que 是 pour que 的省略形式，勿将第二个 que 误解为其他类型的从句；② ouvre 的直陈现在时与虚拟式现在时形式相同（第三人称单数），需通过 pour que 识别其语法功能；③ s'arrêtait là 的 là 表示「（程度/行为到了）这里」，非具体地点。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "se soulever (contre qch./qn.)",
+            "meaning": "起义，造反；（为抵制某事/某人而）奋起反抗",
+            "usage": "代词式动词，无需直接宾语；后接 contre + 名词表示反抗对象。常指集体性政治行动，带强烈政治色彩。书面语及口语均可用。",
+            "exampleSentence": "En mai 1968, les étudiants français se soulèvent."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "se mettre en grève",
+            "meaning": "开始罢工，进入罢工状态",
+            "usage": "固定搭配；se mettre en 表示进入某种状态，grève 前无冠词。区别：faire (la) grève 也表示「罢工」，但 se mettre en grève 强调开始进入罢工状态，动作义更强。",
+            "exampleSentence": "les ouvriers et les fonctionnaires se mettent en grève"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "être loin d'être + adj./p.p.",
+            "meaning": "远非……；还远没有……",
+            "usage": "固定结构，d'être 后接形容词或过去分词，表示距离某种状态还差得很远，含否定意义。常用于书面语和口语。",
+            "exampleSentence": "le mouvement des étudiants est loin d'être terminé"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "accorder qch. à qn.",
+            "meaning": "给予某人某物；授予",
+            "usage": "间接及物动词，固定结构 accorder qch. à qn.；书面语色彩较强，常用于正式场合（政府颁布政策、授予权益等）。",
+            "exampleSentence": "le gouvernement accorde d'importants avantages aux travailleurs"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "faillir + inf.",
+            "meaning": "险些，差点（做了某事）",
+            "usage": "faillir 后直接接不定式，无需 de；在现代法语中几乎只用复合过去时形式 j'ai failli + inf.。表示某事几乎发生但最终未发生，含侥幸脱险意味。",
+            "exampleSentence": "J'ai failli être pris par les agents de police."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir (tout juste) le temps de + inf.",
+            "meaning": "（刚好）有时间做某事",
+            "usage": "固定搭配；加 tout juste 强调时间极为紧迫，「刚好赶上」。否定形式 ne pas avoir le temps de + inf. 表示「没有时间做某事」。",
+            "exampleSentence": "J'ai eu tout juste le temps d'entrer dans un couloir."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "donner satisfaction à qn. / à une demande",
+            "meaning": "令某人满意；满足某人（的请求）",
+            "usage": "固定表达；可接人（donner satisfaction à qn.）或请求（donner satisfaction à une demande）；偏书面语，常见于政治、外交语境。",
+            "exampleSentence": "Ils ont donné satisfaction à nos demandes."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "reprendre le travail",
+            "meaning": "重新开始工作，复工",
+            "usage": "固定表达，尤指罢工或停工后重新上班；travail 前加定冠词 le。反义表达：cesser le travail / arrêter le travail。",
+            "exampleSentence": "Maintenant, on reprend le travail."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avant que + subjonctif (+ ne explétif)",
+            "meaning": "在……之前",
+            "usage": "avant que 引导时间状语从句，从句谓语必须用虚拟式；书面语中常在虚拟式前加虚义 ne（ne explétif），该 ne 不表否定。注意：avant de + inf. 用于主从句主语相同的情况；avant que + 从句用于主语不同的情况。",
+            "exampleSentence": "avant qu'on ne me voie / avant que tu ne la voies"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "avoir le souffle coupé",
+            "meaning": "惊得说不出话；目瞪口呆；（因震惊或惊叹而）屏住呼吸",
+            "usage": "固定习语；也可以主动形式 couper le souffle à qn. 表示「令某人叹为观止」或「使某人窒息」。",
+            "exampleSentence": "j'ai eu le souffle coupé"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "faire demi-tour",
+            "meaning": "向后转，折返，返回",
+            "usage": "固定搭配；demi-tour 前不加冠词；既可用于日常语境（走路、开车折返），也用于军事命令「向后转」。",
+            "exampleSentence": "nous avons dû faire demi-tour"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "prendre peur",
+            "meaning": "开始感到害怕",
+            "usage": "固定搭配，强调害怕情绪的产生或开始。区别：avoir peur（感到害怕，表示持续状态）；prendre peur（开始害怕，强调动作/起始点）。",
+            "exampleSentence": "C'est là que j'ai pris peur et que je me suis sauvée."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "pour que + subjonctif",
+            "meaning": "为了（引导目的状语从句）",
+            "usage": "引导目的状语从句，从句谓语必须用虚拟式；主从句主语须不同（若相同则用 pour + inf.）。并列时第二个从句用 et que 代替重复的 pour que。",
+            "exampleSentence": "Je participais à la manifestation pour que la Sorbonne ouvre de nouveau ses portes."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "ce n'est que... que",
+            "meaning": "直到……才……；仅仅……",
+            "usage": "裂句结构，ne...que 表限制（「只有」），整体强调时间、方式或条件状语；译成汉语常用「直到……才……」。注意与强调主语的 c'est... qui 区分。",
+            "exampleSentence": "Ce n'est que le lendemain, par la radio, que j'ai appris la suite des événements."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "s'apercevoir de qch. / que + ind.",
+            "meaning": "意识到，注意到（某事）",
+            "usage": "代词式动词，固定搭配介词 de（接名词）或 que（接直陈式从句）。区别：apercevoir qn./qch.（直接及物，视觉上「瞥见」）vs. s'apercevoir de（认知上「意识到」），两者含义不同，不可混用。",
+            "exampleSentence": "j'ai aperçu des CRS qui venaient dans ma direction（此处为直接及物用法，视觉上瞥见）"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "soulever",
+            "partOfSpeech": "vt.",
+            "definition": "①稍微提起，抬起 ②引发，激起（问题、情绪等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "soulever un malade",
+                    "vocabularyCollocationMeaning": "扶起病人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "soulever une question",
+                    "vocabularyCollocationMeaning": "提出一个问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se soulever contre qch./qn.",
+                    "vocabularyCollocationMeaning": "起义，奋起反抗"
+                }
+            ],
+            "synonymAnalysis": "soulever vs lever：lever 指完全举起或抬起（如 lever la main 举手）；soulever 强调「稍微」抬起或费力提起，或引申为「激起」情绪/问题。两者不可随意互换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "soulèvement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "起义，叛乱；（地质）隆起"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je soulève, tu soulèves, il soulève, nous soulevons, vous soulevez, ils soulèvent",
+                "compoundPast": "j'ai soulevé",
+                "simpleFuture": "je soulèverai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 e 不发音词干动词（verbes à e muet）：单数及第三人称复数现在时词干中的 e 加重音符变为 è；与 lever（je lève）、acheter（j'achète）、mener（je mène）规律相同。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "critiquer",
+            "partOfSpeech": "vt.",
+            "definition": "①批评，批判 ②评论，评价",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "critiquer qn./qch.",
+                    "vocabularyCollocationMeaning": "批评某人/某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "critiquer sévèrement",
+                    "vocabularyCollocationMeaning": "严厉批评"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "critiquer la société",
+                    "vocabularyCollocationMeaning": "批判社会"
+                }
+            ],
+            "synonymAnalysis": "critiquer vs reprocher：critiquer 泛指批评、批判某人或某事；reprocher qch. à qn. 更具体，指责某人做了某件错事，常含怨恨或指责语气，结构固定为 reprocher qch. à qn.。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "critique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "批评；评论；批判"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "critique",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "批评的；批判的；关键的，危急的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "critique",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "批评家，评论家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "social",
+            "partOfSpeech": "adj.m.",
+            "definition": "①社会的 ②社交的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la révolution sociale",
+                    "vocabularyCollocationMeaning": "社会革命"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les réseaux sociaux",
+                    "vocabularyCollocationMeaning": "社交网络"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les sciences sociales",
+                    "vocabularyCollocationMeaning": "社会科学"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "société",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "社会；公司，企业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "socialement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "在社会上，从社会角度"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "socialisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "社会主义"
+                }
+            ],
+            "genderNumberVariation": "阴性 sociale；阳性复数 sociaux（不规则，注意勿写成 socials）；阴性复数 sociales",
+            "position": "通常置于名词之后，如 une révolution sociale"
+        },
+        {
+            "index": "4",
+            "vocabulary": "fonctionnaire",
+            "partOfSpeech": "n.m.",
+            "definition": "①公务员 ②官员，政府机构雇员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fonctionnaire de l'État",
+                    "vocabularyCollocationMeaning": "国家公务员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "haut fonctionnaire",
+                    "vocabularyCollocationMeaning": "高级官员"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fonctionnaire municipal",
+                    "vocabularyCollocationMeaning": "市政公务员"
+                }
+            ],
+            "synonymAnalysis": "fonctionnaire vs employé：fonctionnaire 专指政府或公共机构有正式编制的雇员，享有特定法律地位；employé 泛指任何机构（包括私人企业）的受雇员工。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fonction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "职务，职能；功能；（数学）函数"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fonctionner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "运转，运作；起作用"
+                }
+            ],
+            "pluralForm": "fonctionnaires"
+        },
+        {
+            "index": "5",
+            "vocabulary": "cesser",
+            "partOfSpeech": "vi.",
+            "definition": "①停止，终止 ②中断",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cesser de + inf.",
+                    "vocabularyCollocationMeaning": "停止做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les grèves cessent",
+                    "vocabularyCollocationMeaning": "罢工停止"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans cesse",
+                    "vocabularyCollocationMeaning": "不停地，持续地"
+                }
+            ],
+            "synonymAnalysis": "cesser vs arrêter：cesser 偏书面，强调自然地、逐渐地终止；arrêter 更口语，可用于命令（Arrête！停下来！），cesser 无此命令用法。cesser de + inf. 与 arrêter de + inf. 在意义上相近，但 cesser 更正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cessation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "停止，中止（书面语）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "incessant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "不停的，持续不断的（in- 否定前缀）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "faillir",
+            "partOfSpeech": "vi.",
+            "definition": "①（+inf.）险些，差点（做某事） ②（书面语）失职，未尽到责任",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "j'ai failli + inf.",
+                    "vocabularyCollocationMeaning": "我差点……（最常用形式）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faillir à son devoir",
+                    "vocabularyCollocationMeaning": "失职，未尽到职责（书面语）"
+                }
+            ],
+            "synonymAnalysis": "faillir + inf. vs manquer de + inf.：两者均表示「险些」；faillir 更常用，语气稍强，口语书面均可；manquer de 偏书面，如 il a manqué de tomber（他差点摔倒）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "faillite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "破产（商业）；失败，崩溃"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "défaillir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "昏厥，晕倒；（机器等）出故障"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "现代法语中直陈现在时极少使用，仅保留于文学语体（je faillis 等形式存在但罕见）",
+                "compoundPast": "j'ai failli（最常用且几乎唯一的常用形式）+ 不定式",
+                "simpleFuture": "je faillirai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "考试只需掌握 j'ai failli + inf. 这一核心用法。注意：faillir 后直接接不定式（无需 de），区别于大多数需要 de 的动词。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "agent",
+            "partOfSpeech": "n.m.",
+            "definition": "①警察，警员 ②代理人，中间人 ③（化学/物理）试剂，作用因素",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "agents de police",
+                    "vocabularyCollocationMeaning": "警察（个体）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "agent immobilier",
+                    "vocabularyCollocationMeaning": "房产中介"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "agent secret",
+                    "vocabularyCollocationMeaning": "特工，情报人员"
+                }
+            ],
+            "synonymAnalysis": "agent（警员，较正式）vs policier（警察，口语更常用）vs gendarme（宪兵，属军事警察，驻守农村及小城镇）：三者均指执法人员，但所属机构和语体有别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "agence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "代理机构，经纪公司；新闻社"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "agir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "行动，采取行动（词源相关）"
+                }
+            ],
+            "pluralForm": "agents"
+        },
+        {
+            "index": "8",
+            "vocabulary": "police",
+            "partOfSpeech": "n.f.",
+            "definition": "①警察局，警方 ②[集合名词]警察 ③秩序，治安",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "appeler la police",
+                    "vocabularyCollocationMeaning": "报警"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poste de police",
+                    "vocabularyCollocationMeaning": "警察局（具体地点）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "maintenir l'ordre et la police",
+                    "vocabularyCollocationMeaning": "维持秩序（较正式）"
+                }
+            ],
+            "synonymAnalysis": "police（集合体或机构，阴性名词）vs policier n.m.（个体警察，阳性名词）vs gendarmerie（宪兵队，驻农村的军事警察系统）。注意：en France, police 驻城市，gendarmerie 驻农村和小城镇。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "policier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "警察（个体）；侦探小说/电影"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "policier",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "警察的；关于犯罪侦探的（如 roman policier 侦探小说）"
+                }
+            ],
+            "pluralForm": "polices（此义罕用，police 通常作单数集合名词）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "apercevoir",
+            "partOfSpeech": "vt.",
+            "definition": "①瞥见，看见（短暂或远处） ②（s'apercevoir de）察觉，意识到",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apercevoir qn./qch.",
+                    "vocabularyCollocationMeaning": "瞥见某人/某物（视觉）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'apercevoir de qch.",
+                    "vocabularyCollocationMeaning": "意识到，注意到某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'apercevoir que + ind.",
+                    "vocabularyCollocationMeaning": "意识到……（接直陈式从句）"
+                }
+            ],
+            "synonymAnalysis": "apercevoir vs voir：voir 泛指「看见」（中性）；apercevoir 强调短暂、偶然或远距离的视觉感知，即「瞥见」。s'apercevoir de vs remarquer：两者均可表示「注意到」，s'apercevoir de 更强调突然意识到此前未注意的事实；remarquer 较中性，强调主动观察。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "aperçu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "概览，概要；初步印象，速览"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "percevoir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "感知，察觉；征收（税款等）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'aperçois, tu aperçois, il aperçoit, nous apercevons, vous apercevez, ils aperçoivent",
+                "compoundPast": "j'ai aperçu",
+                "simpleFuture": "j'apercevrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "与 recevoir、percevoir、concevoir、décevoir 同属 -cevoir 系列不规则动词，变位规律完全相同：单数及第三人称复数现在时词干为 -çoi-（aperçoi-），一二三人称复数现在时词干为 -cev-（apercev-）。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "couloir",
+            "partOfSpeech": "n.m.",
+            "definition": "①走廊，通道，过道 ②（体育）泳道，跑道 ③（地理）山谷通道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entrer dans un couloir",
+                    "vocabularyCollocationMeaning": "进入走廊"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "couloir d'autobus",
+                    "vocabularyCollocationMeaning": "公共汽车专用道"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "couloir aérien",
+                    "vocabularyCollocationMeaning": "空中走廊，航空通道"
+                }
+            ],
+            "synonymAnalysis": "couloir vs corridor：两者均指「走廊」，corridor 更常用于正式场合或较宽敞的走廊（如宫殿、豪华建筑）；couloir 更口语化，泛指一般过道。",
+            "derivedWords": [],
+            "pluralForm": "couloirs"
+        },
+        {
+            "index": "11",
+            "vocabulary": "barricade",
+            "partOfSpeech": "n.f.",
+            "definition": "①路障，街垒 ②（引申）阻碍，壁垒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "construire/dresser une barricade",
+                    "vocabularyCollocationMeaning": "构筑街垒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "franchir une barricade",
+                    "vocabularyCollocationMeaning": "越过路障"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être de l'autre côté de la barricade",
+                    "vocabularyCollocationMeaning": "（引申）站在对立面"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "barricader",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "用路障阻挡；se barricader 把自己关在里面，拒绝外界"
+                }
+            ],
+            "pluralForm": "barricades"
+        },
+        {
+            "index": "12",
+            "vocabulary": "obstacle",
+            "partOfSpeech": "n.m.",
+            "definition": "①障碍物 ②（引申）障碍，困难",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "surmonter un obstacle",
+                    "vocabularyCollocationMeaning": "克服障碍"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire obstacle à qch.",
+                    "vocabularyCollocationMeaning": "阻碍某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "course d'obstacles",
+                    "vocabularyCollocationMeaning": "障碍赛跑"
+                }
+            ],
+            "synonymAnalysis": "obstacle vs difficulté：obstacle 更强调具体的、外在的阻碍物或障碍；difficulté 更抽象，指难度或难题。obstacle vs entrave：entrave 更书面，多用于「束缚，羁绊」（如 entrave à la liberté）。",
+            "derivedWords": [],
+            "pluralForm": "obstacles"
+        },
+        {
+            "index": "13",
+            "vocabulary": "satisfaction",
+            "partOfSpeech": "n.f.",
+            "definition": "①满意，满足感 ②（使人满意之事的）称心感 ③补偿，赔偿（法律）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "donner satisfaction à qn.",
+                    "vocabularyCollocationMeaning": "令某人满意，满足某人要求"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec satisfaction",
+                    "vocabularyCollocationMeaning": "满意地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "obtenir satisfaction",
+                    "vocabularyCollocationMeaning": "得到满足，如愿以偿"
+                }
+            ],
+            "synonymAnalysis": "satisfaction vs contentement：satisfaction 较正式，强调需求或期望得到满足；contentement 更口语，指内心的愉悦与满足感，语气较轻松。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "satisfaire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使满意；满足（需求）（不规则动词，类似 faire）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "satisfaisant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "令人满意的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "satisfait",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "感到满意的（être satisfait de qch.）"
+                }
+            ],
+            "pluralForm": "satisfactions"
+        },
+        {
+            "index": "14",
+            "vocabulary": "demande",
+            "partOfSpeech": "n.f.",
+            "definition": "①请求，要求 ②申请 ③（经济）需求",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une demande",
+                    "vocabularyCollocationMeaning": "提出请求；提交申请"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la demande de qn.",
+                    "vocabularyCollocationMeaning": "应某人要求"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'offre et la demande",
+                    "vocabularyCollocationMeaning": "供求关系（经济学术语）"
+                }
+            ],
+            "synonymAnalysis": "demande vs requête：demande 通用，口语书面皆可；requête 更正式，常见于法律、行政文件，指书面正式请求。demande vs exigence：exigence 带有强制性，指「要求必须做到」，语气强于 demande。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "demander",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "请求；要求；询问（demander qch. à qn.）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "demandeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "请求者；（法律）原告"
+                }
+            ],
+            "pluralForm": "demandes"
+        },
+        {
+            "index": "15",
+            "vocabulary": "renverser",
+            "partOfSpeech": "vt.",
+            "definition": "①推翻，颠覆（政权、制度等） ②推倒，撞倒 ③打翻（容器或液体）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "renverser le gouvernement/le système",
+                    "vocabularyCollocationMeaning": "推翻政府/制度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "renverser une voiture",
+                    "vocabularyCollocationMeaning": "掀翻一辆汽车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "renverser un verre",
+                    "vocabularyCollocationMeaning": "打翻一只杯子"
+                }
+            ],
+            "synonymAnalysis": "renverser vs reverser：形近词，注意区分。renverser 指推倒/颠覆；reverser 指将液体重新倒入（如 reverser du vin dans un verre 重新往杯里倒酒）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "renversement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "推翻，颠覆；倒转，逆转"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "souffle",
+            "partOfSpeech": "n.m.",
+            "definition": "①呼吸，气息 ②（微弱的）风，一阵气流 ③活力，精气神",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le souffle coupé",
+                    "vocabularyCollocationMeaning": "惊得说不出话，目瞪口呆"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "couper le souffle à qn.",
+                    "vocabularyCollocationMeaning": "令某人叹为观止；使某人窒息"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "reprendre son souffle",
+                    "vocabularyCollocationMeaning": "喘口气，恢复呼吸"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à bout de souffle",
+                    "vocabularyCollocationMeaning": "上气不接下气；精疲力竭"
+                }
+            ],
+            "synonymAnalysis": "souffle vs respiration：souffle 强调气息本身（一口气、呼出的气），更具形象性；respiration 指呼吸的生理过程或节律，更抽象。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "souffler",
+                    "derivedWordPartOfSpeech": "vi./vt.",
+                    "derivedWordMeaning": "吹；喘气；低声说（台词）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "essoufflé",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "气喘吁吁的，上气不接下气的"
+                }
+            ],
+            "pluralForm": "souffles"
+        },
+        {
+            "index": "17",
+            "vocabulary": "manifestation",
+            "partOfSpeech": "n.f.",
+            "definition": "①示威游行 ②（情感、观点等的）表达，表现 ③（文化、体育等）活动，集会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "participer à une manifestation",
+                    "vocabularyCollocationMeaning": "参加游行示威"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "manifestation de joie",
+                    "vocabularyCollocationMeaning": "喜悦的表达，欢欣鼓舞"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "manifestation culturelle/sportive",
+                    "vocabularyCollocationMeaning": "文化/体育活动"
+                }
+            ],
+            "synonymAnalysis": "manifestation（示威）vs défilé：défilé 更强调游行队伍的行进（如阅兵式、节日游行）；manifestation 特指带有政治诉求的群众集会和游行，目的性更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "manifester",
+                    "derivedWordPartOfSpeech": "vi./vt.",
+                    "derivedWordMeaning": "参加示威游行；表达，表现（情感）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "manifestant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "示威者，游行参与者"
+                }
+            ],
+            "pluralForm": "manifestations"
+        },
+        {
+            "index": "18",
+            "vocabulary": "événement",
+            "partOfSpeech": "n.m.",
+            "definition": "①事件，事情 ②大事，重大事变",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la suite des événements",
+                    "vocabularyCollocationMeaning": "后续事件的经过"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "événement historique",
+                    "vocabularyCollocationMeaning": "历史事件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les événements de mai 68",
+                    "vocabularyCollocationMeaning": "五月风暴（法语习惯以 les événements 委婉指代重大政治风波）"
+                }
+            ],
+            "synonymAnalysis": "événement vs incident：événement 泛指任何事件，语调中性；incident 指小插曲或意外小事故，规模较小。événement vs fait：fait 指「事实」，强调客观性；événement 强调「发生了的事情」，带有时间性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "éventuel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "可能发生的（注意：是「假设中可能发生的」，非「最终的」——这是经典法英假朋友 faux ami）"
+                }
+            ],
+            "pluralForm": "événements"
+        },
+        {
+            "index": "19",
+            "vocabulary": "combat",
+            "partOfSpeech": "n.m.",
+            "definition": "①战斗，搏斗 ②打架，冲突 ③斗争，抗争（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "violents combats",
+                    "vocabularyCollocationMeaning": "激烈冲突，激战"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mener un combat pour qch.",
+                    "vocabularyCollocationMeaning": "为某事而斗争"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "combat de rue",
+                    "vocabularyCollocationMeaning": "街头冲突，巷战"
+                }
+            ],
+            "synonymAnalysis": "combat vs bataille：combat 指具体的一次交战或搏斗，规模可大可小；bataille 更强调规模较大的战役，也可引申为激烈争夺。combat vs lutte：lutte 更强调持久的斗争或对抗（包括抽象意义上的），语义范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "combattre",
+                    "derivedWordPartOfSpeech": "vi./vt.",
+                    "derivedWordMeaning": "战斗，与……作战；抗争（不规则动词，类似 battre）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "combattant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "战士，参战者；斗士"
+                }
+            ],
+            "pluralForm": "combats"
+        },
+        {
+            "index": "20",
+            "vocabulary": "détruire",
+            "partOfSpeech": "vt.",
+            "definition": "①破坏，毁坏 ②摧毁，消灭 ③（引申）葬送（健康、事业、希望等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "détruire des voitures",
+                    "vocabularyCollocationMeaning": "毁坏车辆"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "détruire un bâtiment",
+                    "vocabularyCollocationMeaning": "摧毁建筑物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "détruire l'espoir/la santé",
+                    "vocabularyCollocationMeaning": "葬送希望/毁掉健康"
+                }
+            ],
+            "synonymAnalysis": "détruire vs démolir：détruire 强调彻底毁灭，可用于具体或抽象对象；démolir 指拆除或推倒建筑物，更具体，多指人为拆除。détruire vs dévaster：dévaster 强调大规模的摧毁与破坏（常见于灾难语境）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "destruction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "破坏，毁灭；摧毁"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "destructeur",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "破坏性的，毁灭性的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indestructible",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "不可摧毁的，坚不可摧的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je détruis, tu détruis, il détruit, nous détruisons, vous détruisez, ils détruisent",
+                "compoundPast": "j'ai détruit",
+                "simpleFuture": "je détruirai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -uire 类不规则动词，与 construire（建造）、produire（生产）、conduire（驾驶）、traduire（翻译）、instruire（教导）变位完全相同。规律：词干 détru- + 直陈现在时后缀 -is/-is/-it/-isons/-isez/-isent；过去分词统一为 -uit（détruit）。"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "En mai 1968, les étudiants français se soulèvent pour changer complètement la société, pour que rien ne soit comme avant. J'ai failli être prise par les CRS, mais j'ai eu tout juste le temps d'entrer dans un couloir avant qu'on ne me voie. Nous voulions une société sans patrons, sans police, une société où les gens soient libres. Ce n'est que le lendemain, par la radio, que j'ai appris la suite des événements: violents combats, 367 blessés, 460 étudiants arrêtés, 188 voitures détruites.",
+            "chineseTranslation": "1968年5月，法国学生揭竿而起，要求彻底改变社会，让一切不再像以前那样。我差点被共和国保安部队逮住，好在刚好有时间闪进一条走廊，没被他们看见。我们想要一个没有老板、没有警察、人人都能自由生活的社会。直到第二天，我才通过收音机得知了后续经过：激烈冲突，367人受伤，460名学生被捕，188辆汽车遭到破坏。",
+            "fr2cnStrategy": "① se soulèvent 译为「揭竿而起」，将代词式动词转化为汉语惯用成语，兼顾「起义」语义与文学色彩；② pour que rien ne soit comme avant 目的从句译为「让一切不再像以前那样」，将从句转化为汉语动宾结构；③ j'ai failli être prise 译为「差点被……逮住」，保留被动语态语义；④ avant qu'on ne me voie 中虚义 ne 不译，整体译为「没被他们看见」，语义忠实；⑤ une société où les gens soient libres 关系从句前置为修饰语「人人都能自由生活的社会」，符合汉语定语前置习惯；⑥ Ce n'est que le lendemain... que 裂句限制结构，译为「直到第二天……才……」，这是 ne...que 的标准汉译法；⑦ 最后的新闻播报采用简洁的并列名词组，翻译时直接逐项列举，保留原文的客观电报式语气。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "1968年5月，工人和公务员纷纷开始罢工，但学生运动还远没有结束。",
+                "frenchTranslation": "En mai 1968, les ouvriers et les fonctionnaires se sont mis en grève, mais le mouvement des étudiants était loin d'être terminé.",
+                "cn2frStrategy": "① 「开始罢工」用固定搭配 se mettre en grève，复合过去时表示完成的具体动作；② 「还远没有结束」用 être loin d'être + p.p.（terminé）的固定结构；③ 两个分句时态对称处理：se sont mis（具体事件，用复合过去时）vs était loin d'être terminé（持续背景状态，用未完成过去时）；④ 「纷纷」为汉语语气词，法语中通过语境表达，不需专门翻译。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "我们想要一个没有老板、没有警察的社会，哪怕为此必须推翻整个制度。",
+                "frenchTranslation": "Nous voulons une société sans patrons, sans police, même s'il faut renverser tout le système.",
+                "cn2frStrategy": "① 「没有老板、没有警察」直接用 sans patrons, sans police，法语中 sans 后名词通常不加冠词（泛指）；② 「哪怕……也……」译为 même si + 直陈式（il faut，表示条件性假设）；③ 「推翻整个制度」使用课文核心搭配 renverser tout le système；④ 注意 même si + 直陈式（假设条件）vs. même que（比较级），两者功能完全不同。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "我参加了这次游行，是为了让大学重新开放，但我差点被警察逮捕。",
+                "frenchTranslation": "J'ai participé à la manifestation pour que la Sorbonne ouvre de nouveau ses portes, mais j'ai failli être arrêtée par la police.",
+                "cn2frStrategy": "① 「为了让……」用 pour que + 虚拟式（ouvre 为 ouvrir 的虚拟现在时第三人称单数）；② 「参加游行」用固定搭配 participer à la manifestation；③ 「差点被……逮捕」用 faillir + 被动不定式 être arrêtée，faillir 后直接接不定式（无需 de）；④ être arrêtée 中过去分词与阴性主语一致，加 -e。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "直到第二天，我才从收音机里意识到，那场冲突造成了数百人受伤和数百名学生被捕。",
+                "frenchTranslation": "Ce n'est que le lendemain, par la radio, que je me suis aperçue que ces combats avaient causé des centaines de blessés et l'arrestation de centaines d'étudiants.",
+                "cn2frStrategy": "① 「直到……才……」使用裂句结构 ce n'est que... que，强调时间状语 le lendemain；② 「从收音机里」用介词 par（表示媒介）：par la radio；③ 「意识到」用 s'apercevoir que + 直陈式从句（注意：s'apercevoir que 后接直陈式，区别于 avant que 后接虚拟式）；④ 「那场冲突造成……」中过去事件发生在「意识到」之前，须用愈过去时 avaient causé；⑤ 「数百名学生被捕」名词化为 l'arrestation de centaines d'étudiants，体现法语书面语偏好名词结构的特点。"
+            }
+        ]
+    }
+}

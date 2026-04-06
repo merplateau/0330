@@ -12,8 +12,11 @@
 
 3. 缩进：统一使用 4 个空格作为缩进
 
-4. 在value中，中文引号使用“”（u+201c u+201d) 法语使用左右双尖引号« »（u+00ab u+00bb）,避免使用英文引号
-
+4. 重要！！！：在"value"中，内容禁止使用普通引号"，防止出现解析错误。解决方法：中文引号使用“”(U+201C U+201D) 法语使用左右双尖引号«»（U+00AB U+00BB）。
+    - 反例1："usage": "faire + repas，faire 表"进行"。par jour 表"每天"。",
+    - 正例1："usage": "faire + repas，faire 表“进行”。par jour 表“每天”。",
+    - 反例2："sentence": ""La rose est belle", dit le petit prince",
+    - 正例2："sentence": "« La rose est belle », dit le petit prince",
 
 输出结构（含注释）：
 
@@ -71,7 +74,7 @@
                 }
             ],
             "synonymAnalysis": "", // 近义辨析。如有考研常考的近义词或易混淆词，列出并简要说明区别；如无则缺省。
-            "derivedWords":[ // 派生词列表。如确实无常见派生词，如无则缺省。缺省形式为空数组："derivedWords":[]
+            "derivedWords":[ // 派生词列表。罗列出所有常见常用的同词根的词，如确实无常见派生词，如无则缺省。缺省形式为空数组："derivedWords":[]
                 {
                     "index": "", // 序号。从 1 开始的正整数。
                     "derivedWord": "", // 派生词

@@ -1,0 +1,635 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Les femmes travaillent et cela depuis longtemps.",
+            "translatedSentence": "妇女从事劳动，这种现象由来已久。",
+            "sentenceStructure": "主语：Les femmes，谓语：travaillent，et 连接并列成分，cela 指代前文，depuis longtemps 作时间状语。",
+            "grammarAnalysis": "① 一般现在时表示持续状态。② depuis 加时间状语表示动作从过去开始持续至今。③ cela 为指示代词，起强调和概括作用。",
+            "commonMistakes": "学生可能误将 cela 理解为无意义的填充词，实则它明确回指整个前句。depuis longtemps 易被误译为“很久以前”，正确应为“长期以来”。"
+        },
+        {
+            "index": 2,
+            "sentence": "Pendant les deux dernières guerres, elles ont souvent remplacé les hommes dans leur travail.",
+            "translatedSentence": "在最近的两次战争期间，她们常常在工作中取代了男人们。",
+            "sentenceStructure": "时间状语 Pendant les deux dernières guerres，主语 elles，谓语 ont remplacé，直接宾语 les hommes，地点状语 dans leur travail。",
+            "grammarAnalysis": "① 复合过去时表示过去发生的动作。② remplacer qn dans son travail 固定搭配。③ dernier 在名词前表示“最近的”。",
+            "commonMistakes": "dernier 前置与后置的区别：前置表“最近的”，后置表“最后的”，此处为前置。"
+        },
+        {
+            "index": 3,
+            "sentence": "Aujourd'hui, les femmes continuent à travailler partout, mais c'est différent: elles veulent travailler.",
+            "translatedSentence": "如今，妇女们继续在各个领域工作，但情况不同了：她们是自愿工作的。",
+            "sentenceStructure": "时间状语 Aujourd'hui，主语 les femmes，谓语 continuent à travailler，地点状语 partout，mais 转折并列句，冒号后解释说明。",
+            "grammarAnalysis": "① continuer à faire qch. 固定搭配。② c'est différent 中的中性代词 ce 指代前文所述情况。③ 冒号表示解释说明。",
+            "commonMistakes": "partout 易被直译为“到处”，此处应理解为“各个领域/各行各业”。"
+        },
+        {
+            "index": 4,
+            "sentence": "On lit souvent dans les journaux: «Une directrice d'usine», «Elle est devenue chauffeur», «Elle est arrivée enfin à devenir pilote de ligne.»",
+            "translatedSentence": "人们经常在报纸上读到：“一位女厂长”，“她成了女司机”，“她终于成为了一名航线飞行员。”",
+            "sentenceStructure": "主语 on，谓语 lit，地点状语 dans les journaux，冒号后为三个并列的名词性短语/句子作直接引语。",
+            "grammarAnalysis": "① 泛指代词 on 表示“人们”。② devenir 后接职业名词不加冠词。③ arriver à faire qch. 表示“终于做到某事”。",
+            "commonMistakes": "chauffeur 虽以 -eur 结尾但无阴性形式，冠词 elle 表明性别，学生易误造 chauffeuse。pilote 同理，不分阴阳性。"
+        },
+        {
+            "index": 5,
+            "sentence": "Malheureusement aujourd'hui, en France même, on donne aux garçons le choix jusqu'à trois cents métiers différents.",
+            "translatedSentence": "可惜如今，即使在法国本土，人们给男孩的选择多达三百种不同的职业。",
+            "sentenceStructure": "评注状语 Malheureusement，时间状语 aujourd'hui，地点状语 en France même，主语 on，谓语 donne，间接宾语 aux garçons，直接宾语 le choix jusqu'à trois cents métiers différents。",
+            "grammarAnalysis": "① même 置于名词后表示“本身/甚至”。② donner à qn le choix de qch. 结构。③ jusqu'à 表示“多达”。",
+            "commonMistakes": "France même 不可译为“法国相同”，même 此处为强调副词。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": 1,
+            "collocation": "remplacer qn dans son travail",
+            "meaning": "在工作中取代某人",
+            "usage": "remplacer 直接及物，dans son travail 限定取代的领域。",
+            "exampleSentence": "Pendant les deux dernières guerres, elles ont souvent remplacé les hommes dans leur travail."
+        },
+        {
+            "listIndex": 2,
+            "collocation": "continuer à faire qch.",
+            "meaning": "继续做某事",
+            "usage": "continuer à 后接不定式，continuer de 同义但略正式。",
+            "exampleSentence": "Aujourd'hui, les femmes continuent à travailler partout."
+        },
+        {
+            "listIndex": 3,
+            "collocation": "penser à un métier",
+            "meaning": "考虑一种职业",
+            "usage": "penser à 表示“考虑/想到”，后接名词。",
+            "exampleSentence": "Toutes les filles pensent à un métier pour plus tard."
+        },
+        {
+            "listIndex": 4,
+            "collocation": "devenir + 职业名词",
+            "meaning": "成为……",
+            "usage": "devenir 后接职业名词不加冠词。",
+            "exampleSentence": "Elle est devenue chauffeur."
+        },
+        {
+            "listIndex": 5,
+            "collocation": "arriver à faire qch.",
+            "meaning": "终于做到某事",
+            "usage": "arriver à 后接不定式，表示经过努力达成。",
+            "exampleSentence": "Elle est arrivée enfin à devenir pilote de ligne."
+        },
+        {
+            "listIndex": 6,
+            "collocation": "sur le marché du travail",
+            "meaning": "在劳动力市场上",
+            "usage": "固定短语，marché 为比喻用法。",
+            "exampleSentence": "Et quand elle est arrivée sur le «marché du travail», une femme rencontre beaucoup de problèmes."
+        },
+        {
+            "listIndex": 7,
+            "collocation": "trouver un poste intéressant",
+            "meaning": "找到一份有趣的职位",
+            "usage": "poste 指职位，intéressant 修饰岗位性质。",
+            "exampleSentence": "Il est difficile pour une femme de trouver un poste intéressant."
+        },
+        {
+            "listIndex": 8,
+            "collocation": "faire le ménage",
+            "meaning": "做家务",
+            "usage": "固定搭配，faire 后接名词表示“做……”。",
+            "exampleSentence": "on fait le ménage."
+        },
+        {
+            "listIndex": 9,
+            "collocation": "faire la vaisselle",
+            "meaning": "洗碗",
+            "usage": "固定搭配，faire la vaisselle 不可替换为其他动词。",
+            "exampleSentence": "De 20h à 21h30: on fait la vaisselle."
+        },
+        {
+            "listIndex": 10,
+            "collocation": "coucher les enfants",
+            "meaning": "安顿孩子睡觉",
+            "usage": "coucher 作及物动词，意为“使……躺下/睡觉”。",
+            "exampleSentence": "on couche les enfants."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": 1,
+            "vocabulary": "dernier",
+            "partOfSpeech": "adj.m.",
+            "definition": "①最后的 ②最新的；最近的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "les deux dernières guerres",
+                    "vocabularyCollocationMeaning": "最近的两次战争"
+                }
+            ],
+            "synonymAnalysis": "dernier 前置表“最近的”，后置表“最后的”；dernière 与 dernière 阴阳性一致。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 dernière，阳性复数 derniers，阴性复数 dernières",
+            "position": "前置时意为“最近的”，后置时意为“最后的”。"
+        },
+        {
+            "index": 2,
+            "vocabulary": "guerre",
+            "partOfSpeech": "n.f.",
+            "definition": "战争",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "aller à la guerre",
+                    "vocabularyCollocationMeaning": "上战场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "guerres"
+        },
+        {
+            "index": 3,
+            "vocabulary": "remplacer",
+            "partOfSpeech": "vt.",
+            "definition": "代替",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "remplacer qn dans son travail",
+                    "vocabularyCollocationMeaning": "在工作中取代某人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "remplacement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "替代"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 4,
+            "vocabulary": "métier",
+            "partOfSpeech": "n.m.",
+            "definition": "职业，行业",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "choisir un métier",
+                    "vocabularyCollocationMeaning": "选择职业"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "métiers"
+        },
+        {
+            "index": 5,
+            "vocabulary": "garçon",
+            "partOfSpeech": "n.m.",
+            "definition": "男孩，小伙子",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "garçons"
+        },
+        {
+            "index": 6,
+            "vocabulary": "journal",
+            "partOfSpeech": "n.m.",
+            "definition": "报纸，日报",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "lire dans les journaux",
+                    "vocabularyCollocationMeaning": "在报纸上读到"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "journaliste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "记者"
+                }
+            ],
+            "pluralForm": "journaux"
+        },
+        {
+            "index": 7,
+            "vocabulary": "directeur",
+            "partOfSpeech": "n.m.",
+            "definition": "经理，主任",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "directeurs"
+        },
+        {
+            "index": 8,
+            "vocabulary": "usine",
+            "partOfSpeech": "n.f.",
+            "definition": "工厂",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "usines"
+        },
+        {
+            "index": 9,
+            "vocabulary": "devenir",
+            "partOfSpeech": "vi.",
+            "definition": "变为，成为",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "devenir + 职业名词",
+                    "vocabularyCollocationMeaning": "成为……"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je deviens, tu deviens, il devient, nous devenons, vous devenez, ils deviennent",
+                "compoundPast": "je suis devenu(e)",
+                "simpleFuture": "je deviendrai",
+                "imperfect": "je devenais",
+                "presentSubjunctive": "que je devienne",
+                "memoryAids": "变位同 venir，词干 dev- + venir 变位结尾。"
+            }
+        },
+        {
+            "index": 10,
+            "vocabulary": "chauffeur",
+            "partOfSpeech": "n.m.",
+            "definition": "汽车司机",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "chauffeurs"
+        },
+        {
+            "index": 11,
+            "vocabulary": "pilote",
+            "partOfSpeech": "n.m.",
+            "definition": "飞行员",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "pilote de ligne",
+                    "vocabularyCollocationMeaning": "航线飞行员"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "pilotes"
+        },
+        {
+            "index": 12,
+            "vocabulary": "malheureusement",
+            "partOfSpeech": "adv.",
+            "definition": "可惜，不幸地",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "置于句首作评注状语，修饰整个句子。"
+        },
+        {
+            "index": 13,
+            "vocabulary": "problème",
+            "partOfSpeech": "n.m.",
+            "definition": "问题",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "rencontrer des problèmes",
+                    "vocabularyCollocationMeaning": "遇到问题"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "problèmes"
+        },
+        {
+            "index": 14,
+            "vocabulary": "agence",
+            "partOfSpeech": "n.f.",
+            "definition": "办事处",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "agences"
+        },
+        {
+            "index": 15,
+            "vocabulary": "national",
+            "partOfSpeech": "adj.m.",
+            "definition": "国家的，民族的",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "nationalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "国籍"
+                }
+            ],
+            "genderNumberVariation": "阴性 nationale，阳性复数 nationaux，阴性复数 nationales",
+            "position": "通常置于名词后。"
+        },
+        {
+            "index": 16,
+            "vocabulary": "emploi",
+            "partOfSpeech": "n.m.",
+            "definition": "职业；使用；用法",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "marché de l'emploi",
+                    "vocabularyCollocationMeaning": "就业市场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "emplois"
+        },
+        {
+            "index": 17,
+            "vocabulary": "pouvoir",
+            "partOfSpeech": "vt.",
+            "definition": "能，可以；能够",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "pouvoir + inf.",
+                    "vocabularyCollocationMeaning": "能够做某事"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent",
+                "compoundPast": "j'ai pu",
+                "simpleFuture": "je pourrai",
+                "imperfect": "je pouvais",
+                "presentSubjunctive": "que je puisse",
+                "memoryAids": "现在时词干 peuv-/pouv-，将来时词干 pourr-。"
+            }
+        },
+        {
+            "index": 18,
+            "vocabulary": "poste",
+            "partOfSpeech": "n.m.",
+            "definition": "职位，岗位",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "trouver un poste",
+                    "vocabularyCollocationMeaning": "找到职位"
+                }
+            ],
+            "synonymAnalysis": "poste n.m. 职位；poste n.f. 邮局，同形异义词。",
+            "derivedWords": [],
+            "pluralForm": "postes"
+        },
+        {
+            "index": 19,
+            "vocabulary": "vendeur",
+            "partOfSpeech": "n.m.",
+            "definition": "售货员",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "vendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "出售"
+                }
+            ],
+            "pluralForm": "vendeurs"
+        },
+        {
+            "index": 20,
+            "vocabulary": "ménage",
+            "partOfSpeech": "n.m.",
+            "definition": "家务",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "faire le ménage",
+                    "vocabularyCollocationMeaning": "做家务"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "ménages"
+        },
+        {
+            "index": 21,
+            "vocabulary": "autobus",
+            "partOfSpeech": "n.m.",
+            "definition": "公共汽车",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "autobus"
+        },
+        {
+            "index": 22,
+            "vocabulary": "vaisselle",
+            "partOfSpeech": "n.f.",
+            "definition": "餐具",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "faire la vaisselle",
+                    "vocabularyCollocationMeaning": "洗碗"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "vaisselles"
+        },
+        {
+            "index": 23,
+            "vocabulary": "coucher",
+            "partOfSpeech": "vt.",
+            "definition": "使躺下，使睡下",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "coucher les enfants",
+                    "vocabularyCollocationMeaning": "安顿孩子睡觉"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "se coucher",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "躺下，睡觉"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 24,
+            "vocabulary": "linge",
+            "partOfSpeech": "n.m.",
+            "definition": "内衣；日用棉麻布制品",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "laver du linge",
+                    "vocabularyCollocationMeaning": "洗衣服"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "linges"
+        },
+        {
+            "index": 25,
+            "vocabulary": "etc.",
+            "partOfSpeech": "adv.",
+            "definition": "等等",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "et cetera 的缩写，列举末尾使用。"
+        },
+        {
+            "index": 26,
+            "vocabulary": "aider",
+            "partOfSpeech": "vt.",
+            "definition": "帮助",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "aider qn",
+                    "vocabularyCollocationMeaning": "帮助某人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "aide",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "帮助"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 27,
+            "vocabulary": "parfois",
+            "partOfSpeech": "adv.",
+            "definition": "有时",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "频率副词，位置灵活，通常置于动词后或句首。"
+        },
+        {
+            "index": 28,
+            "vocabulary": "télévision",
+            "partOfSpeech": "n.f.",
+            "definition": "电视",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "regarder la télévision",
+                    "vocabularyCollocationMeaning": "看电视"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "télévisions"
+        },
+        {
+            "index": 29,
+            "vocabulary": "fatigué",
+            "partOfSpeech": "adj.m.",
+            "definition": "疲劳的，劳累的",
+            "vocabularyCollocations": [],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "fatigue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "疲劳"
+                }
+            ],
+            "genderNumberVariation": "阴性 fatiguée，阳性复数 fatigués，阴性复数 fatiguées",
+            "position": "通常置于名词后或作表语。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Aujourd'hui, les femmes continuent à travailler partout. Malheureusement, une femme rencontre beaucoup de problèmes pour trouver un métier. Patricia Leduc, 35 ans, mariée, deux enfants, cherche du travail. Elle se lève à cinq heures, habite loin de Paris. Elle veut être vendeuse. Mais c'est difficile pour une femme de son âge. De 6h30 à 7h30, elle fait le ménage et prépare le petit déjeuner. De 20h à 21h30, elle fait la vaisselle et couche les enfants. À 21h30, elle est trop fatiguée pour lire ou regarder la télévision.",
+            "chineseTranslation": "如今，妇女继续在各行各业工作。可惜的是，女性在找工作时会遇到许多问题。帕特里夏·勒迪克，35岁，已婚，有两个孩子，正在找工作。她早上五点起床，住在巴黎远郊。她想当一名售货员。但对她这个年纪的妇女来说很困难。早上六点半到七点半，她做家务、准备早餐。晚上八点到九点半，她洗碗、安顿孩子睡觉。到了九点半，她已经累得没法看书或看电视了。",
+            "fr2cnStrategy": "① 将“partout”译为“各行各业”，增补语境信息；② 将“mariée, deux enfants”处理为短句“已婚，有两个孩子”，符合中文表达习惯；③ “habite loin de Paris”译为“住在巴黎远郊”，增译“远”字传达距离感；④ “trop fatiguée pour faire qch.”结构转化为“累得没法做某事”，使用程度补语。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": 1,
+                "chineseOriginalSentence": "她住在巴黎郊区，每天早起做家务。",
+                "frenchTranslation": "Elle habite en banlieue parisienne et se lève tôt tous les jours pour faire le ménage.",
+                "cn2frStrategy": "① “住在巴黎郊区”译为“habiter en banlieue parisienne”；② 用“et”连接并列动作；③ “为了做家务”用“pour + inf.”表示目的。"
+            },
+            {
+                "index": 2,
+                "chineseOriginalSentence": "女售货员的工作很辛苦，但她想保住这个职位。",
+                "frenchTranslation": "Le travail de vendeuse est très dur, mais elle veut garder ce poste.",
+                "cn2frStrategy": "① “女售货员的工作”译为“le travail de vendeuse”，职业名词无阴阳变化，用冠词和语境体现性别；② “保住职位”用固定搭配“garder un poste”。"
+            },
+            {
+                "index": 3,
+                "chineseOriginalSentence": "她丈夫有时帮她做家务。",
+                "frenchTranslation": "Son mari l'aide parfois à faire le ménage.",
+                "cn2frStrategy": "① “帮她做家务”用“aider qn à faire qch.”结构；② “parfois”置于动词后。"
+            },
+            {
+                "index": 4,
+                "chineseOriginalSentence": "晚上九点半，她终于自由了，但已经太累了。",
+                "frenchTranslation": "À 21h30, elle est enfin libre, mais elle est trop fatiguée.",
+                "cn2frStrategy": "① “晚上九点半”译为“À 21h30”；② “终于”用“enfin”置于 être 后；③ “太累了”用“trop fatiguée”，省略“自由了但”后的逻辑承接。"
+            }
+        ]
+    }
+}

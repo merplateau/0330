@@ -1,0 +1,1498 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Philippe Blanc vient de passer une mauvaise nuit.",
+            "translatedSentence": "菲利普·布朗刚刚度过了一个难熬的夜晚。",
+            "sentenceStructure": "主语 Philippe Blanc — 谓语 vient de passer（刚刚完成体）— 宾语 une mauvaise nuit",
+            "grammarAnalysis": "① venir de + 不定式 构成「刚刚完成」结构，表示动作刚刚发生，属于近过去时（passé récent）。② mauvaise 置于名词前，为前置形容词，表示性质评价。",
+            "commonMistakes": "学生易将 venir de 误解为 venir（来）+ de（介词），要注意 venir de + inf. 是固定结构，整体表示「刚刚……」，不可拆分理解。"
+        },
+        {
+            "index": 2,
+            "sentence": "Ce matin, il s'est levé avec difficulté, car il a eu un violent mal à la tête.",
+            "translatedSentence": "今早，他艰难地起了床，因为他头痛剧烈。",
+            "sentenceStructure": "主句：il s'est levé avec difficulté；原因从句：car il a eu un violent mal à la tête。",
+            "grammarAnalysis": "① se lever 为代词式动词，复合过去时助动词用 être，过去分词与主语性数一致：s'est levé。② car 引导原因从句，语气肯定，常用于书面语，比 parce que 更正式。③ avoir mal à + 身体部位 为固定结构，表示「某部位疼痛」。④ violent 置于名词前，强调程度之烈。",
+            "commonMistakes": "① se lever 的助动词易误用 avoir，应用 être。② avoir mal à la tête 中的冠词不可省略，不能说 avoir mal à tête。"
+        },
+        {
+            "index": 3,
+            "sentence": "Il s'est décidé à réveiller sa femme, Lise Blanc.",
+            "translatedSentence": "他决定叫醒自己的妻子丽丝·布朗。",
+            "sentenceStructure": "主语 il — 谓语 s'est décidé à（代词式动词复合过去时）— 不定式补语 réveiller sa femme",
+            "grammarAnalysis": "① se décider à + inf. 为代词式动词固定搭配，意为「下定决心做……」，注意介词必须用 à。② 助动词用 être，过去分词与主语一致：décidé。",
+            "commonMistakes": "① 易与 décider de + inf. 混淆：décider de 是及物动词用法（主语作决定者），se décider à 强调经过犹豫后「终于下决心」，语气更强。② 介词不可误用 de：*se décider de 不正确。"
+        },
+        {
+            "index": 4,
+            "sentence": "Il va venir dans la matinée, peut-être vers 10 heures et demie.",
+            "translatedSentence": "他上午会来，也许在十点半左右。",
+            "sentenceStructure": "主语 il — 谓语 va venir（近将来时）— 时间状语 dans la matinée / vers 10 heures et demie",
+            "grammarAnalysis": "① aller + inf. 构成近将来时（futur proche），表示即将发生的动作。② dans la matinée 表示「在上午某个时间段内」，区别于 le matin（泛指上午）。③ vers + 时间，表示「大约……左右」，语气模糊。",
+            "commonMistakes": "dans la matinée 与 le matin 易混：le matin 泛指「上午」，dans la matinée 强调「在整个上午的某个时间点」，更具体。"
+        },
+        {
+            "index": 5,
+            "sentence": "Philippe a pris sa température et regardé le thermomètre: 38,6° C. Pas de doute, il s'agit d'une grippe.",
+            "translatedSentence": "菲利普量了体温，看了看体温计：38.6摄氏度。毫无疑问，这是流感。",
+            "sentenceStructure": "第一句：主语 Philippe — 并列谓语 a pris / (a) regardé — 各自宾语 sa température / le thermomètre。第二句：Pas de doute 为感叹式省略句；il s'agit de 为非人称结构。",
+            "grammarAnalysis": "① prendre la température 为固定搭配，意为「量体温」。② il s'agit de + 名词/不定式，为非人称固定表达，意为「涉及的是……；这是……」，主语永远是非人称 il，不可替换。③ Pas de doute 为口语感叹省略结构，相当于 Il n'y a pas de doute。",
+            "commonMistakes": "il s'agit de 为非人称结构，不可按字面理解为「它自己涉及」，且主语不可换成具体名词（如 *la maladie s'agit de... 为误用）。"
+        },
+        {
+            "index": 6,
+            "sentence": "Il lui a regardé la langue, la bouche et la gorge, puis il lui a écouté les poumons sur la poitrine et dans le dos.",
+            "translatedSentence": "他检查了病人的舌头、嘴巴和喉咙，然后又在胸部和背部听了肺部。",
+            "sentenceStructure": "两个并列的复合过去时句，结构均为：il + lui + a + 动词 + 身体部位（直接宾语）。间接宾语 lui 指代病人（le malade）。",
+            "grammarAnalysis": "① 法语中检查/听诊某人身体部位，采用「动词 + 间接宾语（人）+ 定冠词 + 身体部位」结构，而非英语式的「动词 + 物主形容词 + 身体部位」。② regarder 此处用于医疗语境，意为「检查、查看」。③ écouter les poumons 意为「听诊肺部」，为医疗用语固定表达。",
+            "commonMistakes": "中文思维易译成 *il a regardé ses poumons，法语规范表达应用定冠词 + 间接宾语代词，即 il lui a écouté les poumons，不可用物主形容词 ses。"
+        },
+        {
+            "index": 7,
+            "sentence": "Il faut la faire baisser rapidement.",
+            "translatedSentence": "必须迅速把烧退下去。",
+            "sentenceStructure": "非人称主语 il — 谓语 faut（falloir）— 不定式补语 la faire baisser — 副词 rapidement",
+            "grammarAnalysis": "① il faut + inf. 非人称结构，表示「必须……」。② faire + inf. 使役结构，la 为宾语代词，指代 fièvre（发烧），置于 faire 之前。③ faire baisser qch. 意为「使……降低/退下」。",
+            "commonMistakes": "宾语代词 la 的位置：在使役结构中，宾语代词置于 faire 之前，而非不定式之前，不可写成 *il faut faire la baisser。"
+        },
+        {
+            "index": 8,
+            "sentence": "Il en faut quelques-uns, si vous voulez vous soigner vite.",
+            "translatedSentence": "如果您想尽快康复，是需要吃一些药的。",
+            "sentenceStructure": "主句：il en faut quelques-uns；条件从句：si vous voulez vous soigner vite。",
+            "grammarAnalysis": "① en 为代词，代替前文提到的 médicaments（药物），与 falloir 搭配用法为 il en faut。② quelques-uns 为不定代词，代替可数名词复数（此处代替 médicaments），阳性复数形式。③ se soigner 为代词式动词，意为「自我照料；（使自己）康复」。④ si + 现在时，主句现在时，表示条件假设。",
+            "commonMistakes": "① quelques-uns（某些，一些）易与 quelqu'un（某人）混淆：前者为复数，代替物；后者为单数，指人。② en 不可省略：il faut quelques-uns（无 en）语法不完整，因为缺少参照对象。"
+        },
+        {
+            "index": 9,
+            "sentence": "Vous allez prendre ces médicaments trois fois par jour pendant cinq jours.",
+            "translatedSentence": "您每天服用这些药物三次，连续服用五天。",
+            "sentenceStructure": "主语 Vous — 谓语 allez prendre（近将来时）— 宾语 ces médicaments — 频率状语 trois fois par jour — 持续时间状语 pendant cinq jours",
+            "grammarAnalysis": "① allez prendre 为近将来时，医嘱语境中用于表示即将执行的指令，语气比命令式委婉。② trois fois par jour 为频率表达，par 表示「每……」，相当于 per。③ pendant + 时间段，表示动作持续的时间长度。",
+            "commonMistakes": "pendant（持续多长时间）与 pour（打算用多长时间）易混：pendant cinq jours 强调实际持续；pour cinq jours 强调计划或打算，此处应用 pendant。"
+        },
+        {
+            "index": 10,
+            "sentence": "Prenez-en avant le repas.",
+            "translatedSentence": "请在饭前服用。",
+            "sentenceStructure": "命令式 Prenez — 代词 en（代替 ces médicaments）— 时间状语 avant le repas",
+            "grammarAnalysis": "① 命令式结构，第二人称复数（您/你们），动词 prendre 的命令式为 Prenez。② en 代替前文的 médicaments，在命令式肯定句中，代词置于动词之后并用连字符连接：Prenez-en。③ avant le repas 为固定医嘱表达，「饭前」。",
+            "commonMistakes": "命令式肯定句中，宾语代词后置并加连字符（Prenez-en），而否定命令式中代词前置（N'en prenez pas）。两者位置相反，学生易混淆。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "venir de + inf.",
+            "meaning": "刚刚做了……（近过去时）",
+            "usage": "固定结构，表示动作刚刚完成，相当于英语 have just done。注意：此结构在过去时语境中不变形，仍用现在时 venir de。",
+            "exampleSentence": "Philippe Blanc vient de passer une mauvaise nuit."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "avoir mal à + 身体部位",
+            "meaning": "某部位疼痛",
+            "usage": "固定结构，介词必须用 à，后接定冠词+身体部位。例：avoir mal à la tête（头痛）、avoir mal au ventre（肚子痛）、avoir mal aux oreilles（耳朵痛）。",
+            "exampleSentence": "il a eu un violent mal à la tête"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "se décider à + inf.",
+            "meaning": "下定决心做……；终于决定……",
+            "usage": "代词式动词，介词固定用 à，强调经过犹豫后的决定，比 décider de 语气更强。区别：décider de + inf. 为主动及物用法，语气中性。",
+            "exampleSentence": "Il s'est décidé à réveiller sa femme."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "téléphoner à qqn",
+            "meaning": "给某人打电话",
+            "usage": "间接及物动词，人物宾语用介词 à 引导，不可直接接宾语（不能说 *téléphoner qqn）。",
+            "exampleSentence": "Je viens de téléphoner à ton médecin."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "prendre la température (de qqn)",
+            "meaning": "（给某人）量体温",
+            "usage": "固定医疗表达，动词用 prendre，不可换成 mesurer（虽也可用，但 prendre 更口语）。",
+            "exampleSentence": "Prends ta température, reste bien au chaud dans ton lit."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "il s'agit de + n./inf.",
+            "meaning": "这是……；涉及……",
+            "usage": "非人称固定结构，主语永远是非人称 il，不可替换为具体名词。书面口语均可使用。",
+            "exampleSentence": "Pas de doute, il s'agit d'une grippe."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "faire baisser qch.",
+            "meaning": "使……降低；使……退（烧）",
+            "usage": "使役结构 faire + inf.，宾语代词置于 faire 前。常用于医疗语境：faire baisser la fièvre（退烧）。",
+            "exampleSentence": "Il faut la faire baisser rapidement."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "retourner au travail",
+            "meaning": "返回工作；重返工作岗位",
+            "usage": "固定表达，retourner 为不及物动词，后接 à + 地点/活动。",
+            "exampleSentence": "Quand est-ce que je peux retourner au travail?"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "reprendre + n./ses activités",
+            "meaning": "重新开始……；恢复（活动）",
+            "usage": "及物动词，可直接接名词宾语，常用于恢复正常生活/工作语境。reprendre ses activités（恢复各项活动）为固定搭配。",
+            "exampleSentence": "Vous allez reprendre toutes vos activités dans une semaine."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "faire une ordonnance",
+            "meaning": "开处方",
+            "usage": "医疗固定搭配，动词用 faire，ordonnance（处方）为阴性名词。相关：avoir une ordonnance（持有处方）。",
+            "exampleSentence": "Je vais vous faire une ordonnance."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "prendre des médicaments",
+            "meaning": "服药",
+            "usage": "固定表达，动词用 prendre，不可用 manger（*manger des médicaments 为误用）。搭配频率：trois fois par jour（每天三次）、avant/après le repas（饭前/饭后）。",
+            "exampleSentence": "Vous allez prendre ces médicaments trois fois par jour pendant cinq jours."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "se soigner",
+            "meaning": "自我照料；（接受治疗使自己）康复",
+            "usage": "代词式动词，口语中常含「好好照顾自己」之意；也可指「接受治疗」。",
+            "exampleSentence": "si vous voulez vous soigner vite"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "rester au chaud",
+            "meaning": "保暖；待在暖和的地方",
+            "usage": "固定口语表达，au chaud 为介词短语作表语或状语，表示「在温暖环境中」。",
+            "exampleSentence": "reste bien au chaud dans ton lit"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "avoir une forte fièvre",
+            "meaning": "发高烧",
+            "usage": "固定搭配，fièvre 前用不定冠词 une，形容词 forte 置于名词前。区别：avoir de la fièvre 泛指「发烧」，avoir une forte fièvre 指「发高烧」。",
+            "exampleSentence": "Vous avez une forte fièvre."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "visite",
+            "partOfSpeech": "n.f.",
+            "definition": "①出诊；上门就诊 ②访问，参观",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "visite à domicile",
+                    "vocabularyCollocationMeaning": "上门出诊"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rendre visite à qqn",
+                    "vocabularyCollocationMeaning": "拜访某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "visite médicale",
+                    "vocabularyCollocationMeaning": "体检；医疗检查"
+                }
+            ],
+            "synonymAnalysis": "visite 强调到访的行为或诊疗过程；consultation 特指门诊就诊（在诊所）；visite à domicile 特指医生上门出诊。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "visiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "参观；访问；检查"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "visiteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "访客；参观者"
+                }
+            ],
+            "pluralForm": "visites"
+        },
+        {
+            "index": "2",
+            "vocabulary": "domicile",
+            "partOfSpeech": "n.m.",
+            "definition": "①住所，住处 ②（法律）户籍所在地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à domicile",
+                    "vocabularyCollocationMeaning": "在家；上门（服务）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "domicile fixe",
+                    "vocabularyCollocationMeaning": "固定住所"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans domicile fixe",
+                    "vocabularyCollocationMeaning": "无固定住所（流浪者，缩写SDF）"
+                }
+            ],
+            "synonymAnalysis": "domicile 偏正式或法律用语；adresse 指具体地址；logement 指住房（强调居住场所本身）；résidence 指居所，也可指公寓楼。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "domicilié",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "（在某处）有住所的；户籍在……的"
+                }
+            ],
+            "pluralForm": "domiciles"
+        },
+        {
+            "index": "3",
+            "vocabulary": "difficulté",
+            "partOfSpeech": "n.f.",
+            "definition": "①困难，难度 ②障碍，问题",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec difficulté",
+                    "vocabularyCollocationMeaning": "艰难地，费劲地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir des difficultés à + inf.",
+                    "vocabularyCollocationMeaning": "做……有困难"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans difficulté",
+                    "vocabularyCollocationMeaning": "毫不费力地"
+                }
+            ],
+            "synonymAnalysis": "difficulté 泛指困难；problème 指具体问题；obstacle 强调阻碍、障碍；peine 更强调费力、辛苦（如 avec peine）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "difficile",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "困难的，难的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "difficilement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "艰难地，费力地"
+                }
+            ],
+            "pluralForm": "difficultés"
+        },
+        {
+            "index": "4",
+            "vocabulary": "avoir mal à",
+            "partOfSpeech": "loc.",
+            "definition": "某部位疼痛",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal à la tête",
+                    "vocabularyCollocationMeaning": "头痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir mal au ventre",
+                    "vocabularyCollocationMeaning": "肚子痛"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir mal aux dents",
+                    "vocabularyCollocationMeaning": "牙痛"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "固定结构，à 后接定冠词+身体部位，冠词随部位性数变化缩合（à + le → au，à + les → aux）。注意与 faire mal à qqn（使某人疼痛）区分：前者主语是人，后者主语是事物。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "violent",
+            "partOfSpeech": "adj.m.",
+            "definition": "①强烈的，剧烈的 ②暴力的，凶猛的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un violent mal de tête",
+                    "vocabularyCollocationMeaning": "剧烈头痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une tempête violente",
+                    "vocabularyCollocationMeaning": "猛烈的风暴"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une réaction violente",
+                    "vocabularyCollocationMeaning": "激烈的反应"
+                }
+            ],
+            "synonymAnalysis": "violent 强调强度或冲击力；fort 泛指「强」；intense 偏书面，强调情感或感觉的强烈程度；brutal 强调突然性和粗暴性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "violemment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "猛烈地，强烈地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "violence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "暴力；强烈"
+                }
+            ],
+            "genderNumberVariation": "阴性 violente，阳性复数 violents，阴性复数 violentes",
+            "position": "用于描述程度、强度时前置（un violent orage）；描述人的性格或行为时后置（un homme violent）。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "tête",
+            "partOfSpeech": "n.f.",
+            "definition": "①头，脑袋 ②脸，面部表情 ③头脑，智慧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal à la tête",
+                    "vocabularyCollocationMeaning": "头痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mal de tête",
+                    "vocabularyCollocationMeaning": "头痛（名词）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en tête",
+                    "vocabularyCollocationMeaning": "首先；领先"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tête-à-tête",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "单独会面，私下谈话"
+                }
+            ],
+            "pluralForm": "têtes"
+        },
+        {
+            "index": "7",
+            "vocabulary": "décider",
+            "partOfSpeech": "vt.",
+            "definition": "①决定，决心 ②说服（某人）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "décider de + inf.",
+                    "vocabularyCollocationMeaning": "决定做……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se décider à + inf.",
+                    "vocabularyCollocationMeaning": "下定决心做……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "décider qqn à faire qch.",
+                    "vocabularyCollocationMeaning": "说服某人做某事"
+                }
+            ],
+            "synonymAnalysis": "décider de 语气中性，表示「决定」；se décider à 强调经过犹豫的「下决心」；choisir de 强调在多个选项中「选择」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "décision",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "决定；决心"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "décisif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "决定性的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indécis",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "犹豫不决的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "médecin",
+            "partOfSpeech": "n.m.",
+            "definition": "①医生，大夫",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "médecin généraliste",
+                    "vocabularyCollocationMeaning": "全科医生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez le médecin",
+                    "vocabularyCollocationMeaning": "在医生诊所"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "appeler le médecin",
+                    "vocabularyCollocationMeaning": "叫医生"
+                }
+            ],
+            "synonymAnalysis": "médecin 是正式用词，指有执照的医师；docteur 可作称呼（Docteur Masson）或口语化地指医生；médecin 不可作称呼用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "médical",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "医学的，医疗的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "médicament",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "药剂，药物"
+                }
+            ],
+            "pluralForm": "médecins"
+        },
+        {
+            "index": "9",
+            "vocabulary": "venir",
+            "partOfSpeech": "vi.",
+            "definition": "①来，来到 ②（venir de + inf.）刚刚……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "venir de + lieu",
+                    "vocabularyCollocationMeaning": "从……来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "venir de + inf.",
+                    "vocabularyCollocationMeaning": "刚刚做了……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "venir faire qch.",
+                    "vocabularyCollocationMeaning": "来做某事"
+                }
+            ],
+            "synonymAnalysis": "venir 强调向说话者方向移动（来）；aller 强调向远离说话者方向移动（去）。两者都可构成近将来/近过去结构：aller + inf.（近将来），venir de + inf.（近过去）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "venue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "到来；来临"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "revenir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "回来"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "devenir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变成，成为"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je viens, tu viens, il vient, nous venons, vous venez, ils viennent",
+                "compoundPast": "je suis venu(e)（助动词用 être）",
+                "simpleFuture": "je viendrai, tu viendras, il viendra, nous viendrons, vous viendrez, ils viendront",
+                "imperfect": "je venais（词干规则，从 nous venons 去 -ons）",
+                "presentSubjunctive": "que je vienne, que tu viennes, qu'il vienne, que nous venions, que vous veniez, qu'ils viennent",
+                "memoryAids": "属于-enir类不规则动词，与 tenir 变位规律相同；复合过去时助动词用 être，注意过去分词 venu 需与主语性数一致。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "matinée",
+            "partOfSpeech": "n.f.",
+            "definition": "①上午（整个上午时间段） ②（剧场）日场，午场",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans la matinée",
+                    "vocabularyCollocationMeaning": "在上午（某时间）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "toute la matinée",
+                    "vocabularyCollocationMeaning": "整个上午"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une matinée ensoleillée",
+                    "vocabularyCollocationMeaning": "一个阳光明媚的上午"
+                }
+            ],
+            "synonymAnalysis": "matin 与 matinée 的区别：matin 通常指时间点（le matin：早上/上午），matinée 强调时间段（dans la matinée：在上午期间）。同理：soir/soirée，jour/journée，an/année 均有此类区分，前者偏时间点，后者偏时间段。",
+            "derivedWords": [],
+            "pluralForm": "matinées"
+        },
+        {
+            "index": "11",
+            "vocabulary": "température",
+            "partOfSpeech": "n.f.",
+            "definition": "①温度，气温 ②体温",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre la température",
+                    "vocabularyCollocationMeaning": "量体温"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir de la température",
+                    "vocabularyCollocationMeaning": "发烧（口语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "température ambiante",
+                    "vocabularyCollocationMeaning": "室温，环境温度"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "températures"
+        },
+        {
+            "index": "12",
+            "vocabulary": "thermomètre",
+            "partOfSpeech": "n.m.",
+            "definition": "①温度计，体温计",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "regarder le thermomètre",
+                    "vocabularyCollocationMeaning": "看体温计"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "thermomètre médical",
+                    "vocabularyCollocationMeaning": "医用温度计"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "thermomètres"
+        },
+        {
+            "index": "13",
+            "vocabulary": "doute",
+            "partOfSpeech": "n.m.",
+            "definition": "①怀疑，疑虑 ②不确定性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans doute",
+                    "vocabularyCollocationMeaning": "无疑，大概（注意：表示可能性，而非绝对确定）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pas de doute",
+                    "vocabularyCollocationMeaning": "毫无疑问（比 sans doute 更肯定）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir des doutes sur qch.",
+                    "vocabularyCollocationMeaning": "对某事有疑虑"
+                }
+            ],
+            "synonymAnalysis": "sans doute（大概，可能，语气较弱）与 sans aucun doute / pas de doute（毫无疑问，语气强烈）是考研易混点：sans doute 不等于「毫无疑问」，而是「大概，也许」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "douter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "怀疑；不确定"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "douteux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "可疑的；不确定的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indubitable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无可置疑的"
+                }
+            ],
+            "pluralForm": "doutes"
+        },
+        {
+            "index": "14",
+            "vocabulary": "il s'agit de",
+            "partOfSpeech": "loc.",
+            "definition": "①这是……；涉及……；关于……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il s'agit de + n.",
+                    "vocabularyCollocationMeaning": "这是……；涉及……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il s'agit de + inf.",
+                    "vocabularyCollocationMeaning": "问题在于……；需要……"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "非人称固定表达，主语永远是非人称 il，不可用任何具体名词替换。il s'agit de 在各时态中均可变位：il s'agissait de（未完成过去时），il s'est agi de（复合过去时）。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "grippe",
+            "partOfSpeech": "n.f.",
+            "definition": "①流行性感冒（流感）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir la grippe",
+                    "vocabularyCollocationMeaning": "得了流感"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grippe saisonnière",
+                    "vocabularyCollocationMeaning": "季节性流感"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "attraper la grippe",
+                    "vocabularyCollocationMeaning": "感染流感"
+                }
+            ],
+            "synonymAnalysis": "grippe（流感）与 rhume（普通感冒）注意区分：grippe 通常更严重，有高烧症状；rhume 指普通鼻感冒，症状较轻。",
+            "derivedWords": [],
+            "pluralForm": "grippes"
+        },
+        {
+            "index": "16",
+            "vocabulary": "docteur",
+            "partOfSpeech": "n.m.",
+            "definition": "①（称呼）大夫，医生 ②（学术）博士",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Docteur + 姓名",
+                    "vocabularyCollocationMeaning": "（称呼医生）……大夫"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "docteur en médecine",
+                    "vocabularyCollocationMeaning": "医学博士"
+                }
+            ],
+            "synonymAnalysis": "docteur 既可作称呼（Docteur Masson），也可口语化地指医生；médecin 是正式职业名称，不作称呼使用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "doctorat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "博士学位"
+                }
+            ],
+            "pluralForm": "docteurs"
+        },
+        {
+            "index": "17",
+            "vocabulary": "examiner",
+            "partOfSpeech": "vt.",
+            "definition": "①检查，审查 ②（医学）检查，诊察 ③仔细研究",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "examiner un malade",
+                    "vocabularyCollocationMeaning": "给病人做检查"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "examiner une question",
+                    "vocabularyCollocationMeaning": "研究一个问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "examiner attentivement",
+                    "vocabularyCollocationMeaning": "仔细检查"
+                }
+            ],
+            "synonymAnalysis": "examiner 强调仔细查看或诊察；vérifier 强调核实、确认；contrôler 强调检验、监控。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "examen",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "检查；考试；审查"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "examinateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "考官；审查员"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "malade",
+            "partOfSpeech": "adj./n.",
+            "definition": "①（adj.）患病的，生病的 ②（n.）病人，患者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être malade",
+                    "vocabularyCollocationMeaning": "生病"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tomber malade",
+                    "vocabularyCollocationMeaning": "生病，患病"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le malade",
+                    "vocabularyCollocationMeaning": "病人（名词用法）"
+                }
+            ],
+            "synonymAnalysis": "malade 泛指生病的/病人；patient 特指（正在接受治疗的）患者，医疗语境更常用；souffrant 强调痛苦、不舒适。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "maladie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "疾病，病症"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "maladif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "多病的；病态的"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形：malade（单数），malades（复数）",
+            "position": "作形容词时置于名词后（un enfant malade）；作名词时直接加冠词使用（le malade）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "bouche",
+            "partOfSpeech": "n.f.",
+            "definition": "①嘴，口 ②（比喻）开口处，入口",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ouvrir la bouche",
+                    "vocabularyCollocationMeaning": "张嘴；开口说话"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de bouche à oreille",
+                    "vocabularyCollocationMeaning": "口耳相传"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bouche cousue",
+                    "vocabularyCollocationMeaning": "保持沉默，守口如瓶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "bouches"
+        },
+        {
+            "index": "20",
+            "vocabulary": "gorge",
+            "partOfSpeech": "n.f.",
+            "definition": "①喉咙，嗓子 ②峡谷（地理）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal à la gorge",
+                    "vocabularyCollocationMeaning": "嗓子痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mal de gorge",
+                    "vocabularyCollocationMeaning": "咽喉痛"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à pleine gorge",
+                    "vocabularyCollocationMeaning": "大声地，放声地"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "gorges"
+        },
+        {
+            "index": "21",
+            "vocabulary": "poumon",
+            "partOfSpeech": "n.m.",
+            "definition": "①肺，肺部",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écouter les poumons",
+                    "vocabularyCollocationMeaning": "听诊肺部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à pleins poumons",
+                    "vocabularyCollocationMeaning": "尽情地，大声地（呼吸/喊叫）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "poumons"
+        },
+        {
+            "index": "22",
+            "vocabulary": "poitrine",
+            "partOfSpeech": "n.f.",
+            "definition": "①胸膛，胸部 ②（解剖）胸腔",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur la poitrine",
+                    "vocabularyCollocationMeaning": "在胸部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "douleur de poitrine",
+                    "vocabularyCollocationMeaning": "胸痛"
+                }
+            ],
+            "synonymAnalysis": "poitrine 泛指胸部；torse 指裸露的躯干（男性）；thorax 为解剖学术语。",
+            "derivedWords": [],
+            "pluralForm": "poitrines"
+        },
+        {
+            "index": "23",
+            "vocabulary": "dos",
+            "partOfSpeech": "n.m.",
+            "definition": "①背，背部 ②（物品的）背面，反面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans le dos",
+                    "vocabularyCollocationMeaning": "在背部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir mal au dos",
+                    "vocabularyCollocationMeaning": "背痛"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au dos de",
+                    "vocabularyCollocationMeaning": "在……背面/反面"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "dos（复数同形）"
+        },
+        {
+            "index": "24",
+            "vocabulary": "fort",
+            "partOfSpeech": "adj.m.",
+            "definition": "①强壮的，有力的 ②强烈的，厉害的 ③能干的，擅长的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une forte fièvre",
+                    "vocabularyCollocationMeaning": "高烧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être fort en + matière",
+                    "vocabularyCollocationMeaning": "擅长某科目"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une forte pluie",
+                    "vocabularyCollocationMeaning": "大雨"
+                }
+            ],
+            "synonymAnalysis": "fort（强壮/强烈）与 solide（结实）、puissant（强大，尤指权力/力量）的区别：fort 用途最广；solide 偏物理意义上的「坚固」；puissant 更强调势力或机械力量。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fortement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "强烈地，有力地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "force",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "力量，力气；武力"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "renforcer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加强，巩固"
+                }
+            ],
+            "genderNumberVariation": "阴性 forte，阳性复数 forts，阴性复数 fortes",
+            "position": "表示「强烈的/高度的」时常前置（une forte fièvre）；表示「强壮的/能干的」时后置（un homme fort）。"
+        },
+        {
+            "index": "25",
+            "vocabulary": "fort",
+            "partOfSpeech": "adv.",
+            "definition": "①有力地 ②非常，很（强调程度）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parler fort",
+                    "vocabularyCollocationMeaning": "大声说话"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fort bien",
+                    "vocabularyCollocationMeaning": "非常好（书面语）"
+                }
+            ],
+            "synonymAnalysis": "副词 fort（非常）为书面/较正式用法，口语中通常用 très 替代。",
+            "derivedWords": [],
+            "useExplanation": "作副词时修饰动词（parler fort）或形容词/副词（fort bien），用法偏书面。"
+        },
+        {
+            "index": "26",
+            "vocabulary": "fièvre",
+            "partOfSpeech": "n.f.",
+            "definition": "①发烧，热度 ②（比喻）狂热，兴奋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir de la fièvre",
+                    "vocabularyCollocationMeaning": "发烧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir une forte fièvre",
+                    "vocabularyCollocationMeaning": "发高烧"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire tomber la fièvre",
+                    "vocabularyCollocationMeaning": "退烧"
+                }
+            ],
+            "synonymAnalysis": "avoir de la fièvre（泛指发烧）与 avoir de la température（口语，同义）；forte fièvre 特指高烧。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fiévreux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "发烧的；狂热的"
+                }
+            ],
+            "pluralForm": "fièvres"
+        },
+        {
+            "index": "27",
+            "vocabulary": "baisser",
+            "partOfSpeech": "vt.",
+            "definition": "①降低，减低 ②放下，垂下（头、眼等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire baisser la fièvre",
+                    "vocabularyCollocationMeaning": "退烧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "baisser la tête",
+                    "vocabularyCollocationMeaning": "低下头"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les prix baissent",
+                    "vocabularyCollocationMeaning": "价格下降"
+                }
+            ],
+            "synonymAnalysis": "baisser（降低，可及物也可不及物）与 diminuer（减少，减低，语气较中性）、réduire（削减，缩减，及物）的区别：baisser 用于温度、声音、价格等；réduire 更常用于正式语境表「削减」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "baisse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "下降，降低"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "rapidement",
+            "partOfSpeech": "adv.",
+            "definition": "①迅速地，快速地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "agir rapidement",
+                    "vocabularyCollocationMeaning": "迅速行动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "guérir rapidement",
+                    "vocabularyCollocationMeaning": "快速痊愈"
+                }
+            ],
+            "synonymAnalysis": "rapidement（迅速地）与 vite（快，口语更常用）：vite 更口语化，rapidement 更书面，两者在大多数情况下可互换，但 vite 不能修饰形容词（*vite fatigué 错误）。",
+            "derivedWords": [],
+            "useExplanation": "副词，通常置于动词之后（il faut la faire baisser rapidement），也可作句末状语。"
+        },
+        {
+            "index": "29",
+            "vocabulary": "retourner",
+            "partOfSpeech": "vi.",
+            "definition": "①返回，回去 ②（vt.）翻转，翻过来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "retourner au travail",
+                    "vocabularyCollocationMeaning": "返回工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "retourner chez soi",
+                    "vocabularyCollocationMeaning": "回家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "retourner dans son pays",
+                    "vocabularyCollocationMeaning": "回国"
+                }
+            ],
+            "synonymAnalysis": "retourner（返回原地）、revenir（回来，向说话者方向）、rentrer（回归，尤指回家/回国）三者语义相近：retourner 强调回到原地（曾经去过的地方）；revenir 强调朝说话者方向回来；rentrer 常指返回通常居住地（家、国）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "courage",
+            "partOfSpeech": "n.m.",
+            "definition": "①勇气，胆量 ②（感叹）加油！振作！",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir du courage",
+                    "vocabularyCollocationMeaning": "有勇气"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Quel courage!",
+                    "vocabularyCollocationMeaning": "真勇敢！（感叹语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre courage",
+                    "vocabularyCollocationMeaning": "鼓起勇气"
+                }
+            ],
+            "synonymAnalysis": "courage（勇气，日常用语）与 bravoure（英勇，更书面/文学）、audace（大胆，冒险精神）的区别：courage 最常用；bravoure 偏英雄主义；audace 偏冒险、胆大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "courageux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "勇敢的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "courageusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "勇敢地"
+                }
+            ],
+            "pluralForm": "courages（少用）"
+        },
+        {
+            "index": "31",
+            "vocabulary": "reprendre",
+            "partOfSpeech": "vt.",
+            "definition": "①重新开始，恢复 ②再拿，再取 ③重新占领；纠正（某人）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "reprendre ses activités",
+                    "vocabularyCollocationMeaning": "恢复各项活动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "reprendre le travail",
+                    "vocabularyCollocationMeaning": "重返工作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "reprendre des forces",
+                    "vocabularyCollocationMeaning": "恢复体力"
+                }
+            ],
+            "synonymAnalysis": "reprendre（重新开始）与 recommencer（重新开始，更强调从头来过）的区别：reprendre 侧重「在中断后恢复」；recommencer 侧重「重头再来」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reprise",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "恢复；重播；复工"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je reprends, tu reprends, il reprend, nous reprenons, vous reprenez, ils reprennent",
+                "compoundPast": "j'ai repris",
+                "simpleFuture": "je reprendrai",
+                "memoryAids": "属于 prendre 类动词，变位与 prendre 完全相同，过去分词 repris（注意不是 *reprendu）。"
+            }
+        },
+        {
+            "index": "32",
+            "vocabulary": "activité",
+            "partOfSpeech": "n.f.",
+            "definition": "①活动，行动 ②职业，工作 ③活跃性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "activités sportives",
+                    "vocabularyCollocationMeaning": "体育活动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "reprendre ses activités",
+                    "vocabularyCollocationMeaning": "恢复活动"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en activité",
+                    "vocabularyCollocationMeaning": "在职的；活跃的"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "actif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "积极的，活跃的；在职的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "activement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "积极地，活跃地"
+                }
+            ],
+            "pluralForm": "activités"
+        },
+        {
+            "index": "33",
+            "vocabulary": "s'asseoir",
+            "partOfSpeech": "v.pron.",
+            "definition": "①坐下，就座",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'asseoir sur une chaise",
+                    "vocabularyCollocationMeaning": "坐在椅子上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Asseyez-vous!",
+                    "vocabularyCollocationMeaning": "请坐！（命令式）"
+                }
+            ],
+            "synonymAnalysis": "s'asseoir（坐下，动作）与 être assis（已坐着，状态）的区别：Il s'est assis（他坐下了，动作完成）；Il est assis（他坐着，状态）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je m'assieds / je m'assois, tu t'assieds / tu t'assois, il s'assied / il s'assoit, nous nous asseyons / nous nous assoyons, vous vous asseyez / vous vous assoyez, ils s'asseyent / ils s'assoient",
+                "compoundPast": "il s'est assis（助动词用 être，过去分词 assis 与主语性数一致）",
+                "simpleFuture": "je m'assiérai / je m'assoirai",
+                "memoryAids": "有两套变位形式（-ey- 和 -oy- 词干），两者均正确；命令式为 Assieds-toi / Asseyons-nous / Asseyez-vous；注意过去分词 assis（阴性 assise）。"
+            }
+        },
+        {
+            "index": "34",
+            "vocabulary": "chaise",
+            "partOfSpeech": "n.f.",
+            "definition": "①椅子（有靠背，无扶手）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'asseoir sur une chaise",
+                    "vocabularyCollocationMeaning": "坐在椅子上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chaise longue",
+                    "vocabularyCollocationMeaning": "躺椅"
+                }
+            ],
+            "synonymAnalysis": "chaise（普通椅子，无扶手）、fauteuil（扶手椅，单人沙发）、canapé（沙发，多人）的区别：考研中 fauteuil 也是常见词汇。",
+            "derivedWords": [],
+            "pluralForm": "chaises"
+        },
+        {
+            "index": "35",
+            "vocabulary": "oreille",
+            "partOfSpeech": "n.f.",
+            "definition": "①耳，耳朵 ②听力，听觉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal aux oreilles",
+                    "vocabularyCollocationMeaning": "耳朵痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tendre l'oreille",
+                    "vocabularyCollocationMeaning": "侧耳倾听"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de bouche à oreille",
+                    "vocabularyCollocationMeaning": "口耳相传"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "oreilles"
+        },
+        {
+            "index": "36",
+            "vocabulary": "ventre",
+            "partOfSpeech": "n.m.",
+            "definition": "①腹部，肚子 ②胃（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal au ventre",
+                    "vocabularyCollocationMeaning": "肚子痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à plat ventre",
+                    "vocabularyCollocationMeaning": "趴着；俯卧"
+                }
+            ],
+            "synonymAnalysis": "ventre（口语，腹部/肚子）与 abdomen（医学术语，腹部）、estomac（胃，解剖学上的胃）的区别：口语场合用 ventre 最常见。",
+            "derivedWords": [],
+            "pluralForm": "ventres"
+        },
+        {
+            "index": "37",
+            "vocabulary": "œil",
+            "partOfSpeech": "n.m.",
+            "definition": "①眼睛 ②目光，眼神",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir mal aux yeux",
+                    "vocabularyCollocationMeaning": "眼睛痛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'œil nu",
+                    "vocabularyCollocationMeaning": "用肉眼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "coup d'œil",
+                    "vocabularyCollocationMeaning": "一瞥；眼力"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "yeux（特殊复数，不规则，单数 œil → 复数 yeux）"
+        },
+        {
+            "index": "38",
+            "vocabulary": "ordonnance",
+            "partOfSpeech": "n.f.",
+            "definition": "①药方，处方 ②（法律/政治）法令，条例",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une ordonnance",
+                    "vocabularyCollocationMeaning": "开处方"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "médicament sur ordonnance",
+                    "vocabularyCollocationMeaning": "处方药"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans ordonnance",
+                    "vocabularyCollocationMeaning": "非处方（OTC）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "ordonnances"
+        },
+        {
+            "index": "39",
+            "vocabulary": "médicament",
+            "partOfSpeech": "n.m.",
+            "definition": "①药剂，药物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre des médicaments",
+                    "vocabularyCollocationMeaning": "服药"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "médicament sur ordonnance",
+                    "vocabularyCollocationMeaning": "处方药"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre un médicament avant le repas",
+                    "vocabularyCollocationMeaning": "饭前服药"
+                }
+            ],
+            "synonymAnalysis": "médicament（药物，日常通用词）与 remède（疗法，药方，偏书面或比喻用）、traitement（治疗方案，医学用语）的区别：考研中 remède 也常见。",
+            "derivedWords": [],
+            "pluralForm": "médicaments"
+        },
+        {
+            "index": "40",
+            "vocabulary": "quelqu'un",
+            "partOfSpeech": "pron.",
+            "definition": "①某人，有人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quelqu'un d'important",
+                    "vocabularyCollocationMeaning": "某个重要的人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelques-uns / quelques-unes",
+                    "vocabularyCollocationMeaning": "某些（人/物），一些"
+                }
+            ],
+            "synonymAnalysis": "quelqu'un（单数，指人）与 quelques-uns/quelques-unes（复数，指人或物）的区别：单数只指人；复数既可指人也可指物。区别于 on（泛指人，主语用）。",
+            "derivedWords": [],
+            "useExplanation": "用作主语或宾语，修饰时用 de + 形容词（quelqu'un de gentil：一个好人）。复数形式 quelques-uns（阳性）/ quelques-unes（阴性）可代替可数名词复数。"
+        },
+        {
+            "index": "41",
+            "vocabulary": "soigner",
+            "partOfSpeech": "vt.",
+            "definition": "①治疗，医治 ②照料，护理 ③精心打磨（工作等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "soigner un malade",
+                    "vocabularyCollocationMeaning": "治疗病人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se soigner",
+                    "vocabularyCollocationMeaning": "自我照料；接受治疗"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "soigner son travail",
+                    "vocabularyCollocationMeaning": "认真做好工作"
+                }
+            ],
+            "synonymAnalysis": "soigner（治疗/照料）与 guérir（使痊愈，治好）的区别：soigner 强调治疗的过程；guérir 强调痊愈的结果（guérir qqn：治好某人）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "soin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "护理；关心；注意"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "soigneux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "细心的，认真的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Philippe vient de passer une mauvaise nuit. Il s'est levé avec difficulté, car il avait un violent mal à la tête et une forte fièvre. Sa femme a tout de suite téléphoné au médecin. Le docteur Masson est arrivé dans la matinée; il a examiné le malade et lui a écouté les poumons sur la poitrine et dans le dos. Pas de doute, il s'agissait d'une grippe. — Il faut la faire baisser rapidement, a dit le médecin. Vous allez reprendre toutes vos activités dans une semaine, si vous vous soignez bien.",
+            "chineseTranslation": "菲利普刚刚度过了一个难熬的夜晚。他艰难地起了床，因为头痛剧烈，还在发高烧。妻子立刻给医生打了电话。马松医生上午便来了，他检查了病人，并在胸部和背部仔细听诊了肺部。毫无疑问，这是流感。“必须赶快把烧退下去，”医生说道，“只要好好调养，一个星期后您就能恢复正常生活了。”",
+            "fr2cnStrategy": "① vient de passer 近过去时译为「刚刚度过」，突出时态的「刚刚完成」意义。② il s'est levé avec difficulté 中 avec difficulté 为方式状语，译为「艰难地」，体现词性转换（介词短语 → 副词）。③ il s'agissait d'une grippe 非人称结构，避免逐词译为「它涉及一场流感」，自然译为「这是流感」。④ il faut la faire baisser 使役结构拆译为「把烧退下去」，la 指代 fièvre，翻译时显化为「烧」。⑤ si vous vous soignez bien 条件从句处理为「只要好好调养」，比「如果您好好照料自己」更符合汉语医嘱语气。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他头痛得厉害，不得不决定去看医生。",
+                "frenchTranslation": "Il avait un violent mal à la tête, si bien qu'il a dû se décider à consulter un médecin.",
+                "cn2frStrategy": "① 「头痛得厉害」用固定搭配 avoir un violent mal à la tête，violent 前置强调程度。② 「不得不」用 devoir（il a dû），表示义务。③ 「决定去看医生」用 se décider à + inf.，强调经过犹豫的决定；consulter un médecin 为就诊的正式表达。④ 「以至于」关系用 si bien que 引导结果从句，体现逻辑显化。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "毫无疑问，您需要吃几种药，并在饭前服用。",
+                "frenchTranslation": "Pas de doute, il vous en faut quelques-uns et vous devez les prendre avant le repas.",
+                "cn2frStrategy": "① 「毫无疑问」直接用课文固定表达 Pas de doute。② 「需要吃几种药」用 il en faut quelques-uns，en 代替 médicaments，quelques-uns 为阳性复数不定代词。③ 「饭前服用」用 prendre avant le repas，注意 avant le repas 为固定医嘱搭配。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "医生坐到椅子上，问他是否耳朵和肚子也痛。",
+                "frenchTranslation": "Le médecin s'est assis sur une chaise et lui a demandé s'il avait également mal aux oreilles et au ventre.",
+                "cn2frStrategy": "① s'asseoir sur une chaise 为代词式动词，复合过去时助动词用 être：s'est assis。② 「问他是否……」用间接疑问句 demander si + 从句，从句时态用未完成过去时（aller/avoir mal 发生在问的时刻）。③ 「耳朵和肚子」用 avoir mal à + 定冠词 + 身体部位，注意缩合冠词：aux oreilles, au ventre。④ également（也）用于两者并列，避免用 aussi（also）的口语化。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "一周之内，您就能重返工作，恢复所有的日常活动。",
+                "frenchTranslation": "Dans une semaine, vous pourrez retourner au travail et reprendre toutes vos activités habituelles.",
+                "cn2frStrategy": "① 「一周之内」用 dans une semaine（表示从现在起多久之后），而非 en une semaine（表示耗时多久）。② 「能够」用 pouvoir 的简单将来时 pourrez，体现预期和可能性。③ 「重返工作」用 retourner au travail，「恢复活动」用 reprendre ses activités，均为课文核心搭配。④ 「日常的」译为 habituelles（形容词后置），而非 quotidiennes（更强调每日），此处语义更符合「惯常的各种活动」。"
+            }
+        ]
+    }
+}

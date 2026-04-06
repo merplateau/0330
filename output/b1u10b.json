@@ -1,0 +1,935 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Tu te sentiras mieux si tu changes tes habitudes alimentaires.",
+            "translatedSentence": "如果你改变饮食习惯，你会感觉好多了。",
+            "sentenceStructure": "主句为 Tu te sentiras mieux，si 引导条件状语从句 si tu changes tes habitudes alimentaires。",
+            "grammarAnalysis": "① si 引导真实条件句，主句用简单将来时 sentiras，从句用现在时 changes，这是法语条件句的标准时态搭配。② se sentir mieux 为代词式动词表达，意为“感觉好些“。③ habitudes alimentaires 为名词短语，alimentaires 为后置形容词。",
+            "commonMistakes": "真实条件句中，si 从句不可用将来时，学生常误写为 si tu changeras，正确形式为现在时 changes。注意 se sentir 是代词式动词，不可省略代词 te。"
+        },
+        {
+            "index": "2",
+            "sentence": "Tout d'abord, il faut avoir une alimentation équilibrée et faire trois repas par jour.",
+            "translatedSentence": "首先，必须保持均衡饮食，并且每天吃三顿饭。",
+            "sentenceStructure": "主语为非人称主语 il，谓语为 il faut，后接两个并列不定式短语 avoir une alimentation équilibrée 和 faire trois repas par jour。",
+            "grammarAnalysis": "① il faut + 不定式，非人称句型，表示“必须……“，相当于 on doit。② Tout d'abord 为副词短语，表列举顺序“首先“。③ par jour 表频率“每天“，是固定介词搭配。",
+            "commonMistakes": "il faut 后直接跟不定式，不加 de；不可写为 il faut d'avoir。注意 par jour / par semaine 表频率时，冠词用 par 而非 à。"
+        },
+        {
+            "index": "3",
+            "sentence": "On oublie souvent le petit déjeuner, il est pourtant important et il apporte 25% des besoins alimentaires de la journée.",
+            "translatedSentence": "人们往往忽视早餐，然而它非常重要，能提供一天25%的营养需求。",
+            "sentenceStructure": "两个并列主句：① On oublie souvent le petit déjeuner；② il est pourtant important et il apporte 25% des besoins alimentaires de la journée。第二个主句内部含并列结构 est important 和 apporte 25%...。",
+            "grammarAnalysis": "① pourtant 为转折副词，意为“然而、可是“，置于谓语前强调对比。② apporter + 数量表达，意为“提供、带来“某比例或数量。③ de la journée 为限定性介词短语，修饰 besoins，意为“一天的（需求）“。",
+            "commonMistakes": "pourtant 与 cependant、néanmoins 同为转折副词，但 pourtant 更口语化；三者不可置于句首后直接接逗号（不同于 cependant）。注意 il 指代 le petit déjeuner，是阳性代词。"
+        },
+        {
+            "index": "4",
+            "sentence": "Chaque jour, tu dois manger un plat de viande ou de poisson avec des légumes, un produit laitier et un fruit à chaque repas.",
+            "translatedSentence": "每天，你每顿饭都应该吃一道肉菜或鱼菜配蔬菜，还要有一种乳制品和一个水果。",
+            "sentenceStructure": "主句为 tu dois manger，后接三个并列宾语：un plat de viande ou de poisson avec des légumes、un produit laitier、un fruit；时间状语 Chaque jour 和 à chaque repas 分别置于句首和句末。",
+            "grammarAnalysis": "① devoir + 不定式表义务“应该、必须“。② un plat de viande / de poisson 中 de 为部分冠词性介词，表类别。③ à chaque repas 为时间状语，chaque 后接单数名词，不加冠词。",
+            "commonMistakes": "注意 un plat de viande 和 un verre d'eau 的结构差异：de 后接具体材质/内容时不用冠词。学生易将 à chaque repas 误写为 à chaque le repas，chaque 后直接跟名词，无需冠词。"
+        },
+        {
+            "index": "5",
+            "sentence": "Ne mets pas trop de sel dans tes plats, c'est très mauvais pour le cœur !",
+            "translatedSentence": "不要在菜里放太多盐，这对心脏非常有害！",
+            "sentenceStructure": "第一个分句为否定命令句 Ne mets pas trop de sel dans tes plats；第二个分句 c'est très mauvais pour le cœur 为解释性主句，c'est 指代前文所述行为。",
+            "grammarAnalysis": "① 否定命令式：ne + 动词（tu 的命令式形式，-er 动词去 -s）+ pas。② trop de + 不可数名词，表示“太多的……“，de 后不加冠词。③ mauvais pour + 名词，表示“对……有害“，是固定搭配。",
+            "commonMistakes": "否定命令句中 trop de 后接不可数名词时不加冠词，不可写为 trop du sel。注意 mettre de sel 和 mettre du sel 的区别：前者不自然，后者才是正常表达；但 trop de 后必须去冠词。"
+        },
+        {
+            "index": "6",
+            "sentence": "Mais alors mes repas vont me sembler très tristes !",
+            "translatedSentence": "那这样的话，我的饭菜多没劲啊！",
+            "sentenceStructure": "主句为 mes repas vont me sembler très tristes，动词为近将来时 vont sembler，me 为间接宾语代词。",
+            "grammarAnalysis": "① aller + 不定式构成近将来时，表示即将发生的动作或状态。② sembler + 形容词，意为“显得、好像“，此处 me sembler 表示“在我看来显得“，me 为间接宾语。③ triste 作表语，修饰 mes repas。",
+            "commonMistakes": "sembler 与 paraître 均可表示“看起来“，但 sembler 更主观、口语化；paraître 相对书面。注意 me sembler 中 me 是间接宾语（à moi），不可省略。"
+        },
+        {
+            "index": "7",
+            "sentence": "Tu peux préparer de jolis plats, riche en couleurs.",
+            "translatedSentence": "你可以做一些漂亮的菜肴，色彩丰富。",
+            "sentenceStructure": "主句为 Tu peux préparer de jolis plats，riche en couleurs 为后置形容词短语，修饰 plats。",
+            "grammarAnalysis": "① de jolis plats：形容词 jolis 前置于名词，属于 BAGS 类形容词（beauty），前置形容词后名词复数时冠词 des 变为 de。② riche en + 名词，固定搭配“富含……，富有……“。③ pouvoir + 不定式表许可或可能性。",
+            "commonMistakes": "前置形容词修饰复数名词时，不定冠词 des 须变为 de（de jolis plats，而非 des jolis plats），这是学生高频出错点。"
+        },
+        {
+            "index": "8",
+            "sentence": "N'oublie pas de boire beaucoup d'eau, plus d'un litre par jour.",
+            "translatedSentence": "别忘了多喝水，每天要超过一升。",
+            "sentenceStructure": "主句为否定命令句 N'oublie pas de boire beaucoup d'eau，plus d'un litre par jour 为补充说明的数量状语。",
+            "grammarAnalysis": "① oublier de + 不定式，意为“忘记做某事“，否定命令式 N'oublie pas de。② beaucoup de + 不可数名词，de 后不加冠词。③ plus de + 数字，意为“超过……，多于……“，为比较结构。④ par jour 表频率。",
+            "commonMistakes": "oublier de faire qch.（忘记做）与 oublier que + 从句（忘记……这件事）结构不同，不可混用。注意 plus d'un litre 中 de 后不加冠词，不可写为 plus d'un litre。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "se guérir de qch.",
+            "meaning": "从……中痊愈，康复",
+            "usage": "代词式动词，固定搭配介词 de，后接疾病名称。主动用法 guérir qn. de qch. 意为“治好某人的……“。",
+            "exampleSentence": "Pierre vient de se guérir d'un rhume."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "donner des conseils à qn.",
+            "meaning": "给某人提建议",
+            "usage": "固定搭配，conseil 常用复数 des conseils；介词用 à 引出对象。单数 un conseil 指一条具体建议。",
+            "exampleSentence": "Son ami Alain, médecin, lui donne des conseils."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "avoir faim",
+            "meaning": "感到饥饿",
+            "usage": "固定表达，faim 前不加冠词；程度用 très / un peu 修饰，不用 beaucoup。类比：avoir soif（渴），avoir froid（冷），avoir chaud（热）。",
+            "exampleSentence": "Le matin, je n'ai vraiment pas faim."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "avoir une alimentation équilibrée",
+            "meaning": "保持均衡饮食",
+            "usage": "固定表达，alimentation 泛指饮食结构，équilibrée 后置修饰。",
+            "exampleSentence": "Il faut avoir une alimentation équilibrée et faire trois repas par jour."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "faire + repas",
+            "meaning": "吃（某顿饭）",
+            "usage": "faire un repas / faire trois repas par jour。faire 在此表“进行、完成“某活动。par jour 表“每天“，par 引导频率状语。",
+            "exampleSentence": "Il faut faire trois repas par jour."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "apporter + 数量/比例",
+            "meaning": "提供（某数量/比例）",
+            "usage": "apporter 作“提供、带来“解时，后接具体数量或比例，常用于营养、能量等领域。",
+            "exampleSentence": "Il apporte 25% des besoins alimentaires de la journée."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "éviter de faire qch.",
+            "meaning": "避免做某事",
+            "usage": "éviter + 不定式时须加 de；éviter + 名词时直接跟名词，如 éviter les matières grasses。两种结构须区分。",
+            "exampleSentence": "Il faut éviter les matières grasses."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "mettre qch. dans qch.",
+            "meaning": "把……放入……",
+            "usage": "mettre 表放置，介词 dans 引出容器或位置。此处 mettre du sel dans les plats 表“往菜里加盐“。",
+            "exampleSentence": "Ne mets pas trop de sel dans tes plats."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "riche en + n.",
+            "meaning": "富含……，富有……",
+            "usage": "固定搭配，en 后直接跟名词，不加冠词。可修饰食物（riche en vitamines）或抽象概念（riche en couleurs）。",
+            "exampleSentence": "Tu peux préparer de jolis plats, riche en couleurs."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "sembler + adj. à qn.",
+            "meaning": "在某人看来显得……",
+            "usage": "sembler 后接形容词作表语；加间接宾语代词 me/te/lui 等表示主观感受“在某人看来“。书面语可用 paraître 替换。",
+            "exampleSentence": "Mes repas vont me sembler très tristes."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "oublier de faire qch.",
+            "meaning": "忘记做某事",
+            "usage": "oublier de + 不定式；区别于 oublier que + 从句（忘记某事实）。否定命令式常用：N'oublie pas de faire qch.（别忘了做……）。",
+            "exampleSentence": "N'oublie pas de boire beaucoup d'eau."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "boire un verre de + boisson",
+            "meaning": "喝一杯……",
+            "usage": "固定量词结构，un verre de 后接液体名词，不加冠词。类比：une tasse de café，une bouteille d'eau。",
+            "exampleSentence": "Tu peux quand même boire un verre de vin à chaque repas."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "alcool",
+            "partOfSpeech": "n.m.",
+            "definition": "①酒精；烧酒 ②（泛指）含酒精饮料",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boire de l'alcool",
+                    "vocabularyCollocationMeaning": "喝酒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans alcool",
+                    "vocabularyCollocationMeaning": "无酒精的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "alcool à brûler",
+                    "vocabularyCollocationMeaning": "燃烧酒精"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "alcoolique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "含酒精的；酗酒的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "alcoolisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "酗酒，酒精中毒"
+                }
+            ],
+            "pluralForm": "alcools"
+        },
+        {
+            "index": "2",
+            "vocabulary": "cigarette",
+            "partOfSpeech": "n.f.",
+            "definition": "香烟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fumer une cigarette",
+                    "vocabularyCollocationMeaning": "抽一支烟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un paquet de cigarettes",
+                    "vocabularyCollocationMeaning": "一包香烟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cigarettes"
+        },
+        {
+            "index": "3",
+            "vocabulary": "conseil",
+            "partOfSpeech": "n.m.",
+            "definition": "①建议，忠告 ②（机构）委员会，理事会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "donner des conseils à qn.",
+                    "vocabularyCollocationMeaning": "给某人提建议"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demander conseil à qn.",
+                    "vocabularyCollocationMeaning": "向某人征求意见"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "suivre le conseil de qn.",
+                    "vocabularyCollocationMeaning": "听从某人的建议"
+                }
+            ],
+            "synonymAnalysis": "conseil vs avis：conseil 侧重具体行动建议；avis 更偏向个人看法或意见（donner son avis 表“发表意见“）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建议，劝告"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "顾问，参谋"
+                }
+            ],
+            "pluralForm": "conseils"
+        },
+        {
+            "index": "4",
+            "vocabulary": "guérir",
+            "partOfSpeech": "vt.",
+            "definition": "①治愈，使康复 ②（vi.）痊愈，康复",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "guérir qn. de qch.",
+                    "vocabularyCollocationMeaning": "治好某人的（疾病）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se guérir de qch.",
+                    "vocabularyCollocationMeaning": "从……中痊愈"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "guérir d'une maladie",
+                    "vocabularyCollocationMeaning": "从疾病中康复"
+                }
+            ],
+            "synonymAnalysis": "guérir vs soigner：soigner 指“治疗、护理“（过程），guérir 指“治愈“（结果）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "guérison",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "痊愈，康复"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "guérissable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可治愈的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "rhume",
+            "partOfSpeech": "n.m.",
+            "definition": "感冒，伤风",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir un rhume",
+                    "vocabularyCollocationMeaning": "感冒了"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attraper un rhume",
+                    "vocabularyCollocationMeaning": "染上感冒"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "guérir d'un rhume",
+                    "vocabularyCollocationMeaning": "从感冒中康复"
+                }
+            ],
+            "synonymAnalysis": "rhume 指普通感冒（鼻塞流涕）；grippe 指流行性感冒（症状更重，发烧等）。两者不可混用。",
+            "derivedWords": [],
+            "pluralForm": "rhumes"
+        },
+        {
+            "index": "6",
+            "vocabulary": "alimentation",
+            "partOfSpeech": "n.f.",
+            "definition": "①饮食，食物 ②（泛指）食品供应",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "alimentation équilibrée",
+                    "vocabularyCollocationMeaning": "均衡饮食"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "alimentation saine",
+                    "vocabularyCollocationMeaning": "健康饮食"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "magasin d'alimentation",
+                    "vocabularyCollocationMeaning": "食品店"
+                }
+            ],
+            "synonymAnalysis": "alimentation vs nourriture：alimentation 更正式，偏向饮食结构或食物供给体系；nourriture 更口语，泛指食物本身。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "alimentaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "饮食的，食品的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "alimenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "供养；为……提供食物"
+                }
+            ],
+            "pluralForm": "alimentations"
+        },
+        {
+            "index": "7",
+            "vocabulary": "équilibré",
+            "partOfSpeech": "adj.",
+            "definition": "①平衡的，均衡的 ②心理稳定的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "alimentation équilibrée",
+                    "vocabularyCollocationMeaning": "均衡饮食"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "régime équilibré",
+                    "vocabularyCollocationMeaning": "均衡膳食"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "personnalité équilibrée",
+                    "vocabularyCollocationMeaning": "性格平稳的人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "équilibre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "平衡，均衡"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "équilibrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使平衡，调节"
+                }
+            ],
+            "genderNumberVariation": "阴性 équilibrée，复数阳性 équilibrés，复数阴性 équilibrées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "8",
+            "vocabulary": "pourtant",
+            "partOfSpeech": "adv.",
+            "definition": "然而，可是，但是",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il est pourtant important",
+                    "vocabularyCollocationMeaning": "然而它很重要"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pourtant + 句子",
+                    "vocabularyCollocationMeaning": "表转折，强调对比"
+                }
+            ],
+            "synonymAnalysis": "pourtant vs cependant vs néanmoins：三者均表转折。pourtant 最口语化，语气强烈；cependant 较正式，可置于句首；néanmoins 最书面，常用于让步后的转折。",
+            "derivedWords": [],
+            "useExplanation": "pourtant 通常置于谓语之前或句中，起强调转折作用；不可直接置于句首后跟逗号（区别于 cependant）。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "apporter",
+            "partOfSpeech": "vt.",
+            "definition": "①带来，送来 ②提供，带给",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apporter qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物带给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "apporter des changements",
+                    "vocabularyCollocationMeaning": "带来变化"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "apporter une solution",
+                    "vocabularyCollocationMeaning": "提供解决方案"
+                }
+            ],
+            "synonymAnalysis": "apporter vs amener vs emmener：apporter 指带来物；amener 指带来人（到说话者处）；emmener 指带走人（离开说话者）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "faim",
+            "partOfSpeech": "n.f.",
+            "definition": "饥饿，饿感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir faim",
+                    "vocabularyCollocationMeaning": "感到饥饿"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mourir de faim",
+                    "vocabularyCollocationMeaning": "饿死；非常饿（口语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "donner faim à qn.",
+                    "vocabularyCollocationMeaning": "让某人感到饥饿"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "faims（罕用）"
+        },
+        {
+            "index": "11",
+            "vocabulary": "santé",
+            "partOfSpeech": "n.f.",
+            "definition": "①身体；健康 ②（祝酒语）干杯",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être en bonne santé",
+                    "vocabularyCollocationMeaning": "身体好，健康"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mauvais pour la santé",
+                    "vocabularyCollocationMeaning": "对健康有害"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "À votre santé !",
+                    "vocabularyCollocationMeaning": "（敬酒）祝您健康！干杯！"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sanitaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "卫生的，保健的"
+                }
+            ],
+            "pluralForm": "santés（罕用）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "autant",
+            "partOfSpeech": "adv.",
+            "definition": "①同样多，同等程度 ②那么多，如此多",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger autant",
+                    "vocabularyCollocationMeaning": "吃那么多"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "autant que",
+                    "vocabularyCollocationMeaning": "和……一样多"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "d'autant plus que",
+                    "vocabularyCollocationMeaning": "尤其是因为……"
+                }
+            ],
+            "synonymAnalysis": "autant vs tant：autant 用于比较（autant que），tant 表示程度“如此“（tant de travail）。",
+            "derivedWords": [],
+            "useExplanation": "autant 单独使用时表示“那么多“（Je ne mange jamais autant.）；后接 que 构成等量比较（autant que lui）；注意 autant de + 名词（autant de travail）表数量。"
+        },
+        {
+            "index": "13",
+            "vocabulary": "éviter",
+            "partOfSpeech": "vt.",
+            "definition": "①避免，避开 ②使（某人）免于",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "éviter qch.",
+                    "vocabularyCollocationMeaning": "避开某事/物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "éviter de faire qch.",
+                    "vocabularyCollocationMeaning": "避免做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "éviter à qn. de faire qch.",
+                    "vocabularyCollocationMeaning": "使某人免于做某事"
+                }
+            ],
+            "synonymAnalysis": "éviter vs fuir：éviter 指主动回避某事或某物；fuir 更强调逃跑或逃避（逃离危险）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "matière",
+            "partOfSpeech": "n.f.",
+            "definition": "①物质，材料 ②内容，题材 ③（学校）科目",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "matières grasses",
+                    "vocabularyCollocationMeaning": "脂肪，油脂（食物中）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "matière première",
+                    "vocabularyCollocationMeaning": "原材料"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en matière de",
+                    "vocabularyCollocationMeaning": "在……方面"
+                }
+            ],
+            "synonymAnalysis": "matière vs substance：matière 更通用；substance 更偏向化学或科学语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "matériel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "物质的，实物的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "matériel",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "设备，器材"
+                }
+            ],
+            "pluralForm": "matières"
+        },
+        {
+            "index": "15",
+            "vocabulary": "gras",
+            "partOfSpeech": "adj.",
+            "definition": "①脂肪的，油脂的 ②肥胖的 ③（食物）油腻的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "matières grasses",
+                    "vocabularyCollocationMeaning": "脂肪，油脂"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "corps gras",
+                    "vocabularyCollocationMeaning": "油脂类物质"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire la grasse matinée",
+                    "vocabularyCollocationMeaning": "睡懒觉"
+                }
+            ],
+            "synonymAnalysis": "gras vs gros：gras 侧重含油脂多或油腻；gros 侧重体积大、体重重。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "graisse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "脂肪；油脂"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "graisser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "涂油；润滑"
+                }
+            ],
+            "genderNumberVariation": "阴性 grasse，复数阳性 gras，复数阴性 grasses",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "16",
+            "vocabulary": "sel",
+            "partOfSpeech": "n.m.",
+            "definition": "①盐 ②（比喻）机智，妙趣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre du sel dans qch.",
+                    "vocabularyCollocationMeaning": "在……里放盐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "trop de sel",
+                    "vocabularyCollocationMeaning": "太多盐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sel de mer",
+                    "vocabularyCollocationMeaning": "海盐"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "salé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "咸的；加了盐的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "saler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加盐；腌制"
+                }
+            ],
+            "pluralForm": "sels"
+        },
+        {
+            "index": "17",
+            "vocabulary": "fumer",
+            "partOfSpeech": "vi./vt.",
+            "definition": "①（vi.）吸烟；冒烟 ②（vt.）抽（烟）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fumer une cigarette",
+                    "vocabularyCollocationMeaning": "抽一支烟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "défense de fumer",
+                    "vocabularyCollocationMeaning": "禁止吸烟"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fumer trop",
+                    "vocabularyCollocationMeaning": "抽烟过多"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fumeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "吸烟者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fumée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "烟，烟雾"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "croire",
+            "partOfSpeech": "vt.",
+            "definition": "①相信，认为 ②信仰",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "croire qn.",
+                    "vocabularyCollocationMeaning": "相信某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "croire que + 陈述句",
+                    "vocabularyCollocationMeaning": "认为……，相信……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "croire à qch.",
+                    "vocabularyCollocationMeaning": "相信（某事存在或有价值）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "croire en qn.",
+                    "vocabularyCollocationMeaning": "信任某人（宗教/信仰义）"
+                }
+            ],
+            "synonymAnalysis": "croire vs penser：croire 强调主观信念或信仰；penser 偏重思考判断。croire que 后接否定句从句时，从句动词可用虚拟式（考研常考点）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "croyance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "信仰，信念"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "croyant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "信徒，有宗教信仰者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je crois, tu crois, il croit, nous croyons, vous croyez, ils croient",
+                "compoundPast": "j'ai cru",
+                "simpleFuture": "je croirai",
+                "imperfect": "je croyais（词干 croy- 特殊）",
+                "presentSubjunctive": "que je croie, que tu croies, qu'il croie, que nous croyions, que vous croyiez, qu'ils croient",
+                "memoryAids": "croire 的复数词干为 croy-（croyons, croyez），单数及第三人称复数词干为 croi-（croient）；与 voir 变位规律相似但不完全相同。"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "sembler",
+            "partOfSpeech": "vi.",
+            "definition": "好像，仿佛；显得，看来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sembler + adj.",
+                    "vocabularyCollocationMeaning": "显得……，看起来……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il me semble que",
+                    "vocabularyCollocationMeaning": "在我看来……，我觉得……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sembler + infinitif",
+                    "vocabularyCollocationMeaning": "好像要做……"
+                }
+            ],
+            "synonymAnalysis": "sembler vs paraître：两者均表“看起来“。sembler 更口语、主观；paraître 更书面，常用于客观描述外表。il me semble que（我觉得）vs il me paraît que（在我看来似乎）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "riche",
+            "partOfSpeech": "adj.",
+            "definition": "①富的，富有的 ②（食物）油腻的，营养丰富的 ③丰富的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "riche en + n.",
+                    "vocabularyCollocationMeaning": "富含……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un pays riche",
+                    "vocabularyCollocationMeaning": "富裕国家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "riche de + n.",
+                    "vocabularyCollocationMeaning": "充满……（较正式）"
+                }
+            ],
+            "synonymAnalysis": "riche en vs riche de：riche en 更口语常用（riche en vitamines）；riche de 更书面（riche de sens，意蕴丰富）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "richesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "财富；丰富"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enrichir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使富有；使丰富"
+                }
+            ],
+            "genderNumberVariation": "复数 riches（阴阳性同形）",
+            "position": "通常置于名词之后；前置时含轻微感情色彩（强调丰盛）"
+        },
+        {
+            "index": "21",
+            "vocabulary": "litre",
+            "partOfSpeech": "n.m.",
+            "definition": "升（容量计量单位）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un litre d'eau",
+                    "vocabularyCollocationMeaning": "一升水"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plus d'un litre par jour",
+                    "vocabularyCollocationMeaning": "每天超过一升"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "litres"
+        },
+        {
+            "index": "22",
+            "vocabulary": "essayer",
+            "partOfSpeech": "vt./vi.",
+            "definition": "①试验，尝试 ②试穿，试用",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "essayer de faire qch.",
+                    "vocabularyCollocationMeaning": "试图做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "essayer un vêtement",
+                    "vocabularyCollocationMeaning": "试穿一件衣服"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bon, je vais essayer",
+                    "vocabularyCollocationMeaning": "好吧，我试试看"
+                }
+            ],
+            "synonymAnalysis": "essayer de vs tenter de：essayer de 更日常口语；tenter de 更正式，且常含“冒险一试“之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "essai",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "试验；尝试；（文学）散文"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'essaie/j'essaye, tu essaies/essayes, il essaie/essaye, nous essayons, vous essayez, ils essaient/essayent",
+                "compoundPast": "j'ai essayé",
+                "simpleFuture": "j'essaierai / j'essayerai（两种形式均可）",
+                "memoryAids": "essayer 属于 -ayer 类动词，y 在哑音节前可变为 i（j'essaie）或保留 y（j'essaye），两种拼写均正确，考研中两者均可接受。"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Pierre vient de se guérir d'un rhume. Son médecin lui donne des conseils pour améliorer sa santé. Tout d'abord, il faut avoir une alimentation équilibrée et faire trois repas par jour, car le petit déjeuner, souvent oublié, apporte pourtant 25% des besoins alimentaires de la journée. Il faut aussi éviter les matières grasses et ne pas mettre trop de sel dans les plats, car c'est très mauvais pour le cœur. Enfin, n'oublie pas de boire plus d'un litre d'eau par jour.",
+            "chineseTranslation": "皮埃尔刚刚从感冒中痊愈。他的医生给他提了一些改善健康的建议。首先，要保持均衡饮食，每天吃三顿饭——早餐虽然常被人忽视，却能提供一天25%的营养需求。此外，还应避免摄入油脂类食物，炒菜时也不要放太多盐，因为这对心脏非常有害。最后，别忘了每天喝超过一升的水。",
+            "fr2cnStrategy": "① vient de se guérir d'un rhume 用“刚刚从感冒中痊愈“表达，近过去时译为“刚刚“，属时态显化；② pour améliorer sa santé 的目的不定式短语转换为名词定语“改善健康的“；③ car le petit déjeuner, souvent oublié, apporte pourtant... 将插入语 souvent oublié 拆出，译为转折分句“虽然常被人忽视，却……“，属语序调整与拆句；④ ne pas mettre trop de sel dans les plats 转换为“炒菜时不要放太多盐“，将 dans les plats 意译为时间/场景状语，更符合中文习惯；⑤ plus d'un litre 译为“超过一升“，属直译，无需调整。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "你应该改变饮食习惯，每天吃三顿饭，尤其不能不吃早饭。",
+                "frenchTranslation": "Tu devrais changer tes habitudes alimentaires, faire trois repas par jour et surtout ne pas sauter le petit déjeuner.",
+                "cn2frStrategy": "① “应该“用条件式 devrais，语气比 dois 更委婉；② “不能不吃早饭“用 ne pas sauter le petit déjeuner（sauter 表“跳过、略去“），比 ne pas manger 更地道；③ 三个并列动作用逗号和 et 连接，结构清晰。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "吃太多油腻的食物对心脏有害，你应该尽量避免。",
+                "frenchTranslation": "Manger trop de matières grasses est mauvais pour le cœur, tu devrais les éviter autant que possible.",
+                "cn2frStrategy": "① 主语“吃太多油腻的食物“用不定式短语 Manger trop de matières grasses 作主语；② “对心脏有害“用固定搭配 mauvais pour le cœur；③ “尽量“译为 autant que possible，为固定副词表达；④ les 代指 matières grasses，避免重复。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "在我看来，一顿没有蔬菜和水果的饭显得毫无生机。",
+                "frenchTranslation": "Il me semble qu'un repas sans légumes ni fruits me paraît vraiment triste.",
+                "cn2frStrategy": "① “在我看来“用 il me semble que 引导主语从句；② “没有……和……“用 sans + 名词，两个以上并列时用 sans A ni B；③ “显得毫无生机“译为 paraître triste，triste 作表语形容词，呼应课文表达。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "医生建议他每天喝超过一升的水，并且戒烟戒酒。",
+                "frenchTranslation": "Le médecin lui conseille de boire plus d'un litre d'eau par jour et d'arrêter de fumer et de boire de l'alcool.",
+                "cn2frStrategy": "① “建议某人做某事“用 conseiller à qn. de faire qch.，注意双重介词结构；② “戒烟“用 arrêter de fumer；“戒酒“用 arrêter de boire de l'alcool；③ 两个并列不定式用 et de + 不定式连接，de 不可省略；④ plus d'un litre 为固定量词结构，par jour 表频率。"
+            }
+        ]
+    }
+}
