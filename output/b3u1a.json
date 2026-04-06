@@ -1,0 +1,1651 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Quoique les Français aiment manger, le temps de l'assiette lourde est fini: elle a cédé la place aux plats individuels et faciles à préparer, car la société a changé.",
+            "translatedSentence": "尽管法国人喜欢美食，但油腻饮食的时代已经结束：它已被个人份量且易于准备的菜肴所取代，因为社会已经发生了变化。",
+            "sentenceStructure": "主句为 le temps de l'assiette lourde est fini，冒号后引出解释性分句 elle a cédé la place aux plats individuels et faciles à préparer，最后由 car 引导原因状语从句 la société a changé。句首由 Quoique 引导让步状语从句。",
+            "grammarAnalysis": "① Quoique 引导让步状语从句，理论上要求虚拟式，但此处课文用了直陈式 aiment，属于口语化或作者风格处理。② cédé la place à qch. 为固定搭配，意为“让位于……，被……取代“。③ faciles à préparer 中 à + 不定式作后置定语修饰 plats，表示“易于……“。④ car 引导原因从句，语气较肯定，常用于书面语，不可置于句首。",
+            "commonMistakes": "① Quoique 与 bien que 均引导让步从句且要求虚拟式，注意与 quoi que（无论什么）区分。② facile à faire（形容词 + à + 不定式）与 facile de faire（il est facile de...）结构不同，前者形容具体对象，后者多用于泛指。③ car 不可置于句首，这一点常与 parce que 混淆。"
+        },
+        {
+            "index": "2",
+            "sentence": "En 1950, une femme passait quatre heures dans la cuisine par jour. Aujourd'hui, elle n'y reste que quarante minutes, à l'aide du réfrigérateur et du four moderne.",
+            "translatedSentence": "1950年，一个女人每天要在厨房里待上四个小时。如今，借助冰箱和现代烤箱，她只需待四十分钟。",
+            "sentenceStructure": "两个独立句。第一句：主语 une femme，谓语 passait（未完成过去时），宾语 quatre heures，状语 dans la cuisine / par jour。第二句：主语 elle，谓语 ne reste que（限制性否定），副词代词 y 指代 dans la cuisine，状语 à l'aide du réfrigérateur et du four moderne。",
+            "grammarAnalysis": "① 第一句用未完成过去时 passait，表示过去习惯性动作。② ne...que 为限制性结构，意为“只……“，不是否定，而是限定。③ 副词代词 y 代替 dans la cuisine，避免重复。④ à l'aide de 为固定介词短语，意为“借助……“。",
+            "commonMistakes": "① ne...que 常被误解为否定结构，实为限制性肯定，不可与 ne...pas 混用。② y 的位置须在动词前（助动词前），初学者常错置于句尾。③ par jour（每天）不可写作 pour un jour。"
+        },
+        {
+            "index": "3",
+            "sentence": "Cette mode alimentaire signifie une technologie avancée, même de pointe, elle laisse pourtant un sentiment d'inquiétude, comme si on n'en avait pas pour son argent.",
+            "translatedSentence": "这种饮食方式意味着先进甚至尖端的技术，然而它仍然让人感到不安，仿佛花了不少钱却没吃到什么好东西。",
+            "sentenceStructure": "并列复合句。前半句主语 Cette mode alimentaire，谓语 signifie，宾语 une technologie avancée, même de pointe。后半句主语 elle，谓语 laisse，宾语 un sentiment d'inquiétude，后跟 comme si 引导的比较状语从句。",
+            "grammarAnalysis": "① même de pointe 为插入语，加强语气，pointe 作名词用于固定搭配 de pointe，意为“尖端的“。② pourtant 为转折副词，位于谓语前，意为“然而，尽管如此“。③ comme si 引导方式比较从句，动词用条件式或未完成过去时，此处用 avait（未完成过去时）。④ en 为中性代词，指代前文的饮食/食物，n'en avait pas pour son argent 意为“花钱不值“。",
+            "commonMistakes": "① comme si 后必须用未完成过去时（条件现在时参照过去情形）或愈过去时，不可用现在时。② en 的指代对象需结合上下文判断，此处 n'en avait pas pour son argent 是固定表达，不可拆散理解。"
+        },
+        {
+            "index": "4",
+            "sentence": "Manger sain et léger devient une sorte de «bonne action» en faveur de la santé.",
+            "translatedSentence": "吃得健康清淡，已成为一种有益健康的“良好行为“。",
+            "sentenceStructure": "主语为不定式短语 Manger sain et léger（名词化用法），谓语为 devient，表语为 une sorte de «bonne action»，后跟介词短语 en faveur de la santé 作状语。",
+            "grammarAnalysis": "① 不定式短语 Manger sain et léger 作主语，动词不定式在法语中可充当主语，相当于英语的动名词。② sain 和 léger 此处作副词用（修饰动词 manger），实为形容词的副词化用法（法语中常见）。③ une sorte de 意为“一种……“，后接名词，不加冠词或加不定冠词均可。④ en faveur de 为固定介词短语，意为“为了……的利益，有利于……“。",
+            "commonMistakes": "① sain/léger 此处修饰动词，须识别为形容词副词化用法，不要误理解为修饰主语。② en faveur de 与 en défaveur de 方向相反，考试中注意语境。"
+        },
+        {
+            "index": "5",
+            "sentence": "La «nouvelle cuisine» lancée dans les années 70, encouragée par deux journalistes: Gault et Millau, intéressait d'abord les hommes d'affaires qui avaient le souci de garder leur ligne, bien qu'ils fréquentent les restaurants de luxe.",
+            "translatedSentence": "“新烹饪“运动兴起于七十年代，由两位记者戈尔特和米约推动，起初吸引的是那些注重保持身材的商界人士，尽管他们也常光顾高档餐厅。",
+            "sentenceStructure": "主句：La «nouvelle cuisine» intéressait d'abord les hommes d'affaires。过去分词短语 lancée dans les années 70 和 encouragée par deux journalistes 作主语 La «nouvelle cuisine» 的后置分词定语。关系从句 qui avaient le souci de garder leur ligne 修饰 les hommes d'affaires。bien que 引导让步状语从句。",
+            "grammarAnalysis": "① lancée / encouragée 为过去分词，与主语 La «nouvelle cuisine»（阴性）性数一致，作后置定语。② intéressait 用未完成过去时，表示过去持续状态。③ avoir le souci de + inf. 为固定搭配，意为“担心……，操心……“。④ bien que 引导让步从句，动词须用虚拟式，此处 fréquentent 为现在虚拟式。",
+            "commonMistakes": "① bien que 后必须用虚拟式，这是考研高频考点，不可用直陈式。② lancée / encouragée 两个分词定语均修饰主语，注意阴性一致（不是修饰宾语）。③ avoir le souci de（担心）vs avoir soin de（注意，照料）易混淆。"
+        },
+        {
+            "index": "6",
+            "sentence": "Pour qu'on puisse bien connaître cette «nouvelle cuisine», les librairies vendent de plus en plus de livres qui proposent des plats à partir des produits «industriels», des légumes préparés, des salades lavées et coupées, qui permettent une cuisine rapide et facile, selon les goûts de chacun.",
+            "translatedSentence": "为了让人们更好地了解这种“新烹饪“，书店里出售越来越多的书籍，介绍以“工业化“产品、预处理蔬菜、洗净切好的沙拉为原料制作的菜肴，这些菜肴可以根据各人口味快速简便地烹制。",
+            "sentenceStructure": "主句为 les librairies vendent de plus en plus de livres，由 Pour que 引导目的状语从句置于句首。关系从句 qui proposent des plats... 修饰 livres；第二个关系从句 qui permettent une cuisine rapide et facile 修饰前文列举的食材（légumes préparés 等）；最后 selon les goûts de chacun 作方式状语。",
+            "grammarAnalysis": "① Pour que 引导目的状语从句，动词须用虚拟式，此处 puisse 为 pouvoir 的现在虚拟式。② de plus en plus de + 名词，意为“越来越多的……“，de 不变。③ à partir de 为固定介词短语，意为“以……为基础/原料“。④ selon 为介词，意为“根据，按照“，后接名词。",
+            "commonMistakes": "① pour que 引导的目的从句须用虚拟式，pour + 不定式（主语同一）则不用从句。② de plus en plus de 后名词前不加冠词（直接接裸名词或复数名词）。③ à partir de（从……开始/以……为基础）与 à cause de（因为）用法混淆。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "avoir l'assiette légère / lourde",
+            "meaning": "饮食清淡 / 油腻",
+            "usage": "固定表达。assiette 本义为“盘子“，此处转喻饮食内容。légère 表清淡，lourde 表油腻难消化。",
+            "exampleSentence": "Les Français ont l'assiette légère."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "céder la place à qch./qn.",
+            "meaning": "让位于……，被……取代",
+            "usage": "固定短语，介词用 à，后接名词或代词。常用于描述事物的演变更替。",
+            "exampleSentence": "elle a cédé la place aux plats individuels et faciles à préparer"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "à l'aide de qch.",
+            "meaning": "借助……，在……帮助下",
+            "usage": "固定介词短语，后接名词。表示手段或工具。近义词 grâce à（多含积极意味），à l'aide de 较中性。",
+            "exampleSentence": "elle n'y reste que quarante minutes, à l'aide du réfrigérateur et du four moderne"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "employer son temps à qch. / à faire qch.",
+            "meaning": "把时间用于……",
+            "usage": "动词 employer 后接介词 à，再接名词或动词不定式。注意介词固定为 à，不可用 pour。",
+            "exampleSentence": "Elle emploie son temps à d'autres choses, au travail ou au voyage."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "consacrer qch. à qch./qn.",
+            "meaning": "把……用于……，奉献给……",
+            "usage": "及物动词，双宾结构：consacrer + 直接宾语（时间/精力/金钱）+ à + 间接宾语（目标）。",
+            "exampleSentence": "les familles dans ce pays ne consacrent plus que 15% de leurs revenus à leur nourriture"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être à l'honneur",
+            "meaning": "受到推崇，处于荣誉地位",
+            "usage": "固定表达，主语通常为物，表示某事物受到重视或青睐。",
+            "exampleSentence": "Les produits naturels sont à l'honneur."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "s'ajouter à qch.",
+            "meaning": "增加到……，补充……",
+            "usage": "代词式动词，固定搭配介词 à。主语为新增内容，à 后接被增加的对象。",
+            "exampleSentence": "s'y ajoutent les plats cuits sous vide, prêts à servir"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "en faveur de qch./qn.",
+            "meaning": "为了……的利益，有利于……",
+            "usage": "固定介词短语，en faveur de 表支持或有利方向。反义为 en défaveur de。常接名词。",
+            "exampleSentence": "Manger sain et léger devient une sorte de «bonne action» en faveur de la santé."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "au bout du compte",
+            "meaning": "总之，归根到底，说到底",
+            "usage": "固定副词短语，常置于句首，起总结或转折作用。类似 en fin de compte、finalement。",
+            "exampleSentence": "Au bout du compte, les habitudes alimentaires changent vers une nouvelle sorte de joie domestique."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "avoir le souci de faire qch.",
+            "meaning": "担心……，操心……，注重……",
+            "usage": "固定结构，souci 后接 de + 不定式。表示对某事的关切或顾虑。注意区分 avoir soin de（照料，注意）。",
+            "exampleSentence": "les hommes d'affaires qui avaient le souci de garder leur ligne"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "garder la ligne",
+            "meaning": "保持良好身材，保持体型",
+            "usage": "固定表达，ligne 此处指“体型，线条“。常用于日常口语和书面语。",
+            "exampleSentence": "les hommes d'affaires qui avaient le souci de garder leur ligne"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "bel et bien",
+            "meaning": "确实，完全地，实实在在地",
+            "usage": "固定副词短语，强调事情属实，常置于动词前后。语体偏书面或正式口语。",
+            "exampleSentence": "Cette nouvelle alimentation est bel et bien entrée aujourd'hui dans les familles."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "à partir de qch.",
+            "meaning": "以……为原料/基础；从……开始",
+            "usage": "介词短语，① 表示原料或来源；② 表示时间起点。后接名词。",
+            "exampleSentence": "des livres qui proposent des plats à partir des produits «industriels»"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "insister sur qch.",
+            "meaning": "强调……，坚持……",
+            "usage": "不及物动词，固定搭配介词 sur，后接名词或名词化从句。书面口语均可用。",
+            "exampleSentence": "il insiste sur le fait que les beaux noms des plats traditionnels mettent encore l'eau à la bouche du public"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "mettre l'eau à la bouche",
+            "meaning": "令人垂涎，让人流口水",
+            "usage": "固定习语，字面义为“让水流到嘴里“，引申为“令人食欲大开“。主语通常为食物或名称。",
+            "exampleSentence": "les beaux noms des plats traditionnels mettent encore l'eau à la bouche du public"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "assiette",
+            "partOfSpeech": "n.f.",
+            "definition": "①碟子，盘子 ②（转喻）饮食，饮食状况",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir l'assiette légère",
+                    "vocabularyCollocationMeaning": "饮食清淡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une assiette creuse",
+                    "vocabularyCollocationMeaning": "深盘，汤盘"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une assiette plate",
+                    "vocabularyCollocationMeaning": "平盘"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "assiettes"
+        },
+        {
+            "index": "2",
+            "vocabulary": "désormais",
+            "partOfSpeech": "adv.",
+            "definition": "从此以后，今后，此后",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "désormais + 句子",
+                    "vocabularyCollocationMeaning": "从此以后……（常置句首）"
+                }
+            ],
+            "synonymAnalysis": "désormais vs dorénavant：两者均表“从今以后“，意义几乎相同，dorénavant 稍显书面。désormais 也可指“如今“（当下已改变的状态），如本课课文中用法。",
+            "derivedWords": [],
+            "useExplanation": "副词，常置句首或动词前。可表示从过去某时刻起的状态延续至今（回顾性），也可表示从现在起的未来走向（前瞻性）。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "quoique",
+            "partOfSpeech": "conj.",
+            "definition": "尽管，虽然（引导让步状语从句）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quoique + 虚拟式",
+                    "vocabularyCollocationMeaning": "尽管……（正式用法）"
+                }
+            ],
+            "synonymAnalysis": "quoique vs bien que：两者均引导让步从句，均要求虚拟式。quoique 更正式，书面语色彩更强；bien que 更常用。注意 quoique（一个词，连词）与 quoi que（两个词，意为“无论什么“）的区别。",
+            "derivedWords": [],
+            "useExplanation": "从属连词，引导让步状语从句，动词须用虚拟式。不可置于主句后（须在从句中）。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "lourd",
+            "partOfSpeech": "adj.",
+            "definition": "①重的 ②难以消化的，油腻的 ③沉重的，繁重的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un repas lourd",
+                    "vocabularyCollocationMeaning": "油腻的一餐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un travail lourd",
+                    "vocabularyCollocationMeaning": "繁重的工作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "lourd de conséquences",
+                    "vocabularyCollocationMeaning": "后果严重"
+                }
+            ],
+            "synonymAnalysis": "lourd vs épais：lourd 强调重量感或难以消化；épais 强调厚度或浓度。形容食物时：repas lourd（油腻难消化的饭）vs soupe épaisse（浓汤）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lourdeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "沉重，笨重；难以消化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lourdement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "沉重地；严重地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "alourdir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变重，加重"
+                }
+            ],
+            "genderNumberVariation": "阴性 lourde，阳性复数 lourds，阴性复数 lourdes",
+            "position": "通常置于名词后；少数情况下前置，但含义不变。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "individuel",
+            "partOfSpeech": "adj.",
+            "definition": "①个人的，个体的 ②单独的，独立的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un plat individuel",
+                    "vocabularyCollocationMeaning": "个人份的菜肴"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chambre individuelle",
+                    "vocabularyCollocationMeaning": "单人间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "liberté individuelle",
+                    "vocabularyCollocationMeaning": "个人自由"
+                }
+            ],
+            "synonymAnalysis": "individuel vs personnel：individuel 强调“个人的、单独的“（与集体相对）；personnel 强调“属于某个人的、私人的“（与他人无关）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "individu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "个人，个体"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "individualisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "个人主义"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "individuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "单独地，个别地"
+                }
+            ],
+            "genderNumberVariation": "阴性 individuelle，阳性复数 individuels，阴性复数 individuelles",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "digérer",
+            "partOfSpeech": "vt.",
+            "definition": "①消化（食物） ②（比喻）消化（信息、情绪），承受",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "digérer un repas",
+                    "vocabularyCollocationMeaning": "消化一顿饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "facile à digérer",
+                    "vocabularyCollocationMeaning": "易消化的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "difficile à digérer",
+                    "vocabularyCollocationMeaning": "难以消化的"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "digestion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "消化，消化过程"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "digestif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "消化的，助消化的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indigeste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "难消化的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je digère, tu digères, il digère, nous digérons, vous digérez, ils digèrent",
+                "compoundPast": "j'ai digéré",
+                "simpleFuture": "je digérerai",
+                "imperfect": "je digérais（词干规则，但重音位置变化：digère/digérons）",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 é→è 变音类动词（accent grave 变化型），类似 espérer, préférer。单数及第三人称复数词干 é 变 è，一二人称复数保持 é。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "four",
+            "partOfSpeech": "n.m.",
+            "definition": "①烤炉，烘炉 ②（比喻）闷热的地方 ③（俗语）失败，惨败",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "four à micro-ondes",
+                    "vocabularyCollocationMeaning": "微波炉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre au four",
+                    "vocabularyCollocationMeaning": "放入烤箱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire un four",
+                    "vocabularyCollocationMeaning": "（演出等）惨败"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fourneau",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "炉子，炉灶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fournil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "面包房烤炉间"
+                }
+            ],
+            "pluralForm": "fours"
+        },
+        {
+            "index": "8",
+            "vocabulary": "apparition",
+            "partOfSpeech": "n.f.",
+            "definition": "①出现，显现 ②（鬼魂的）显灵，幻象",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'apparition de qch.",
+                    "vocabularyCollocationMeaning": "某事物的出现"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire son apparition",
+                    "vocabularyCollocationMeaning": "登场，出现"
+                }
+            ],
+            "synonymAnalysis": "apparition vs apparence：apparition 指（事物/人）出现的动作或过程；apparence 指外表、外貌。不可混用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apparaître",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "出现，显现"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "disparition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "消失"
+                }
+            ],
+            "pluralForm": "apparitions"
+        },
+        {
+            "index": "9",
+            "vocabulary": "nucléaire",
+            "partOfSpeech": "adj.",
+            "definition": "①原子型的，核的，原子核的 ②（家庭）核心的，小型的（指仅含父母和子女的家庭）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "famille nucléaire",
+                    "vocabularyCollocationMeaning": "核心家庭（仅父母与子女）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "énergie nucléaire",
+                    "vocabularyCollocationMeaning": "核能"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bombe nucléaire",
+                    "vocabularyCollocationMeaning": "核弹"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nucléarisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "核化，核武装化"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 nucléaire，复数 nucléaires",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "conception",
+            "partOfSpeech": "n.f.",
+            "definition": "①观念，概念，看法 ②构思，设计 ③（生物）受孕",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conception du monde",
+                    "vocabularyCollocationMeaning": "世界观"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conception douce",
+                    "vocabularyCollocationMeaning": "温和观念，“软“理念"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "conception assistée par ordinateur",
+                    "vocabularyCollocationMeaning": "计算机辅助设计（CAO）"
+                }
+            ],
+            "synonymAnalysis": "conception vs notion：conception 强调某种系统性的观念或构思；notion 更指基本概念或初步认识。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concevoir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "构思，设计；理解；孕育"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conceptuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "概念的，观念的"
+                }
+            ],
+            "pluralForm": "conceptions"
+        },
+        {
+            "index": "11",
+            "vocabulary": "alimentaire",
+            "partOfSpeech": "adj.",
+            "definition": "①饮食的，食品的 ②（法律）有关抚养的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mode alimentaire",
+                    "vocabularyCollocationMeaning": "饮食方式"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "industrie alimentaire",
+                    "vocabularyCollocationMeaning": "食品工业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "habitudes alimentaires",
+                    "vocabularyCollocationMeaning": "饮食习惯"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "alimentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "饮食，食品；供给"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "aliment",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "食物，食品"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "alimenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "供给食物；供应（能源等）"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 alimentaire，复数 alimentaires",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "12",
+            "vocabulary": "signifier",
+            "partOfSpeech": "vt.",
+            "definition": "①表示，意味着 ②通知，告知（正式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "signifier qch.",
+                    "vocabularyCollocationMeaning": "意味着某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Qu'est-ce que cela signifie ?",
+                    "vocabularyCollocationMeaning": "这是什么意思？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "signifier son congé à qn.",
+                    "vocabularyCollocationMeaning": "正式通知某人解雇"
+                }
+            ],
+            "synonymAnalysis": "signifier vs vouloir dire：二者均可表“意思是“，signifier 更书面正式；vouloir dire 更口语化、常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "signification",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "含义，意义"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "signifiant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有意义的，重要的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "pointe",
+            "partOfSpeech": "n.f.",
+            "definition": "①尖，尖顶，高峰 ②（固定搭配）de pointe：尖端的，前沿的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de pointe",
+                    "vocabularyCollocationMeaning": "尖端的，前沿的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "heure de pointe",
+                    "vocabularyCollocationMeaning": "高峰时段"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une pointe d'humour",
+                    "vocabularyCollocationMeaning": "一丝幽默"
+                }
+            ],
+            "synonymAnalysis": "de pointe（尖端的）vs avancé（先进的）：de pointe 强调处于最前沿；avancé 强调发展程度高。二者常连用，如本课 technologie avancée, même de pointe。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pointer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "指向，瞄准"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pointu",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "尖的；专业性强的"
+                }
+            ],
+            "pluralForm": "pointes"
+        },
+        {
+            "index": "14",
+            "vocabulary": "consacrer",
+            "partOfSpeech": "vt.",
+            "definition": "①奉献，把……用于 ②使神圣化，祝圣 ③确立，使被公认",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consacrer du temps à qch.",
+                    "vocabularyCollocationMeaning": "把时间用于某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se consacrer à qch.",
+                    "vocabularyCollocationMeaning": "献身于……，致力于……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "consacrer un chapitre à qch.",
+                    "vocabularyCollocationMeaning": "用一章来介绍某事"
+                }
+            ],
+            "synonymAnalysis": "consacrer à vs dédier à：consacrer à 更强调实际投入（时间、精力、金钱）；dédier à 更强调精神或情感上的奉献，常用于文学作品题献。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "consécration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "奉献；祝圣；公认"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "revenu",
+            "partOfSpeech": "n.m.",
+            "definition": "收入，收益",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "revenus mensuels",
+                    "vocabularyCollocationMeaning": "月收入"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "revenu national",
+                    "vocabularyCollocationMeaning": "国民收入"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "revenu disponible",
+                    "vocabularyCollocationMeaning": "可支配收入"
+                }
+            ],
+            "synonymAnalysis": "revenu vs salaire：revenu 泛指一切收入来源（工资、租金、投资等）；salaire 专指劳动报酬（工资）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "revenue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "（女性）回来的（revenir 的过去分词阴性，注意与 revenu 区分）"
+                }
+            ],
+            "pluralForm": "revenus"
+        },
+        {
+            "index": "16",
+            "vocabulary": "nourriture",
+            "partOfSpeech": "n.f.",
+            "definition": "①食物，食品 ②（比喻）精神食粮",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "nourriture saine",
+                    "vocabularyCollocationMeaning": "健康食品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nourriture spirituelle",
+                    "vocabularyCollocationMeaning": "精神食粮"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "consacrer ses revenus à la nourriture",
+                    "vocabularyCollocationMeaning": "把收入用于饮食"
+                }
+            ],
+            "synonymAnalysis": "nourriture vs alimentation vs aliment：nourriture 最通俗，泛指食物；alimentation 偏正式，指饮食行为或饮食供给；aliment（常用复数 aliments）指具体的食品，强调个体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nourrir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "喂养，滋养"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "nourrissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有营养的，富含营养的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "nourrisson",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "婴儿，哺乳期婴儿"
+                }
+            ],
+            "pluralForm": "nourritures（少用）"
+        },
+        {
+            "index": "17",
+            "vocabulary": "insister",
+            "partOfSpeech": "vi.",
+            "definition": "①强调，坚持 ②坚持不懈，不放弃",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "insister sur qch.",
+                    "vocabularyCollocationMeaning": "强调某事，坚持某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "insister pour faire qch.",
+                    "vocabularyCollocationMeaning": "坚持要做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "insister auprès de qn.",
+                    "vocabularyCollocationMeaning": "向某人反复请求"
+                }
+            ],
+            "synonymAnalysis": "insister vs souligner：insister sur 强调“反复强调、坚持“的动作；souligner 更强调“点明、突出“某一事实，语气较客观。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "insistance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "坚持，执着；反复强调"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "insistant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "坚持的，执拗的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "naturel",
+            "partOfSpeech": "adj.",
+            "definition": "①天然的，自然的 ②自然而然的，正常的 ③天生的，本性的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "produits naturels",
+                    "vocabularyCollocationMeaning": "天然产品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parc naturel",
+                    "vocabularyCollocationMeaning": "自然公园"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est tout naturel",
+                    "vocabularyCollocationMeaning": "这是理所当然的"
+                }
+            ],
+            "synonymAnalysis": "naturel vs nature（作形容词）：naturel 是标准形容词用法；nature 在口语中可作不变形容词（couleur nature, soie nature），意为“原色的，纯天然的“。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nature",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "自然，大自然；本性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "naturellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "自然地；当然"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "surnaturel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "超自然的"
+                }
+            ],
+            "genderNumberVariation": "阴性 naturelle，阳性复数 naturels，阴性复数 naturelles",
+            "position": "通常置于名词后；少数情况下前置（如 un naturel talent），但前置用法较少见"
+        },
+        {
+            "index": "19",
+            "vocabulary": "honneur",
+            "partOfSpeech": "n.m.",
+            "definition": "①荣誉，光荣 ②尊敬，敬意",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'honneur",
+                    "vocabularyCollocationMeaning": "受推崇，处于首位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en l'honneur de qn.",
+                    "vocabularyCollocationMeaning": "为了纪念/庆祝……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire honneur à qch.",
+                    "vocabularyCollocationMeaning": "不辜负……；大吃特吃（口语）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "parole d'honneur",
+                    "vocabularyCollocationMeaning": "以名誉担保"
+                }
+            ],
+            "synonymAnalysis": "honneur vs gloire：honneur 强调道德层面的名誉与尊严；gloire 强调声誉与荣耀，更具情感色彩和史诗感。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "honorable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可敬的，体面的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "honorer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "尊敬，给……带来荣誉"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "déshonneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "耻辱，不光彩"
+                }
+            ],
+            "pluralForm": "honneurs"
+        },
+        {
+            "index": "20",
+            "vocabulary": "ajouter",
+            "partOfSpeech": "vt.",
+            "definition": "①加，增加 ②补充说",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ajouter qch. à qch.",
+                    "vocabularyCollocationMeaning": "把某物加到某物上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'ajouter à qch.",
+                    "vocabularyCollocationMeaning": "增加到……，叠加于……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ajouter que...",
+                    "vocabularyCollocationMeaning": "补充说……"
+                }
+            ],
+            "synonymAnalysis": "ajouter vs rajouter：ajouter 表示“加入，增添“；rajouter 表示“再次添加“，有重复的含义，多用于口语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ajout",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "添加，附加内容"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rajout",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "再次添加；附加部分"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "industriel",
+            "partOfSpeech": "adj.",
+            "definition": "①工业的，工业化的 ②大规模生产的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "produits industriels",
+                    "vocabularyCollocationMeaning": "工业产品；工业化生产的（食品）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "zone industrielle",
+                    "vocabularyCollocationMeaning": "工业区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "révolution industrielle",
+                    "vocabularyCollocationMeaning": "工业革命"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "industrie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "工业，产业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "industrialisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "工业化"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "industriellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "工业地，大规模地"
+                }
+            ],
+            "genderNumberVariation": "阴性 industrielle，阳性复数 industriels，阴性复数 industrielles",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "22",
+            "vocabulary": "sain",
+            "partOfSpeech": "adj.",
+            "definition": "①有益健康的，健康的 ②（思想/道德）健全的，正常的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger sain",
+                    "vocabularyCollocationMeaning": "吃得健康（形容词副词化）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "alimentation saine",
+                    "vocabularyCollocationMeaning": "健康饮食"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sain et sauf",
+                    "vocabularyCollocationMeaning": "安然无恙"
+                }
+            ],
+            "synonymAnalysis": "sain vs sainement（副词）：sain 作形容词修饰名词；在 manger sain 结构中，sain 实为形容词副词化用法，正式书写可用 sainement。sain vs salubre：sain 常用于人、食物、思想；salubre 多用于环境（气候、空气）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "santé",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "健康（注意：与 sain 同词根）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sainement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "健康地，合理地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "malsain",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不健康的，有害的"
+                }
+            ],
+            "genderNumberVariation": "阴性 saine，阳性复数 sains，阴性复数 saines",
+            "position": "通常置于名词后；sain et sauf 为固定搭配"
+        },
+        {
+            "index": "23",
+            "vocabulary": "faveur",
+            "partOfSpeech": "n.f.",
+            "definition": "①好意，恩惠 ②宠爱，青睐 ③（固定搭配）en faveur de：有利于……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en faveur de qch./qn.",
+                    "vocabularyCollocationMeaning": "为了……的利益，有利于……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir la faveur de qn.",
+                    "vocabularyCollocationMeaning": "得到某人的青睐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "demander une faveur",
+                    "vocabularyCollocationMeaning": "请求帮个忙"
+                }
+            ],
+            "synonymAnalysis": "en faveur de vs pour：两者均可表示“为了“，但 en faveur de 强调“有利于某方“的立场，pour 更通用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "favorable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有利的，赞成的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "défavorable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不利的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "favoriser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "有利于，促进；偏爱"
+                }
+            ],
+            "pluralForm": "faveurs"
+        },
+        {
+            "index": "24",
+            "vocabulary": "bout",
+            "partOfSpeech": "n.m.",
+            "definition": "①端部，末端 ②一段，一小块",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au bout de",
+                    "vocabularyCollocationMeaning": "在……之后；在……尽头"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au bout du compte",
+                    "vocabularyCollocationMeaning": "总之，归根到底"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "venir à bout de qch.",
+                    "vocabularyCollocationMeaning": "克服，完成（难事）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à bout de souffle",
+                    "vocabularyCollocationMeaning": "精疲力竭，上气不接下气"
+                }
+            ],
+            "synonymAnalysis": "bout vs extrémité：bout 更口语通用；extrémité 更书面，有时带有极端含义。",
+            "derivedWords": [],
+            "pluralForm": "bouts"
+        },
+        {
+            "index": "25",
+            "vocabulary": "compte",
+            "partOfSpeech": "n.m.",
+            "definition": "①数，计算 ②账，账目 ③账户",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au bout du compte",
+                    "vocabularyCollocationMeaning": "总之，归根到底"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tenir compte de qch.",
+                    "vocabularyCollocationMeaning": "考虑到……，重视……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rendre compte de qch.",
+                    "vocabularyCollocationMeaning": "汇报……；意识到……（se rendre compte de）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "compte bancaire",
+                    "vocabularyCollocationMeaning": "银行账户"
+                }
+            ],
+            "synonymAnalysis": "se rendre compte de vs réaliser：两者均可表“意识到“，se rendre compte de 更正式；réaliser 更口语化（但 réaliser 本义为“实现“，须注意语境）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "数；计算；打算"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "comptable",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "会计，会计师"
+                }
+            ],
+            "pluralForm": "comptes"
+        },
+        {
+            "index": "26",
+            "vocabulary": "domestique",
+            "partOfSpeech": "adj.",
+            "definition": "①家庭的，家用的 ②家养的（动物）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "joie domestique",
+                    "vocabularyCollocationMeaning": "家庭乐趣"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "animal domestique",
+                    "vocabularyCollocationMeaning": "家畜，宠物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "travaux domestiques",
+                    "vocabularyCollocationMeaning": "家务劳动"
+                }
+            ],
+            "synonymAnalysis": "domestique vs familial：domestique 更强调“家庭内部“的事务或环境；familial 更强调“家庭关系、家族“层面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "domestiquer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "驯养；使顺从"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 domestique，复数 domestiques",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "27",
+            "vocabulary": "souci",
+            "partOfSpeech": "n.m.",
+            "definition": "①忧虑，担心，操心 ②关心，在意",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le souci de faire qch.",
+                    "vocabularyCollocationMeaning": "担心……，注重……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se faire du souci",
+                    "vocabularyCollocationMeaning": "担心，忧虑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans souci",
+                    "vocabularyCollocationMeaning": "无忧无虑的"
+                }
+            ],
+            "synonymAnalysis": "souci vs inquiétude vs préoccupation：souci 多指日常小烦恼；inquiétude 指更强烈的不安；préoccupation 指持续的关切或牵挂，语气更正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "se soucier de",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "在乎……，担心……"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "soucieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "担心的，忧虑的"
+                }
+            ],
+            "pluralForm": "soucis"
+        },
+        {
+            "index": "28",
+            "vocabulary": "bien que",
+            "partOfSpeech": "conj.",
+            "definition": "尽管，虽然（引导让步状语从句）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bien que + 虚拟式",
+                    "vocabularyCollocationMeaning": "尽管……（后跟虚拟式）"
+                }
+            ],
+            "synonymAnalysis": "bien que vs quoique vs même si：bien que 和 quoique 均要求虚拟式；même si 后跟直陈式或条件式，表示“即使“，语气更强调假设。三者均引导让步从句，但语气和语体各有侧重。",
+            "derivedWords": [],
+            "useExplanation": "从属连词，引导让步状语从句，动词须用虚拟式。可置于主句前或后。注意：bien que（尽管）与 bien que ce soit（尽管这是……）等具体用法中虚拟式不可省略。"
+        },
+        {
+            "index": "29",
+            "vocabulary": "luxe",
+            "partOfSpeech": "n.m.",
+            "definition": "①奢侈，豪华 ②奢侈品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "restaurant de luxe",
+                    "vocabularyCollocationMeaning": "高档餐厅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "produits de luxe",
+                    "vocabularyCollocationMeaning": "奢侈品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se payer le luxe de faire qch.",
+                    "vocabularyCollocationMeaning": "给自己的特权；可以享受……"
+                }
+            ],
+            "synonymAnalysis": "luxe vs opulence：luxe 泛指奢华生活方式；opulence 更强调财富的丰盛，语气更强烈，书面语色彩更浓。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "luxueux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "豪华的，奢侈的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "luxueusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "豪华地，奢侈地"
+                }
+            ],
+            "pluralForm": "luxes（少用）"
+        },
+        {
+            "index": "30",
+            "vocabulary": "pousser",
+            "partOfSpeech": "vt.",
+            "definition": "①推；推动 ②促使，驱使 ③（植物）生长，长出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pousser qn. à faire qch.",
+                    "vocabularyCollocationMeaning": "促使某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pousser un cri",
+                    "vocabularyCollocationMeaning": "发出一声叫喊"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pousser la porte",
+                    "vocabularyCollocationMeaning": "推门"
+                }
+            ],
+            "synonymAnalysis": "pousser à vs inciter à vs encourager à：三者均表“促使/鼓励“，pousser 语气最强，有“驱使、逼迫“之意；inciter 较中性；encourager 含正面鼓励色彩。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "poussée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "推力；涌现；（病情）发作"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "poussoir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "按钮，推进器"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "31",
+            "vocabulary": "librairie",
+            "partOfSpeech": "n.f.",
+            "definition": "书店",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à la librairie",
+                    "vocabularyCollocationMeaning": "去书店"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "librairie en ligne",
+                    "vocabularyCollocationMeaning": "网上书店"
+                }
+            ],
+            "synonymAnalysis": "librairie vs bibliothèque：librairie 是“书店“（出售书籍）；bibliothèque 是“图书馆“或“书柜“（借阅/收藏书籍）。这是中国学生最常见的混淆词对之一，考研必考。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "libraire",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "书商，书店老板"
+                }
+            ],
+            "pluralForm": "librairies"
+        },
+        {
+            "index": "32",
+            "vocabulary": "exagérer",
+            "partOfSpeech": "vt.",
+            "definition": "①夸大，夸张 ②过分，过度（vi. 用法）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "exagérer qch.",
+                    "vocabularyCollocationMeaning": "夸大某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans exagérer",
+                    "vocabularyCollocationMeaning": "不夸张地说"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exagérer un peu",
+                    "vocabularyCollocationMeaning": "有点夸张"
+                }
+            ],
+            "synonymAnalysis": "exagérer vs outrer：exagérer 表示夸大或过分，较常用；outrer 更强烈，强调极度过分以致失真，书面语色彩更浓。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exagération",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "夸张，夸大"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "exagéré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "夸张的，过分的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "exagérément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "过分地，夸张地"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'exagère, tu exagères, il exagère, nous exagérons, vous exagérez, ils exagèrent",
+                "compoundPast": "j'ai exagéré",
+                "simpleFuture": "je exagérerai（或 j'exagèrerai，两种拼写均可接受）",
+                "imperfect": "j'exagérais（词干 exagér- 保持，无变化）",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 é→è 变音类动词，与 digérer、espérer、préférer 同类。单数及第三人称复数词干末音节 é 变 è，一二人称复数保持 é 不变。"
+            }
+        },
+        {
+            "index": "33",
+            "vocabulary": "langage",
+            "partOfSpeech": "n.m.",
+            "definition": "①语言，言语（泛指人类语言能力）②言语方式，表达方式 ③（计算机）编程语言",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "langage courant",
+                    "vocabularyCollocationMeaning": "日常用语"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "langage informatique",
+                    "vocabularyCollocationMeaning": "计算机语言"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en langage clair",
+                    "vocabularyCollocationMeaning": "用通俗语言，简而言之"
+                }
+            ],
+            "synonymAnalysis": "langage vs langue：langage 指语言的使用方式、言语能力或特定语域（如 langage des fleurs 花语）；langue 指具体语言系统（如法语、英语）或舌头。两者不可混用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "langue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "语言（具体的）；舌头"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "linguistique",
+                    "derivedWordPartOfSpeech": "n.f./adj.",
+                    "derivedWordMeaning": "语言学；语言的"
+                }
+            ],
+            "pluralForm": "langages"
+        },
+        {
+            "index": "34",
+            "vocabulary": "espèce",
+            "partOfSpeech": "n.f.",
+            "definition": "①种类，品种 ②（生物学）物种 ③（口语，贬义）家伙",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "espèce animale / végétale",
+                    "vocabularyCollocationMeaning": "动物 / 植物物种"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une espèce de",
+                    "vocabularyCollocationMeaning": "一种……（相当于“某种“）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "espèces en voie de disparition",
+                    "vocabularyCollocationMeaning": "濒危物种"
+                }
+            ],
+            "synonymAnalysis": "espèce vs sorte vs genre：三者均表“种类“，espèce 偏生物科学；sorte 最通用口语；genre 带有性别/类型含义，也指文学体裁。",
+            "derivedWords": [],
+            "pluralForm": "espèces"
+        },
+        {
+            "index": "35",
+            "vocabulary": "proclamer",
+            "partOfSpeech": "vt.",
+            "definition": "①宣告，声明 ②宣布（正式结果）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "proclamer que...",
+                    "vocabularyCollocationMeaning": "宣称……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "proclamer son innocence",
+                    "vocabularyCollocationMeaning": "宣告自己无辜"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "proclamer les résultats",
+                    "vocabularyCollocationMeaning": "宣布结果"
+                }
+            ],
+            "synonymAnalysis": "proclamer vs déclarer vs annoncer：proclamer 最正式，强调公开庄严宣告；déclarer 较正式，常用于声明立场；annoncer 最通用，指宣布/告知消息。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "proclamation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "宣告，公告，宣言"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "36",
+            "vocabulary": "sauce",
+            "partOfSpeech": "n.f.",
+            "definition": "调味汁，沙司，酱汁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sauce tomate",
+                    "vocabularyCollocationMeaning": "番茄酱"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à toutes les sauces",
+                    "vocabularyCollocationMeaning": "以各种方式，变着花样地（习语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre qn. à toutes les sauces",
+                    "vocabularyCollocationMeaning": "把某人用于各种用途（比喻）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "saucière",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "酱汁壶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "saucisson",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "香肠（熟肉，切片食用）"
+                }
+            ],
+            "pluralForm": "sauces"
+        },
+        {
+            "index": "37",
+            "vocabulary": "fait",
+            "partOfSpeech": "n.m.",
+            "definition": "①事实，实际 ②行为，行动 ③事件",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en fait",
+                    "vocabularyCollocationMeaning": "实际上，事实上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le fait que + 直陈式/虚拟式",
+                    "vocabularyCollocationMeaning": "……这一事实"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de fait",
+                    "vocabularyCollocationMeaning": "实际上（书面语）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "au fait",
+                    "vocabularyCollocationMeaning": "顺便说一句；对了（口语）"
+                }
+            ],
+            "synonymAnalysis": "en fait vs en effet：en fait 表示“实际上（与预想不同）“，常有转折意味；en effet 表示“确实，的确“，用于确认前文。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "factuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "基于事实的，事实性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "effectivement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "确实，实际上"
+                }
+            ],
+            "pluralForm": "faits"
+        },
+        {
+            "index": "38",
+            "vocabulary": "traditionnel",
+            "partOfSpeech": "adj.",
+            "definition": "①传统的 ②惯常的，习惯性的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plats traditionnels",
+                    "vocabularyCollocationMeaning": "传统菜肴"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "valeurs traditionnelles",
+                    "vocabularyCollocationMeaning": "传统价值观"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "médecine traditionnelle",
+                    "vocabularyCollocationMeaning": "传统医学"
+                }
+            ],
+            "synonymAnalysis": "traditionnel vs classique：traditionnel 强调代代相传的传统；classique 强调经典性、标准性，不一定有传承含义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tradition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "传统，惯例"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "traditionnellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "传统上，按惯例"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "traditionalisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "传统主义"
+                }
+            ],
+            "genderNumberVariation": "阴性 traditionnelle，阳性复数 traditionnels，阴性复数 traditionnelles",
+            "position": "通常置于名词后；偶可前置（如 le traditionnel repas du dimanche），表示“惯常的“，带亲切口吻"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Vite et bon. Et surtout léger. Voilà les mots qui, désormais, sont toujours avec le mot «manger». Quoique les Français aiment manger, le temps de l'assiette lourde est fini. Les familles ne consacrent plus que 15% de leurs revenus à leur nourriture, et les produits naturels sont à l'honneur: moins lourds et faciles à digérer. Manger sain et léger devient une sorte de «bonne action» en faveur de la santé.",
+            "chineseTranslation": "快捷、美味，尤其清淡——这些词如今始终与“吃“字相伴。尽管法国人热爱美食，油腻饮食的时代终究已经结束。各家庭用于饮食的开支已不超过收入的15%，天然产品备受推崇：既少油腻，又易消化。吃得健康、清淡，已成为一种有益健康的“良好行为“。",
+            "fr2cnStrategy": "① Vite et bon. Et surtout léger. 两个短句处理为破折号前的并列结构，译为“快捷、美味，尤其清淡“，简洁有力，避免逐词翻译的生硬感。② Voilà les mots qui... sont toujours avec le mot «manger» 译为“这些词如今始终与'吃'字相伴“，将 voilà 引导的强调结构转换为主谓句，属语序调整。③ le temps de l'assiette lourde est fini 中 assiette lourde 为转喻，译为“油腻饮食的时代“，属于增译（补出“时代“含义）。④ ne...plus que 为限制性结构，译为“已不超过……“而非字面的“只……了“，更符合中文表达习惯。⑤ Manger sain et léger 中形容词副词化用法，译为“吃得健康、清淡“，将不定式主语转化为中文动宾结构。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "如今，越来越多的人把时间用于工作或旅行，而不是待在厨房里。",
+                "frenchTranslation": "Désormais, de plus en plus de gens emploient leur temps au travail ou au voyage plutôt qu'à rester dans la cuisine.",
+                "cn2frStrategy": "① “如今“译为 désormais，置于句首，符合法语副词习惯。② “越来越多的人“译为 de plus en plus de gens，注意 de 不变。③ “把……用于“译为 employer son temps à，固定搭配。④ “而不是“译为 plutôt que de + 不定式（此处接 rester），注意比较结构。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "尽管他常去高档餐厅，但他仍然很注重保持身材。",
+                "frenchTranslation": "Bien qu'il fréquente souvent les restaurants de luxe, il a toujours le souci de garder sa ligne.",
+                "cn2frStrategy": "① “尽管“译为 bien que，后接虚拟式 fréquente，这是考研高频考点。② “高档餐厅“译为 restaurants de luxe，de luxe 为后置形容词短语。③ “注重保持身材“译为 avoir le souci de garder sa ligne，使用课文核心搭配。④ “仍然“译为 toujours，位于谓语动词前。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "天然产品越来越受到推崇，因为它们既有益健康，又易于消化。",
+                "frenchTranslation": "Les produits naturels sont de plus en plus à l'honneur, car ils sont bons pour la santé et faciles à digérer.",
+                "cn2frStrategy": "① “越来越受到推崇“译为 de plus en plus à l'honneur，将 à l'honneur 固定表达与程度副词结合。② “因为“选用 car（不可置句首，用于解释明显原因），而非 parce que。③ “易于消化“译为 faciles à digérer，形容词 + à + 不定式的固定结构，注意 faciles 与主语 ils（复数）保持性数一致。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "书商坚持认为，传统菜肴的美名至今仍令人垂涎。",
+                "frenchTranslation": "Le libraire insiste sur le fait que les beaux noms des plats traditionnels mettent encore l'eau à la bouche du public.",
+                "cn2frStrategy": "① “坚持认为“译为 insister sur le fait que，insister sur 后接 le fait que 引导的宾语从句，这是地道的书面表达。② “书商“译为 libraire（n.m.），注意区分 librairie（书店）与 libraire（书商）。③ “令人垂涎“译为 mettre l'eau à la bouche，课文核心习语，注意主语为“名称“而非人。④ “至今仍“译为 encore，位置在动词前。"
+            }
+        ]
+    }
+}
