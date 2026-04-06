@@ -1,0 +1,1154 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Pour renouer avec l'atmosphère festive des bals populaires, des doux après-midi au bord de l'eau et des bons repas, les guinguettes refleurissent le long de nos rivières.",
+            "translatedSentence": "为了重新找回民间舞会的节日气氛、水边惬意的午后以及美味佳肴，河畔小酒馆再次在我们的河流沿岸兴盛起来。",
+            "sentenceStructure": "介词短语 Pour renouer avec... 作目的状语，主语 les guinguettes，谓语 refleurissent，地点状语 le long de nos rivières。",
+            "grammarAnalysis": "① 动词不定式 pour + inf. 表示目的。② renouer avec qch. 为固定搭配，意为“重新建立联系，重拾”。③ refleurir 本义“重新开花”，转喻“复兴，重新流行”。",
+            "commonMistakes": "renouer avec 后需接名词，注意不要遗漏介词 avec。refleurir 的主语是 guinguettes，学生可能误以为是人。"
+        },
+        {
+            "index": 2,
+            "sentence": "De Nantes à Angers, elles redonnent des couleurs aux bords de la Loire, pour que les visiteurs trouvent une joie de vivre et un bon goût de vacances.",
+            "translatedSentence": "从南特到昂热，它们为卢瓦尔河畔重新增添色彩，以便游客能找到生活的乐趣和美好的度假滋味。",
+            "sentenceStructure": "地点状语 De Nantes à Angers，主语 elles，谓语 redonnent，双宾语结构：des couleurs 为直接宾语，aux bords de la Loire 为间接宾语，其后 pour que 引导目的从句。",
+            "grammarAnalysis": "① redonner des couleurs à qch. 为比喻表达，意为“为……重新带来活力/色彩”。② pour que 引导目的从句，从句动词需用虚拟式（trouvent 为 trouver 的现在虚拟式）。③ joie de vivre 为固定短语“生活的乐趣”。",
+            "commonMistakes": "pour que 后必须使用虚拟式，学生易误用直陈式。joie de vivre 中 de 不可替换为 à。"
+        },
+        {
+            "index": 3,
+            "sentence": "Avec l'été, le renouveau des guinguettes nous envahit d'une passion toute joyeuse: tables festives du week-end, musique locale et danse sont à l'honneur.",
+            "translatedSentence": "随着夏天的到来，河畔小酒馆的复兴带给我们一种充满欢乐的热情：周末的节日餐桌、当地音乐和舞蹈备受推崇。",
+            "sentenceStructure": "状语 Avec l'été，主语 le renouveau，谓语 nous envahit，宾语 d'une passion toute joyeuse，冒号后为解释性并列句，主语为三项，谓语 sont à l'honneur。",
+            "grammarAnalysis": "① envahir qn de qch. 意为“使某人充满某物”。② toute 在此为形容词，意为“完全的，十足的”，加强语气。③ être à l'honneur 为固定表达“受到推崇，成为主角”。",
+            "commonMistakes": "envahir 的间接宾语用 de 引导，而非 par。toute 的位置在名词前，注意与 tout 副词的区分。"
+        },
+        {
+            "index": 4,
+            "sentence": "Paris s'agrandissant, la ville doit reculer ses limites ... et les guinguettes s'éloignent.",
+            "translatedSentence": "随着巴黎的扩张，城市不得不后退其边界……于是小酒馆就迁远了。",
+            "sentenceStructure": "Paris s'agrandissant 为独立分词从句（主格分词），作原因或时间状语，主句为 la ville doit reculer ses limites，et 并列第二个主句 les guinguettes s'éloignent。",
+            "grammarAnalysis": "① 独立分词从句：名词 + 现在分词，表示伴随动作或原因，常用于书面语。② devoir + inf. 表示“不得不”。③ reculer ses limites 意为“后退边界”。",
+            "commonMistakes": "独立分词从句的主语与主句主语不同，不可用 en + 现在分词替代。学生易误认为 s'agrandissant 是谓语动词。"
+        },
+        {
+            "index": 5,
+            "sentence": "Avec sa terrasse et sa vue plongeante sur la Marne, bien qu'il fasse froid quelquefois, les visiteurs viennent pour danser et goûter à sa cuisine.",
+            "translatedSentence": "凭借其露台和俯瞰马恩河的景色，尽管有时天气寒冷，游客们还是前来跳舞并品尝它的菜肴。",
+            "sentenceStructure": "状语 Avec sa terrasse et sa vue plongeante，后跟 bien que 引导的让步从句，主句 les visiteurs viennent，其后 pour danser et goûter à sa cuisine 为目的状语。",
+            "grammarAnalysis": "① vue plongeante sur qch. 意为“俯瞰……的视野”。② bien que 引导让步从句，动词需用虚拟式（fasse 为 faire 的现在虚拟式）。③ venir pour + inf. 表示“为……而来”。④ goûter à qch. 意为“品尝某物”。",
+            "commonMistakes": "bien que 后虚拟式易错，尤其 faire 的虚拟式变位 fasse 需牢记。goûter à 中的 à 不可省略。"
+        },
+        {
+            "index": 6,
+            "sentence": "Beaucoup plus récente, la Guinguette Pirate est arrivée au Quai François Mauriac, à Paris, au pied de la Bibliothèque nationale de France, voici une dizaine d'années.",
+            "translatedSentence": "年代更近一些的“海盗小酒馆”大约十年前出现在巴黎弗朗索瓦·莫里亚克码头，位于法国国家图书馆脚下。",
+            "sentenceStructure": "形容词短语 Beaucoup plus récente 作主语 la Guinguette Pirate 的同位语，谓语 est arrivée，地点状语 au Quai... à Paris... au pied de...，时间状语 voici une dizaine d'années。",
+            "grammarAnalysis": "① 形容词前置作同位语，表示主语的特征。② arriver 在此表示“出现，开张”。③ au pied de 意为“在……脚下，紧邻”。④ voici + 时间段 表示“在此之前……时间”。",
+            "commonMistakes": "arriver 表示“出现”时是瞬间动词，复合过去时表示动作已完成。voici 表示时间时，后面直接加时间段，不用介词。"
+        },
+        {
+            "index": 7,
+            "sentence": "On y voit un fleuve qui coule lentement, des bancs de sable sous la surface de l'eau.",
+            "translatedSentence": "在那里，人们看到一条缓缓流淌的河流，以及水面下的沙洲。",
+            "sentenceStructure": "主语 On，谓语 voit，地点副词 y 代替上文的 Anjou 地区，宾语为 un fleuve 和 des bancs de sable，其中 fleuve 后跟 qui 引导的定语从句，bancs 后跟介词短语 sous la surface 作定语。",
+            "grammarAnalysis": "① y 为地点代词，代替 à + 地点。② voir qch. 意为“看到某物”。③ qui coule lentement 定语从句修饰 fleuve。④ bancs de sable 固定短语“沙洲”。",
+            "commonMistakes": "y 的位置在谓语动词前。banc de sable 的复数 bancs de sable，de 不变。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": 1,
+            "collocation": "renouer avec qch.",
+            "meaning": "重新建立联系，重拾",
+            "usage": "固定搭配，后接名词，常与气氛、传统等抽象名词连用。",
+            "exampleSentence": "Pour renouer avec l'atmosphère festive des bals populaires, ..."
+        },
+        {
+            "listIndex": 2,
+            "collocation": "refleurir le long de",
+            "meaning": "沿着……重新兴起/繁荣",
+            "usage": "refleurir 本义“重新开花”，比喻用法，主语为事物。",
+            "exampleSentence": "les guinguettes refleurissent le long de nos rivières."
+        },
+        {
+            "listIndex": 3,
+            "collocation": "afficher des guinguettes",
+            "meaning": "开设/展示小酒馆",
+            "usage": "afficher 本义“张贴，展示”，这里指“拥有、开设”。",
+            "exampleSentence": "Lyon affiche des guinguettes le long de la Saône."
+        },
+        {
+            "listIndex": 4,
+            "collocation": "de plus en plus fréquenté",
+            "meaning": "越来越受欢迎的，人越来越多的",
+            "usage": "de plus en plus + adj. 表示“越来越……”，fréquenté 指场所“人多，热闹”。",
+            "exampleSentence": "celles du bord de la Seine et de la Marne sont de plus en plus fréquentées."
+        },
+        {
+            "listIndex": 5,
+            "collocation": "redonner des couleurs à qch.",
+            "meaning": "为……重新增添色彩/活力",
+            "usage": "比喻表达，couleurs 用复数。",
+            "exampleSentence": "elles redonnent des couleurs aux bords de la Loire."
+        },
+        {
+            "listIndex": 6,
+            "collocation": "joie de vivre",
+            "meaning": "生活的乐趣",
+            "usage": "固定短语，阴性名词短语。",
+            "exampleSentence": "pour que les visiteurs trouvent une joie de vivre."
+        },
+        {
+            "listIndex": 7,
+            "collocation": "bon goût de vacances",
+            "meaning": "美好的度假滋味",
+            "usage": "goût 本义“味道”，引申为“感受，滋味”。",
+            "exampleSentence": "un bon goût de vacances."
+        },
+        {
+            "listIndex": 8,
+            "collocation": "être à l'honneur",
+            "meaning": "备受推崇，成为主角",
+            "usage": "固定短语，主语多为事物。",
+            "exampleSentence": "tables festives ... sont à l'honneur."
+        },
+        {
+            "listIndex": 9,
+            "collocation": "être lié à qch.",
+            "meaning": "与……相关，与……有联系",
+            "usage": "被动意义，主动形式为 lier qch. à qch.。",
+            "exampleSentence": "L'histoire des guinguettes est étroitement liée aux loisirs populaires."
+        },
+        {
+            "listIndex": 10,
+            "collocation": "se livrer à qch.",
+            "meaning": "从事，沉溺于（活动）",
+            "usage": "代词式动词，后接名词，常用于游戏、娱乐等。",
+            "exampleSentence": "On se livre aux jeux."
+        },
+        {
+            "listIndex": 11,
+            "collocation": "goûter à qch.",
+            "meaning": "品尝某物",
+            "usage": "间接及物动词，后接 à + 名词。",
+            "exampleSentence": "on y goûte aux aliments."
+        },
+        {
+            "listIndex": 12,
+            "collocation": "connaître un grand essor",
+            "meaning": "经历大发展，蓬勃兴起",
+            "usage": "connaître 在此意为“经历，有”，essor 为“发展”。",
+            "exampleSentence": "Les guinguettes connaissent au 18e siècle un grand essor."
+        },
+        {
+            "listIndex": 13,
+            "collocation": "s'installer sur les bords de",
+            "meaning": "在……岸边建立/落户",
+            "usage": "s'installer 表示“安置，设立”。",
+            "exampleSentence": "C'est dans les années 1860 qu'elles s'installent sur les bords de la Marne."
+        },
+        {
+            "listIndex": 14,
+            "collocation": "reculer ses limites",
+            "meaning": "后退边界",
+            "usage": "reculer 及物动词，意为“使后退”。",
+            "exampleSentence": "la ville doit reculer ses limites."
+        },
+        {
+            "listIndex": 15,
+            "collocation": "s'éloigner",
+            "meaning": "远离，离去",
+            "usage": "代词式动词，表示“搬离，走远”。",
+            "exampleSentence": "les guinguettes s'éloignent."
+        },
+        {
+            "listIndex": 16,
+            "collocation": "un lieu de convivialité",
+            "meaning": "一个友好欢乐的场所",
+            "usage": "convivialité 指“友好，欢乐气氛”。",
+            "exampleSentence": "les guinguettes sont redevenues un lieu de convivialité."
+        },
+        {
+            "listIndex": 17,
+            "collocation": "vue plongeante sur qch.",
+            "meaning": "俯瞰……的景色",
+            "usage": "plongeant 意为“俯视的”。",
+            "exampleSentence": "avec sa vue plongeante sur la Marne."
+        },
+        {
+            "listIndex": 18,
+            "collocation": "bien que + subj.",
+            "meaning": "尽管……",
+            "usage": "引导让步从句，动词必须用虚拟式。",
+            "exampleSentence": "bien qu'il fasse froid quelquefois."
+        },
+        {
+            "listIndex": 19,
+            "collocation": "venir pour + inf.",
+            "meaning": "来做某事",
+            "usage": "表示目的。",
+            "exampleSentence": "les visiteurs viennent pour danser."
+        },
+        {
+            "listIndex": 20,
+            "collocation": "savoir accueillir qn",
+            "meaning": "懂得接待某人",
+            "usage": "savoir + inf. 表示“有能力做某事”。",
+            "exampleSentence": "la Goulue sait accueillir ses hôtes."
+        },
+        {
+            "listIndex": 21,
+            "collocation": "être entouré de verdure",
+            "meaning": "被绿树环绕",
+            "usage": "entouré de + 名词，表示“被……包围”。",
+            "exampleSentence": "totalement entourée de verdure."
+        },
+        {
+            "listIndex": 22,
+            "collocation": "être typique de qch.",
+            "meaning": "是……的典型特征",
+            "usage": "后接名词。",
+            "exampleSentence": "La décoration est typique des guinguettes anciennes."
+        },
+        {
+            "listIndex": 23,
+            "collocation": "au pied de",
+            "meaning": "在……脚下，紧邻",
+            "usage": "地点介词短语。",
+            "exampleSentence": "au pied de la Bibliothèque nationale de France."
+        },
+        {
+            "listIndex": 24,
+            "collocation": "voici + 时间段",
+            "meaning": "……之前",
+            "usage": "表示从过去某时到现在的时间跨度。",
+            "exampleSentence": "voici une dizaine d'années."
+        },
+        {
+            "listIndex": 25,
+            "collocation": "dîner dans le restaurant",
+            "meaning": "在餐厅用餐",
+            "usage": "dîner 为不及物动词，地点用 dans。",
+            "exampleSentence": "on peut aussi dîner dans le restaurant du bateau."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": 1,
+            "vocabulary": "guinguette",
+            "partOfSpeech": "n.f.",
+            "definition": "①（河畔的）小酒馆，露天咖啡馆 ②乡村舞会",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "guinguette au bord de l'eau",
+                    "vocabularyCollocationMeaning": "水边小酒馆"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "danser dans une guinguette",
+                    "vocabularyCollocationMeaning": "在小酒馆跳舞"
+                }
+            ],
+            "synonymAnalysis": "guinguette 特指河畔或乡村的露天小酒馆，带有怀旧和节日气氛；café 泛指咖啡馆；bistrot 指小酒吧，侧重日常饮酒。",
+            "derivedWords": [],
+            "pluralForm": "guinguettes"
+        },
+        {
+            "index": 2,
+            "vocabulary": "renouer",
+            "partOfSpeech": "vi.",
+            "definition": "①重新建立联系，重拾（与avec连用） ②（丝带等）重新系",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "renouer avec la tradition",
+                    "vocabularyCollocationMeaning": "重拾传统"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "renouer l'amitié",
+                    "vocabularyCollocationMeaning": "重修旧好"
+                }
+            ],
+            "synonymAnalysis": "renouer 强调中断后重新连接；reprendre 更通用“重新开始”。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "renouement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "重新联系，恢复"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 3,
+            "vocabulary": "refleurir",
+            "partOfSpeech": "vi.",
+            "definition": "①重新开花 ②复兴，重新流行",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "refleurir le long de",
+                    "vocabularyCollocationMeaning": "沿着……重新兴起"
+                }
+            ],
+            "synonymAnalysis": "refleurir 比喻义同 renaître（重生），但更强调繁荣景象。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "refleurissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "重新开花，复兴"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 4,
+            "vocabulary": "fréquenté",
+            "partOfSpeech": "adj.",
+            "definition": "①（场所）人多热闹的，受欢迎的 ②常去的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "un quartier très fréquenté",
+                    "vocabularyCollocationMeaning": "一个热闹的街区"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "un endroit peu fréquenté",
+                    "vocabularyCollocationMeaning": "一个冷清的地方"
+                }
+            ],
+            "synonymAnalysis": "fréquenté 强调人流量；animé 强调活跃气氛。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "fréquenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "经常去，交往"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "fréquentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "经常来往，人流量"
+                }
+            ],
+            "genderNumberVariation": "阴性 fréquentée，阳性复数 fréquentés，阴性复数 fréquentées",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": 5,
+            "vocabulary": "redonner",
+            "partOfSpeech": "vt.",
+            "definition": "①重新给予，再次给 ②恢复（健康、活力等）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "redonner des couleurs à",
+                    "vocabularyCollocationMeaning": "为……重新增添色彩"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "redonner espoir",
+                    "vocabularyCollocationMeaning": "重新给予希望"
+                }
+            ],
+            "synonymAnalysis": "redonner 强调再次给予；restituer 侧重归还。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 6,
+            "vocabulary": "joie",
+            "partOfSpeech": "n.f.",
+            "definition": "①快乐，喜悦 ②乐趣",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "joie de vivre",
+                    "vocabularyCollocationMeaning": "生活的乐趣"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "plein de joie",
+                    "vocabularyCollocationMeaning": "充满喜悦"
+                }
+            ],
+            "synonymAnalysis": "joie 强烈而持久的快乐；plaisir 指具体的愉悦。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "joyeux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "快乐的"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "réjouir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使高兴"
+                }
+            ],
+            "pluralForm": "joies"
+        },
+        {
+            "index": 7,
+            "vocabulary": "goût",
+            "partOfSpeech": "n.m.",
+            "definition": "①味道，滋味 ②爱好，兴趣 ③品味",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "bon goût",
+                    "vocabularyCollocationMeaning": "好味道，好品味"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "avoir du goût",
+                    "vocabularyCollocationMeaning": "有品味"
+                }
+            ],
+            "synonymAnalysis": "goût 指味觉或审美；saveur 侧重食物本身的风味。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "goûter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "品尝"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "dégoût",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "厌恶"
+                }
+            ],
+            "pluralForm": "goûts"
+        },
+        {
+            "index": 8,
+            "vocabulary": "envahir",
+            "partOfSpeech": "vt.",
+            "definition": "①侵入，占领 ②充满（情感等）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "envahir qn de qch.",
+                    "vocabularyCollocationMeaning": "使某人充满某物"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "l'inquiétude l'envahit",
+                    "vocabularyCollocationMeaning": "忧虑涌上他心头"
+                }
+            ],
+            "synonymAnalysis": "envahir 强调不可阻挡地充满；remplir 中性“填满”。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "invasion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "入侵，涌入"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 9,
+            "vocabulary": "honneur",
+            "partOfSpeech": "n.m.",
+            "definition": "①荣誉，光荣 ②尊敬",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "être à l'honneur",
+                    "vocabularyCollocationMeaning": "备受推崇"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "faire honneur à",
+                    "vocabularyCollocationMeaning": "给……带来荣誉"
+                }
+            ],
+            "synonymAnalysis": "honneur 侧重荣誉感；gloire 指声望名声。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "honorable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可敬的"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "honorer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "尊敬，给予荣誉"
+                }
+            ],
+            "pluralForm": "honneurs"
+        },
+        {
+            "index": 10,
+            "vocabulary": "lier",
+            "partOfSpeech": "vt.",
+            "definition": "①系，捆 ②联系，连接",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "lier qch. à qch.",
+                    "vocabularyCollocationMeaning": "把……与……联系起来"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "être lié à",
+                    "vocabularyCollocationMeaning": "与……相关"
+                }
+            ],
+            "synonymAnalysis": "lier 侧重关联；attacher 侧重依附。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "lien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "联系，纽带"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "délier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "解开"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 11,
+            "vocabulary": "se livrer",
+            "partOfSpeech": "v.pron.",
+            "definition": "①从事，沉溺于（+ à） ②投降",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "se livrer à un jeu",
+                    "vocabularyCollocationMeaning": "沉溺于游戏"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "se livrer à la réflexion",
+                    "vocabularyCollocationMeaning": "进行思考"
+                }
+            ],
+            "synonymAnalysis": "se livrer à 强调投入；s'adonner à 语气更强。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 12,
+            "vocabulary": "goûter",
+            "partOfSpeech": "vi.",
+            "definition": "品尝（+ à）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "goûter à un plat",
+                    "vocabularyCollocationMeaning": "品尝一道菜"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "goûter au repos",
+                    "vocabularyCollocationMeaning": "享受休息"
+                }
+            ],
+            "synonymAnalysis": "goûter à 侧重尝试味道；déguster 指仔细品味。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 13,
+            "vocabulary": "connaître",
+            "partOfSpeech": "vt.",
+            "definition": "①认识，了解 ②经历，有（某种经验）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "connaître un essor",
+                    "vocabularyCollocationMeaning": "经历发展"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "connaître la réussite",
+                    "vocabularyCollocationMeaning": "取得成功"
+                }
+            ],
+            "synonymAnalysis": "connaître 侧重熟悉；savoir 侧重知道知识。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "connaissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "认识，知识"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent",
+                "compoundPast": "j'ai connu",
+                "simpleFuture": "je connaîtrai",
+                "imperfect": "je connaissais",
+                "presentSubjunctive": "que je connaisse",
+                "memoryAids": "类似 reconnaître, paraître 类动词，现在时复数词干 connaiss-，将来时词干 connaîtr-。"
+            }
+        },
+        {
+            "index": 14,
+            "vocabulary": "essor",
+            "partOfSpeech": "n.m.",
+            "definition": "发展，兴盛，腾飞",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "prendre son essor",
+                    "vocabularyCollocationMeaning": "腾飞，蓬勃发展"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "connaître un grand essor",
+                    "vocabularyCollocationMeaning": "经历大发展"
+                }
+            ],
+            "synonymAnalysis": "essor 强调上升发展；développement 中性发展。",
+            "derivedWords": [],
+            "pluralForm": "essors"
+        },
+        {
+            "index": 15,
+            "vocabulary": "s'installer",
+            "partOfSpeech": "v.pron.",
+            "definition": "①安顿，落户 ②（事物）建立，设立",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "s'installer sur les bords de",
+                    "vocabularyCollocationMeaning": "在……岸边落户"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "s'installer dans un pays",
+                    "vocabularyCollocationMeaning": "在一个国家定居"
+                }
+            ],
+            "synonymAnalysis": "s'installer 指安家或设立；s'établir 更正式。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "installation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安装，设立"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 16,
+            "vocabulary": "s'agrandir",
+            "partOfSpeech": "v.pron.",
+            "definition": "①变大，扩大 ②（城市）扩张",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "la ville s'agrandit",
+                    "vocabularyCollocationMeaning": "城市在扩张"
+                }
+            ],
+            "synonymAnalysis": "s'agrandir 强调体积或范围的增大；s'étendre 侧重延伸。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "agrandissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "扩大，扩建"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 17,
+            "vocabulary": "reculer",
+            "partOfSpeech": "vt.",
+            "definition": "①使后退，推迟 ②（不及物）后退",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "reculer ses limites",
+                    "vocabularyCollocationMeaning": "后退边界"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "reculer une décision",
+                    "vocabularyCollocationMeaning": "推迟决定"
+                }
+            ],
+            "synonymAnalysis": "reculer 及物时表示“使后退”；avancer 反义词。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "recul",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "后退，退步"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 18,
+            "vocabulary": "s'éloigner",
+            "partOfSpeech": "v.pron.",
+            "definition": "①远离，走开 ②变得疏远",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "s'éloigner de qch.",
+                    "vocabularyCollocationMeaning": "远离某物"
+                }
+            ],
+            "synonymAnalysis": "s'éloigner 强调距离变远；partir 侧重离开的动作。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "éloignement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "远离，疏远"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": 19,
+            "vocabulary": "redevenir",
+            "partOfSpeech": "vi.",
+            "definition": "重新变成，再次成为",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "redevenir + attribut",
+                    "vocabularyCollocationMeaning": "重新成为……"
+                }
+            ],
+            "synonymAnalysis": "redevenir 强调变化后恢复原状；devenir 单纯“变成”。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je redeviens, tu redeviens, il redevient, nous redevenons, vous redevenez, ils redeviennent",
+                "compoundPast": "je suis redevenu",
+                "simpleFuture": "je redevendrai",
+                "imperfect": "je redevenais",
+                "presentSubjunctive": "que je redevienne",
+                "memoryAids": "与 devenir 变位相同，前缀 re- 表示重复。"
+            }
+        },
+        {
+            "index": 20,
+            "vocabulary": "convivialité",
+            "partOfSpeech": "n.f.",
+            "definition": "友好，欢乐气氛，社交性",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "un lieu de convivialité",
+                    "vocabularyCollocationMeaning": "一个充满欢乐气氛的场所"
+                }
+            ],
+            "synonymAnalysis": "convivialité 侧重人与人之间的融洽；chaleur 侧重热情。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "convivial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "友好的，适合社交的"
+                }
+            ],
+            "pluralForm": "convivialités"
+        },
+        {
+            "index": 21,
+            "vocabulary": "situé",
+            "partOfSpeech": "adj.",
+            "definition": "位于……的（常与介词连用）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "situé à",
+                    "vocabularyCollocationMeaning": "位于某地"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "bien situé",
+                    "vocabularyCollocationMeaning": "位置好"
+                }
+            ],
+            "synonymAnalysis": "situé 强调地理位置；localisé 更技术性。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "situation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "位置，情况"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "situer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "定位"
+                }
+            ],
+            "genderNumberVariation": "阴性 située，阳性复数 situés，阴性复数 situées",
+            "position": "通常置于名词后，常与地点状语连用"
+        },
+        {
+            "index": 22,
+            "vocabulary": "plongeant",
+            "partOfSpeech": "adj.",
+            "definition": "俯视的，下冲的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "vue plongeante sur",
+                    "vocabularyCollocationMeaning": "俯瞰……的景色"
+                }
+            ],
+            "synonymAnalysis": "plongeant 强调从上往下看；panoramique 强调全景。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "plonger",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "俯冲，潜水"
+                }
+            ],
+            "genderNumberVariation": "阴性 plongeante，阳性复数 plongeants，阴性复数 plongeantes",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": 23,
+            "vocabulary": "accueillir",
+            "partOfSpeech": "vt.",
+            "definition": "①接待，迎接 ②接受（意见等）",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "accueillir qn",
+                    "vocabularyCollocationMeaning": "接待某人"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "être bien accueilli",
+                    "vocabularyCollocationMeaning": "受到欢迎"
+                }
+            ],
+            "synonymAnalysis": "accueillir 侧重欢迎接待；recevoir 更中性。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "accueil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "接待，欢迎"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'accueille, tu accueilles, il accueille, nous accueillons, vous accueillez, ils accueillent",
+                "compoundPast": "j'ai accueilli",
+                "simpleFuture": "j'accueillerai",
+                "imperfect": "j'accueillais",
+                "presentSubjunctive": "que j'accueille",
+                "memoryAids": "变位类似 cueillir，双 l 在单数人称及第三人称复数。"
+            }
+        },
+        {
+            "index": 24,
+            "vocabulary": "entouré",
+            "partOfSpeech": "adj.",
+            "definition": "被环绕的，被包围的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "entouré de verdure",
+                    "vocabularyCollocationMeaning": "被绿树环绕"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "entouré d'amis",
+                    "vocabularyCollocationMeaning": "被朋友围绕"
+                }
+            ],
+            "synonymAnalysis": "entouré 强调周围有物体；environné 更正式。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "entourer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "环绕"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "alentours",
+                    "derivedWordPartOfSpeech": "n.m.pl.",
+                    "derivedWordMeaning": "周围，附近"
+                }
+            ],
+            "genderNumberVariation": "阴性 entourée，阳性复数 entourés，阴性复数 entourées",
+            "position": "通常置于名词后，常接 de 引出环绕物"
+        },
+        {
+            "index": 25,
+            "vocabulary": "typique",
+            "partOfSpeech": "adj.",
+            "definition": "典型的，特有的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "typique de qch.",
+                    "vocabularyCollocationMeaning": "是……的典型特征"
+                }
+            ],
+            "synonymAnalysis": "typique 强调代表性；caractéristique 侧重区分特征。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "type",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "类型"
+                }
+            ],
+            "genderNumberVariation": "阴性 typique，复数 typiques",
+            "position": "通常置于名词后，后接 de"
+        },
+        {
+            "index": 26,
+            "vocabulary": "décoration",
+            "partOfSpeech": "n.f.",
+            "definition": "装饰，装潢",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "décoration intérieure",
+                    "vocabularyCollocationMeaning": "室内装饰"
+                }
+            ],
+            "synonymAnalysis": "décoration 侧重装饰物；ornement 指装饰品。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "décorer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "装饰"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "décor",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "布景，环境"
+                }
+            ],
+            "pluralForm": "décorations"
+        },
+        {
+            "index": 27,
+            "vocabulary": "récent",
+            "partOfSpeech": "adj.",
+            "definition": "最近的，近来的",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "une date récente",
+                    "vocabularyCollocationMeaning": "一个近期的日期"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "des événements récents",
+                    "vocabularyCollocationMeaning": "最近的事件"
+                }
+            ],
+            "synonymAnalysis": "récent 强调时间近；nouveau 强调新旧对比。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "récemment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "最近"
+                }
+            ],
+            "genderNumberVariation": "阴性 récente，阳性复数 récents，阴性复数 récentes",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": 28,
+            "vocabulary": "organiser",
+            "partOfSpeech": "vt.",
+            "definition": "组织，安排",
+            "vocabularyCollocations": [
+                {
+                    "index": 1,
+                    "vocabularyCollocation": "organiser un concert",
+                    "vocabularyCollocationMeaning": "组织一场音乐会"
+                },
+                {
+                    "index": 2,
+                    "vocabularyCollocation": "organiser une fête",
+                    "vocabularyCollocationMeaning": "组织聚会"
+                }
+            ],
+            "synonymAnalysis": "organiser 侧重筹划安排；préparer 侧重准备。",
+            "derivedWords": [
+                {
+                    "index": 1,
+                    "derivedWord": "organisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "组织，机构"
+                },
+                {
+                    "index": 2,
+                    "derivedWord": "organisateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "组织者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        }
+    ],
+    "translationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Les guinguettes, autrefois populaires au 18e siècle, refleurissent aujourd'hui le long de nos rivières. Pour que les visiteurs trouvent une joie de vivre, elles offrent des tables festives, de la musique locale et des danses. Bien qu'il fasse froid parfois, les gens viennent goûter à la cuisine traditionnelle et profiter de la vue plongeante sur l'eau. Ces lieux de convivialité sont redevenus des endroits où l'on se livre aux jeux et où l'on passe d'agréables journées en famille.",
+            "chineseTranslation": "曾经在18世纪盛行的河畔小酒馆，如今再次沿着我们的河流繁荣起来。为了让游客找到生活的乐趣，它们提供节日的餐桌、当地音乐和舞蹈。尽管有时天气寒冷，人们还是前来品尝传统菜肴，享受俯瞰水面的景色。这些欢乐友好的场所重新成为了人们尽情游戏、与家人共度愉快时光的地方。",
+            "fr2cnStrategy": "① 将分词短语“autrefois populaires au 18e siècle”转换为前置定语“曾经在18世纪盛行的”，语序调整；② “refleurissent”译为“繁荣起来”，采用意译；③ “pour que”引导的目的从句译为“为了……”，增译逻辑主语；④ “offrent”译为“提供”，符合中文动宾习惯；⑤ “bien que”让步从句译为“尽管……”，保留转折；⑥ “se livre aux jeux”译为“尽情游戏”，增补“尽情”传达语气；⑦ “passer d'agréables journées”译为“共度愉快时光”，符合中文四字格。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": 1,
+                "chineseOriginalSentence": "为了重拾节日气氛，河畔小酒馆在巴黎地区越来越受欢迎。",
+                "frenchTranslation": "Pour renouer avec l'atmosphère festive, les guinguettes sont de plus en plus fréquentées en région parisienne.",
+                "cn2frStrategy": "① 目的状语“为了……”用“Pour + inf.”；② “重拾”译为“renouer avec”；③ “越来越受欢迎”用“de plus en plus fréquentées”；④ 地点状语“在巴黎地区”置于句末。"
+            },
+            {
+                "index": 2,
+                "chineseOriginalSentence": "尽管有时很冷，游客们还是前来跳舞并品尝菜肴。",
+                "frenchTranslation": "Bien qu'il fasse froid quelquefois, les visiteurs viennent pour danser et goûter à la cuisine.",
+                "cn2frStrategy": "① 让步状语“尽管”用“Bien que”后接虚拟式，“faire froid”用无人称结构“il fasse froid”；② “前来做某事”用“venir pour + inf.”；③ “品尝菜肴”译为“goûter à la cuisine”，注意介词à。"
+            },
+            {
+                "index": 3,
+                "chineseOriginalSentence": "这家小酒馆位于塞纳河畔，被绿色植物环绕，装饰是旧式小酒馆的典型风格。",
+                "frenchTranslation": "Cette guinguette est située au bord de la Seine, entourée de verdure, et sa décoration est typique des guinguettes anciennes.",
+                "cn2frStrategy": "① “位于”用“être situé à/au bord de”；② “被绿色植物环绕”用过去分词短语“entourée de verdure”作状语；③ “是……的典型”用“être typique de”；④ 并列结构用“et”连接。"
+            },
+            {
+                "index": 4,
+                "chineseOriginalSentence": "随着巴黎的扩张，小酒馆不得不迁离，但如今它们重新成为了欢乐的场所。",
+                "frenchTranslation": "Paris s'agrandissant, les guinguettes ont dû s'éloigner, mais aujourd'hui elles sont redevenues un lieu de convivialité.",
+                "cn2frStrategy": "① 独立分词从句“Paris s'agrandissant”表示原因或伴随；② “不得不”用“devoir + inf.”，复合过去时“ont dû”；③ “迁离”译为“s'éloigner”；④ “重新成为”用“redevenir”，注意性数配合；⑤ “欢乐的场所”译为“un lieu de convivialité”。"
+            }
+        ]
+    }
+}
