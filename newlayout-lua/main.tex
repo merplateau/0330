@@ -233,23 +233,24 @@ local function render_sentence_entry(item, fallback_index)
 end
 
 local function render_collocation_table(entries)
-    emit("\\begin{collocationTable}\n")
-    emit("{\\hei 常用搭配} & {\\hei 释义} & {\\hei 用法说明} \\\\\n")
+    emit("\\begin{listWithRemark}\n")
     if #entries == 0 then
-        emit_empty_three_column_row()
+        emit_empty_two_column_row()
     else
-        for _, entry in ipairs(entries) do
+        for index, entry in ipairs(entries) do
             emit(
-                "{" .. tex_escape(entry.collocation) .. "} & " ..
-                "{" .. tex_escape(entry.meaning) .. "} & " ..
-                "{" .. tex_escape(entry.usage) .. "} \\\\\n"
+                "\\begin{vocabEntry}{" .. tex_escape(entry.collocation) .. "}{}{" ..
+                tex_escape(entry.meaning) .. "}\n"
             )
-            if not is_blank(entry.exampleSentence) then
-                emit("\\SetCell[c=3]{l} \\iiex{" .. tex_escape(entry.exampleSentence) .. "} \\\\\n")
+            render_better_list_row("用法说明", tex_escape(entry.usage))
+            render_better_list_row("例　　句", tex_escape(entry.exampleSentence))
+            emit("\\end{vocabEntry}\n&\n{}")
+            if index < #entries then
+                emit("\\\\\n")
             end
         end
     end
-    emit("\\end{collocationTable}\n")
+    emit("\\end{listWithRemark}\n")
 end
 
 local function render_vocabulary_entry(item)
@@ -262,7 +263,7 @@ local function render_vocabulary_entry(item)
     render_better_list_row("近义辨析", tex_escape(item.synonymAnalysis))
     render_better_list_row("变位信息", format_inflection_info(item.inflectionInfo))
     render_better_list_row("性数变化", tex_escape(item.genderNumberVariation))
-    render_better_list_row("位置", tex_escape(item.position))
+    render_better_list_row("位　　置", tex_escape(item.position))
     render_better_list_row("复数形式", tex_escape(item.pluralForm))
     render_better_list_row("用法说明", tex_escape(item.useExplanation))
     emit("\\end{vocabEntry}\n&\n")
