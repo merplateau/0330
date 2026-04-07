@@ -1,0 +1,787 @@
+{
+  "sentences": [
+    {
+      "index": 1,
+      "sentence": "Je viens pour l'emploi d'informaticien.",
+      "translatedSentence": "我是来应聘计算机专家一职的。",
+      "sentenceStructure": "主语 Je — 谓语 viens — 目的状语 pour l'emploi d'informaticien（介词短语）",
+      "grammarAnalysis": "venir pour + 名词，表示“来是为了……”，表目的。emploi d'informaticien 中的 de 为限定性介词，表明职位类型。",
+      "commonMistakes": "学生易将 venir pour 与 venir de 混淆。venir de + 不定式表示“刚刚做了某事”（近过去时）；venir pour + 名词/不定式表示“来是为了……”（目的）。"
+    },
+    {
+      "index": 2,
+      "sentence": "J'ai travaillé dans un centre d'informatique comme technicien pendant six mois, de janvier à juillet cette année.",
+      "translatedSentence": "今年一月到七月，我在一家计算机中心做了六个月的技术员。",
+      "sentenceStructure": "主语 Je — 谓语 ai travaillé（复合过去时）— 地点状语 dans un centre d'informatique — 方式状语 comme technicien — 时间状语 pendant six mois / de janvier à juillet cette année",
+      "grammarAnalysis": "① 复合过去时 ai travaillé 表示已完成的动作。② pendant + 时间段，表示动作持续的时间长度。③ de... à... 表示起止时间段，为固定结构。④ comme + 名词（无冠词）表示身份或职务。",
+      "commonMistakes": "pendant 与 pour 易混：pendant 描述已发生或正在发生的时间跨度；pour 表示预计的时间长度（常指未来）。comme 后接职业名词时通常不加冠词，切忌写成 comme un technicien。"
+    },
+    {
+      "index": 3,
+      "sentence": "Parce que l'entreprise a fermé en juillet, à cause de problèmes financiers.",
+      "translatedSentence": "因为公司在七月份由于财务问题倒闭了。",
+      "sentenceStructure": "原因从句，由 parce que 引导，主语 l'entreprise — 谓语 a fermé — 时间状语 en juillet — 原因状语 à cause de problèmes financiers",
+      "grammarAnalysis": "① parce que 引导原因状语从句，回答“为什么”的问题。② à cause de + 名词短语，表示消极原因，与 parce que 嵌套使用，形成双重原因结构。③ fermer 此处为不及物用法，意为“关闭、停业”。",
+      "commonMistakes": "parce que 与 à cause de 的区别：parce que 后接从句（主语+谓语），à cause de 后接名词或名词短语，不可互换结构。另注意 à cause de 通常引入消极原因，grâce à 引入积极原因。"
+    },
+    {
+      "index": 4,
+      "sentence": "Nous sommes en train de chercher un jeune de moins de trente ans, pour visiter les clients en France et à l'étranger.",
+      "translatedSentence": "我们正在寻找一位三十岁以下的年轻人，负责在法国及海外拜访客户。",
+      "sentenceStructure": "主语 Nous — 谓语 sommes en train de chercher（进行时结构）— 宾语 un jeune de moins de trente ans — 目的状语 pour visiter les clients en France et à l'étranger",
+      "grammarAnalysis": "① être en train de + 不定式，表示动作正在进行，相当于英语的现在进行时。② de moins de trente ans 为后置形容词短语，修饰 un jeune，de 引导数量限定。③ pour + 不定式表示目的。④ à l'étranger 为固定短语，意为“在国外”。",
+      "commonMistakes": "être en train de 是法语表达“正在进行”最常用的结构，不能省略 en train de 直接用现在时代替（现在时在法语中有多种含义）。de moins de 后接数字，注意 de 不可省略。"
+    },
+    {
+      "index": 5,
+      "sentence": "Donnez votre curriculum vitae à la secrétaire, et revenez demain après-midi.",
+      "translatedSentence": "请把您的简历交给秘书，明天下午再来。",
+      "sentenceStructure": "两个并列祈使句：① Donnez — 间接宾语 à la secrétaire — 直接宾语 votre curriculum vitae；② revenez — 时间状语 demain après-midi",
+      "grammarAnalysis": "① 祈使式（l'impératif）第二人称复数，用于礼貌指令。② donner qch. à qn. 的双宾结构：直接宾语为物（curriculum vitae），间接宾语为人（à la secrétaire）。③ revenir 为不规则动词，祈使式 revenez 来自 vous revenez。",
+      "commonMistakes": "donner 双宾结构中，间接宾语（人）前必须有介词 à，不可省略。祈使句中代词宾语位置与陈述句相反（置于动词后并用连字符），但此处无代词，无需注意该问题。"
+    }
+  ],
+  "collocations": [
+    {
+      "listIndex": "1",
+      "collocation": "venir pour + n. / inf.",
+      "meaning": "来是为了……；专程来……",
+      "usage": "表示来访目的，pour 后接名词或不定式。区别于 venir de + inf.（近过去，表示刚刚做完某事）。",
+      "exampleSentence": "Je viens pour l'emploi d'informaticien."
+    },
+    {
+      "listIndex": "2",
+      "collocation": "avoir une formation en + domaine",
+      "meaning": "受过……方面的培训/教育",
+      "usage": "formation 后用介词 en 接学科或领域名称，无冠词。书面语和口语均可用。",
+      "exampleSentence": "Vous avez une formation en informatique?"
+    },
+    {
+      "listIndex": "3",
+      "collocation": "travailler comme + profession",
+      "meaning": "以……身份工作；担任……职务",
+      "usage": "comme 后接职业名词，通常不加冠词，表示职务或身份。",
+      "exampleSentence": "J'ai travaillé dans un centre d'informatique comme technicien."
+    },
+    {
+      "listIndex": "4",
+      "collocation": "pendant + durée",
+      "meaning": "（持续了）……时间",
+      "usage": "表示动作或状态持续的时间段，常与复合过去时或未完成过去时连用。区别于 pour + durée（表示预计将持续的时间）。",
+      "exampleSentence": "J'ai travaillé pendant six mois."
+    },
+    {
+      "listIndex": "5",
+      "collocation": "de... à...",
+      "meaning": "从……到……（时间或空间上的起止）",
+      "usage": "固定结构，表示时间或空间的范围。时间用法常与复合过去时连用。",
+      "exampleSentence": "de janvier à juillet cette année"
+    },
+    {
+      "listIndex": "6",
+      "collocation": "à cause de + n.",
+      "meaning": "由于……（消极原因）",
+      "usage": "后接名词或名词短语，表示消极或不利的原因。与 grâce à（积极原因）相对。不可接从句，接从句须用 parce que。",
+      "exampleSentence": "à cause de problèmes financiers"
+    },
+    {
+      "listIndex": "7",
+      "collocation": "être au chômage",
+      "meaning": "处于失业状态",
+      "usage": "固定短语，chômage 前用冠词 au（= à + le）。区别于 perdre son emploi（失去工作，动作）。",
+      "exampleSentence": "Vous êtes donc au chômage depuis deux mois."
+    },
+    {
+      "listIndex": "8",
+      "collocation": "être en train de + inf.",
+      "meaning": "正在做某事",
+      "usage": "法语表示动作进行的核心结构，相当于英语进行时。可用于现在、过去（était en train de）等时态。",
+      "exampleSentence": "Nous sommes en train de chercher un jeune de moins de trente ans."
+    },
+    {
+      "listIndex": "9",
+      "collocation": "s'intéresser à + n./inf.",
+      "meaning": "对……感兴趣",
+      "usage": "代词式动词，固定搭配介词 à，后接名词或不定式。主动语态 intéresser qn.（使某人感兴趣）。",
+      "exampleSentence": "Ça vous intéresse?"
+    },
+    {
+      "listIndex": "10",
+      "collocation": "commencer à + inf.",
+      "meaning": "开始做某事",
+      "usage": "固定结构，commencer 后接介词 à + 不定式。注意区别 commencer par + inf.（首先做……）。",
+      "exampleSentence": "j'ai commencé à apprendre le chinois"
+    },
+    {
+      "listIndex": "11",
+      "collocation": "donner qch. à qn.",
+      "meaning": "把某物给某人",
+      "usage": "双宾结构，直接宾语为物，间接宾语（人）前加介词 à。宾语为代词时：直接宾语用 le/la/les，间接宾语用 lui/leur。",
+      "exampleSentence": "Donnez votre curriculum vitae à la secrétaire."
+    },
+    {
+      "listIndex": "12",
+      "collocation": "parler + langue (sans article)",
+      "meaning": "会说某种语言",
+      "usage": "parler 后直接接语言名称，不加冠词。若加副词修饰则：parler bien / assez bien + langue。",
+      "exampleSentence": "je parle assez bien l'anglais"
+    }
+  ],
+  "vocabulary": [
+    {
+      "index": "1",
+      "vocabulary": "service",
+      "partOfSpeech": "n.m.",
+      "definition": "①服务 ②部门，科室 ③（餐厅）服务费",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "service du personnel",
+          "vocabularyCollocationMeaning": "人事部门"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "rendre service à qn.",
+          "vocabularyCollocationMeaning": "帮助某人"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "hors service",
+          "vocabularyCollocationMeaning": "停止使用；出故障"
+        }
+      ],
+      "synonymAnalysis": "",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "servir",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "服务；端上（饭菜）"
+        },
+        {
+          "index": "2",
+          "derivedWord": "serveur",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "服务员；服务器"
+        }
+      ],
+      "pluralForm": "services"
+    },
+    {
+      "index": "2",
+      "vocabulary": "personnel",
+      "partOfSpeech": "n.m.",
+      "definition": "①人员，员工 ②人事（部门）",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "service du personnel",
+          "vocabularyCollocationMeaning": "人事部"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "chef du personnel",
+          "vocabularyCollocationMeaning": "人事主管"
+        }
+      ],
+      "synonymAnalysis": "personnel（员工群体）vs employé（个体雇员）：personnel 强调集体，employé 指具体个人。",
+      "derivedWords": [],
+      "genderNumberVariation": "作形容词时：阳性 personnel，阴性 personnelle，复数 personnels / personnelles",
+      "position": "作形容词时通常置于名词之后，如 affaires personnelles（私人事务）",
+      "pluralForm": "personnels"
+    },
+    {
+      "index": "3",
+      "vocabulary": "informaticien",
+      "partOfSpeech": "n.m.",
+      "definition": "计算机专家，信息技术人员",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "emploi d'informaticien",
+          "vocabularyCollocationMeaning": "计算机专家职位"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "travailler comme informaticien",
+          "vocabularyCollocationMeaning": "从事计算机工作"
+        }
+      ],
+      "synonymAnalysis": "",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "informatique",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "信息技术，计算机科学"
+        },
+        {
+          "index": "2",
+          "derivedWord": "informatique",
+          "derivedWordPartOfSpeech": "adj.",
+          "derivedWordMeaning": "计算机的，信息技术的"
+        }
+      ],
+      "pluralForm": "informaticiens"
+    },
+    {
+      "index": "4",
+      "vocabulary": "formation",
+      "partOfSpeech": "n.f.",
+      "definition": "①培训，训练 ②教育，学历背景 ③形成，组成",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "avoir une formation en qch.",
+          "vocabularyCollocationMeaning": "受过……方面的训练/教育"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "formation professionnelle",
+          "vocabularyCollocationMeaning": "职业培训"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "formation continue",
+          "vocabularyCollocationMeaning": "继续教育"
+        }
+      ],
+      "synonymAnalysis": "formation vs éducation：formation 侧重职业或技能培训；éducation 侧重学校教育或品德养成。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "former",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "培训；组成；形成"
+        },
+        {
+          "index": "2",
+          "derivedWord": "formateur",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "培训师"
+        }
+      ],
+      "pluralForm": "formations"
+    },
+    {
+      "index": "5",
+      "vocabulary": "technicien",
+      "partOfSpeech": "n.m.",
+      "definition": "技术员，技师",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "travailler comme technicien",
+          "vocabularyCollocationMeaning": "担任技术员"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "technicien de surface",
+          "vocabularyCollocationMeaning": "清洁工（委婉说法）"
+        }
+      ],
+      "synonymAnalysis": "",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "technique",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "技术；技巧"
+        },
+        {
+          "index": "2",
+          "derivedWord": "technique",
+          "derivedWordPartOfSpeech": "adj.",
+          "derivedWordMeaning": "技术的"
+        }
+      ],
+      "pluralForm": "techniciens"
+    },
+    {
+      "index": "6",
+      "vocabulary": "entreprise",
+      "partOfSpeech": "n.f.",
+      "definition": "①企业，公司 ②事业，活动",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "petite et moyenne entreprise",
+          "vocabularyCollocationMeaning": "中小企业（PME）"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "chef d'entreprise",
+          "vocabularyCollocationMeaning": "企业主，老板"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "créer une entreprise",
+          "vocabularyCollocationMeaning": "创建企业"
+        }
+      ],
+      "synonymAnalysis": "entreprise vs société vs compagnie：三者均可指公司，entreprise 最通用；société 常指股份公司，有法律含义；compagnie 多用于特定行业（航空公司 compagnie aérienne）。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "entrepreneur",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "企业家；承包商"
+        },
+        {
+          "index": "2",
+          "derivedWord": "entreprendre",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "着手做，承担"
+        }
+      ],
+      "pluralForm": "entreprises"
+    },
+    {
+      "index": "7",
+      "vocabulary": "fermer",
+      "partOfSpeech": "vt.",
+      "definition": "①关，关闭 ②（vi.）停业，倒闭",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "fermer la porte",
+          "vocabularyCollocationMeaning": "关门"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "fermer un magasin",
+          "vocabularyCollocationMeaning": "关闭一家商店"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "fermer à clé",
+          "vocabularyCollocationMeaning": "锁门"
+        }
+      ],
+      "synonymAnalysis": "fermer（关闭）vs ouvrir（打开），为反义词对。fermer 作不及物动词时表示“停业”，与 ouvrir 作“营业”相对。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "fermeture",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "关闭；停业"
+        },
+        {
+          "index": "2",
+          "derivedWord": "fermé",
+          "derivedWordPartOfSpeech": "adj.",
+          "derivedWordMeaning": "关闭的；不开放的"
+        }
+      ],
+      "inflectionInfo": {
+        "verbType": "第一组 -er 规则变位"
+      }
+    },
+    {
+      "index": "8",
+      "vocabulary": "cause",
+      "partOfSpeech": "n.f.",
+      "definition": "①原因，起因 ②事业，事业目标",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "à cause de",
+          "vocabularyCollocationMeaning": "由于，因为（消极原因）"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "pour cette cause",
+          "vocabularyCollocationMeaning": "为此缘故"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "en cause",
+          "vocabularyCollocationMeaning": "受到质疑；相关的"
+        }
+      ],
+      "synonymAnalysis": "cause（原因）vs raison（理由）：cause 多指客观、自然的起因；raison 多指主观、逻辑性的理由。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "causer",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "引起，造成"
+        },
+        {
+          "index": "2",
+          "derivedWord": "causal",
+          "derivedWordPartOfSpeech": "adj.",
+          "derivedWordMeaning": "因果的"
+        }
+      ],
+      "pluralForm": "causes"
+    },
+    {
+      "index": "9",
+      "vocabulary": "financier",
+      "partOfSpeech": "adj.m.",
+      "definition": "①财政的，金融的 ②财务上的",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "problèmes financiers",
+          "vocabularyCollocationMeaning": "财务问题"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "marché financier",
+          "vocabularyCollocationMeaning": "金融市场"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "crise financière",
+          "vocabularyCollocationMeaning": "金融危机"
+        }
+      ],
+      "synonymAnalysis": "financier vs fiscal：financier 泛指财务、金融相关；fiscal 特指税务、财政方面。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "finance",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "财政，金融（finances 常用复数）"
+        },
+        {
+          "index": "2",
+          "derivedWord": "financer",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "资助，为……提供资金"
+        },
+        {
+          "index": "3",
+          "derivedWord": "financement",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "融资，资金筹措"
+        }
+      ],
+      "genderNumberVariation": "阴性 financière，阳性复数 financiers，阴性复数 financières",
+      "position": "通常置于名词之后"
+    },
+    {
+      "index": "10",
+      "vocabulary": "étranger",
+      "partOfSpeech": "adj.m.",
+      "definition": "①外国的 ②外乡的，陌生的",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "à l'étranger",
+          "vocabularyCollocationMeaning": "在国外"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "langue étrangère",
+          "vocabularyCollocationMeaning": "外语"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "pays étranger",
+          "vocabularyCollocationMeaning": "外国"
+        }
+      ],
+      "synonymAnalysis": "étranger（外国的/陌生的）vs inconnu（未知的/陌生的）：étranger 强调国籍或来源不同；inconnu 强调不认识、未知。",
+      "derivedWords": [],
+      "genderNumberVariation": "阴性 étrangère，阳性复数 étrangers，阴性复数 étrangères",
+      "position": "通常置于名词之后",
+      "pluralForm": "étrangers（作名词时）"
+    },
+    {
+      "index": "11",
+      "vocabulary": "comprendre",
+      "partOfSpeech": "vt.",
+      "definition": "①懂得，理解 ②包括，包含",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "comprendre une langue",
+          "vocabularyCollocationMeaning": "听懂一门语言"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "comprendre la situation",
+          "vocabularyCollocationMeaning": "理解情况"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "y compris",
+          "vocabularyCollocationMeaning": "包括（介词短语）"
+        }
+      ],
+      "synonymAnalysis": "comprendre（理解/包含）vs entendre（听到/理解）：两者均可表示“理解”，comprendre 更强调认知上的领会；entendre 更侧重听觉感知，口语中 j'entends 也可表示“我明白”。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "compréhension",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "理解；理解力"
+        },
+        {
+          "index": "2",
+          "derivedWord": "incompréhension",
+          "derivedWordPartOfSpeech": "n.f.",
+          "derivedWordMeaning": "不理解，误解"
+        }
+      ],
+      "inflectionInfo": {
+        "verbType": "不规则变位",
+        "present": "je comprends, tu comprends, il comprend, nous comprenons, vous comprenez, ils comprennent",
+        "compoundPast": "j'ai compris",
+        "simpleFuture": "je comprendrai",
+        "memoryAids": "与 prendre 变位完全相同，前缀 com- 不影响变位规律。类似动词：apprendre, surprendre, reprendre。"
+      }
+    },
+    {
+      "index": "12",
+      "vocabulary": "voyager",
+      "partOfSpeech": "vi.",
+      "definition": "旅行，旅游",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "voyager à l'étranger",
+          "vocabularyCollocationMeaning": "出国旅行"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "voyager en train / en avion",
+          "vocabularyCollocationMeaning": "乘火车/飞机旅行"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "aimer voyager",
+          "vocabularyCollocationMeaning": "喜欢旅行"
+        }
+      ],
+      "synonymAnalysis": "voyager vs partir en voyage：voyager 是动词，强调旅行的动作；partir en voyage 强调出发去旅行。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "voyage",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "旅行，旅途"
+        },
+        {
+          "index": "2",
+          "derivedWord": "voyageur",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "旅行者；旅客"
+        }
+      ],
+      "inflectionInfo": {
+        "verbType": "不规则变位",
+        "present": "je voyage, tu voyages, il voyage, nous voyageons, vous voyagez, ils voyagent",
+        "compoundPast": "j'ai voyagé",
+        "simpleFuture": "je voyagerai",
+        "memoryAids": "属于 -ger 动词，nous 人称保留 e（voyageons），防止 g 读作硬音。类似：manger → nous mangeons, nager → nous nageons。"
+      }
+    },
+    {
+      "index": "13",
+      "vocabulary": "intéresser",
+      "partOfSpeech": "vt.",
+      "definition": "使感兴趣，引起……的兴趣",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "intéresser qn.",
+          "vocabularyCollocationMeaning": "使某人感兴趣"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "s'intéresser à qch.",
+          "vocabularyCollocationMeaning": "对某事感兴趣"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "Ça vous intéresse?",
+          "vocabularyCollocationMeaning": "您感兴趣吗？"
+        }
+      ],
+      "synonymAnalysis": "intéresser（使感兴趣，主动/使动）vs s'intéresser à（感兴趣，代词式，表主体的状态）：主动式以物/事为主语；代词式以人为主语。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "intérêt",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "兴趣；利益；利息"
+        },
+        {
+          "index": "2",
+          "derivedWord": "intéressant",
+          "derivedWordPartOfSpeech": "adj.",
+          "derivedWordMeaning": "有趣的；划算的"
+        },
+        {
+          "index": "3",
+          "derivedWord": "désintéresser",
+          "derivedWordPartOfSpeech": "vt.",
+          "derivedWordMeaning": "使失去兴趣"
+        }
+      ],
+      "inflectionInfo": {
+        "verbType": "第一组 -er 规则变位"
+      }
+    },
+    {
+      "index": "14",
+      "vocabulary": "salaire",
+      "partOfSpeech": "n.m.",
+      "definition": "工资，薪金",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "toucher un salaire",
+          "vocabularyCollocationMeaning": "领工资"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "salaire mensuel",
+          "vocabularyCollocationMeaning": "月薪"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "augmentation de salaire",
+          "vocabularyCollocationMeaning": "涨工资"
+        }
+      ],
+      "synonymAnalysis": "salaire vs traitement vs rémunération：salaire 最通用，指按时计发的工资；traitement 专指公务员薪酬；rémunération 更正式，泛指所有形式的报酬。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "salarié",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "受薪员工，打工者"
+        }
+      ],
+      "pluralForm": "salaires"
+    },
+    {
+      "index": "15",
+      "vocabulary": "curriculum vitae",
+      "partOfSpeech": "n.m.",
+      "definition": "简历，履历",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "donner son curriculum vitae",
+          "vocabularyCollocationMeaning": "递交简历"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "envoyer un CV",
+          "vocabularyCollocationMeaning": "发送简历（CV 为缩写）"
+        }
+      ],
+      "synonymAnalysis": "",
+      "derivedWords": [],
+      "useExplanation": "拉丁语借词，常缩写为 CV。不变化，复数形式同单数。在求职场景中高频使用，相当于英语的 résumé 或 CV。"
+    },
+    {
+      "index": "16",
+      "vocabulary": "secrétaire",
+      "partOfSpeech": "n.",
+      "definition": "秘书，文秘",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "secrétaire de direction",
+          "vocabularyCollocationMeaning": "行政秘书"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "secrétaire général",
+          "vocabularyCollocationMeaning": "秘书长"
+        }
+      ],
+      "synonymAnalysis": "",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "secrétariat",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "秘书处；文秘工作"
+        }
+      ],
+      "pluralForm": "secrétaires"
+    },
+    {
+      "index": "17",
+      "vocabulary": "revenir",
+      "partOfSpeech": "vi.",
+      "definition": "①再来，回来 ②重新想起 ③（价格）合计为",
+      "vocabularyCollocations": [
+        {
+          "index": "1",
+          "vocabularyCollocation": "revenir demain",
+          "vocabularyCollocationMeaning": "明天再来"
+        },
+        {
+          "index": "2",
+          "vocabularyCollocation": "revenir sur qch.",
+          "vocabularyCollocationMeaning": "重提某事；推翻（决定）"
+        },
+        {
+          "index": "3",
+          "vocabularyCollocation": "en revenir",
+          "vocabularyCollocationMeaning": "从中回来；（口）难以置信"
+        }
+      ],
+      "synonymAnalysis": "revenir（回来，来的一方返回原处）vs retourner（回去，去的一方返回）：revenir 强调朝说话者方向返回；retourner 强调离开说话者回到出发地。",
+      "derivedWords": [
+        {
+          "index": "1",
+          "derivedWord": "retour",
+          "derivedWordPartOfSpeech": "n.m.",
+          "derivedWordMeaning": "返回，回程"
+        }
+      ],
+      "inflectionInfo": {
+        "verbType": "不规则变位",
+        "present": "je reviens, tu reviens, il revient, nous revenons, vous revenez, ils reviennent",
+        "compoundPast": "je suis revenu(e)（助动词用 être）",
+        "simpleFuture": "je reviendrai",
+        "memoryAids": "与 venir 变位完全相同，前缀 re- 不影响变位。复合过去时助动词用 être，过去分词需与主语配合性数一致。类似：devenir, parvenir, se souvenir。"
+      }
+    }
+  ],
+  "traslationPart": {
+    "frenchToChinesePractice": {
+      "frenchOriginalSentence": "Martin se présente au service du personnel pour un emploi d'informaticien. Il a déjà travaillé comme technicien pendant six mois, mais l'entreprise a fermé à cause de problèmes financiers. Comme il parle assez bien l'anglais et comprend l'allemand, la directrice lui propose un poste pour visiter les clients en France et à l'étranger. Ça l'intéresse beaucoup. Elle lui demande de donner son curriculum vitae à la secrétaire et de revenir demain après-midi.",
+      "chineseTranslation": "马丁前往人事部门应聘一个计算机专家的职位。他此前已经担任了六个月的技术员，但公司因财务问题倒闭了。由于他英语说得相当流利，德语也能听懂，总监向他提供了一个负责在法国及海外拜访客户的职位。马丁对此非常感兴趣。总监请他把简历交给秘书，并于明天下午再来。",
+      "fr2cnStrategy": "① se présenter au service du personnel 直译为“到人事部门自我介绍”，根据语境译为“前往人事部门应聘”，属于语境增译；② comme technicien 中的 comme 无冠词，译为“担任……”而非“作为一个……”；③ à cause de problèmes financiers 译为“因财务问题”，将介词短语转换为汉语介词结构；④ Comme il parle assez bien l'anglais 此处 Comme 引导原因从句，译为“由于……”，区别于时间含义的 comme；⑤ lui propose un poste pour visiter 中 pour 表目的，译为“负责……的职位”，将目的状语转换为后置定语；⑥ Ça l'intéresse beaucoup 主语 Ça 指上文所提职位，译时明确为“马丁对此”，属于语境补充；⑦ demander de + inf. 译为“请……做”，语气比“命令”更温和，符合职场语境。"
+    },
+    "chineseToFrenchPractice": [
+      {
+        "index": "1",
+        "chineseOriginalSentence": "她去年在一家银行做了八个月的秘书，但那家公司去年十二月关闭了。",
+        "frenchTranslation": "Elle a travaillé comme secrétaire dans une banque pendant huit mois, mais cette entreprise a fermé en décembre de l'année dernière.",
+        "cn2frStrategy": "① “做秘书”用 travailler comme secrétaire，comme 后职业名词不加冠词；② “八个月”用 pendant huit mois，强调已完成的持续时间；③ “关闭”用 fermer 不及物用法，助动词 avoir，不可用 être；④ “去年十二月”译为 en décembre de l'année dernière，月份前用 en。"
+      },
+      {
+        "index": "2",
+        "chineseOriginalSentence": "我们正在寻找一位会说两门外语、有意出国工作的年轻人。",
+        "frenchTranslation": "Nous sommes en train de chercher un jeune qui parle deux langues étrangères et qui souhaite travailler à l'étranger.",
+        "cn2frStrategy": "① “正在寻找”用 être en train de chercher，而非简单现在时；② “会说两门外语”用关系从句 qui parle deux langues étrangères，parler 后语言直接跟，不加冠词；③ “有意出国工作”用 qui souhaite travailler à l'étranger，à l'étranger 为固定短语；④ 两个关系从句并列，共享先行词 un jeune，各自引导词均为 qui。"
+      },
+      {
+        "index": "3",
+        "chineseOriginalSentence": "这份工作让她很感兴趣，因为薪资待遇不错。",
+        "frenchTranslation": "Ce travail l'intéresse beaucoup parce que le salaire est bon.",
+        "cn2frStrategy": "① “让她感兴趣”用 intéresser + 人称代词（宾格）l'，主语为事物；② parce que 引导原因从句，回答“为什么”，可用于疑问句的回答语境；③ “薪资待遇不错”简化为 le salaire est bon，避免生硬的逐词对译。"
+      },
+      {
+        "index": "4",
+        "chineseOriginalSentence": "请把您的简历明天上午交给人事部的秘书。",
+        "frenchTranslation": "Donnez votre curriculum vitae à la secrétaire du service du personnel demain matin.",
+        "cn2frStrategy": "① 祈使句用第二人称复数 Donnez，表尊称的礼貌祈使；② donner qch. à qn. 双宾结构，直接宾语（curriculum vitae）置于动词后，间接宾语（à la secrétaire）紧随其后；③ “人事部的秘书”译为 la secrétaire du service du personnel，注意 du 为 de + le 的缩合；④ 时间状语 demain matin 置于句末，符合法语状语后置习惯。"
+      }
+    ]
+  }
+}
+
+
