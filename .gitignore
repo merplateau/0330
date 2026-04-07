@@ -48,6 +48,11 @@ prompt/*
 !prompt/*.jsonc
 !prompt/*.md
 
+!output/
+output/*
+!output/*.json
+!output/*.pdf
+
 !output-manual/
 output-manual/*
 !output-manual/*.json
