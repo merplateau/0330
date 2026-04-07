@@ -1,0 +1,84 @@
+name: Render Output PDFs
+
+on:
+  push:
+    paths:
+      - "output/*.json"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install LuaLaTeX dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            latexmk \
+            texlive-fonts-recommended \
+            texlive-lang-chinese \
+            texlive-latex-extra \
+            texlive-luatex
+
+      - name: Detect newly added JSON files
+        id: detect-json
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          before_sha="${{ github.event.before }}"
+          after_sha="${{ github.sha }}"
+
+          if [ "${before_sha}" = "0000000000000000000000000000000000000000" ]; then
+            mapfile -t json_files < <(git ls-tree -r --name-only "${after_sha}" output | grep -E '^output/.*\.json$' || true)
+          else
+            mapfile -t json_files < <(git diff --name-only --diff-filter=A "${before_sha}" "${after_sha}" -- output | grep -E '^output/.*\.json$' || true)
+          fi
+
+          {
+            echo "count=${#json_files[@]}"
+            echo "files<<EOF"
+            printf '%s\n' "${json_files[@]}"
+            echo "EOF"
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Render PDFs
+        if: steps.detect-json.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+          chmod +x scripts/render-json-to-pdf.sh
+          while IFS= read -r json_file; do
+            [ -n "${json_file}" ] || continue
+            ./scripts/render-json-to-pdf.sh "${json_file}"
+          done <<< "${{ steps.detect-json.outputs.files }}"
+
+      - name: Commit rendered PDFs
+        if: steps.detect-json.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          while IFS= read -r json_file; do
+            [ -n "${json_file}" ] || continue
+            git add "${json_file%.json}.pdf"
+          done <<< "${{ steps.detect-json.outputs.files }}"
+
+          if git diff --cached --quiet; then
+            echo "No rendered PDF changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: render PDFs for new JSON files"
+          git push
