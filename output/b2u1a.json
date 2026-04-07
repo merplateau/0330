@@ -1,0 +1,1504 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "C'est au 14 juillet 1789 que les habitants de Paris ont attaqué la prison de la Bastille et ont proclamé l'idéal de liberté, d'égalité et de fraternité.",
+            "translatedSentence": "正是在1789年7月14日，巴黎市民攻占了巴士底狱，并宣告了自由、平等、博爱的理想。",
+            "sentenceStructure": "强调句结构：C'est ... que ... 为主干，que 引导的从句为被强调成分 au 14 juillet 1789 之外的核心谓语部分；从句主语为 les habitants de Paris，并列谓语为 ont attaqué 和 ont proclamé。",
+            "grammarAnalysis": "① 强调句 C'est ... que ...，强调时间状语 au 14 juillet 1789。② 复合过去时 ont attaqué / ont proclamé，表已完成的历史事件。③ l'idéal de liberté, d'égalité et de fraternité 为并列名词短语，介词 de 在并列结构中可省略冠词重复，此处保留 de。",
+            "commonMistakes": "强调句中 que 后的从句语序与正常陈述句相同，不可倒装。注意区分强调句 C'est...que 与表语句 C'est...qui（强调主语时用 qui，强调其他成分时用 que）。"
+        },
+        {
+            "index": 2,
+            "sentence": "La France est entourée de nombreux pays: au nord-est, la Belgique et le Luxembourg; à l'est, l'Allemagne, la Suisse et l'Italie; au sud, l'Espagne et au nord-ouest, elle est séparée de la Grande-Bretagne par la Manche.",
+            "translatedSentence": "法国被众多国家所环绕：东北部是比利时和卢森堡，东部是德国、瑞士和意大利，南部是西班牙，而西北部则通过英吉利海峡与英国相隔。",
+            "sentenceStructure": "主句为 La France est entourée de nombreux pays，冒号后为一系列并列的方位状语短语（省略谓语的省略句），最后以 elle est séparée de la Grande-Bretagne par la Manche 收尾，结构完整。",
+            "grammarAnalysis": "① être entouré de 为被动结构，表示「被……环绕」，介词固定用 de。② être séparé de ... par ... 同为被动结构，de 引出被隔离的对象，par 引出隔离手段。③ 方位词 au nord-est / à l'est / au sud / au nord-ouest 均为固定介词短语。",
+            "commonMistakes": "entourer de 与 séparer de ... par ... 中的介词不可随意替换。être entouré par 也可表被动施事，但 être entouré de 更强调「周围充满……」的状态，两者语义有细微差别，此处用 de 正确。"
+        },
+        {
+            "index": 3,
+            "sentence": "La Seine (776 km de long) traverse Paris et se jette dans l'océan Atlantique comme la Garonne et la Loire, tandis que le Rhône, lui, se jette dans la Méditerranée.",
+            "translatedSentence": "塞纳河（全长776公里）穿越巴黎，与加龙河、卢瓦尔河一样注入大西洋，而罗纳河则注入地中海。",
+            "sentenceStructure": "主句为 La Seine traverse Paris et se jette dans l'océan Atlantique，comme la Garonne et la Loire 为比较状语，tandis que 引导转折状语从句，lui 为强调性人称代词，强调主语 le Rhône。",
+            "grammarAnalysis": "① se jeter dans 为代词式动词固定搭配，意为「（河流）注入」。② comme 引导比较结构，此处省略从句谓语（如同 comme la Garonne et la Loire [le font]）。③ tandis que 引导对比从句，强调两者之间的对比关系，相当于「而……则……」。④ 强调性人称代词 lui 置于主语 le Rhône 之后，起强调作用。",
+            "commonMistakes": "tandis que 表对比（而……则），不可与 pendant que（同时进行）混淆。se jetter 是常见拼写错误，正确形式为 se jeter（单 t）。"
+        },
+        {
+            "index": 4,
+            "sentence": "Sur le plan de l'industrie, la France n'est pas le pays le plus développé d'Europe.",
+            "translatedSentence": "在工业方面，法国并非欧洲发展程度最高的国家。",
+            "sentenceStructure": "介词短语 Sur le plan de l'industrie 作前置状语，主句为 la France n'est pas le pays le plus développé d'Europe，其中 le plus développé d'Europe 为最高级定语，修饰 le pays。",
+            "grammarAnalysis": "① sur le plan de 为固定表达，意为「在……方面」。② 形容词最高级结构：le/la + plus + adj. + de + 范围，此处 d'Europe 表示比较范围。③ 否定句 ne ... pas，否定词位置在助动词两侧（此处为系动词 être 两侧）。",
+            "commonMistakes": "最高级后的范围介词固定用 de，不可用 en 或 dans。注意 développé 作形容词时须与主语性数一致（pays 为阳性单数，故用 développé）。"
+        },
+        {
+            "index": 5,
+            "sentence": "La Loire, avec ses 1 010 km, est le fleuve le plus long de France.",
+            "translatedSentence": "卢瓦尔河全长1010公里，是法国最长的河流。",
+            "sentenceStructure": "主语为 La Loire，avec ses 1 010 km 为插入的伴随状语，谓语为 est，表语为 le fleuve le plus long de France（含最高级修饰）。",
+            "grammarAnalysis": "① avec + 名词短语作插入状语，表附带说明，相当于「以……之……」。② 最高级 le plus long de France，long 为规则最高级。③ fleuve 特指有入海口的大河，区别于 rivière（汇入其他河流的支流）。",
+            "commonMistakes": "fleuve 与 rivière 的区别常被忽视：fleuve 指注入大海的河，rivière 指注入另一条河的支流。本课词汇表中两者均出现，需加以区分。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "se trouver en/à + lieu",
+            "meaning": "位于……，坐落于……",
+            "usage": "代词式动词，表位置。后接国家用 en（阴性国名）或 au（阳性国名），接城市用 à。比 être situé 更口语化。",
+            "exampleSentence": "La France se trouve en Europe de l'Ouest."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "avoir une superficie de + 数字",
+            "meaning": "面积为……",
+            "usage": "固定表达，de 后直接接数字+单位，不加冠词。",
+            "exampleSentence": "Elle a une superficie de 550 000 kilomètres carrés."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "être entouré(e) de + n.",
+            "meaning": "被……环绕",
+            "usage": "被动结构，介词固定用 de，强调周围状态；若强调动作施事则用 par，但 de 更常见于描述地理位置。",
+            "exampleSentence": "La France est entourée de nombreux pays."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "être séparé(e) de ... par ...",
+            "meaning": "被……与……隔开",
+            "usage": "被动结构，de 引出被隔开的对象，par 引出隔开的事物（海峡、山脉等）。两个介词不可互换。",
+            "exampleSentence": "Elle est séparée de la Grande-Bretagne par la Manche."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "être baigné(e) par + n.",
+            "meaning": "被……所环绕（海洋、河流冲刷）",
+            "usage": "被动结构，par 引出施事（海洋、河流）。baigner vt. 本义「浸泡、冲刷」，被动式用于地理描写。",
+            "exampleSentence": "La France est baignée à l'ouest par l'Atlantique et la Manche."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se jeter dans + n.",
+            "meaning": "（河流）注入……",
+            "usage": "代词式动词固定搭配，专用于河流地理描写，后接河流或海洋名称，介词固定用 dans。",
+            "exampleSentence": "La Seine se jette dans l'océan Atlantique."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "sur le plan de + n.",
+            "meaning": "在……方面",
+            "usage": "固定介词短语，用于引出话题领域，书面语色彩较强。近义表达 en matière de、du point de vue de，三者语义相近但语体略有差异。",
+            "exampleSentence": "Sur le plan de l'industrie, la France n'est pas le pays le plus développé d'Europe."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "parcourir + lieu",
+            "meaning": "流经……；穿越……",
+            "usage": "vt. 直接及物，后接地点宾语，无需介词。也可表「浏览、翻阅」，语义根据宾语而定。",
+            "exampleSentence": "De nombreux cours d'eau parcourent la France."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "ne pas oublier de + inf.",
+            "meaning": "别忘了……",
+            "usage": "固定结构，de 后接动词不定式；此处课文用法略有不同（il ne faut pas oublier + 名词），表「不应忽略」。",
+            "exampleSentence": "Il ne faut pas oublier deux petits pays: Monaco et Andorre."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "être célèbre pour + n.",
+            "meaning": "以……著称",
+            "usage": "固定搭配，pour 后接名词，表出名的原因。近义 être connu pour，两者可互换，célèbre 更强调名气之大。",
+            "exampleSentence": "Bordeaux, port atlantique et ville célèbre pour ses vins."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "venir après + n.",
+            "meaning": "排在……之后，次于……",
+            "usage": "表排名或顺序，口语和书面语均可用。",
+            "exampleSentence": "Elle vient après l'Allemagne, mais plus développée que l'Italie et l'Espagne."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "tandis que + proposition",
+            "meaning": "而……则……（表对比）",
+            "usage": "连词，引导对比从句；区别于 pendant que（表同时发生）。tandis que 强调两者的差异对比，pendant que 强调时间同步。",
+            "exampleSentence": "tandis que le Rhône, lui, se jette dans la Méditerranée."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "ouest",
+            "partOfSpeech": "n.m.",
+            "definition": "①西部，西方",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'ouest de",
+                    "vocabularyCollocationMeaning": "在……的西部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Europe de l'Ouest",
+                    "vocabularyCollocationMeaning": "西欧"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vent d'ouest",
+                    "vocabularyCollocationMeaning": "西风"
+                }
+            ],
+            "synonymAnalysis": "ouest 指方位「西」；occident 为书面/文学用语，泛指「西方世界」，含文化意味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "occidental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "西方的，西部的"
+                }
+            ],
+            "pluralForm": "ouest（方位名词通常不用复数）",
+            "useExplanation": "方位词 ouest/est/nord/sud 作名词时前加冠词 l'，作形容词（a.inv.）时不变形，直接修饰名词，如 la côte ouest。"
+        },
+        {
+            "index": "2",
+            "vocabulary": "superficie",
+            "partOfSpeech": "n.f.",
+            "definition": "①面积 ②表面，表层",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir une superficie de",
+                    "vocabularyCollocationMeaning": "面积为……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "superficie totale",
+                    "vocabularyCollocationMeaning": "总面积"
+                }
+            ],
+            "synonymAnalysis": "superficie 多指土地、国家面积；surface 更广泛，可指物体表面、液面等；étendue 强调广阔的范围（偏书面）。",
+            "derivedWords": [],
+            "pluralForm": "superficies"
+        },
+        {
+            "index": "3",
+            "vocabulary": "kilomètre",
+            "partOfSpeech": "n.m.",
+            "definition": "①公里（km）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "kilomètre carré",
+                    "vocabularyCollocationMeaning": "平方公里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "km de long",
+                    "vocabularyCollocationMeaning": "……公里长"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "kilométrique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "公里的；以公里计的"
+                }
+            ],
+            "pluralForm": "kilomètres"
+        },
+        {
+            "index": "4",
+            "vocabulary": "carré",
+            "partOfSpeech": "adj.m.",
+            "definition": "①平方的 ②正方形的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "kilomètre carré",
+                    "vocabularyCollocationMeaning": "平方公里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mètre carré",
+                    "vocabularyCollocationMeaning": "平方米"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "carré",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "正方形；广场"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "carreau",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "方格；瓷砖"
+                }
+            ],
+            "genderNumberVariation": "阴性 carrée，阳性复数 carrés，阴性复数 carrées",
+            "position": "通常置于名词之后（如 kilomètre carré）"
+        },
+        {
+            "index": "5",
+            "vocabulary": "population",
+            "partOfSpeech": "n.f.",
+            "definition": "①人口 ②（某地区的）居民，民众",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "population totale",
+                    "vocabularyCollocationMeaning": "总人口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "croissance de la population",
+                    "vocabularyCollocationMeaning": "人口增长"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "population active",
+                    "vocabularyCollocationMeaning": "劳动人口"
+                }
+            ],
+            "synonymAnalysis": "population 指某地区的人口总体；habitants 指具体的居民个体（可数）；peuple 强调有共同文化认同的民族或人民。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "populaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "大众的；受欢迎的；人民的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "peupler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使居住于；填充"
+                }
+            ],
+            "pluralForm": "populations"
+        },
+        {
+            "index": "6",
+            "vocabulary": "habitant",
+            "partOfSpeech": "n.m.",
+            "definition": "①居民，住民",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "habitants de Paris",
+                    "vocabularyCollocationMeaning": "巴黎居民"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nombre d'habitants",
+                    "vocabularyCollocationMeaning": "居民人数"
+                }
+            ],
+            "synonymAnalysis": "habitant 指某地的具体居民；résident 强调居住身份（可指外国人）；citoyen 强调公民身份（具有政治含义）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "habiter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "居住"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "habitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "住所，居所"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "habitat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "栖息地；居住环境"
+                }
+            ],
+            "pluralForm": "habitants（阴性 habitante，阴性复数 habitantes）"
+        },
+        {
+            "index": "7",
+            "vocabulary": "département",
+            "partOfSpeech": "n.m.",
+            "definition": "①（法国的）省，行政区 ②部门，科室",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "département français",
+                    "vocabularyCollocationMeaning": "法国的省"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chef-lieu de département",
+                    "vocabularyCollocationMeaning": "省会城市"
+                }
+            ],
+            "synonymAnalysis": "département 是法国特有的行政区划单位，相当于中国的「省」，但面积远小于中国的省；région 是比 département 更大的行政区划。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "départemental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "省级的"
+                }
+            ],
+            "pluralForm": "départements"
+        },
+        {
+            "index": "8",
+            "vocabulary": "peuple",
+            "partOfSpeech": "n.m.",
+            "definition": "①人民，民众 ②民族，族群",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le peuple français",
+                    "vocabularyCollocationMeaning": "法国人民"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au nom du peuple",
+                    "vocabularyCollocationMeaning": "以人民的名义"
+                }
+            ],
+            "synonymAnalysis": "peuple 强调有共同文化、历史的民族共同体；population 是中性词，单纯指人口数量；nation 侧重政治意义上的「国家/民族」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "populaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "人民的；大众的；受欢迎的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "peupler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使（某地）有人居住"
+                }
+            ],
+            "pluralForm": "peuples"
+        },
+        {
+            "index": "9",
+            "vocabulary": "attaquer",
+            "partOfSpeech": "vt.",
+            "definition": "①进攻，袭击 ②攻击，批评 ③着手处理（某事）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "attaquer une ville",
+                    "vocabularyCollocationMeaning": "进攻一座城市"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attaquer en justice",
+                    "vocabularyCollocationMeaning": "提起诉讼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'attaquer à",
+                    "vocabularyCollocationMeaning": "向……发起挑战；着手处理"
+                }
+            ],
+            "synonymAnalysis": "attaquer 强调主动发起进攻；assaillir 更书面，强调猛烈袭击；envahir 指大规模入侵。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "attaque",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "进攻，攻击"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "attaquant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "攻击者；前锋"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "prison",
+            "partOfSpeech": "n.f.",
+            "definition": "①监狱 ②监禁，拘禁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre en prison",
+                    "vocabularyCollocationMeaning": "投入监狱"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sortir de prison",
+                    "vocabularyCollocationMeaning": "出狱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "condamner à la prison",
+                    "vocabularyCollocationMeaning": "判处监禁"
+                }
+            ],
+            "synonymAnalysis": "prison 为通用词；pénitencier 指关押重刑犯的监狱；cellule 指具体的牢房。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prisonnier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "囚犯，犯人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "emprisonner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "监禁，关押"
+                }
+            ],
+            "pluralForm": "prisons"
+        },
+        {
+            "index": "11",
+            "vocabulary": "proclamer",
+            "partOfSpeech": "vt.",
+            "definition": "①宣布，宣告 ②声称，宣称",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "proclamer l'indépendance",
+                    "vocabularyCollocationMeaning": "宣布独立"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "proclamer un idéal",
+                    "vocabularyCollocationMeaning": "宣告一种理想"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se proclamer + attribut",
+                    "vocabularyCollocationMeaning": "自称为……"
+                }
+            ],
+            "synonymAnalysis": "proclamer 强调正式公开地宣告，具有官方性；déclarer 更广泛，泛指陈述、申报；annoncer 侧重宣布消息。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "proclamation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "宣告，公告"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "idéal",
+            "partOfSpeech": "n.m.",
+            "definition": "①理想，崇高目标 ②完美的典范",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "idéal de liberté",
+                    "vocabularyCollocationMeaning": "自由的理想"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poursuivre un idéal",
+                    "vocabularyCollocationMeaning": "追求一种理想"
+                }
+            ],
+            "synonymAnalysis": "idéal（名词）指崇高目标；rêve 更口语，侧重梦想；aspiration 强调渴望、向往（较书面）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "idéal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "理想的，完美的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "idéaliste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "理想主义者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "idéalisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "理想主义"
+                }
+            ],
+            "pluralForm": "idéaux（注意不规则复数，不可写作 idéals）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "liberté",
+            "partOfSpeech": "n.f.",
+            "definition": "①自由 ②（具体的）权利，自由权",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "liberté d'expression",
+                    "vocabularyCollocationMeaning": "言论自由"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en liberté",
+                    "vocabularyCollocationMeaning": "自由地，获释"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre des libertés",
+                    "vocabularyCollocationMeaning": "放肆，过于随便"
+                }
+            ],
+            "synonymAnalysis": "liberté 是广泛意义上的自由；indépendance 更强调独立自主；autonomie 侧重自治、自我管理能力。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "libre",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "自由的，空闲的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "librement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "自由地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "libérer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "解放，释放"
+                }
+            ],
+            "pluralForm": "libertés"
+        },
+        {
+            "index": "14",
+            "vocabulary": "égalité",
+            "partOfSpeech": "n.f.",
+            "definition": "①平等 ②均等，相等",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "égalité des droits",
+                    "vocabularyCollocationMeaning": "权利平等"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à égalité",
+                    "vocabularyCollocationMeaning": "平局，相等"
+                }
+            ],
+            "synonymAnalysis": "égalité 强调地位/权利的平等；équité 更侧重公平、公正（含道德评判）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "égal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "平等的；相同的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "également",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "同样地，也"
+                }
+            ],
+            "pluralForm": "égalités"
+        },
+        {
+            "index": "15",
+            "vocabulary": "fraternité",
+            "partOfSpeech": "n.f.",
+            "definition": "①博爱，友爱 ②兄弟情谊",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "esprit de fraternité",
+                    "vocabularyCollocationMeaning": "博爱精神"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "liberté, égalité, fraternité",
+                    "vocabularyCollocationMeaning": "自由、平等、博爱（法国国训）"
+                }
+            ],
+            "synonymAnalysis": "fraternité 原指「兄弟情」，延伸为普世的博爱精神；solidarité 更强调「团结互助」，含社会连带义务含义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fraternel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "兄弟般的，博爱的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fraterniser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "亲善相处，结为兄弟"
+                }
+            ],
+            "pluralForm": "fraternités"
+        },
+        {
+            "index": "16",
+            "vocabulary": "entourer",
+            "partOfSpeech": "vt.",
+            "definition": "①环绕，围绕 ②包围，团团围住",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entourer de",
+                    "vocabularyCollocationMeaning": "用……围绕"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'entourer de",
+                    "vocabularyCollocationMeaning": "让……围绕自己；招揽"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être entouré de",
+                    "vocabularyCollocationMeaning": "被……环绕"
+                }
+            ],
+            "synonymAnalysis": "entourer 强调环绕的状态；encercler 强调包围（军事或完全围住）；encadrer 强调框住或监管。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "entourage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "周围的人；随行人员"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "nombreux",
+            "partOfSpeech": "adj.m.",
+            "definition": "①众多的，大量的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de nombreux pays",
+                    "vocabularyCollocationMeaning": "许多国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une famille nombreuse",
+                    "vocabularyCollocationMeaning": "人口众多的家庭"
+                }
+            ],
+            "synonymAnalysis": "nombreux 修饰可数复数名词，表数量多；beaucoup de 可修饰可数和不可数名词，用法更广；多个 nombreux 构成复数，beaucoup de 后名词不加冠词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nombre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "数量，数目"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "numéro",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "编号，号码"
+                }
+            ],
+            "genderNumberVariation": "阴性 nombreuse，阳性复数 nombreux，阴性复数 nombreuses",
+            "position": "通常置于名词之前，如 de nombreux pays"
+        },
+        {
+            "index": "18",
+            "vocabulary": "pays",
+            "partOfSpeech": "n.m.",
+            "definition": "①国家 ②地区，家乡",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pays développé",
+                    "vocabularyCollocationMeaning": "发达国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pays natal",
+                    "vocabularyCollocationMeaning": "祖国，故乡"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au pays",
+                    "vocabularyCollocationMeaning": "在家乡"
+                }
+            ],
+            "synonymAnalysis": "pays 最通用，可指国家或地区；nation 侧重政治上的民族国家概念；État 强调政治实体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "paysage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "风景，景色"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "paysan",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "农民"
+                }
+            ],
+            "pluralForm": "pays（单复数同形）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "nord",
+            "partOfSpeech": "n.m.",
+            "definition": "①北部，北方",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au nord de",
+                    "vocabularyCollocationMeaning": "在……的北部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au nord-est",
+                    "vocabularyCollocationMeaning": "在东北部"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nordique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "北欧的，北方的"
+                }
+            ],
+            "pluralForm": "nord（方位名词通常不用复数）",
+            "useExplanation": "方位词 nord/sud/est/ouest 作形容词时不变形（a.inv.），直接修饰名词。复合方位词用连字符连接，如 nord-est、sud-ouest。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "est",
+            "partOfSpeech": "n.m.",
+            "definition": "①东部，东方",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'est de",
+                    "vocabularyCollocationMeaning": "在……的东部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Europe de l'Est",
+                    "vocabularyCollocationMeaning": "东欧"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "oriental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "东方的；东部的"
+                }
+            ],
+            "pluralForm": "est（方位名词通常不用复数）",
+            "useExplanation": "注意 est [ɛst] 表方位「东」，与系动词 est（être 第三人称单数）同形但发音不同，需根据上下文区分。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "sud",
+            "partOfSpeech": "n.m.",
+            "definition": "①南部，南方",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au sud de",
+                    "vocabularyCollocationMeaning": "在……的南部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au sud-est",
+                    "vocabularyCollocationMeaning": "在东南部"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "méridional",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "南部的，南方的"
+                }
+            ],
+            "pluralForm": "sud（方位名词通常不用复数）",
+            "useExplanation": "参见 ouest/nord/est 的用法说明，规则相同。"
+        },
+        {
+            "index": "22",
+            "vocabulary": "séparer",
+            "partOfSpeech": "vt.",
+            "definition": "①使分开，分隔 ②区分，划分",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "séparer A de B",
+                    "vocabularyCollocationMeaning": "将A与B分开"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être séparé(e) de ... par ...",
+                    "vocabularyCollocationMeaning": "被……与……隔开"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se séparer de",
+                    "vocabularyCollocationMeaning": "与……分离；分手"
+                }
+            ],
+            "synonymAnalysis": "séparer 是通用词；diviser 强调分成若干部分；isoler 强调隔绝、使孤立。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "séparation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "分离，分隔；分手"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "séparé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "分开的，分离的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "baigner",
+            "partOfSpeech": "vt.",
+            "definition": "①浸，泡 ②（河、海水）环绕，流经",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être baigné(e) par",
+                    "vocabularyCollocationMeaning": "被……所环绕（地理）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "baigner dans",
+                    "vocabularyCollocationMeaning": "浸泡在……中；沉浸于"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se baigner",
+                    "vocabularyCollocationMeaning": "游泳，洗澡"
+                }
+            ],
+            "synonymAnalysis": "baigner 在地理意义上与 arroser（灌溉，流经）近义，但 baigner 更强调被水体环绕的整体感，arroser 则常用于河流流经某城市或农田。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bain",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "浴；浴缸；泡浴"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "baignoire",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "浴缸"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "24",
+            "vocabulary": "frontière",
+            "partOfSpeech": "n.f.",
+            "definition": "①边界，边境 ②（抽象意义的）界限",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la frontière",
+                    "vocabularyCollocationMeaning": "在边境"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passer la frontière",
+                    "vocabularyCollocationMeaning": "越过边境"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "frontière naturelle",
+                    "vocabularyCollocationMeaning": "天然边界"
+                }
+            ],
+            "synonymAnalysis": "frontière 指国家间的边界；limite 更广泛，可指任何界限；border 是英语借词，法语不用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "frontalier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "边境的，边界地区的"
+                }
+            ],
+            "pluralForm": "frontières"
+        },
+        {
+            "index": "25",
+            "vocabulary": "important",
+            "partOfSpeech": "adj.m.",
+            "definition": "①重要的 ②重大的，大量的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une ville importante",
+                    "vocabularyCollocationMeaning": "重要的城市"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une somme importante",
+                    "vocabularyCollocationMeaning": "一大笔钱"
+                }
+            ],
+            "synonymAnalysis": "important 可表「重要的」或「大量的」；significatif 侧重「有意义的、有指示性的」；considérable 强调数量或程度大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "importance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "重要性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "importer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "重要，要紧"
+                }
+            ],
+            "genderNumberVariation": "阴性 importante，阳性复数 importants，阴性复数 importantes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "26",
+            "vocabulary": "mont",
+            "partOfSpeech": "n.m.",
+            "definition": "①山峰（常用于专有名词中）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le mont Blanc",
+                    "vocabularyCollocationMeaning": "勃朗峰"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au mont",
+                    "vocabularyCollocationMeaning": "在山上"
+                }
+            ],
+            "synonymAnalysis": "mont 通常用于专有名词（mont Blanc, mont Everest）；montagne 是普通名词，泛指山、山脉；sommet 指山顶。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "montagne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "山，山脉"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "montagneux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多山的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "monter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "上升，攀登"
+                }
+            ],
+            "pluralForm": "monts"
+        },
+        {
+            "index": "27",
+            "vocabulary": "élevé",
+            "partOfSpeech": "adj.m.",
+            "definition": "①高的 ②高尚的，崇高的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le plus élevé",
+                    "vocabularyCollocationMeaning": "最高的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prix élevé",
+                    "vocabularyCollocationMeaning": "高价格"
+                }
+            ],
+            "synonymAnalysis": "élevé 描述高度或程度高；haut 更常用于具体高度（haut de 10 mètres）；grand 侧重尺寸大。在表「（数值/程度）高」时，élevé 比 haut 更常见（prix élevé 比 prix haut 自然）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "élever",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "提高；抚养"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "élévation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "升高，提升"
+                }
+            ],
+            "genderNumberVariation": "阴性 élevée，阳性复数 élevés，阴性复数 élevées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "28",
+            "vocabulary": "cours d'eau",
+            "partOfSpeech": "n.m.",
+            "definition": "①水流，江河（泛指流动水体）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cours d'eau navigable",
+                    "vocabularyCollocationMeaning": "可通航的河流"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aménager un cours d'eau",
+                    "vocabularyCollocationMeaning": "整治河道"
+                }
+            ],
+            "synonymAnalysis": "cours d'eau 是泛称，包括河流、溪流等；fleuve 专指注入大海的大河；rivière 指注入另一条河的支流；ruisseau 指小溪。",
+            "derivedWords": [],
+            "pluralForm": "cours d'eau（复数与单数同形）"
+        },
+        {
+            "index": "29",
+            "vocabulary": "parcourir",
+            "partOfSpeech": "vt.",
+            "definition": "①流经，穿越（地理） ②走遍，游遍 ③浏览，翻阅",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parcourir la France",
+                    "vocabularyCollocationMeaning": "流经/游遍法国"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parcourir un journal",
+                    "vocabularyCollocationMeaning": "浏览报纸"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "parcourir des yeux",
+                    "vocabularyCollocationMeaning": "用眼睛扫视"
+                }
+            ],
+            "synonymAnalysis": "parcourir 强调从头到尾经过某段距离或浏览全文；traverser 强调从一端到另一端穿越；longer 强调沿某物走（沿岸、沿路）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "parcours",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "路程，行程；过程"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je parcours, tu parcours, il parcourt, nous parcourons, vous parcourez, ils parcourent",
+                "compoundPast": "j'ai parcouru",
+                "simpleFuture": "je parcourrai",
+                "memoryAids": "属于 courir 类动词，与 courir、accourir、recourir 变位规则完全一致。"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "jeter",
+            "partOfSpeech": "vt.",
+            "definition": "①投，扔，抛 ②发出（光、声） ③se jeter dans：（江河）注入",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jeter un regard",
+                    "vocabularyCollocationMeaning": "投去一瞥"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se jeter dans",
+                    "vocabularyCollocationMeaning": "（河流）注入……；扑向"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "jeter un pont",
+                    "vocabularyCollocationMeaning": "架桥"
+                }
+            ],
+            "synonymAnalysis": "jeter 是通用词；lancer 强调用力投掷；balancer 强调甩出（口语）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "jet",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "喷射；投掷"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rejet",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "拒绝；排斥"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je jette, tu jettes, il jette, nous jetons, vous jetez, ils jettent",
+                "compoundPast": "j'ai jeté",
+                "simpleFuture": "je jetterai",
+                "memoryAids": "属于词干辅音双写类动词（-eter 型），双写规则：除 nous/vous 外，其余人称词干末辅音 t 双写为 tt。类似动词：appeler（l→ll）、rappeler。"
+            }
+        },
+        {
+            "index": "31",
+            "vocabulary": "océan",
+            "partOfSpeech": "n.m.",
+            "definition": "①海洋，大洋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "océan Atlantique",
+                    "vocabularyCollocationMeaning": "大西洋"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au bord de l'océan",
+                    "vocabularyCollocationMeaning": "在海边"
+                }
+            ],
+            "synonymAnalysis": "océan 指五大洋（太平洋、大西洋等）；mer 泛指较小的海（地中海 la Méditerranée）；côte/littoral 指海岸。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "océanique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "大洋的，海洋性的"
+                }
+            ],
+            "pluralForm": "océans"
+        },
+        {
+            "index": "32",
+            "vocabulary": "tandis que",
+            "partOfSpeech": "conj.",
+            "definition": "①而……则……（表对比） ②当……的时候（表时间同步，较少用）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tandis que + proposition indicatif",
+                    "vocabularyCollocationMeaning": "而……则……（与主句形成对比）"
+                }
+            ],
+            "synonymAnalysis": "tandis que 表对比时与 alors que 近义，但 alors que 对比意味更强，并可表让步；pendant que 只表时间同步，不含对比义。",
+            "derivedWords": [],
+            "useExplanation": "后接直陈式，不用虚拟式。当表示对比时，两个分句主语常不同，且情况相反。"
+        },
+        {
+            "index": "33",
+            "vocabulary": "fleuve",
+            "partOfSpeech": "n.m.",
+            "definition": "①（注入大海的）大河，江",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fleuve côtier",
+                    "vocabularyCollocationMeaning": "沿海河流"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le fleuve le plus long",
+                    "vocabularyCollocationMeaning": "最长的河"
+                }
+            ],
+            "synonymAnalysis": "fleuve 专指注入大海（或湖泊）的河流；rivière 指汇入另一条河的支流。La Seine 是 fleuve，因为它注入大西洋；但其支流如 la Marne 是 rivière。",
+            "derivedWords": [],
+            "pluralForm": "fleuves"
+        },
+        {
+            "index": "34",
+            "vocabulary": "capitale",
+            "partOfSpeech": "n.f.",
+            "definition": "①首都，首府 ②（某领域的）中心城市",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la capitale d'un pays",
+                    "vocabularyCollocationMeaning": "一个国家的首都"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "capitale économique",
+                    "vocabularyCollocationMeaning": "经济中心"
+                }
+            ],
+            "synonymAnalysis": "capitale（名词）指首都；capital（形容词）意为「最重要的」（importance capitale 极其重要）。注意词性不同，含义不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "capital",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "资本；资产"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "capital",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "最重要的，首要的"
+                }
+            ],
+            "pluralForm": "capitales"
+        },
+        {
+            "index": "35",
+            "vocabulary": "port",
+            "partOfSpeech": "n.m.",
+            "definition": "①港口，港湾 ②（衣物等的）穿戴",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "port maritime",
+                    "vocabularyCollocationMeaning": "海港"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "arriver à bon port",
+                    "vocabularyCollocationMeaning": "平安抵达"
+                }
+            ],
+            "synonymAnalysis": "port 指有停泊设施的港口；quai 指码头；rade 指锚地（更专业）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "portuaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "港口的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "portée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "射程；影响范围"
+                }
+            ],
+            "pluralForm": "ports"
+        },
+        {
+            "index": "36",
+            "vocabulary": "industrie",
+            "partOfSpeech": "n.f.",
+            "definition": "①工业，产业 ②行业",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "industrie lourde",
+                    "vocabularyCollocationMeaning": "重工业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "industrie légère",
+                    "vocabularyCollocationMeaning": "轻工业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sur le plan de l'industrie",
+                    "vocabularyCollocationMeaning": "在工业方面"
+                }
+            ],
+            "synonymAnalysis": "industrie 泛指工业或某一产业；secteur 指经济部门（secteur primaire, secondaire, tertiaire）；branche 指行业的某个分支。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "industriel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "工业的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "industrialiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使工业化"
+                }
+            ],
+            "pluralForm": "industries"
+        },
+        {
+            "index": "37",
+            "vocabulary": "plan",
+            "partOfSpeech": "n.m.",
+            "definition": "①平面图，地图 ②计划，方案 ③方面，层面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur le plan de",
+                    "vocabularyCollocationMeaning": "在……方面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un plan",
+                    "vocabularyCollocationMeaning": "制定计划；画平面图"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au premier plan",
+                    "vocabularyCollocationMeaning": "在前景；处于首要位置"
+                }
+            ],
+            "synonymAnalysis": "plan（方面义）与 domaine（领域）、secteur 近义；但 sur le plan de 是固定搭配，不可随意替换为 dans le domaine de（语义有差异）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "planifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "规划，制定计划"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "planification",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "规划，计划"
+                }
+            ],
+            "pluralForm": "plans"
+        },
+        {
+            "index": "38",
+            "vocabulary": "développé",
+            "partOfSpeech": "adj.m.",
+            "definition": "①发达的，先进的 ②发展完善的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pays développé",
+                    "vocabularyCollocationMeaning": "发达国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "économie développée",
+                    "vocabularyCollocationMeaning": "发达的经济"
+                }
+            ],
+            "synonymAnalysis": "développé 强调已达到高发展水平；avancé 也可表先进，但更侧重技术层面；prospère 强调繁荣富裕。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "développer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "发展，开发"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "développement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发展，开发"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "sous-développé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "欠发达的"
+                }
+            ],
+            "genderNumberVariation": "阴性 développée，阳性复数 développés，阴性复数 développées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "39",
+            "vocabulary": "agriculture",
+            "partOfSpeech": "n.f.",
+            "definition": "①农业",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "agriculture biologique",
+                    "vocabularyCollocationMeaning": "有机农业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pour l'agriculture",
+                    "vocabularyCollocationMeaning": "在农业方面"
+                }
+            ],
+            "synonymAnalysis": "agriculture 是正式通用词；l'agronomie 偏指农业科学；la culture 在某些语境下也指耕作（la culture du blé 小麦种植）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "agricole",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "农业的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "agriculteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "农民，农场主"
+                }
+            ],
+            "pluralForm": "agricultures（较少用复数）"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "La France se trouve en Europe de l'Ouest et est entourée de nombreux pays. C'est au 14 juillet 1789 que les habitants de Paris ont attaqué la prison de la Bastille et ont proclamé l'idéal de liberté, d'égalité et de fraternité. Sur le plan de l'industrie, elle vient après l'Allemagne, mais elle reste le pays le plus important d'Europe de l'Ouest pour l'agriculture. La Loire, avec ses 1 010 km, est le fleuve le plus long de France, tandis que la Seine traverse Paris et se jette dans l'océan Atlantique.",
+            "chineseTranslation": "法国位于西欧，与众多国家接壤。1789年7月14日，巴黎市民攻占巴士底狱，宣告了自由、平等、博爱的理想。在工业方面，法国排在德国之后，但在农业方面，它仍是西欧最重要的国家。卢瓦尔河全长1010公里，是法国最长的河流，而塞纳河则穿越巴黎，注入大西洋。",
+            "fr2cnStrategy": "① C'est...que 强调句译为「正是……」或直接将强调内容前置，本文选择将时间状语前置处理，更符合中文叙事习惯；② proclamer l'idéal de liberté, d'égalité et de fraternité 中三个并列名词短语保留并列结构，中文「自由、平等、博爱的理想」语序自然；③ sur le plan de l'industrie 和 pour l'agriculture 均为固定介词短语，统一译为「在……方面」；④ avec ses 1 010 km 为插入状语，中文转化为「全长1010公里」，置于主句前，符合汉语表达习惯；⑤ tandis que 表对比，译为「而……则……」，凸显两条河流的不同归宿。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "法国被众多国家环绕，东北部与比利时和卢森堡接壤。",
+                "frenchTranslation": "La France est entourée de nombreux pays; au nord-est, elle est voisine de la Belgique et du Luxembourg.",
+                "cn2frStrategy": "① 「被……环绕」用被动结构 être entouré de，介词固定为 de；② 「接壤」可译为 être voisine de（做邻国），也可用 avoir des frontières communes avec；③ 「东北部」用方位介词短语 au nord-est 置于句首。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "正是在法国大革命期间，法国人宣告了自由、平等、博爱的理想。",
+                "frenchTranslation": "C'est pendant la Révolution française que les Français ont proclamé l'idéal de liberté, d'égalité et de fraternité.",
+                "cn2frStrategy": "① 「正是……」提示使用强调句 C'est...que，强调时间状语；② 「宣告理想」用 proclamer l'idéal de + 名词；③ 三个并列名词使用 de...de...de 结构，符合法语表达习惯。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "塞纳河穿越巴黎，注入大西洋，而罗纳河则注入地中海。",
+                "frenchTranslation": "La Seine traverse Paris et se jette dans l'océan Atlantique, tandis que le Rhône se jette dans la Méditerranée.",
+                "cn2frStrategy": "① 「注入」固定译为 se jeter dans，后接水体名称；② 「而……则……」的对比关系用 tandis que 表达；③ 两个主语（塞纳河/罗纳河）不同，符合 tandis que 的对比用法。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在工业方面，法国并非欧洲最发达的国家，但在农业方面，它是西欧最重要的国家。",
+                "frenchTranslation": "Sur le plan de l'industrie, la France n'est pas le pays le plus développé d'Europe, mais pour l'agriculture, c'est le pays le plus important d'Europe de l'Ouest.",
+                "cn2frStrategy": "① 「在……方面」两处分别用 sur le plan de（较正式）和 pour（口语/书面均可）；② 最高级结构 le plus + adj. + de + 范围，范围介词用 de；③ 否定句 ne...pas 否定表语，结构为 ne + être + pas + 表语。"
+            }
+        ]
+    }
+}

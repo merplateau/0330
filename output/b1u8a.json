@@ -1,0 +1,1244 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Nous habitons dans un quartier très ancien. Notre appartement donne sur la Seine!",
+            "translatedSentence": "我们住在一个非常古老的街区。我们的公寓朝向塞纳河！",
+            "sentenceStructure": "两个独立简单句。第一句：主语 Nous — 谓语 habitons — 地点状语 dans un quartier très ancien。第二句：主语 Notre appartement — 谓语 donne — 介词短语 sur la Seine。",
+            "grammarAnalysis": "① donner sur 是固定搭配，意为朝向，面向，介词固定用 sur，不可替换。② 现在时用于描述目前居住状态。",
+            "commonMistakes": "donner sur 中的介词 sur 固定不变，不可误用 à 或 vers。另外注意 ancien 置于名词后表古老的，置于名词前则表从前的、前任的。"
+        },
+        {
+            "index": 2,
+            "sentence": "J'ai regardé pendant une demi-heure. Comme elle est belle avec son sourire!",
+            "translatedSentence": "我看了半个小时。她笑起来真美啊！",
+            "sentenceStructure": "第一句：主语 Je — 谓语（复合过去时）ai regardé — 时间状语 pendant une demi-heure。第二句：感叹句，由 Comme 引导，结构为 Comme + 主语 + 谓语 + 形容词。",
+            "grammarAnalysis": "① pendant 表示动作持续的时间段，强调已完成的持续时间，与复合过去时连用。② Comme + 陈述句构成感叹句，语气强烈，相当于\"多么……啊\"。③ avec son sourire 作伴随状语，意为\"带着她的微笑\"。",
+            "commonMistakes": "pendant 与 pour 易混淆：pendant 强调已持续的时间（常与过去时连用），pour 则表示预计持续时间（常与将来时连用）。感叹句 Comme 后谓语动词用陈述式，不用感叹语气倒装。"
+        },
+        {
+            "index": 3,
+            "sentence": "Papa nous a conduits au sommet de la tour Eiffel. Là, on voit tout Paris.",
+            "translatedSentence": "爸爸带我们去了埃菲尔铁塔的顶端。在那里，可以看到整个巴黎。",
+            "sentenceStructure": "第一句：主语 Papa — 谓语（复合过去时）a conduits — 间接宾语 nous — 地点状语 au sommet de la tour Eiffel。第二句：地点状语 Là — 主语 on — 谓语 voit — 宾语 tout Paris。",
+            "grammarAnalysis": "① conduire 用复合过去时，助动词为 avoir；过去分词 conduit 与前置直接宾语 nous（指复数人）配合，须进行性数配合，变为 conduits。② on 在此泛指\"人们\"，等同于 nous 或 tout le monde。③ au sommet de 是固定介词短语，意为\"在……顶端\"。",
+            "commonMistakes": "avoir 助动词的过去分词性数配合规则：宾语前置时才配合。此处 nous 是前置直接宾语，故 conduit → conduits。学生常忘记此规则。"
+        },
+        {
+            "index": 4,
+            "sentence": "J'ai fait souvent des achats avec maman, parce que maman ne sait pas très bien parler français.",
+            "translatedSentence": "我经常陪妈妈购物，因为妈妈法语说得不太好。",
+            "sentenceStructure": "主句：主语 Je — 谓语（复合过去时）ai fait — 宾语 des achats — 伴随状语 avec maman。从句：parce que 引导原因状语从句，主语 maman — 谓语 ne sait pas — 不定式短语 très bien parler français。",
+            "grammarAnalysis": "① faire des achats 是固定搭配，意为\"购物\"。② savoir + 不定式表示\"会做某事（技能）\"，与 pouvoir（有能力/条件）有别。③ ne...pas 否定结构夹住 savoir，副词 très bien 修饰不定式 parler。",
+            "commonMistakes": "savoir 与 pouvoir 的区别：savoir parler français 指\"会说法语（已掌握技能）\"；pouvoir parler français 指\"能够说法语（有条件/许可）\"。此处用 savoir 强调语言能力，不可替换为 pouvoir。"
+        },
+        {
+            "index": 5,
+            "sentence": "J'aime bien cette ville, parce que beaucoup de grands hommes y ont vécu.",
+            "translatedSentence": "我很喜欢这座城市，因为许多伟人曾在这里生活过。",
+            "sentenceStructure": "主句：主语 Je — 谓语 aime bien — 宾语 cette ville。原因从句：parce que 引导，主语 beaucoup de grands hommes — 副词 y（代替地点）— 谓语（复合过去时）ont vécu。",
+            "grammarAnalysis": "① y 是地点代词，代替前文的 cette ville，置于助动词 ont 之前。② vivre 的复合过去时助动词为 avoir，过去分词 vécu 不变。③ grands hommes 置于名词前的形容词 grand 在此表\"伟大的\"，若置于名词后则表\"高大的\"。",
+            "commonMistakes": "代词 y 的位置：必须置于变位助动词之前（ont），不可放在过去分词之后。另注意 grand 前置/后置含义不同。"
+        },
+        {
+            "index": 6,
+            "sentence": "Papa m'a donné plusieurs livres de Victor Hugo comme cadeaux pour mes bonnes notes!",
+            "translatedSentence": "爸爸送了我好几本雨果的书，作为奖励我好成绩的礼物！",
+            "sentenceStructure": "主语 Papa — 谓语（复合过去时）a donné — 间接宾语 m' — 直接宾语 plusieurs livres de Victor Hugo — 目的/方式状语 comme cadeaux pour mes bonnes notes。",
+            "grammarAnalysis": "① donner qch. à qn. 是双宾结构，此处间接宾语 me 前置缩写为 m'。② comme 引导比较/说明结构，意为\"作为\"。③ pour 表目的，意为\"为了……，以奖励……\"。",
+            "commonMistakes": "donner 双宾语结构中，直接宾语（物）和间接宾语（人）的顺序及代词替换规则是考研常考点。当两者均为代词时，顺序为：直接宾语 + 间接宾语（le/la/les + lui/leur）。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "donner sur qch.",
+            "meaning": "朝向，面向",
+            "usage": "固定搭配，介词固定为 sur，常用于描述房间、窗户、建筑的朝向。不可用 à、vers 替换。",
+            "exampleSentence": "Notre appartement donne sur la Seine!"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "depuis + 时间",
+            "meaning": "自……以来，已经……（时间）",
+            "usage": "depuis 与现在时连用表示从过去延续至今的动作或状态；与复合过去时连用则较少见，通常用于否定句。",
+            "exampleSentence": "Nous sommes à Paris depuis un mois."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "le long de qch.",
+            "meaning": "沿着……",
+            "usage": "固定介词短语，后接名词，表示沿某条线延伸或行进。",
+            "exampleSentence": "On a fait de belles promenades le long de la Seine."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "conduire qn. à + 地点",
+            "meaning": "带领/驾车送某人去某处",
+            "usage": "conduire 作及物动词，宾语为人；后接 à + 地点。注意不规则变位及复合过去时的分词性数配合。",
+            "exampleSentence": "Papa nous a conduits au sommet de la tour Eiffel."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "au sommet de qch.",
+            "meaning": "在……顶端，在……最高处",
+            "usage": "固定介词短语，sommet 本义为\"顶点、峰顶\"，也可引申为\"高峰（会议）\"。",
+            "exampleSentence": "Papa nous a conduits au sommet de la tour Eiffel."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "faire des achats",
+            "meaning": "购物",
+            "usage": "固定搭配，比 faire des courses 更正式，后者偏向日常采买食品杂货。两者均常用。",
+            "exampleSentence": "J'ai fait souvent des achats avec maman."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "savoir + infinitif",
+            "meaning": "会做某事（具备某种技能）",
+            "usage": "savoir 强调通过学习获得的能力，区别于 pouvoir（有条件/许可做某事）。是考研常考辨析点。",
+            "exampleSentence": "maman ne sait pas très bien parler français."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "donner qch. à qn. comme cadeau",
+            "meaning": "把……作为礼物送给某人",
+            "usage": "comme 在此作介词，意为\"作为\"；cadeau 常用复数 cadeaux，尤指具体赠品。",
+            "exampleSentence": "Papa m'a donné plusieurs livres de Victor Hugo comme cadeaux pour mes bonnes notes!"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "pleurer sur qch./qn.",
+            "meaning": "为……而哭泣，为……而悲伤",
+            "usage": "固定搭配，介词用 sur，表示悲伤的对象或原因。",
+            "exampleSentence": "J'ai pleuré sur ces pauvres."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "penser à qn./qch.",
+            "meaning": "想念……，思念……；考虑……",
+            "usage": "penser à 表示心里想到或思念，后接名词/代词。区别于 penser de（表看法/评价，常用于疑问句）。",
+            "exampleSentence": "je pense toujours à notre chère Chine et surtout à vous."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "envoyer qch. à qn.",
+            "meaning": "把……寄/发送给某人",
+            "usage": "双宾结构，物作直接宾语，人作间接宾语，加介词 à。envoyer 为不规则变位动词（词干变化类似 acheter）。",
+            "exampleSentence": "Je vais vous envoyer ces photos dans quelques jours."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "avoir de bonnes notes",
+            "meaning": "取得好成绩",
+            "usage": "note 在学业语境中指\"分数、成绩\"，avoir de bonnes notes 是日常用语，也可说 avoir de bons résultats。",
+            "exampleSentence": "Papa m'a donné plusieurs livres de Victor Hugo comme cadeaux pour mes bonnes notes!"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "séjour",
+            "partOfSpeech": "n.m.",
+            "definition": "①逗留，旅居 ②（法语口语）客厅（= salle de séjour）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un séjour à + 地点",
+                    "vocabularyCollocationMeaning": "在某地逗留/旅居"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "séjour linguistique",
+                    "vocabularyCollocationMeaning": "语言学习旅居"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "salle de séjour",
+                    "vocabularyCollocationMeaning": "客厅"
+                }
+            ],
+            "synonymAnalysis": "séjour vs visite：séjour 强调一段时间的居留；visite 指短暂的参观或拜访。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "séjourner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "逗留，旅居"
+                }
+            ],
+            "pluralForm": "séjours"
+        },
+        {
+            "index": "2",
+            "vocabulary": "depuis",
+            "partOfSpeech": "prép.",
+            "definition": "①自……以来，从……起 ②（表持续）已经……了",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "depuis + 时间点",
+                    "vocabularyCollocationMeaning": "自某时起（强调起点）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "depuis + 时间段",
+                    "vocabularyCollocationMeaning": "已经……了（强调持续时长）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "depuis 与现在时连用，表示从过去某点延续到现在的状态；与否定句复合过去时连用，表示\"已经……没有……了\"。区别于 pendant（强调持续时长，已完成）和 pour（表预计时长，面向将来）。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "ancien",
+            "partOfSpeech": "adj.m.",
+            "definition": "①古老的，年代久远的（后置）②从前的，前任的（前置）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un quartier ancien",
+                    "vocabularyCollocationMeaning": "古老的街区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un ancien élève",
+                    "vocabularyCollocationMeaning": "一位前学生，校友"
+                }
+            ],
+            "synonymAnalysis": "ancien（前置）vs ex-：两者均可表\"前任\"，但 ex- 多作前缀（如 ex-président），ancien 更正式，常作定语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ancienneté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "资历，工龄；古老"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "anciennement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "从前，以前"
+                }
+            ],
+            "genderNumberVariation": "阴性 ancienne，阳性复数 anciens，阴性复数 anciennes",
+            "position": "前置时意为\"前任的、从前的\"（如 un ancien professeur = 一位前教授）；后置时意为\"古老的、有年代的\"（如 un quartier ancien = 古老的街区）。前后位置含义截然不同，是考研重要考点。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "quartier",
+            "partOfSpeech": "n.m.",
+            "definition": "①（城市中的）街区，区 ②（军事）营地，驻地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quartier résidentiel",
+                    "vocabularyCollocationMeaning": "住宅区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quartier historique",
+                    "vocabularyCollocationMeaning": "历史街区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "quartier général",
+                    "vocabularyCollocationMeaning": "总部，司令部"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "quartiers"
+        },
+        {
+            "index": "5",
+            "vocabulary": "appartement",
+            "partOfSpeech": "n.m.",
+            "definition": "①套房，公寓（住宅单元）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "louer un appartement",
+                    "vocabularyCollocationMeaning": "租一套公寓"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "appartement meublé",
+                    "vocabularyCollocationMeaning": "带家具的公寓"
+                }
+            ],
+            "synonymAnalysis": "appartement vs studio：appartement 指多居室公寓；studio 指单间公寓（一室）。",
+            "derivedWords": [],
+            "pluralForm": "appartements"
+        },
+        {
+            "index": "6",
+            "vocabulary": "salon",
+            "partOfSpeech": "n.m.",
+            "definition": "①客厅，起居室 ②沙龙，展览会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "salon de coiffure",
+                    "vocabularyCollocationMeaning": "理发厅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "salon de l'automobile",
+                    "vocabularyCollocationMeaning": "汽车博览会"
+                }
+            ],
+            "synonymAnalysis": "salon vs salle de séjour：两者均可指客厅，salon 更正式，salle de séjour 更口语化。",
+            "derivedWords": [],
+            "pluralForm": "salons"
+        },
+        {
+            "index": "7",
+            "vocabulary": "tour",
+            "partOfSpeech": "n.f.",
+            "definition": "①塔，钟楼（n.f.）②一圈，周围；旅行（n.m.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la tour Eiffel",
+                    "vocabularyCollocationMeaning": "埃菲尔铁塔"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un tour",
+                    "vocabularyCollocationMeaning": "去兜一圈，去转转"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tour de France",
+                    "vocabularyCollocationMeaning": "环法自行车赛；法国之旅"
+                }
+            ],
+            "synonymAnalysis": "注意阴阳性区别：la tour（n.f.）= 塔；le tour（n.m.）= 一圈、旅行。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tourisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "旅游业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "touriste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "游客"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "tourner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "转动，旋转"
+                }
+            ],
+            "pluralForm": "tours"
+        },
+        {
+            "index": "8",
+            "vocabulary": "visiter",
+            "partOfSpeech": "vt.",
+            "definition": "①参观（地点、建筑）②拜访（某处）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "visiter un musée",
+                    "vocabularyCollocationMeaning": "参观博物馆"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "visiter une ville",
+                    "vocabularyCollocationMeaning": "游览一座城市"
+                }
+            ],
+            "synonymAnalysis": "visiter（参观地点）vs rendre visite à qn.（拜访某人）：两者不可混用。参观地方用 visiter + 地点；拜访人用 rendre visite à + 人。这是考研常考辨析。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "visite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "参观；拜访"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "visiteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "参观者，访客"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "pendant",
+            "partOfSpeech": "prép.",
+            "definition": "①在……期间，在……过程中 ②（表持续时长）……之久",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pendant + 时间段",
+                    "vocabularyCollocationMeaning": "在……时间内，持续了……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pendant que + 从句",
+                    "vocabularyCollocationMeaning": "在……的时候（同时性）"
+                }
+            ],
+            "synonymAnalysis": "pendant vs durant：两者基本同义，都表示一段时间；durant 稍显书面，语序有时可前置（Durant trois ans 较 Durant 更有强调效果）。",
+            "derivedWords": [],
+            "useExplanation": "pendant 常与复合过去时连用，强调已完成的持续时长；与现在时或未完成过去时连用时，强调某一时段内的持续状态。pendant que 引导时间状语从句，表示两个动作同时发生。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "sourire",
+            "partOfSpeech": "vi.",
+            "definition": "①微笑（vi.）②微笑（n.m.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sourire à qn.",
+                    "vocabularyCollocationMeaning": "向某人微笑"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec le sourire",
+                    "vocabularyCollocationMeaning": "面带微笑地"
+                }
+            ],
+            "synonymAnalysis": "sourire vs rire：sourire 指微笑（嘴角上扬，不出声）；rire 指大笑（出声）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je souris, tu souris, il sourit, nous sourions, vous souriez, ils sourient",
+                "compoundPast": "j'ai souri",
+                "simpleFuture": "je sourirai",
+                "memoryAids": "与 rire 变位类似，均属于 -ire 类不规则动词；类比 rire：je ris, tu ris, il rit..."
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "longtemps",
+            "partOfSpeech": "adv.",
+            "definition": "①长久地，长时间地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "depuis longtemps",
+                    "vocabularyCollocationMeaning": "很久以来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il y a longtemps",
+                    "vocabularyCollocationMeaning": "很久以前"
+                }
+            ],
+            "synonymAnalysis": "longtemps vs longuement：longtemps 强调时间长度（多久）；longuement 强调方式（详细地、深入地），如 parler longuement（详细谈论）。",
+            "derivedWords": [],
+            "useExplanation": "longtemps 作时间副词，位置灵活，可置于动词后或句末；常与 depuis、il y a 等连用构成时间表达。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "promenade",
+            "partOfSpeech": "n.f.",
+            "definition": "①散步，漫步 ②（适合散步的）林荫道，散步场所",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une promenade",
+                    "vocabularyCollocationMeaning": "去散步"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "promenade en bateau",
+                    "vocabularyCollocationMeaning": "乘船游览"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "se promener",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "散步，漫步"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "promeneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "散步者"
+                }
+            ],
+            "pluralForm": "promenades"
+        },
+        {
+            "index": "13",
+            "vocabulary": "long",
+            "partOfSpeech": "adj.m.",
+            "definition": "①长的（adj.）②长；长度（n.m.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le long de qch.",
+                    "vocabularyCollocationMeaning": "沿着……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en long",
+                    "vocabularyCollocationMeaning": "纵向地，沿长度方向"
+                }
+            ],
+            "synonymAnalysis": "long vs grand：long 强调长度（水平延伸）；grand 强调整体尺寸（高度或宏大程度）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "longueur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "长度"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "allonger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "延长，拉长"
+                }
+            ],
+            "genderNumberVariation": "阴性 longue，阳性复数 longs，阴性复数 longues",
+            "position": "通常置于名词后；但 un long voyage（漫长的旅途）等抽象或情感性表达可前置。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "acheter",
+            "partOfSpeech": "vt.",
+            "definition": "①购买，买",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "acheter qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人购买某物；为某人买某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "acheter en ligne",
+                    "vocabularyCollocationMeaning": "网购"
+                }
+            ],
+            "synonymAnalysis": "acheter vs acquérir：acheter 指通过金钱购买；acquérir 更广泛，可指通过努力、学习等方式获得。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "achat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "购买，购物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "acheteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "买主，购买者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'achète, tu achètes, il achète, nous achetons, vous achetez, ils achètent",
+                "compoundPast": "j'ai acheté",
+                "simpleFuture": "j'achèterai",
+                "memoryAids": "词干 e → è（重音音节）：je/tu/il/ils 变位词干中的 e 变为 è；nous/vous 保持原词干 achetons/achetez。类似动词：lever → je lève。"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "bouquiniste",
+            "partOfSpeech": "n.",
+            "definition": "①旧书商，旧书摊主（尤指塞纳河畔的旧书摊商贩）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chez des bouquinistes",
+                    "vocabularyCollocationMeaning": "在旧书摊上"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bouquin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（口语）书，旧书"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bouquiner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "（口语）看书，读书"
+                }
+            ],
+            "pluralForm": "bouquinistes"
+        },
+        {
+            "index": "16",
+            "vocabulary": "conduire",
+            "partOfSpeech": "vt.",
+            "definition": "①带领，引导 ②驾驶（车辆）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conduire qn. à + 地点",
+                    "vocabularyCollocationMeaning": "带某人去某处"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conduire une voiture",
+                    "vocabularyCollocationMeaning": "开车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "permis de conduire",
+                    "vocabularyCollocationMeaning": "驾驶证"
+                }
+            ],
+            "synonymAnalysis": "conduire vs mener vs emmener：conduire 侧重开车或引领；mener 更抽象，指引导某事走向；emmener 指带着人一起离开某处。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conduite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "行为举止；驾驶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conducteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "驾驶员，司机"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je conduis, tu conduis, il conduit, nous conduisons, vous conduisez, ils conduisent",
+                "compoundPast": "j'ai conduit",
+                "simpleFuture": "je conduirai",
+                "memoryAids": "属于 -uire 类不规则动词，类似 produire、traduire、construire，词干均为 -uis-。"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "sommet",
+            "partOfSpeech": "n.m.",
+            "definition": "①顶，顶端，顶点 ②高峰（会议）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au sommet de qch.",
+                    "vocabularyCollocationMeaning": "在……顶端"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sommet du G7",
+                    "vocabularyCollocationMeaning": "七国集团峰会"
+                }
+            ],
+            "synonymAnalysis": "sommet vs cime vs pic：sommet 最通用，也可用于抽象意义（峰会）；cime 多指山顶或树梢；pic 强调尖峰或高峰。",
+            "derivedWords": [],
+            "pluralForm": "sommets"
+        },
+        {
+            "index": "18",
+            "vocabulary": "envoyer",
+            "partOfSpeech": "vt.",
+            "definition": "①寄，发送 ②派遣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "envoyer qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物寄给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "envoyer un message",
+                    "vocabularyCollocationMeaning": "发送消息"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "envoyer qn. faire qch.",
+                    "vocabularyCollocationMeaning": "派某人去做某事"
+                }
+            ],
+            "synonymAnalysis": "envoyer vs expédier：envoyer 更通用（发送邮件、物品、人员均可）；expédier 更正式，多指邮寄包裹或快速处理。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "envoi",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发送，寄出；所寄之物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "envoyé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "使者，特派员"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'envoie, tu envoies, il envoie, nous envoyons, vous envoyez, ils envoient",
+                "compoundPast": "j'ai envoyé",
+                "simpleFuture": "j'enverrai",
+                "memoryAids": "简单将来时词干特殊：enverr-（不是 envoier-），需单独记忆。现在时 oi → oi/oy 变化，类似 voir。"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "admirer",
+            "partOfSpeech": "vt.",
+            "definition": "①欣赏，赞美 ②钦佩，崇拜",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "admirer un paysage",
+                    "vocabularyCollocationMeaning": "欣赏风景"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "admirer qn. pour qch.",
+                    "vocabularyCollocationMeaning": "因某事而钦佩某人"
+                }
+            ],
+            "synonymAnalysis": "admirer vs apprécier：admirer 带有仰望、赞叹之情，情感色彩更强；apprécier 更理性，偏重评价和欣赏。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "admiration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "钦佩，赞美"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "admirable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人钦佩的，精彩的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "admirateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "崇拜者，仰慕者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "haut",
+            "partOfSpeech": "adj.m.",
+            "definition": "①高的，高处的（adj.）②高，高度（n.m.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en haut",
+                    "vocabularyCollocationMeaning": "在高处，在上面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en haut de qch.",
+                    "vocabularyCollocationMeaning": "在……上方/顶部"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "haut de gamme",
+                    "vocabularyCollocationMeaning": "高端的，顶级的"
+                }
+            ],
+            "synonymAnalysis": "haut vs grand：haut 强调垂直高度；grand 强调整体尺寸或宏大程度（grand homme = 伟人，homme grand = 高个子男人）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hauteur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "高度"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "hausser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "抬高，提升"
+                }
+            ],
+            "genderNumberVariation": "阴性 haute，阳性复数 hauts，阴性复数 hautes",
+            "position": "通常置于名词前（un haut mur = 高墙），但 en haut 为固定副词短语。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "bois",
+            "partOfSpeech": "n.m.",
+            "definition": "①树林，小树林 ②木材，木料",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le bois de Vincennes",
+                    "vocabularyCollocationMeaning": "万塞纳树林（巴黎著名公园）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en bois",
+                    "vocabularyCollocationMeaning": "木制的"
+                }
+            ],
+            "synonymAnalysis": "bois vs forêt：bois 指面积较小的树林；forêt 指大片森林。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "boisé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "树木茂盛的"
+                }
+            ],
+            "pluralForm": "bois（单复数同形）"
+        },
+        {
+            "index": "22",
+            "vocabulary": "achat",
+            "partOfSpeech": "n.m.",
+            "definition": "①购买，采购 ②买来之物，购得品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire des achats",
+                    "vocabularyCollocationMeaning": "购物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prix d'achat",
+                    "vocabularyCollocationMeaning": "购买价"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "achat en ligne",
+                    "vocabularyCollocationMeaning": "网上购物"
+                }
+            ],
+            "synonymAnalysis": "achat vs emplette：achat 指一般性购买；emplette（常用复数）指小件购物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "acheter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "购买"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "acheteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "购买者"
+                }
+            ],
+            "pluralForm": "achats"
+        },
+        {
+            "index": "23",
+            "vocabulary": "vie",
+            "partOfSpeech": "n.f.",
+            "definition": "①生活 ②生命，生存",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vie quotidienne",
+                    "vocabularyCollocationMeaning": "日常生活"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gagner sa vie",
+                    "vocabularyCollocationMeaning": "谋生"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "niveau de vie",
+                    "vocabularyCollocationMeaning": "生活水平"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vivre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "生活；活着"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vivant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "活着的，有生气的"
+                }
+            ],
+            "pluralForm": "vies"
+        },
+        {
+            "index": "24",
+            "vocabulary": "cher",
+            "partOfSpeech": "adj.m.",
+            "definition": "①亲爱的（前置） ②昂贵的（后置）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mon cher ami",
+                    "vocabularyCollocationMeaning": "我亲爱的朋友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la vie est chère",
+                    "vocabularyCollocationMeaning": "生活费用高昂"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "coûter cher",
+                    "vocabularyCollocationMeaning": "价格昂贵"
+                }
+            ],
+            "synonymAnalysis": "cher（亲爱的，前置）vs coûteux/onéreux（昂贵的，后置）：后两者均表\"昂贵\"但更书面，cher 后置时是最常见的口语表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chèrement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "高价地；亲切地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cherté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "高价，昂贵"
+                }
+            ],
+            "genderNumberVariation": "阴性 chère，阳性复数 chers，阴性复数 chères",
+            "position": "前置时意为\"亲爱的\"（书信开头，如 Mon cher grand-papa）；后置时意为\"昂贵的\"（如 la vie est chère）。前后位置含义不同，是重要考点。"
+        },
+        {
+            "index": "25",
+            "vocabulary": "vivre",
+            "partOfSpeech": "vi.",
+            "definition": "①活着，生存（vi.）②生活（vi.）③过（生活、日子）（vt.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vivre de qch.",
+                    "vocabularyCollocationMeaning": "靠……为生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vivre à + 地点",
+                    "vocabularyCollocationMeaning": "居住在某处"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vivre heureux",
+                    "vocabularyCollocationMeaning": "幸福地生活"
+                }
+            ],
+            "synonymAnalysis": "vivre vs habiter vs résider：vivre 强调生活状态或生存；habiter 强调具体居住地点；résider 更正式，多用于法律或行政语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生活；生命"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vivant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "活着的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "survivre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "幸存，活下来"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vis, tu vis, il vit, nous vivons, vous vivez, ils vivent",
+                "compoundPast": "j'ai vécu",
+                "simpleFuture": "je vivrai",
+                "memoryAids": "过去分词 vécu 不规则，须单独记忆；现在时词干 vi-/viv- 有变化。类似动词：survivre（survivre → j'ai survécu）。"
+            }
+        },
+        {
+            "index": "26",
+            "vocabulary": "pauvre",
+            "partOfSpeech": "adj.",
+            "definition": "①贫穷的（后置） ②可怜的，令人同情的（前置）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les pauvres",
+                    "vocabularyCollocationMeaning": "穷人（用作名词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pauvre en qch.",
+                    "vocabularyCollocationMeaning": "缺乏某物的，……贫乏的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ce pauvre homme",
+                    "vocabularyCollocationMeaning": "这个可怜的人"
+                }
+            ],
+            "synonymAnalysis": "pauvre（前置，可怜的）vs malheureux（不幸的）：pauvre 前置表同情，偏向感情色彩；malheureux 更直接表达\"不幸\"。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pauvreté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "贫困，贫穷"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "appauvrir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使贫穷，使贫乏"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 pauvre，复数 pauvres",
+            "position": "前置时意为\"可怜的\"（表同情，如 cette pauvre fille = 这个可怜的女孩）；后置时意为\"贫穷的\"（如 une famille pauvre = 一个贫穷的家庭）。"
+        },
+        {
+            "index": "27",
+            "vocabulary": "note",
+            "partOfSpeech": "n.f.",
+            "definition": "①分数，成绩 ②笔记，备注 ③账单（餐厅等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir de bonnes notes",
+                    "vocabularyCollocationMeaning": "取得好成绩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre des notes",
+                    "vocabularyCollocationMeaning": "做笔记"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "note de frais",
+                    "vocabularyCollocationMeaning": "费用报销单"
+                }
+            ],
+            "synonymAnalysis": "note（成绩/笔记/账单，多义）vs résultat（考试结果，更正式）：日常学习中多用 note。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "noter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "记录；评分"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "notation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "评分制度；记号"
+                }
+            ],
+            "pluralForm": "notes"
+        },
+        {
+            "index": "28",
+            "vocabulary": "lire",
+            "partOfSpeech": "vt.",
+            "definition": "①阅读，朗读",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lire un livre",
+                    "vocabularyCollocationMeaning": "读一本书"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lire à voix haute",
+                    "vocabularyCollocationMeaning": "大声朗读"
+                }
+            ],
+            "synonymAnalysis": "lire vs parcourir：lire 指完整阅读；parcourir 指浏览、快速翻阅。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lecture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "阅读；读物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lecteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "读者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "lisible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "易读的，清晰的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent",
+                "compoundPast": "j'ai lu",
+                "simpleFuture": "je lirai",
+                "memoryAids": "过去分词 lu 简短，须记忆。类似 élire（选举）→ élu。现在时复数词干 lis-/lis-。"
+            }
+        },
+        {
+            "index": "29",
+            "vocabulary": "pleurer",
+            "partOfSpeech": "vi.",
+            "definition": "①哭，哭泣，流泪",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pleurer sur qch./qn.",
+                    "vocabularyCollocationMeaning": "为……而哭泣，为……而悲伤"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pleurer de joie",
+                    "vocabularyCollocationMeaning": "喜极而泣"
+                }
+            ],
+            "synonymAnalysis": "pleurer vs sangloter：pleurer 指一般哭泣；sangloter 指抽泣、呜咽。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pleurs",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "眼泪（常用复数）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pleureur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "爱哭的，哭泣的（如 saule pleureur = 垂柳）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "heureux",
+            "partOfSpeech": "adj.m.",
+            "definition": "①幸福的，快乐的 ②幸运的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être heureux de faire qch.",
+                    "vocabularyCollocationMeaning": "很高兴做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "heureux hasard",
+                    "vocabularyCollocationMeaning": "幸运的巧合"
+                }
+            ],
+            "synonymAnalysis": "heureux vs content vs joyeux：heureux 指深层的幸福感；content 指满足、满意；joyeux 指外在的欢欣雀跃。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bonheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "幸福，快乐"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "heureusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "幸运地，幸好"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "malheureux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不幸的，可怜的"
+                }
+            ],
+            "genderNumberVariation": "阴性 heureuse，阳性复数 heureux，阴性复数 heureuses",
+            "position": "通常置于名词后作表语（je suis heureux）或定语（un homme heureux）。"
+        },
+        {
+            "index": "31",
+            "vocabulary": "Chine",
+            "partOfSpeech": "n.f.",
+            "definition": "①中国（专有名词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en Chine",
+                    "vocabularyCollocationMeaning": "在中国（国名前用 en）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de Chine",
+                    "vocabularyCollocationMeaning": "来自中国的"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chinois",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "中国的；中文的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "Chinois",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "中国人"
+                }
+            ],
+            "pluralForm": ""
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Nous habitons dans un quartier très ancien depuis un mois. Notre appartement donne sur la Seine, et du salon, on voit le Louvre et les tours de Notre-Dame. Papa nous a conduits au sommet de la tour Eiffel — là, on voit tout Paris. J'aime bien cette ville, parce que beaucoup de grands hommes y ont vécu.",
+            "chineseTranslation": "我们在这个古老的街区已经住了一个月了。公寓朝向塞纳河，从客厅望去，卢浮宫和巴黎圣母院的塔楼尽收眼底。爸爸带我们登上了埃菲尔铁塔的顶端——站在那里，整个巴黎一览无余。我很喜欢这座城市，因为许多伟人都曾在这里生活过。",
+            "fr2cnStrategy": "① depuis un mois 与现在时连用，译为\"已经……了\"，体现汉语的\"时态显化\"；② Notre appartement donne sur la Seine 中 donner sur 是固定搭配，不可直译为\"给予\"，应译为\"朝向\"；③ du salon, on voit... 是介词短语前置作状语，汉译时调整为\"从客厅望去……\"，语序前移；④ Papa nous a conduits 的分词性数配合在翻译中不需体现，直接处理为\"带我们去\"即可；⑤ beaucoup de grands hommes y ont vécu 中 y 代指城市，汉译补出\"在这里\"，属增译；grand 前置表\"伟大的\"，译为\"伟人\"而非\"高大的男人\"。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "我们在巴黎已经住了两个星期了，我们的公寓朝向一座古老的广场。",
+                "frenchTranslation": "Nous sommes à Paris depuis deux semaines. Notre appartement donne sur une vieille place.",
+                "cn2frStrategy": "① \"已经住了两个星期\"用 depuis + 现在时，不用复合过去时；② \"朝向\"固定用 donner sur；③ \"古老的\"作定语，vieille 前置（= vieux 的阴性形式，前置表感情色彩）。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "因为妈妈不太会说法语，我经常陪她去购物。",
+                "frenchTranslation": "Parce que ma mère ne sait pas très bien parler français, je fais souvent des achats avec elle.",
+                "cn2frStrategy": "① \"不太会说法语\"用 ne...pas + savoir + infinitif，强调技能缺乏；② \"经常陪她去购物\"用 faire des achats avec elle（注意 faire des achats 是固定搭配，不可直译）；③ 原因从句置于主句前，语序与中文一致，符合法语书面语风格。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "爸爸送了我好几本书作为礼物，因为我期末考试成绩很好。",
+                "frenchTranslation": "Papa m'a donné plusieurs livres comme cadeaux, parce que j'ai eu de bonnes notes aux examens de fin de semestre.",
+                "cn2frStrategy": "① \"送了我……\"用 donner qch. à qn. 双宾结构，me 前置紧跟助动词 a；② \"作为礼物\"译为 comme cadeaux；③ \"期末考试成绩很好\"用 avoir de bonnes notes aux examens（avoir + 成绩是固定表达）；④ \"期末考试\"译为 examens de fin de semestre，避免生造词。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "我非常喜欢这座城市，我要给你们发几张照片，让你们也能欣赏一下巴黎的美景。",
+                "frenchTranslation": "J'aime beaucoup cette ville. Je vais vous envoyer quelques photos pour que vous puissiez admirer vous aussi les beaux paysages de Paris.",
+                "cn2frStrategy": "① \"我要给你们发\"用 aller + infinitif 表近将来时；② \"让你们也能欣赏\"译为 pour que + 虚拟式（puissiez），表目的；③ \"欣赏\"用 admirer，比 voir 更有赞美色彩；④ \"美景\"译为 beaux paysages，形容词 beau 前置（beau → beaux 复数）。"
+            }
+        ]
+    }
+}

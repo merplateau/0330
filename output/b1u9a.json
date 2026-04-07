@@ -1,0 +1,1650 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "La pauvre fille n'est jamais entrée dans un si grand magasin, elle est bien étonnée.",
+            "translatedSentence": "这个可怜的女孩从未进过这么大的商店，她真是大吃一惊。",
+            "sentenceStructure": "两个并列简单句：① 主句 La pauvre fille — n'est jamais entrée — dans un si grand magasin；② 并列句 elle — est étonnée（形容词作表语）。",
+            "grammarAnalysis": "① n'est jamais entrée：复合过去时的否定形式，助动词 être + 过去分词 entrée，过去分词与主语 fille（阴性）性数一致；jamais 位于助动词和过去分词之间。② si grand：si 在此修饰形容词，表示“如此”，相当于 aussi，用于肯定句。③ bien étonnée：bien 作程度副词，修饰形容词，表示“非常、十分”，语气比 très 更口语化。",
+            "commonMistakes": "① 易将 si 误解为条件连词“如果”；此处 si 修饰形容词 grand，意为“如此”。② jamais 在否定句中与 ne 搭配表示“从未”；脱离 ne 单独使用时才表示“曾经（肯定）”，注意区分。"
+        },
+        {
+            "index": "2",
+            "sentence": "C'est la première fois qu'elle voit un hypermarché.",
+            "translatedSentence": "这是她第一次见到超级市场。",
+            "sentenceStructure": "主句 C'est la première fois，其后由 que 引导时间性关系从句 elle voit un hypermarché。",
+            "grammarAnalysis": "① C'est la première fois que + 现在时：这是法语固定句型，表示“这是某人第一次做某事”。注意：若表示过去某时的第一次，que 后用复合过去时；若表示将来，que 后用将来时。② 此处 que 引导的是限定性从句，修饰 fois。",
+            "commonMistakes": "① 常见错误：将 que 后的时态误用为虚拟式。该结构 c'est la première fois que 后接陈述式，不接虚拟式。② 注意区分：c'était la première fois qu'elle voyait（过去时间点）与 c'est la première fois qu'elle voit（当下时间点）。"
+        },
+        {
+            "index": "3",
+            "sentence": "À la campagne, Charlotte et sa mère doivent aller dans plusieurs petites boutiques pour faire leurs achats quotidiens.",
+            "translatedSentence": "在乡下，夏洛特和她母亲不得不去好几家小店才能完成日常购物。",
+            "sentenceStructure": "地点状语 À la campagne 置于句首，主语为 Charlotte et sa mère，谓语为 doivent aller，目的状语为 pour faire leurs achats quotidiens。",
+            "grammarAnalysis": "① devoir + 不定式：情态动词，此处表示“不得不、必须”。② pour + 不定式：表示目的，意为“为了……”。③ plusieurs：不定形容词，意为“几个、若干”，后接复数名词，本身不随性数变化。",
+            "commonMistakes": "① devoir 含义多样（义务、推测、计划），需结合语境判断；此处表示客观必要性“不得不”。② pour faire 表目的，不可误用 afin de 以外的结构替换（二者可互换但 afin de 更书面）。"
+        },
+        {
+            "index": "4",
+            "sentence": "Chez nous, quand on a besoin de quelque chose, on va dans les petites boutiques.",
+            "translatedSentence": "在我们那儿，需要什么东西就去小商店买。",
+            "sentenceStructure": "主句 on va dans les petites boutiques，前有地点状语 Chez nous 和由 quand 引导的时间状语从句 on a besoin de quelque chose。",
+            "grammarAnalysis": "① avoir besoin de qch.：固定搭配，意为“需要某物”，de 后可接名词或不定式。② chez nous：固定介词短语，表示“在我们家/我们那里/在我们的地方”，chez 后接人称代词或人名。③ on：泛指代词，相当于“人们/我们”，谓语动词用第三人称单数形式。",
+            "commonMistakes": "① avoir besoin de 中的 de 是固定搭配的一部分，不可省略，也不能改为其他介词。② chez 后只能接表人的成分（人名、代词），不能接表地点的普通名词，如不能说 chez la boutique。"
+        },
+        {
+            "index": "5",
+            "sentence": "La caissière fait passer les articles sur le tapis.",
+            "translatedSentence": "收银员把所有商品放在传送带上通过。",
+            "sentenceStructure": "主语 La caissière，谓语为使役结构 fait passer，宾语 les articles，地点状语 sur le tapis。",
+            "grammarAnalysis": "① faire + 不定式：使役结构，表示“让……/使……/把……”。宾语 les articles 为不定式 passer 的逻辑主语，置于不定式之后。② 使役结构中，如不定式有直接宾语，逻辑主语须用间接宾语代词（à qn.）；此处无逻辑主语人称，仅有物作宾语，直接置于不定式后。",
+            "commonMistakes": "① 使役结构 faire + inf. 中，过去分词 fait 永远不与逻辑宾语进行性数配合（不变形），这是常考易错点。② 代词化时，宾语代词须置于 faire 之前，而非不定式之前：La caissière les fait passer。"
+        },
+        {
+            "index": "6",
+            "sentence": "Charlotte est vraiment très étonnée par la foule, par la vitesse et par le bruit!",
+            "translatedSentence": "夏洛特真的被人群、速度和嘈杂声震惊极了！",
+            "sentenceStructure": "主语 Charlotte，系动词 est，表语 étonnée（形容词），后跟三个并列的介词短语 par la foule / par la vitesse / par le bruit 作原因状语。",
+            "grammarAnalysis": "① étonnée par：étonner 的被动结构，par 引导施动者（原因）。② étonner 作及物动词时，主动式为 qch. étonne qn.；被动式为 qn. est étonné(e) par qch.。③ 三个 par 短语并列，强调语气，修辞上属于排比（anaphore）。",
+            "commonMistakes": "① 易将 être étonné de（对……感到惊讶，de 后接名词或不定式）与 être étonné par（被……所震惊，par 后接施动名词）混淆。② vraiment 和 très 连用（vraiment très）是口语中的强调用法，书面语中通常用其一即可。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être arrivé(e) à + lieu",
+            "meaning": "到达某地",
+            "usage": "arriver 为位移动词，复合过去时助动词用 être，过去分词与主语性数一致。",
+            "exampleSentence": "Elle est arrivée à Paris il y a deux jours pour passer deux semaines chez sa tante."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "partir de bonne heure",
+            "meaning": "早早出发，一大早出门",
+            "usage": "固定表达，de bonne heure 意为“很早”，相当于 tôt，但更口语化。",
+            "exampleSentence": "Charlotte et sa cousine Patricia sont parties de bonne heure pour prendre le métro."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "faire ses achats / faire des courses",
+            "meaning": "购物，采购",
+            "usage": "两者均表示购物行为：faire ses achats 偏指完成具体采购；faire des courses 更口语，泛指日常购物。",
+            "exampleSentence": "Charlotte et sa mère doivent aller dans plusieurs petites boutiques pour faire leurs achats quotidiens."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "avoir besoin de qch. / de faire qch.",
+            "meaning": "需要某物/需要做某事",
+            "usage": "固定结构，de 后接名词或不定式。否定式 n'avoir pas besoin de 表示“不需要”。",
+            "exampleSentence": "Chez nous, quand on a besoin de quelque chose, on va dans les petites boutiques."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se diriger vers + lieu",
+            "meaning": "朝……走去，向……走向",
+            "usage": "代词式动词，固定搭配 vers，表示方向；不可与 à 混用。",
+            "exampleSentence": "Les deux jeunes filles se dirigent d'abord vers le grand rayon de la charcuterie."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "vendre de tout / vendre qch.",
+            "meaning": "卖各种东西/出售某物",
+            "usage": "on y vend de tout 是固定口语表达，de 表部分意义，tout 泛指一切商品。",
+            "exampleSentence": "Oui, on y vend de tout, et tout est moins cher."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "perdre du temps / perdre son temps",
+            "meaning": "浪费时间",
+            "usage": "perdre du temps 泛指浪费时间；perdre son temps 强调白费时间、徒劳无功，语气稍重。反义为 gagner du temps。",
+            "exampleSentence": "On ne perd pas de temps ici."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "être gentil(le) avec qn.",
+            "meaning": "对某人和蔼可亲",
+            "usage": "gentil 后固定搭配介词 avec，不可用 pour 或 à。表示人的态度友好。",
+            "exampleSentence": "Les patrons sont très gentils avec les clients."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "saluer qn.",
+            "meaning": "向某人打招呼，向某人致意",
+            "usage": "vt. 直接及物，后直接接人名或代词，无需介词。",
+            "exampleSentence": "Les patrons vous saluent, ils bavardent avec vous, c'est la vraie vie!"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "bavarder avec qn.",
+            "meaning": "与某人聊天、闲谈",
+            "usage": "vi. 不及物，固定搭配介词 avec。bavarder 语气轻松，指随意闲聊，区别于 discuter（讨论）和 parler（说话/谈论）。",
+            "exampleSentence": "Les patrons vous saluent, ils bavardent avec vous."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "faire passer qch. sur qch.",
+            "meaning": "把……放在……上通过",
+            "usage": "使役结构 faire + inf.，表示“使/让……”。此处 faire passer 意为“使通过”，是超市收银场景的固定说法。",
+            "exampleSentence": "La caissière fait passer les articles sur le tapis."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "se dire en son cœur",
+            "meaning": "心里寻思，暗自说道",
+            "usage": "固定表达，en son cœur 等同于 dans son cœur，表示“在心里”。se dire 是代词式动词，表示自言自语或内心独白。",
+            "exampleSentence": "Elle se dit en son cœur : «Quel monde et quel Paris!»"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "hypermarché",
+            "partOfSpeech": "n.m.",
+            "definition": "特级市场（营业面积在2500平方米以上的大型超市）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à l'hypermarché",
+                    "vocabularyCollocationMeaning": "去特级市场购物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire ses courses à l'hypermarché",
+                    "vocabularyCollocationMeaning": "在特级市场采购"
+                }
+            ],
+            "synonymAnalysis": "hypermarché（2500㎡以上）vs supermarché（400–2500㎡）vs grande surface（泛指大型商场）：三者面积不同，grande surface 是口语泛称，可指代前两者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "supermarché",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "超级市场（面积400–2500㎡）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "marché",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "市场；集市；交易"
+                }
+            ],
+            "pluralForm": "hypermarchés"
+        },
+        {
+            "index": "2",
+            "vocabulary": "breton",
+            "partOfSpeech": "adj.",
+            "definition": "布列塔尼的；布列塔尼人的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un village breton",
+                    "vocabularyCollocationMeaning": "一个布列塔尼村庄"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la culture bretonne",
+                    "vocabularyCollocationMeaning": "布列塔尼文化"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "Breton",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "布列塔尼人（大写为名词）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "Bretagne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "布列塔尼（法国西北部大区）"
+                }
+            ],
+            "genderNumberVariation": "阴性 bretonne，阳性复数 bretons，阴性复数 bretonnes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "descendre",
+            "partOfSpeech": "vi.",
+            "definition": "①下来，下去 ②下车，到站下车",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "descendre à + station",
+                    "vocabularyCollocationMeaning": "在某站下车"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "descendre de + véhicule",
+                    "vocabularyCollocationMeaning": "从某交通工具上下来"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "descendre l'escalier",
+                    "vocabularyCollocationMeaning": "下楼梯（及物用法）"
+                }
+            ],
+            "synonymAnalysis": "descendre vs sortir：descendre 强调从高处到低处或下车；sortir 强调从内部出来。两者作位移动词时复合过去时助动词均用 être。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "descente",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "下降；下坡"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je descends, tu descends, il descend, nous descendons, vous descendez, ils descendent",
+                "compoundPast": "je suis descendu(e)（助动词用 être，过去分词与主语性数一致）",
+                "simpleFuture": "je descendrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -dre 类不规则动词，与 attendre、répondre、perdre 变位规则相同：单数第三人称现在时不加 -t，直接以辅音结尾。"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "entrée",
+            "partOfSpeech": "n.f.",
+            "definition": "①入口处；进入 ②（餐食）头盘，开胃菜",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entrée principale",
+                    "vocabularyCollocationMeaning": "主入口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'entrée de",
+                    "vocabularyCollocationMeaning": "在……的入口处"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entrée gratuite / payante",
+                    "vocabularyCollocationMeaning": "免费/收费入场"
+                }
+            ],
+            "synonymAnalysis": "entrée vs accès：entrée 指具体的入口或进入行为；accès 更抽象，指通道或权限。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "entrer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "进入，进来"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rentrer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "回来，返回"
+                }
+            ],
+            "pluralForm": "entrées"
+        },
+        {
+            "index": "5",
+            "vocabulary": "principal",
+            "partOfSpeech": "adj.m.",
+            "definition": "主要的，重要的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entrée principale",
+                    "vocabularyCollocationMeaning": "主入口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rôle principal",
+                    "vocabularyCollocationMeaning": "主角，主要角色"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la raison principale",
+                    "vocabularyCollocationMeaning": "主要原因"
+                }
+            ],
+            "synonymAnalysis": "principal vs essentiel vs important：principal 强调“排名第一/最主要的”；essentiel 强调“不可缺少的”；important 仅表示“重要的”，程度不及前两者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "principalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "主要地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "prince",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "王子（同词根）"
+                }
+            ],
+            "genderNumberVariation": "阴性 principale，阳性复数 principaux，阴性复数 principales",
+            "position": "通常置于名词之后；但作主语补语或置于 le/la 后时也可前置"
+        },
+        {
+            "index": "6",
+            "vocabulary": "étonner",
+            "partOfSpeech": "vt.",
+            "definition": "使惊讶，使惊奇",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être étonné(e) de qch./de faire qch.",
+                    "vocabularyCollocationMeaning": "对某事/做某事感到惊讶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être étonné(e) par qch.",
+                    "vocabularyCollocationMeaning": "被某事所震惊（强调外在刺激）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cela m'étonne",
+                    "vocabularyCollocationMeaning": "这让我感到吃惊"
+                }
+            ],
+            "synonymAnalysis": "étonner vs surprendre：étonner 表示令人感到出乎意料、惊奇；surprendre 则更强调“突然”“出其不意”，程度可更强烈。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étonnement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "惊讶，吃惊"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "étonnant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "令人惊奇的，出人意料的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "étonné",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "感到惊讶的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "boutique",
+            "partOfSpeech": "n.f.",
+            "definition": "商店，店铺（通常指规模较小的专营店）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une petite boutique",
+                    "vocabularyCollocationMeaning": "一家小商店"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "boutique de mode",
+                    "vocabularyCollocationMeaning": "时装店"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tenir une boutique",
+                    "vocabularyCollocationMeaning": "经营一家商店"
+                }
+            ],
+            "synonymAnalysis": "boutique vs magasin vs commerce：boutique 指小型专卖店；magasin 泛指商店，规模可大可小；commerce 更偏书面/法律语体，指商业经营活动或商店。",
+            "derivedWords": [],
+            "pluralForm": "boutiques"
+        },
+        {
+            "index": "8",
+            "vocabulary": "quotidien",
+            "partOfSpeech": "adj.m.",
+            "definition": "每日的；日常的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "achats quotidiens",
+                    "vocabularyCollocationMeaning": "日常购物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vie quotidienne",
+                    "vocabularyCollocationMeaning": "日常生活"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tâches quotidiennes",
+                    "vocabularyCollocationMeaning": "日常任务"
+                }
+            ],
+            "synonymAnalysis": "quotidien vs journalier vs de tous les jours：三者均可表示“每日的”，quotidien 最常用；journalier 偏书面；de tous les jours 口语化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "quotidien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "日报；日常生活（转用为名词）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "quotidiennement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "每天，日常地"
+                }
+            ],
+            "genderNumberVariation": "阴性 quotidienne，阳性复数 quotidiens，阴性复数 quotidiennes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "9",
+            "vocabulary": "région",
+            "partOfSpeech": "n.f.",
+            "definition": "①地区；地带 ②（法国行政单位）大区",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la région parisienne",
+                    "vocabularyCollocationMeaning": "巴黎大区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "région administrative",
+                    "vocabularyCollocationMeaning": "行政大区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans la région de",
+                    "vocabularyCollocationMeaning": "在……地区附近"
+                }
+            ],
+            "synonymAnalysis": "région vs zone vs territoire：région 指较大的地理或行政区域；zone 强调按功能划分的区域（如工业区）；territoire 强调领土或管辖范围。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "régional",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "地区的，地方的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "régionalisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "地方主义；方言特色"
+                }
+            ],
+            "pluralForm": "régions"
+        },
+        {
+            "index": "10",
+            "vocabulary": "expliquer",
+            "partOfSpeech": "vt.",
+            "definition": "①解释 ②讲解，说明",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "expliquer qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人解释某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "expliquer pourquoi/comment",
+                    "vocabularyCollocationMeaning": "解释为什么/如何"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'expliquer",
+                    "vocabularyCollocationMeaning": "（代词式）解释清楚；相互理解"
+                }
+            ],
+            "synonymAnalysis": "expliquer vs préciser：expliquer 侧重对内容的阐释说明；préciser 侧重补充更具体、更准确的细节。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "explication",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "解释，说明"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "explicatif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "解释性的，说明性的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "supermarché",
+            "partOfSpeech": "n.m.",
+            "definition": "超级市场（面积在400–2500平方米之间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire ses courses au supermarché",
+                    "vocabularyCollocationMeaning": "在超市购物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rayon du supermarché",
+                    "vocabularyCollocationMeaning": "超市货架区"
+                }
+            ],
+            "synonymAnalysis": "见 hypermarché 条目下的近义辨析。",
+            "derivedWords": [],
+            "pluralForm": "supermarchés"
+        },
+        {
+            "index": "12",
+            "vocabulary": "surface",
+            "partOfSpeech": "n.f.",
+            "definition": "①面积 ②表面 ③大型商场（grande surface）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "grande surface",
+                    "vocabularyCollocationMeaning": "大型商场，大型超市（泛称）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "surface de vente",
+                    "vocabularyCollocationMeaning": "销售面积"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en surface",
+                    "vocabularyCollocationMeaning": "表面上，肤浅地"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "superficiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "表面的，肤浅的"
+                }
+            ],
+            "pluralForm": "surfaces"
+        },
+        {
+            "index": "13",
+            "vocabulary": "vendre",
+            "partOfSpeech": "vt.",
+            "definition": "①卖，销售 ②出卖（比喻义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vendre qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物卖给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vendre de tout",
+                    "vocabularyCollocationMeaning": "卖各种东西，货物齐全"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se vendre bien / mal",
+                    "vocabularyCollocationMeaning": "畅销/滞销"
+                }
+            ],
+            "synonymAnalysis": "vendre vs céder：vendre 指普通出售；céder 语气偏让步，有时指“转让”或“出让”，价格常低于市价。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vente",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "销售，出售"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vendeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "售货员，卖家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "revendeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "转售者，经销商"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent",
+                "compoundPast": "j'ai vendu",
+                "simpleFuture": "je vendrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -dre 类动词，与 attendre、répondre、perdre、descendre 同类，单数第三人称现在时不加 -t。"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "se dépêcher",
+            "partOfSpeech": "v.pron.",
+            "definition": "赶紧，赶快，加快速度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se dépêcher de faire qch.",
+                    "vocabularyCollocationMeaning": "赶快做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Dépêche-toi !",
+                    "vocabularyCollocationMeaning": "快点！（命令式口语）"
+                }
+            ],
+            "synonymAnalysis": "se dépêcher vs se presser vs se hâter：三者均表示“加快”；se dépêcher 最口语；se hâter 最书面文雅；se presser 居中。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "course",
+            "partOfSpeech": "n.f.",
+            "definition": "①跑，奔跑 ②（复数 courses）采购，购物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire des courses",
+                    "vocabularyCollocationMeaning": "购物，采购（复数用法）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "course à pied",
+                    "vocabularyCollocationMeaning": "跑步（运动）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "course de vitesse",
+                    "vocabularyCollocationMeaning": "速度赛跑"
+                }
+            ],
+            "synonymAnalysis": "faire des courses vs faire ses achats：两者均指购物；faire des courses 更口语日常；faire ses achats 稍正式，强调完成采购任务。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "courir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "跑，奔跑"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "coureur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "跑步者，赛跑运动员"
+                }
+            ],
+            "pluralForm": "courses"
+        },
+        {
+            "index": "16",
+            "vocabulary": "diriger",
+            "partOfSpeech": "vt.",
+            "definition": "①领导，指挥 ②指向，使朝向某方向",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se diriger vers + lieu",
+                    "vocabularyCollocationMeaning": "朝……走去，走向"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "diriger une entreprise",
+                    "vocabularyCollocationMeaning": "领导、管理一家企业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "diriger ses efforts vers qch.",
+                    "vocabularyCollocationMeaning": "将努力方向指向某事"
+                }
+            ],
+            "synonymAnalysis": "diriger vs conduire vs mener：三者均有“引导/领导”义；diriger 侧重管理和指挥；conduire 侧重具体带领或驾驶；mener 强调引领某人到达目标。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "direction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "方向；领导，管理"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "directeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "主任，院长，总监"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "rayon",
+            "partOfSpeech": "n.m.",
+            "definition": "①（商店）货架区，专柜 ②光线，光束 ③半径",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rayon de la charcuterie",
+                    "vocabularyCollocationMeaning": "猪肉制品专柜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rayon de soleil",
+                    "vocabularyCollocationMeaning": "阳光，一缕阳光"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rayon d'action",
+                    "vocabularyCollocationMeaning": "活动半径，影响范围"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "rayons"
+        },
+        {
+            "index": "18",
+            "vocabulary": "charcuterie",
+            "partOfSpeech": "n.f.",
+            "definition": "①猪肉制品（香肠、火腿等） ②猪肉铺，熟食店",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rayon de la charcuterie",
+                    "vocabularyCollocationMeaning": "猪肉制品区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "acheter de la charcuterie",
+                    "vocabularyCollocationMeaning": "购买猪肉制品"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "charcutier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "猪肉食品商，熟食店老板"
+                }
+            ],
+            "pluralForm": "charcuteries"
+        },
+        {
+            "index": "19",
+            "vocabulary": "poulet",
+            "partOfSpeech": "n.m.",
+            "definition": "①小鸡；鸡肉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un poulet rôti",
+                    "vocabularyCollocationMeaning": "一只烤鸡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poulet fermier",
+                    "vocabularyCollocationMeaning": "农场鸡，散养鸡"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "poulets"
+        },
+        {
+            "index": "20",
+            "vocabulary": "produit",
+            "partOfSpeech": "n.m.",
+            "definition": "①产品；商品 ②物产，出产物 ③收益，利润（经济）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "produits laitiers",
+                    "vocabularyCollocationMeaning": "乳制品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "produits alimentaires",
+                    "vocabularyCollocationMeaning": "食品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "produits de beauté",
+                    "vocabularyCollocationMeaning": "美容产品"
+                }
+            ],
+            "synonymAnalysis": "produit vs article vs marchandise：produit 泛指产品；article 在商业语境中指具体商品或货品；marchandise 更偏批发/贸易语体，指货物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "produire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "生产，产生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "production",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生产，产量"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "producteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "生产者，制作人"
+                }
+            ],
+            "pluralForm": "produits"
+        },
+        {
+            "index": "21",
+            "vocabulary": "laitier",
+            "partOfSpeech": "adj.m.",
+            "definition": "乳制的；乳奶的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "produits laitiers",
+                    "vocabularyCollocationMeaning": "乳制品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vache laitière",
+                    "vocabularyCollocationMeaning": "奶牛"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lait",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "牛奶，乳汁"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "laiterie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "乳品厂，奶制品店"
+                }
+            ],
+            "genderNumberVariation": "阴性 laitière，阳性复数 laitiers，阴性复数 laitières",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "22",
+            "vocabulary": "choisir",
+            "partOfSpeech": "vt.",
+            "definition": "挑选，选定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "choisir qch. / qn.",
+                    "vocabularyCollocationMeaning": "选择某物/某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "choisir de faire qch.",
+                    "vocabularyCollocationMeaning": "选择做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "choisir entre A et B",
+                    "vocabularyCollocationMeaning": "在A和B之间做选择"
+                }
+            ],
+            "synonymAnalysis": "choisir vs sélectionner vs opter pour：choisir 最常用，适用面广；sélectionner 更正式，多用于筛选候选；opter pour 书面语，强调最终决定。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "choix",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "选择，挑选；选项"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "ensuite",
+            "partOfSpeech": "adv.",
+            "definition": "然后，后来，接着",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "d'abord...ensuite...enfin",
+                    "vocabularyCollocationMeaning": "首先……然后……最后（表顺序的固定搭配）"
+                }
+            ],
+            "synonymAnalysis": "ensuite vs puis vs après：三者均表示“然后”；ensuite 强调时间或逻辑顺序；puis 更口语、更轻松；après 后常需补充具体内容（après + nom/inf.）。",
+            "derivedWords": [],
+            "useExplanation": "副词，通常置于句首作时间状语，也可位于主语和谓语之间。常与 d'abord 和 enfin 搭配构成表述顺序的三段式结构。"
+        },
+        {
+            "index": "24",
+            "vocabulary": "sans",
+            "partOfSpeech": "prép.",
+            "definition": "没有，无，不",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans + nom",
+                    "vocabularyCollocationMeaning": "没有……（后接名词，名词通常不加冠词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans + infinitif",
+                    "vocabularyCollocationMeaning": "不……，没有……（后接动词不定式，表示伴随否定）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans oublier",
+                    "vocabularyCollocationMeaning": "没有忘记；还有，另外"
+                }
+            ],
+            "synonymAnalysis": "sans vs sans que：sans 后接名词或不定式（主语相同）；sans que 后接虚拟式（主语不同）。",
+            "derivedWords": [],
+            "useExplanation": "介词，后接名词时通常省略冠词（sans argent, sans faute）；后接动词时用不定式（sans parler）。注意 sans que + 虚拟式的结构。"
+        },
+        {
+            "index": "25",
+            "vocabulary": "oublier",
+            "partOfSpeech": "vt.",
+            "definition": "①忘记，忘掉 ②遗忘，遗漏",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "oublier qch. / qn.",
+                    "vocabularyCollocationMeaning": "忘记某事/某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "oublier de faire qch.",
+                    "vocabularyCollocationMeaning": "忘记做某事（de + inf.）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "n'oublie pas de...",
+                    "vocabularyCollocationMeaning": "别忘了……（祈使句常用）"
+                }
+            ],
+            "synonymAnalysis": "oublier vs négliger：oublier 指无意间忘记；négliger 则是有意忽略，含主观上的疏忽。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "oubli",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "遗忘，遗漏"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inoubliable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "难忘的，令人难以忘怀的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "26",
+            "vocabulary": "fou",
+            "partOfSpeech": "adj.m.",
+            "definition": "①疯狂的，精神失常的 ②过多的，极大的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il y a un monde fou",
+                    "vocabularyCollocationMeaning": "人山人海，人群拥挤"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "devenir fou / folle",
+                    "vocabularyCollocationMeaning": "发疯，变得疯狂"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un succès fou",
+                    "vocabularyCollocationMeaning": "巨大的成功"
+                }
+            ],
+            "synonymAnalysis": "fou vs folle（阴性）注意前置时变为 fol（fol espoir）。fou 在名词后表示程度极大（un monde fou = 人极多），与其基本义“疯狂”有所区别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "folie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "疯狂；愚蠢行为"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "follement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "疯狂地；极度地"
+                }
+            ],
+            "genderNumberVariation": "阴性 folle；阳性复数 fous；阴性复数 folles；置于元音或哑音h开头的阳性名词前变为 fol（如 un fol espoir）",
+            "position": "通常置于名词之后；表程度时后置于名词"
+        },
+        {
+            "index": "27",
+            "vocabulary": "perdre",
+            "partOfSpeech": "vt.",
+            "definition": "①浪费（时间） ②失去，丢失",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "perdre du temps",
+                    "vocabularyCollocationMeaning": "浪费时间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "perdre son chemin",
+                    "vocabularyCollocationMeaning": "迷路"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "perdre de vue",
+                    "vocabularyCollocationMeaning": "失去视野，忽视"
+                }
+            ],
+            "synonymAnalysis": "perdre vs gaspiller：perdre 泛指失去或浪费；gaspiller 专指挥霍浪费（金钱、资源等），含贬义且程度更重。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "perte",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "损失，丧失"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "perdant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "失败者，输家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je perds, tu perds, il perd, nous perdons, vous perdez, ils perdent",
+                "compoundPast": "j'ai perdu",
+                "simpleFuture": "je perdrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -dre 类动词（同 attendre、vendre、répondre），单数第三人称现在时词尾 -d 不加 -t。"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "répondre",
+            "partOfSpeech": "vt.",
+            "definition": "①回答，答复 ②（对……作出）响应，回应",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "répondre à qn.",
+                    "vocabularyCollocationMeaning": "回答某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "répondre à une question",
+                    "vocabularyCollocationMeaning": "回答一个问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "répondre à une lettre",
+                    "vocabularyCollocationMeaning": "回复一封信"
+                }
+            ],
+            "synonymAnalysis": "répondre à vs répondre de：répondre à 表示“回答/回应”；répondre de 表示“对……负责”，含义完全不同，须注意介词区别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réponse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "回答，答复"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je réponds, tu réponds, il répond, nous répondons, vous répondez, ils répondent",
+                "compoundPast": "j'ai répondu",
+                "simpleFuture": "je répondrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -dre 类动词，与 attendre、perdre、vendre 同类变位。"
+            }
+        },
+        {
+            "index": "29",
+            "vocabulary": "besoin",
+            "partOfSpeech": "n.m.",
+            "definition": "需要，需求",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir besoin de qch./de faire qch.",
+                    "vocabularyCollocationMeaning": "需要某物/需要做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au besoin",
+                    "vocabularyCollocationMeaning": "必要时，如有需要"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en cas de besoin",
+                    "vocabularyCollocationMeaning": "在需要的情况下"
+                }
+            ],
+            "synonymAnalysis": "besoin vs nécessité vs envie：besoin 指客观需求；nécessité 更强调不可或缺性；envie 指主观欲望，不一定是真正需要。",
+            "derivedWords": [],
+            "pluralForm": "besoins"
+        },
+        {
+            "index": "30",
+            "vocabulary": "patron",
+            "partOfSpeech": "n.m.",
+            "definition": "①老板 ②（缝纫）纸样，版型",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le patron du magasin",
+                    "vocabularyCollocationMeaning": "商店老板"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "petit patron",
+                    "vocabularyCollocationMeaning": "小老板，小业主"
+                }
+            ],
+            "synonymAnalysis": "patron vs chef vs directeur：patron 口语化，多指小企业主/老板；chef 泛指上级或负责人；directeur 指正式机构的主任或总监。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "patronne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女老板"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "patronat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "雇主阶层，资方"
+                }
+            ],
+            "pluralForm": "patrons"
+        },
+        {
+            "index": "31",
+            "vocabulary": "gentil",
+            "partOfSpeech": "adj.m.",
+            "definition": "和蔼可亲的，善良的，亲切的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être gentil(le) avec qn.",
+                    "vocabularyCollocationMeaning": "对某人和善亲切"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est très gentil de ta part",
+                    "vocabularyCollocationMeaning": "你真是太好了（表示感谢）"
+                }
+            ],
+            "synonymAnalysis": "gentil vs aimable vs sympathique：gentil 侧重天性善良温和；aimable 强调对人有礼貌、讨人喜欢；sympathique（简称 sympa）口语化，表示人讨人喜欢、随和。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gentillesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "善意，和蔼，亲切"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gentiment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "亲切地，和善地"
+                }
+            ],
+            "genderNumberVariation": "阴性 gentille，阳性复数 gentils，阴性复数 gentilles",
+            "position": "通常置于名词之后；也可前置作表语"
+        },
+        {
+            "index": "32",
+            "vocabulary": "bavarder",
+            "partOfSpeech": "vi.",
+            "definition": "闲谈，聊天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bavarder avec qn.",
+                    "vocabularyCollocationMeaning": "与某人聊天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bavarder de qch.",
+                    "vocabularyCollocationMeaning": "聊某件事"
+                }
+            ],
+            "synonymAnalysis": "bavarder vs parler vs discuter：bavarder 指轻松随意的闲聊；parler 泛指说话、交谈；discuter 指就某话题进行讨论，通常有争论或交换意见的成分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bavardage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "闲聊，多嘴多舌"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bavard",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "话多的，爱聊天的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "33",
+            "vocabulary": "vrai",
+            "partOfSpeech": "adj.m.",
+            "definition": "①真实的，真正的 ②确实的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la vraie vie",
+                    "vocabularyCollocationMeaning": "真实的生活，真正的生活"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est vrai",
+                    "vocabularyCollocationMeaning": "这是真的，确实如此"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à vrai dire",
+                    "vocabularyCollocationMeaning": "说实话，说真的"
+                }
+            ],
+            "synonymAnalysis": "vrai vs réel vs authentique：vrai 强调与谎言相对的真实；réel 强调客观存在的真实；authentique 强调原汁原味、未经伪造的真实。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vraiment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "真地，确实，实在"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vérité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "真相，真理"
+                }
+            ],
+            "genderNumberVariation": "阴性 vraie，阳性复数 vrais，阴性复数 vraies",
+            "position": "前置或后置均可；前置时常强调“真正的”（un vrai ami），后置时表“真实的”（une histoire vraie）"
+        },
+        {
+            "index": "34",
+            "vocabulary": "lent",
+            "partOfSpeech": "adj.m.",
+            "definition": "慢的，缓慢的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est trop lent",
+                    "vocabularyCollocationMeaning": "太慢了"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à pas lents",
+                    "vocabularyCollocationMeaning": "缓慢地，慢步地"
+                }
+            ],
+            "synonymAnalysis": "lent vs lentement（副词形式）：lent 修饰名词（adj.）；lentement 修饰动词（adv.）。注意区分词性用法。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lentement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "慢慢地，缓缓地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lenteur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "缓慢，迟缓"
+                }
+            ],
+            "genderNumberVariation": "阴性 lente，阳性复数 lents，阴性复数 lentes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "35",
+            "vocabulary": "pressé",
+            "partOfSpeech": "adj.m.",
+            "definition": "①匆忙的；赶时间的 ②紧急的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être pressé(e)",
+                    "vocabularyCollocationMeaning": "赶时间，匆忙"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être pressé(e) de faire qch.",
+                    "vocabularyCollocationMeaning": "迫切地想做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "orange pressée",
+                    "vocabularyCollocationMeaning": "鲜榨橙汁（另一义）"
+                }
+            ],
+            "synonymAnalysis": "pressé vs urgent：pressé 描述人的状态（人很忙、赶时间）；urgent 描述事情的性质（事情紧急）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "presser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "催促；挤压"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pression",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "压力"
+                }
+            ],
+            "genderNumberVariation": "阴性 pressée，阳性复数 pressés，阴性复数 pressées",
+            "position": "通常置于名词之后；作表语时接 être"
+        },
+        {
+            "index": "36",
+            "vocabulary": "sortie",
+            "partOfSpeech": "n.f.",
+            "definition": "①出口；出去 ②离开，外出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se diriger vers la sortie",
+                    "vocabularyCollocationMeaning": "朝出口走去"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sortie de secours",
+                    "vocabularyCollocationMeaning": "紧急出口，安全门"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à la sortie de",
+                    "vocabularyCollocationMeaning": "在……出口处；……结束时"
+                }
+            ],
+            "synonymAnalysis": "sortie vs départ：sortie 强调出口或离开某地的动作；départ 更强调出发、动身，多指旅行或重要离去。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sortir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "出去，外出"
+                }
+            ],
+            "pluralForm": "sorties"
+        },
+        {
+            "index": "37",
+            "vocabulary": "caissier",
+            "partOfSpeech": "n.m.",
+            "definition": "出纳员；收银员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la caissière du supermarché",
+                    "vocabularyCollocationMeaning": "超市收银员（阴性）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passer à la caisse",
+                    "vocabularyCollocationMeaning": "去收银台结账"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "caisse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "收银台；箱子；保险箱"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "caissière",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女收银员"
+                }
+            ],
+            "pluralForm": "caissiers"
+        },
+        {
+            "index": "38",
+            "vocabulary": "article",
+            "partOfSpeech": "n.m.",
+            "definition": "①物品；商品 ②文章 ③（语法）冠词",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire passer les articles sur le tapis",
+                    "vocabularyCollocationMeaning": "把商品放在传送带上通过"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "article de presse",
+                    "vocabularyCollocationMeaning": "新闻文章"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "article défini / indéfini",
+                    "vocabularyCollocationMeaning": "定冠词/不定冠词"
+                }
+            ],
+            "synonymAnalysis": "article（商品义）vs produit vs marchandise：article 指单件商品（超市、商店语境常用）；produit 泛指产品；marchandise 偏贸易/批发语体。",
+            "derivedWords": [],
+            "pluralForm": "articles"
+        },
+        {
+            "index": "39",
+            "vocabulary": "tapis",
+            "partOfSpeech": "n.m.",
+            "definition": "①传送带（超市）；地毯 ②（摔跤等）垫子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tapis roulant",
+                    "vocabularyCollocationMeaning": "传送带；自动扶梯"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tapis de sol",
+                    "vocabularyCollocationMeaning": "地垫，地毯"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "tapis（单复数同形）"
+        },
+        {
+            "index": "40",
+            "vocabulary": "chèque",
+            "partOfSpeech": "n.m.",
+            "definition": "支票",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un chèque",
+                    "vocabularyCollocationMeaning": "开一张支票"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "payer par chèque",
+                    "vocabularyCollocationMeaning": "用支票付款"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chèque sans provision",
+                    "vocabularyCollocationMeaning": "空头支票"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "chèques"
+        },
+        {
+            "index": "41",
+            "vocabulary": "foule",
+            "partOfSpeech": "n.f.",
+            "definition": "①人群；大众 ②大量（une foule de + nom）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une foule de gens",
+                    "vocabularyCollocationMeaning": "一大群人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans la foule",
+                    "vocabularyCollocationMeaning": "在人群中"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une foule de problèmes",
+                    "vocabularyCollocationMeaning": "大量问题"
+                }
+            ],
+            "synonymAnalysis": "foule vs masse vs peuple：foule 指聚集的人群（具体可见）；masse 更抽象，指大众群体；peuple 指民族/人民（政治社会语体）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fouler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "踩踏，践踏"
+                }
+            ],
+            "pluralForm": "foules"
+        },
+        {
+            "index": "42",
+            "vocabulary": "bruit",
+            "partOfSpeech": "n.m.",
+            "definition": "①噪音；声音 ②传言，谣言",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du bruit",
+                    "vocabularyCollocationMeaning": "制造噪音；引起轰动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans bruit",
+                    "vocabularyCollocationMeaning": "悄无声息地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bruit de fond",
+                    "vocabularyCollocationMeaning": "背景噪音"
+                }
+            ],
+            "synonymAnalysis": "bruit vs son vs bruit：son 泛指各种声音（中性）；bruit 多指令人不悦的噪音或杂声（偏负面）；vacarme 指极大的喧嚣声。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bruyant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "嘈杂的，喧嚣的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bruitage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "音效，音响效果"
+                }
+            ],
+            "pluralForm": "bruits"
+        },
+        {
+            "index": "43",
+            "vocabulary": "cœur",
+            "partOfSpeech": "n.m.",
+            "definition": "①心，心脏 ②内心，心里",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se dire en son cœur",
+                    "vocabularyCollocationMeaning": "心里寻思，暗自想道"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de tout son cœur",
+                    "vocabularyCollocationMeaning": "全心全意地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir le cœur gros",
+                    "vocabularyCollocationMeaning": "心情沉重，很伤心"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cœurs"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Charlotte est arrivée à Paris il y a deux jours pour passer deux semaines chez sa tante. C'est la première fois qu'elle voit un hypermarché, et elle est vraiment très étonnée par la foule, par la vitesse et par le bruit. Chez elle, à la campagne, on doit aller dans plusieurs petites boutiques pour faire ses achats quotidiens, et les patrons sont très gentils avec les clients. Elle se dit en son cœur : «Quel monde et quel Paris!»",
+            "chineseTranslation": "夏洛特两天前来到巴黎，要在姑妈家住上两个星期。这是她第一次见到超级市场，人群、速度和嘈杂声让她真的大吃一惊。在她的家乡——乡下，人们每天得跑好几家小商店才能买齐日用品，那里的老板对顾客都非常热情。她不禁在心里感叹道：“这是个什么世界，这就是巴黎！”",
+            "fr2cnStrategy": "① il y a deux jours 是时间状语，表示“两天前”，翻译时前移至句首，符合中文时序习惯；② C'est la première fois que 句型译为“这是她第一次……”，时态对应保留；③ être étonnée par 三个并列 par 短语，采用排比译法“人群、速度和嘈杂声让她……”，将被动结构转换为主动句，属于语态转换和语序调整；④ chez elle, à la campagne 双重地点状语处理为“在她的家乡——乡下”，破折号起补充说明作用，增强中文可读性；⑤ faire ses achats quotidiens 译为“买齐日用品”，将法语名词结构转化为中文动宾结构，属词性转换；⑥ Quel monde et quel Paris! 感叹句保留感叹语气，译为“这是个什么世界，这就是巴黎！”，口语化处理更符合人物心理独白语气。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "这是他第一次去超级市场购物，他真的很惊讶。",
+                "frenchTranslation": "C'est la première fois qu'il fait ses courses dans un supermarché, et il est vraiment très étonné.",
+                "cn2frStrategy": "① “这是第一次……”用固定句型 C'est la première fois que + 现在时；② “去……购物”用 faire ses courses dans + lieu；③ “很惊讶”用 être étonné，注意过去分词与主语性数一致；④ 两分句用 et 连接，符合法语并列句习惯。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "需要什么东西的时候，他们总是去附近的小商店，那里的老板对顾客非常和蔼。",
+                "frenchTranslation": "Quand ils ont besoin de quelque chose, ils vont toujours dans les petites boutiques du quartier, où les patrons sont très gentils avec les clients.",
+                "cn2frStrategy": "① “需要什么东西”用 avoir besoin de quelque chose；② “总是”用 toujours，置于助动词/谓语之后；③ “那里的”用关系副词 où 引导定语从句，避免生硬的 et là；④ “对……和蔼”用固定搭配 être gentil avec。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "两个女孩朝出口走去，收银员正在把商品放在传送带上。",
+                "frenchTranslation": "Les deux jeunes filles se dirigent vers la sortie, pendant que la caissière fait passer les articles sur le tapis.",
+                "cn2frStrategy": "① “朝……走去”用 se diriger vers + lieu，代词式动词；② 两个动作同时进行，用 pendant que 引导时间状语从句；③ “把……放在……上通过”用使役结构 faire passer qch. sur qch.；④ “传送带”用 tapis（此处即为 tapis roulant 的简称）。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在大城市里，人们总是那么匆忙，根本没有时间和店主闲聊。",
+                "frenchTranslation": "Dans les grandes villes, les gens sont toujours très pressés et n'ont pas le temps de bavarder avec les patrons.",
+                "cn2frStrategy": "① “总是那么匆忙”用 être très pressé，pressé 是形容词，注意性数变化；② “没有时间做某事”用 ne pas avoir le temps de + inf.；③ “闲聊”用 bavarder，固定搭配 avec qn.；④ 两个并列谓语用 et 连接，第二个主语省略，直接接否定谓语。"
+            }
+        ]
+    }
+}
