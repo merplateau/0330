@@ -3,6 +3,14 @@
 
 # 保留 .gitignore 本身
 !.gitignore
+!.github/
+.github/*
+!.github/workflows/
+!.github/workflows/*.yml
+
+!scripts/
+scripts/*
+!scripts/*.sh
 
 # 保留 newlayout/ 目录（以便 git 进入）
 !newlayout/

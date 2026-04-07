@@ -34,23 +34,47 @@
 
 % 西文字体：Times New Roman，无衬线：Comic Sans MS
 \RequirePackage{fontspec}
-\setmainfont{Songti SC}[
-    ItalicFont = Songti SC,
-    SlantedFont = Songti SC,
-]
-\setsansfont{Arial Unicode MS}
-\setCJKmainfont{Songti SC}[
-    ItalicFont = Songti SC,
-    SlantedFont = Songti SC,
-]
-\setCJKsansfont{Heiti SC}
+\IfFontExistsTF{Times New Roman}{
+    \setmainfont{Times New Roman}
+}{
+    \setmainfont{TeX Gyre Termes}
+}
+\IfFontExistsTF{Arial Unicode MS}{
+    \setsansfont{Arial Unicode MS}
+}{
+    \setsansfont{TeX Gyre Heros}
+}
+\IfFontExistsTF{Songti SC}{
+    \setCJKmainfont{Songti SC}[
+        ItalicFont = Songti SC,
+        SlantedFont = Songti SC,
+    ]
+}{
+    \setCJKmainfont{FandolSong-Regular}[
+        ItalicFont = FandolSong-Regular,
+        SlantedFont = FandolSong-Regular,
+    ]
+}
+\IfFontExistsTF{Heiti SC}{
+    \setCJKsansfont{Heiti SC}
+}{
+    \setCJKsansfont{FandolHei-Regular}
+}
 
 % 中文辅助字体：黑体，\ht 命令切换
-\setCJKfamilyfont{hei}{Heiti SC}
+\IfFontExistsTF{Heiti SC}{
+    \setCJKfamilyfont{hei}{Heiti SC}
+}{
+    \setCJKfamilyfont{hei}{FandolHei-Regular}
+}
 \newcommand{\hei}{\CJKfamily{hei}}
 
 % 中文辅助字体：楷体，\kt 命令切换
-\setCJKfamilyfont{kt}{KaiTi}
+\IfFontExistsTF{KaiTi}{
+    \setCJKfamilyfont{kt}{KaiTi}
+}{
+    \setCJKfamilyfont{kt}{FandolKai-Regular}
+}
 \newcommand{\kt}{\CJKfamily{kt}}
 
 % 从放电气体动力学学来的，文本框相关
