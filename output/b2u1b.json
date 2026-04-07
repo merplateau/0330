@@ -1,0 +1,889 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "La France est appelée l'Hexagone, car elle a six côtés: trois maritimes et trois terrestres.",
+            "translatedSentence": "法国被称为“六边形”，因为它有六条边：三条临海，三条毗陆。",
+            "sentenceStructure": "主句为 La France est appelée l'Hexagone，car 引导原因状语从句 elle a six côtés，其后以冒号引出同位解释 trois maritimes et trois terrestres。",
+            "grammarAnalysis": "① être appelé(e) 为被动结构，由 être + 过去分词构成，表示被动语态。② car 引导原因从句，语气比 parce que 更肯定，常用于书面语，不可置于句首。③ trois maritimes et trois terrestres 为省略结构，完整形式为 trois côtés maritimes et trois côtés terrestres。",
+            "commonMistakes": "car 与 parce que 均表原因，但 car 不能置于句首，且引导的从句更侧重说明理由而非直接原因；学生常将二者混用。被动结构 est appelée 中的过去分词需与主语保持性数一致，la France 为阴性，故为 appelée。"
+        },
+        {
+            "index": "2",
+            "sentence": "Les côtés maritimes donnent sur la Manche (au nord), sur l'océan Atlantique (à l'ouest) et la mer Méditerranée (au sud).",
+            "translatedSentence": "临海的三条边分别朝向北部的英吉利海峡、西部的大西洋和南部的地中海。",
+            "sentenceStructure": "主语 Les côtés maritimes，谓语 donnent sur，后接三个并列的介词短语宾语（sur la Manche / sur l'océan Atlantique / la mer Méditerranée），括号内为位置补充说明。",
+            "grammarAnalysis": "① donner sur 为固定搭配，意为“朝向，面向”，介词固定用 sur，不可替换。② 方位表达：au nord（在北部）、à l'ouest（在西部）、au sud（在南部），方位名词前用冠词 le/l'，与 à 缩合为 au，或直接用 à l'（元音开头）。③ 第三个并列项省略了介词 sur，属于修辞省略。",
+            "commonMistakes": "donner sur 是固定搭配，介词必须用 sur，学生常误用 à 或 vers。方位表达中 à l'est / à l'ouest 不缩合（因后接元音），而 au nord / au sud 需缩合，易混淆。"
+        },
+        {
+            "index": "3",
+            "sentence": "Le climat est tempéré, mais il varie aussi d'une région à l'autre.",
+            "translatedSentence": "法国气候温和，但各地区之间也存在差异。",
+            "sentenceStructure": "并列复合句，前半句 Le climat est tempéré 为主系表结构，后半句由 mais 连接，il varie aussi d'une région à l'autre，il 为非人称代词，指代气候。",
+            "grammarAnalysis": "① d'une région à l'autre 为固定句型，意为“从一个地区到另一个地区”，结构为 de + 名词 + à + l'autre。② varier 为第一组规则动词，现在时词干不变。③ aussi 作副词，置于动词之后，强调“也、同样”。",
+            "commonMistakes": "d'une...à l'autre 结构中冠词的用法：第一个名词用不定冠词（une région），第二个固定用 l'autre，学生常误写为 à une autre。"
+        },
+        {
+            "index": "4",
+            "sentence": "Le sommet le plus élevé est le mont Blanc, dans les Alpes (au sud-est), mais la France a d'autres massifs importants comme les Pyrénées (au sud-ouest), le Massif central (au centre), le Jura (à l'est) et les Vosges (au nord-est).",
+            "translatedSentence": "最高峰是位于东南部阿尔卑斯山脉的勃朗峰，但法国还有其他重要山脉，如西南部的比利牛斯山脉、中部的中央高原、东部的汝拉山脉和东北部的孚日山脉。",
+            "sentenceStructure": "并列复合句，前半句为主系表结构 Le sommet le plus élevé est le mont Blanc，后半句由 mais 连接，主干为 la France a d'autres massifs importants，由 comme 引导列举性同位语。",
+            "grammarAnalysis": "① le plus élevé 为形容词最高级，结构为 le/la/les + plus + 形容词，修饰 sommet（阳性名词）。② comme 此处作介词，引导列举，意为“如，例如”。③ d'autres 中的 de 为部分冠词/不定冠词复数形式在否定或修饰词后的变体，此处 autre 前用 d' 而非 des，因有形容词 autres 前置。",
+            "commonMistakes": "最高级结构中，定冠词需与被修饰名词性数一致：le sommet le plus élevé（阳性单数）。学生易将 comme（如，例如）与 comment（怎么）混淆。d'autres 中不用 des，因为不定冠词复数 des 在形容词前变为 de/d'，这是常考语法点。"
+        },
+        {
+            "index": "5",
+            "sentence": "De nombreux canaux relient les rivières entre elles.",
+            "translatedSentence": "许多运河将各条河流彼此相连。",
+            "sentenceStructure": "简单句，主语 De nombreux canaux，谓语 relient，宾语 les rivières，补语 entre elles（相互之间）。",
+            "grammarAnalysis": "① de nombreux 为数量形容词，修饰复数名词时介词用 de，而非 des（形容词前 des → de）。② relier vt. 为及物动词，意为“连接，联系”。③ entre elles 为强调代词结构，elles 指代前文的 les rivières（阴性复数），表示“它们之间、彼此”。",
+            "commonMistakes": "de nombreux 中必须用 de 而非 des，因为数量词/形容词（nombreux）前置时不定冠词 des 需变为 de；这是考研常考语法点。entre elles 中的强调代词需与所指名词性数一致。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être appelé(e) + nom/attribut",
+            "meaning": "被称为……",
+            "usage": "被动结构，être + 过去分词，过去分词与主语性数一致。常用于介绍别称、绰号等固定表达。",
+            "exampleSentence": "La France est appelée l'Hexagone."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "donner sur + lieu",
+            "meaning": "朝向……，面向……",
+            "usage": "固定搭配，介词固定用 sur，不可替换为 à 或 vers。主语通常为建筑物、窗户、边界等。",
+            "exampleSentence": "Les côtés maritimes donnent sur la Manche."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "d'une ... à l'autre",
+            "meaning": "从一个……到另一个……",
+            "usage": "固定句型，表示范围或差异，第一个名词前用不定冠词，第二个固定为 l'autre。",
+            "exampleSentence": "il varie aussi d'une région à l'autre"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "séparer A de B",
+            "meaning": "将A与B分开，隔开",
+            "usage": "vt. 固定搭配，介词用 de。常用于地理描述，表示以某物为界分隔两地。",
+            "exampleSentence": "Les frontières terrestres séparent la France de la Belgique et du Luxembourg."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "il y a de + n.pl.",
+            "meaning": "有……（存在句）",
+            "usage": "存在句固定结构，il y a 后接不定冠词 + 名词，表示某地存在某物；方位状语常前置或后置。",
+            "exampleSentence": "il y a de grandes plaines dans le Nord et dans le Sud-Ouest"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "changer selon + n.",
+            "meaning": "根据……而变化",
+            "usage": "selon 为介词，后接名词，表示依据或随着某因素变化；与 d'après 近义但 selon 更常用于客观规律。",
+            "exampleSentence": "Le paysage change selon le climat, et aussi selon le relief."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "naître en/dans + lieu",
+            "meaning": "（河流）发源于……",
+            "usage": "naître vi. 本义为“出生”，用于河流时引申为“发源于”。助动词用 être，过去分词 né(e)。",
+            "exampleSentence": "le Rhône qui naît en Suisse traverse Lyon"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "relier A à B / relier A et B",
+            "meaning": "将A与B连接起来",
+            "usage": "vt. 及物动词，两种介词搭配均可：relier...à... 或 relier...entre elles（强调相互连接）。",
+            "exampleSentence": "De nombreux canaux relient les rivières entre elles."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "traverser + lieu",
+            "meaning": "穿越……，流经……",
+            "usage": "vt. 及物动词，无需介词直接接宾语。用于河流时表示“流经”，用于人时表示“穿过”。",
+            "exampleSentence": "la Seine, qui traverse Paris"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "il fait + adj. (météo)",
+            "meaning": "天气……（非人称句）",
+            "usage": "天气非人称句固定结构，il fait froid（冷）、il fait chaud（热），形容词不变位。注意区分：il pleut（下雨，动词形式）与 il fait...（形容词形式）。",
+            "exampleSentence": "dans l'Est, il fait très froid en hiver et très chaud en été"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "comme + n.pl.（列举）",
+            "meaning": "如，例如（引导列举）",
+            "usage": "comme 作介词引导例证，后接名词（组），相当于“par exemple”，书面口语均可用，不引导从句。",
+            "exampleSentence": "la France a d'autres massifs importants comme les Pyrénées, le Massif central..."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "de nombreux + n.pl.",
+            "meaning": "许多……，大量……",
+            "usage": "数量形容词，修饰复数名词，冠词位置用 de 而非 des（形容词前置规则）。比 beaucoup de 更书面正式。",
+            "exampleSentence": "De nombreux canaux relient les rivières entre elles."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "hexagone",
+            "partOfSpeech": "n.m.",
+            "definition": "①六角形，六边形 ②（大写）法国（因国土形状得名）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'Hexagone",
+                    "vocabularyCollocationMeaning": "法国（专有名词用法，首字母大写）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un hexagone régulier",
+                    "vocabularyCollocationMeaning": "正六边形"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hexagonal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "六角形的，六边形的"
+                }
+            ],
+            "pluralForm": "hexagones"
+        },
+        {
+            "index": "2",
+            "vocabulary": "maritime",
+            "partOfSpeech": "adj.",
+            "definition": "①海的，海洋的 ②沿海的，滨海的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "côté maritime",
+                    "vocabularyCollocationMeaning": "临海的一侧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "transport maritime",
+                    "vocabularyCollocationMeaning": "海上运输"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "droit maritime",
+                    "vocabularyCollocationMeaning": "海商法"
+                }
+            ],
+            "synonymAnalysis": "maritime 泛指与海洋相关；marin(e) 更强调海洋本身的属性（如 air marin 海洋空气）；naval(e) 专指海军或船只相关。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴阳性同形，复数加 -s：maritimes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "terrestre",
+            "partOfSpeech": "adj.",
+            "definition": "①陆地的，地面的 ②地球的，世俗的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "frontière terrestre",
+                    "vocabularyCollocationMeaning": "陆地边界"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "transport terrestre",
+                    "vocabularyCollocationMeaning": "陆路运输"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vie terrestre",
+                    "vocabularyCollocationMeaning": "世俗生活，尘世生活"
+                }
+            ],
+            "synonymAnalysis": "terrestre 指地面/陆地的，与 maritime（海洋的）和 aérien（空中的）相对；continental 则强调大陆性（如大陆性气候）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "terre",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "土地；地球；陆地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "territoire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "领土，领域"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数加 -s：terrestres",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "4",
+            "vocabulary": "climat",
+            "partOfSpeech": "n.m.",
+            "definition": "①气候 ②（社会、政治等）氛围，环境",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "climat tempéré",
+                    "vocabularyCollocationMeaning": "温带气候"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "climat politique",
+                    "vocabularyCollocationMeaning": "政治气候，政治氛围"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "changement de climat",
+                    "vocabularyCollocationMeaning": "气候变化"
+                }
+            ],
+            "synonymAnalysis": "climat 指某地长期的气候特征；météo（n.f.，口语）指天气预报或短期天气状况；temps 指当下的天气（quel temps fait-il？今天天气怎么样？）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "climatique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "气候的，与气候相关的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "climatisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "空调（系统）"
+                }
+            ],
+            "pluralForm": "climats"
+        },
+        {
+            "index": "5",
+            "vocabulary": "tempéré",
+            "partOfSpeech": "adj.",
+            "definition": "①温带的 ②温和的，适中的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "climat tempéré",
+                    "vocabularyCollocationMeaning": "温带气候"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "zone tempérée",
+                    "vocabularyCollocationMeaning": "温带地区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "réaction tempérée",
+                    "vocabularyCollocationMeaning": "温和的反应"
+                }
+            ],
+            "synonymAnalysis": "tempéré 强调气候/性格的适中、不极端；doux(douce) 也可表示气候温和（hiver doux 暖冬），但更侧重柔和舒适的感觉；modéré 则更常用于程度上的“适度、中等”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tempérer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使温和，缓和"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "température",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "温度，气温"
+                }
+            ],
+            "genderNumberVariation": "阴性 tempérée，阳性复数 tempérés，阴性复数 tempérées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "varier",
+            "partOfSpeech": "vi.",
+            "definition": "①变化，改变 ②（意见等）不一致，有分歧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "varier d'une région à l'autre",
+                    "vocabularyCollocationMeaning": "因地区不同而有差异"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "varier selon + n.",
+                    "vocabularyCollocationMeaning": "根据……而变化"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les prix varient",
+                    "vocabularyCollocationMeaning": "价格有波动"
+                }
+            ],
+            "synonymAnalysis": "varier 强调在范围内的变化或差异；changer 强调由一种状态变为另一种状态；évoluer 强调逐步发展演变，带有时间纵向维度。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "variation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "变化，变动；变奏"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "varié",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多样的，各种各样的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "variété",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "多样性；种类；综艺（节目）"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "variable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多变的，不稳定的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "type",
+            "partOfSpeech": "n.m.",
+            "definition": "①种类，类型 ②典型，代表 ③（口语）家伙，人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "type de climat",
+                    "vocabularyCollocationMeaning": "气候类型"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de ce type",
+                    "vocabularyCollocationMeaning": "这种类型的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans le type de",
+                    "vocabularyCollocationMeaning": "属于……类型"
+                }
+            ],
+            "synonymAnalysis": "type 与 genre、sorte、espèce 均可表示“种类”：type 更强调归类与特征；genre 偏文体/风格；sorte 最口语化；espèce 有时含贬义（espèce d'idiot！）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "typique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "典型的，有代表性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "typiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "典型地"
+                }
+            ],
+            "pluralForm": "types"
+        },
+        {
+            "index": "8",
+            "vocabulary": "paysage",
+            "partOfSpeech": "n.m.",
+            "definition": "①风景，景观 ②（比喻）全貌，格局",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "paysage varié",
+                    "vocabularyCollocationMeaning": "多样的风景"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "paysage politique",
+                    "vocabularyCollocationMeaning": "政治格局"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "contempler le paysage",
+                    "vocabularyCollocationMeaning": "欣赏风景"
+                }
+            ],
+            "synonymAnalysis": "paysage 强调人眼所见的自然或人文景观；vue 指从某处望出去的视野；site 强调某一具体地点的自然环境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "paysager",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "园林的，景观式的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "paysagiste",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "风景画家；景观设计师"
+                }
+            ],
+            "pluralForm": "paysages"
+        },
+        {
+            "index": "9",
+            "vocabulary": "relief",
+            "partOfSpeech": "n.m.",
+            "definition": "①地形，地势 ②浮雕 ③（比喻）突出感，层次感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relief montagneux",
+                    "vocabularyCollocationMeaning": "山地地形"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "carte de relief",
+                    "vocabularyCollocationMeaning": "地形图"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre en relief",
+                    "vocabularyCollocationMeaning": "突出，强调"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "reliefs"
+        },
+        {
+            "index": "10",
+            "vocabulary": "plaine",
+            "partOfSpeech": "n.f.",
+            "definition": "平原",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "grande plaine",
+                    "vocabularyCollocationMeaning": "大平原"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plaine côtière",
+                    "vocabularyCollocationMeaning": "沿海平原"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans la plaine",
+                    "vocabularyCollocationMeaning": "在平原上"
+                }
+            ],
+            "synonymAnalysis": "plaine 为广袤的平坦地形；plateau（n.m.）为高原；vallée（n.f.）为山谷地形。三者是法语地理描述的核心词汇，注意性别区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plat",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "平坦的，扁平的"
+                }
+            ],
+            "pluralForm": "plaines"
+        },
+        {
+            "index": "11",
+            "vocabulary": "pâturage",
+            "partOfSpeech": "n.m.",
+            "definition": "①牧场，牧地 ②放牧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pâturage alpin",
+                    "vocabularyCollocationMeaning": "高山牧场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mener au pâturage",
+                    "vocabularyCollocationMeaning": "赶往牧场放牧"
+                }
+            ],
+            "synonymAnalysis": "pâturage 强调供放牧用的草地；prairie（n.f.）泛指草地、草原，不一定用于放牧；champ（n.m.）为田地，侧重耕地。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pâturer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "（牲畜）吃草，放牧"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pâtre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "牧人（书面/诗意用词）"
+                }
+            ],
+            "pluralForm": "pâturages"
+        },
+        {
+            "index": "12",
+            "vocabulary": "forêt",
+            "partOfSpeech": "n.f.",
+            "definition": "①森林 ②（比喻）大量，密集",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "forêt tropicale",
+                    "vocabularyCollocationMeaning": "热带雨林"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "forêt de pins",
+                    "vocabularyCollocationMeaning": "松树林"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en forêt",
+                    "vocabularyCollocationMeaning": "在森林里"
+                }
+            ],
+            "synonymAnalysis": "forêt 指大片森林；bois（n.m.）指较小的树林；bosquet（n.m.）指小树丛。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "forestier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "森林的，林业的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "déforestation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "砍伐森林，滥伐"
+                }
+            ],
+            "pluralForm": "forêts"
+        },
+        {
+            "index": "13",
+            "vocabulary": "vigne",
+            "partOfSpeech": "n.f.",
+            "definition": "①葡萄藤，葡萄树 ②葡萄园",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cultiver la vigne",
+                    "vocabularyCollocationMeaning": "种植葡萄"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "feuille de vigne",
+                    "vocabularyCollocationMeaning": "葡萄叶"
+                }
+            ],
+            "synonymAnalysis": "vigne 指葡萄植株或种有葡萄的地；vignoble（n.m.）特指葡萄酒产区或较大面积的葡萄园；raisin（n.m.）则指葡萄（果实）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vigneron",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "葡萄种植者，酿酒农"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vignoble",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "葡萄种植区，葡萄园"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "vin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "葡萄酒"
+                }
+            ],
+            "pluralForm": "vignes"
+        },
+        {
+            "index": "14",
+            "vocabulary": "vallée",
+            "partOfSpeech": "n.f.",
+            "definition": "①山谷，峡谷 ②（河流）流域",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vallée du Rhône",
+                    "vocabularyCollocationMeaning": "罗纳河流域"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fond de vallée",
+                    "vocabularyCollocationMeaning": "谷底"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vallée encaissée",
+                    "vocabularyCollocationMeaning": "深谷，峡谷"
+                }
+            ],
+            "synonymAnalysis": "vallée 泛指两山之间的低地；gorge（n.f.）指深而窄的峡谷；bassin（n.m.）指盆地。",
+            "derivedWords": [],
+            "pluralForm": "vallées"
+        },
+        {
+            "index": "15",
+            "vocabulary": "olivier",
+            "partOfSpeech": "n.m.",
+            "definition": "油橄榄树，橄榄树",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "huile d'olive",
+                    "vocabularyCollocationMeaning": "橄榄油"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plantation d'oliviers",
+                    "vocabularyCollocationMeaning": "橄榄树种植园"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "olive",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "橄榄（果实）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "olivâtre",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "橄榄色的，暗黄褐色的"
+                }
+            ],
+            "pluralForm": "oliviers"
+        },
+        {
+            "index": "16",
+            "vocabulary": "massif",
+            "partOfSpeech": "n.m.",
+            "definition": "①高地，山块，山脉 ②（花坛中的）丛植植物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "massif montagneux",
+                    "vocabularyCollocationMeaning": "山地山块"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le Massif central",
+                    "vocabularyCollocationMeaning": "法国中央高原（专有名词）"
+                }
+            ],
+            "synonymAnalysis": "massif（n.m.）指独立的山块或高地，如 le Massif central；chaîne de montagnes 指绵延的山脉；montagne 泛指山。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "massif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "①厚重的，大量的 ②实心的（如 or massif 纯金）"
+                }
+            ],
+            "pluralForm": "massifs"
+        },
+        {
+            "index": "17",
+            "vocabulary": "rivière",
+            "partOfSpeech": "n.f.",
+            "definition": "河，河流（注入另一河流的支流）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rivière navigable",
+                    "vocabularyCollocationMeaning": "可通航的河流"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au bord de la rivière",
+                    "vocabularyCollocationMeaning": "在河边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "nager dans la rivière",
+                    "vocabularyCollocationMeaning": "在河里游泳"
+                }
+            ],
+            "synonymAnalysis": "rivière 与 fleuve（n.m.）的核心区别：fleuve 最终注入大海，rivière 注入另一条河流（支流）。这是考研常考语法文化点。如：la Seine 是 fleuve，而其支流是 rivière。",
+            "derivedWords": [],
+            "pluralForm": "rivières"
+        },
+        {
+            "index": "18",
+            "vocabulary": "naître",
+            "partOfSpeech": "vi.",
+            "definition": "①出生，诞生 ②（河流）发源于 ③（事物）产生，兴起",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "naître en + pays/région",
+                    "vocabularyCollocationMeaning": "出生于……国/地区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "naître dans + ville",
+                    "vocabularyCollocationMeaning": "出生于……城市"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire naître",
+                    "vocabularyCollocationMeaning": "引起，产生（某种感情或想法）"
+                }
+            ],
+            "synonymAnalysis": "naître 与 mourir（死亡）相对；与 venir au monde（来到世界）同义，但后者更书面；prendre naissance（发源，起源）为书面语固定搭配。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "naissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "出生；诞生；起源"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "né",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "出生的；天生的（如 un acteur né 天生的演员）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "renaissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "重生；复兴（la Renaissance 文艺复兴）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je nais, tu nais, il naît, nous naissons, vous naissez, ils naissent",
+                "compoundPast": "助动词用 être：je suis né(e), tu es né(e), il est né, elle est née, nous sommes né(e)s, vous êtes né(e)(s), ils sont nés, elles sont nées",
+                "simpleFuture": "je naîtrai, tu naîtras, il naîtra, nous naîtrons, vous naîtrez, ils naîtront",
+                "imperfect": "je naissais（词干 naiss- 规则，无特殊变化）",
+                "presentSubjunctive": "que je naisse, que tu naisses, qu'il naisse, que nous naissions, que vous naissiez, qu'ils naissent",
+                "memoryAids": "变位类似 connaître（认识）：词干均含 -aiss-，注意 il naît 上有扬音符（circumflex），复合过去时助动词用 être，过去分词 né 需与主语性数一致。"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "canal",
+            "partOfSpeech": "n.m.",
+            "definition": "①运河，水渠 ②管道，通道 ③（电视/广播）频道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "canal de navigation",
+                    "vocabularyCollocationMeaning": "通航运河"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "canal de distribution",
+                    "vocabularyCollocationMeaning": "分销渠道"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par ce canal",
+                    "vocabularyCollocationMeaning": "通过这一渠道"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "canalisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "管道系统；引导，疏导"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "canaliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "开凿运河；引导，疏导（情绪、资金等）"
+                }
+            ],
+            "pluralForm": "canaux（不规则复数，-al → -aux）"
+        },
+        {
+            "index": "20",
+            "vocabulary": "relier",
+            "partOfSpeech": "vt.",
+            "definition": "①连接，联系 ②装订（书籍）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relier A à B",
+                    "vocabularyCollocationMeaning": "将A与B连接"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "relier les rivières entre elles",
+                    "vocabularyCollocationMeaning": "将各条河流相互连通"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "relier un livre",
+                    "vocabularyCollocationMeaning": "给书装订封面"
+                }
+            ],
+            "synonymAnalysis": "relier 强调建立物理或逻辑上的连接；connecter 更常用于电子、网络语境；unir 更强调将分开的事物联合、合并。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reliure",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "装订（工艺）；书的封面"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "relation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "关系，联系（同词根）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "La France est appelée l'Hexagone, car elle a six côtés: trois maritimes et trois terrestres. Le climat est tempéré, mais il varie aussi d'une région à l'autre. Le paysage change selon le climat, et aussi selon le relief. Le sommet le plus élevé est le mont Blanc, dans les Alpes, mais la France a d'autres massifs importants. De nombreux canaux relient les rivières entre elles.",
+            "chineseTranslation": "法国因国土形状而被称为“六边形”，共有六条边，三条临海，三条毗陆。气候总体温和，但各地之间差异明显。风景因气候而异，也随地势变化。最高峰是位于阿尔卑斯山的勃朗峰，此外法国还有其他重要山脉。众多运河将各条河流彼此连通。",
+            "fr2cnStrategy": "① être appelée 为被动结构，译为“被称为”，并增补“因国土形状而”以使语意更完整（增译）；② trois maritimes et trois terrestres 为省略结构，翻译时补全为“三条临海，三条毗陆”（增译）；③ d'une région à l'autre 译为“各地之间”，化繁为简（减译/意译）；④ Le paysage change selon le climat, et aussi selon le relief 调整语序，将双重 selon 并列改为汉语的“因……而异，也随……变化”，更自然（语序调整+词性转换：名词→动词）；⑤ De nombreux canaux relient les rivières entre elles 将 entre elles 译为“彼此”，体现汉语习惯（意译）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "法国气候因地区不同而变化，西部多雨，东部冬冷夏热。",
+                "frenchTranslation": "Le climat de la France varie d'une région à l'autre: dans l'Ouest, il pleut souvent; dans l'Est, il fait très froid en hiver et très chaud en été.",
+                "cn2frStrategy": "① “因地区不同而变化”直接套用课文固定句型 varier d'une région à l'autre；② “多雨”用非人称句 il pleut souvent，避免直译“有很多雨”；③ 东部气候用 il fait + 形容词 的非人称结构，注意 en hiver / en été 季节介词用 en；④ 冒号引出具体说明，符合法语书面表达习惯。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "法国最高峰勃朗峰位于东南部的阿尔卑斯山。",
+                "frenchTranslation": "Le sommet le plus élevé de France est le mont Blanc, situé dans les Alpes, au sud-est.",
+                "cn2frStrategy": "① “最高峰”用形容词最高级结构 le plus élevé，定冠词与名词性数一致（le sommet）；② “位于”译为过去分词 situé 作后置定语，而非用 se trouve（两者均正确，situé 更简洁书面）；③ 方位 au sud-est 置于句尾作补充说明；④ 注意 mont Blanc 为专有名词，mont 不大写，Blanc 大写。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "许多运河将法国的河流彼此相连。",
+                "frenchTranslation": "De nombreux canaux relient les rivières de France entre elles.",
+                "cn2frStrategy": "① “许多”用 de nombreux 而非 beaucoup de，前者更书面正式；注意 de nombreux 中必须用 de（形容词前置规则）；② “彼此相连”用 entre elles 强调代词结构，elles 指代 les rivières（阴性复数）；③ canal 复数为不规则形式 canaux（-al→-aux），是常考词形变化点。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "罗纳河发源于瑞士，流经里昂，最终注入地中海。",
+                "frenchTranslation": "Le Rhône naît en Suisse, traverse Lyon et se jette dans la mer Méditerranée.",
+                "cn2frStrategy": "① “发源于”用 naître en + 国名（naître 为不规则动词，复合过去时用 être，此处用现在时）；② “流经”用及物动词 traverser，直接接城市名，无需介词；③ “注入”用固定搭配 se jeter dans（代词式动词），表示河流汇入大海，介词固定用 dans；④ 国名前介词：en Suisse（以辅音开头的阴性国名前用 en）。"
+            }
+        ]
+    }
+}

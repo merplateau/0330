@@ -1,0 +1,2138 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Avec le développement des sciences et des techniques, tout sera bientôt possible.",
+            "translatedSentence": "随着科学与技术的发展，一切很快都将成为可能。",
+            "sentenceStructure": "介词短语 Avec le développement des sciences et des techniques 作状语，主句主语为 tout，谓语为 sera，表语为 possible。",
+            "grammarAnalysis": "① 简单将来时 sera，表示对未来的预测。② tout 作主语，意为“一切，所有事物”。③ avec + 名词 表示伴随条件或原因，相当于中文“随着……”。",
+            "commonMistakes": "注意 avec le développement 不可译为“有了发展”，应译为“随着……的发展”。bientôt 修饰将来时，强调“不久之后”，不可忽略。"
+        },
+        {
+            "index": "2",
+            "sentence": "Des innovations, telles que l'Internet, l'intelligence artificielle, la réalité virtuelle, le téléphone multifonction, les robots... qui sont déjà entrés dans notre vie quotidienne, dessinent le monde de demain: un monde bien souvent qu'on ne peut pas imaginer aujourd'hui.",
+            "translatedSentence": "互联网、人工智能、虚拟现实、多功能手机、机器人……这些已经进入我们日常生活的创新成果，正在描绘明日的世界——一个今天往往难以想象的世界。",
+            "sentenceStructure": "主语为 Des innovations，其后插入 telles que 引导的列举，以及 qui sont déjà entrés... 构成的关系从句修饰主语；谓语为 dessinent；宾语为 le monde de demain，其后冒号引出同位说明 un monde bien souvent qu'on ne peut pas imaginer aujourd'hui。",
+            "grammarAnalysis": "① tel que 用于列举，须与先行名词性数配合，此处 telles 与 innovations（阴性复数）一致。② qui sont déjà entrés 中 entrer 以 être 作助动词构成复合过去时，过去分词 entrés 与主语 qui（指代 innovations，阴性复数）性数一致。③ un monde qu'on ne peut pas imaginer 中 que 为关系代词，代替 un monde 在从句中充当 imaginer 的直接宾语。",
+            "commonMistakes": "tel que 后的列举内容不参与主谓一致判断，主语仍是 Des innovations；不可误认为 qui 指代最近的名词 robots，实际指代整个 innovations 列举。"
+        },
+        {
+            "index": "3",
+            "sentence": "Aujourd'hui, l'homme, au lieu de rester chez lui, veut bien aller partout à travers le monde pour le connaître et le découvrir.",
+            "translatedSentence": "如今，人们不再守在家中，而是希望走遍世界，去了解它、探索它。",
+            "sentenceStructure": "主语 l'homme，插入状语 au lieu de rester chez lui，谓语 veut bien，后接不定式 aller，状语 partout à travers le monde，目的状语 pour le connaître et le découvrir。",
+            "grammarAnalysis": "① au lieu de + 不定式，意为“不……而……”，表示替代关系。② vouloir bien 意为“愿意，乐意”，语气比 vouloir 更委婉肯定。③ pour + 不定式 表目的。④ le 为直接宾语代词，指代 le monde，两个 le 分别替代 connaître 和 découvrir 的宾语，避免重复。",
+            "commonMistakes": "au lieu de 后接动词不定式（rester），不可接名词或从句。vouloir bien 不等同于 vouloir，含有“心甘情愿”之意。le connaître et le découvrir 中两个 le 均指代 monde，不可省略其中一个。"
+        },
+        {
+            "index": "4",
+            "sentence": "L'utilisation de robots de plus en plus nombreux aura pour conséquence une nouvelle diminution de la durée du travail.",
+            "translatedSentence": "使用越来越多的机器人将带来工作时长的进一步缩减。",
+            "sentenceStructure": "主语 L'utilisation de robots de plus en plus nombreux，谓语 aura，结构 avoir pour conséquence，宾语 une nouvelle diminution de la durée du travail。",
+            "grammarAnalysis": "① 简单将来时 aura，表示对未来的预测。② avoir pour conséquence qch. 固定结构，意为“以……为结果，导致……”，参见 Notes 注4。③ de plus en plus + 形容词，意为“越来越……”。",
+            "commonMistakes": "avoir pour conséquence 是固定搭配，不可将 pour 替换为其他介词；注意 conséquence 后直接跟名词，无需 de。"
+        },
+        {
+            "index": "5",
+            "sentence": "Mise en service dès les années 90 du dernier siècle, dans des pays développés au début, la monnaie électronique remplace aujourd'hui une partie importante des paiements en espèces.",
+            "translatedSentence": "电子货币自上世纪90年代起在发达国家率先投入使用，如今已取代了相当大一部分现金支付。",
+            "sentenceStructure": "句首为过去分词短语 Mise en service dès les années 90 du dernier siècle, dans des pays développés au début 作状语（修饰主语 la monnaie électronique）；主句主语 la monnaie électronique，谓语 remplace，宾语 une partie importante des paiements en espèces。",
+            "grammarAnalysis": "① 句首过去分词短语作方式/时间状语，主语为 la monnaie électronique，过去分词 Mise 与主语性数一致（阴性单数）。② dès les années 90 意为“从90年代起”，dès 强调起点。③ au début 意为“起初，最初”，作时间状语。",
+            "commonMistakes": "句首过去分词短语的逻辑主语必须与主句主语一致，此处均为 la monnaie électronique。注意 dès 与 depuis 的区别：dès 强调从某一时刻起立即开始，depuis 则强调持续至今。"
+        },
+        {
+            "index": "6",
+            "sentence": "Elle nous permet de voyager dans n'importe quel pays avec une seule carte de crédit sans avoir besoin de porter sur nous de grosses sommes.",
+            "translatedSentence": "它使我们只需一张信用卡便可在任何国家旅行，无需随身携带大量现金。",
+            "sentenceStructure": "主语 Elle（指代 la monnaie électronique），谓语 permet，结构 permettre à qn. de faire qch.，宾语从句以不定式 voyager 表达；状语 dans n'importe quel pays，伴随状语 avec une seule carte de crédit，否定条件状语 sans avoir besoin de porter sur nous de grosses sommes。",
+            "grammarAnalysis": "① permettre de + 不定式，意为“使……能够做”。② n'importe quel + 名词，意为“任何……”，quel 须与后接名词性数配合（quel pays，阳性单数）。③ sans + 不定式，表示伴随的否定条件。④ avoir besoin de + 不定式，意为“需要做某事”。",
+            "commonMistakes": "n'importe quel 是固定结构，不可拆开；quel 须与名词性数一致。sans avoir besoin de 是双重否定叠加，整体表示“不需要”，翻译时注意语义不要出现混乱。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "de toutes sortes",
+            "meaning": "各种各样的",
+            "usage": "固定表达，置于所修饰名词之后。注意 sortes 须用复数形式。",
+            "exampleSentence": "Futur: des innovations de toutes sortes."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "tel que + 列举",
+            "meaning": "例如，诸如",
+            "usage": "tel 须与前面被列举的名词性数配合。用于举例说明，列举内容可以是名词或名词短语。",
+            "exampleSentence": "Des innovations, telles que l'Internet, l'intelligence artificielle, la réalité virtuelle..."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "de plus en plus + adj./adv.",
+            "meaning": "越来越……",
+            "usage": "固定结构，后接形容词或副词。形容词需与所修饰名词性数一致。",
+            "exampleSentence": "TGV de plus en plus rapide, voitures de plus en plus puissantes, avions de plus en plus gros..."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "permettre à qn. de faire qch. / permettre de faire qch.",
+            "meaning": "允许某人做某事 / 使……能够做某事",
+            "usage": "vt. 后接 de + 不定式；有人称宾语时用 permettre à qn. de faire qch.；无人称宾语时直接 permettre de faire qch.。",
+            "exampleSentence": "Elle nous permet de voyager dans n'importe quel pays avec une seule carte de crédit."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "au lieu de + inf./n.",
+            "meaning": "不……而……；代替",
+            "usage": "后接动词不定式或名词，表示替代关系。注意 au lieu de 不可与 à la place de 完全互换，au lieu de 更强调行为上的替代。",
+            "exampleSentence": "Aujourd'hui, l'homme, au lieu de rester chez lui, veut bien aller partout à travers le monde."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "à travers + n.",
+            "meaning": "穿越，横穿；通过",
+            "usage": "介词短语，后直接跟名词，不加冠词。与 en à travers 不同，à travers 更常用且适用范围更广。",
+            "exampleSentence": "...veut bien aller partout à travers le monde pour le connaître et le découvrir."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "proposer de + inf. / proposer qch.",
+            "meaning": "建议做某事；提供某物",
+            "usage": "后接动词不定式时意为“建议”；后接名词时意为“提供，提出”。",
+            "exampleSentence": "L'ordinateur, les nouveaux téléphones et l'Internet proposent déjà de nombreux services."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "avoir pour conséquence qch.",
+            "meaning": "导致……，以……为结果",
+            "usage": "固定结构，pour conséquence 后直接跟名词。类似结构：avoir pour objectif qch.（以……为目标），avoir pour résultat qch.（以……为结果）。",
+            "exampleSentence": "L'utilisation de robots de plus en plus nombreux aura pour conséquence une nouvelle diminution de la durée du travail."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "dès + n. (temps)",
+            "meaning": "从……起，自……开始",
+            "usage": "强调某一时间点即开始，有立即性。与 depuis 区别：dès 强调起点，depuis 强调持续至今。",
+            "exampleSentence": "Mise en service dès les années 90 du dernier siècle..."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "avoir besoin de + inf./n.",
+            "meaning": "需要做某事；需要某物",
+            "usage": "固定结构，后接动词不定式或名词。否定形式 sans avoir besoin de 意为“无需……”。",
+            "exampleSentence": "...sans avoir besoin de porter sur nous de grosses sommes."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "n'importe quel/quelle + n.",
+            "meaning": "任何……，无论哪个……",
+            "usage": "quel 须与后接名词性数一致。常见形式：n'importe qui（无论谁），n'importe quoi（无论什么），n'importe où（无论哪里），n'importe quand（无论何时）。",
+            "exampleSentence": "Elle nous permet de voyager dans n'importe quel pays avec une seule carte de crédit."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "se faire sur Internet / en ligne",
+            "meaning": "在网上进行（某活动）",
+            "usage": "se faire 此处作被动义，意为“（某事）得以完成/进行”。",
+            "exampleSentence": "Des activités quotidiennes...se font aussi sur Internet."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "gérer un compte bancaire",
+            "meaning": "管理银行账户",
+            "usage": "gérer 为不规则动词，后可接 compte, entreprise, temps 等名词。bancaire 为形容词，置于名词后。",
+            "exampleSentence": "...gérer le compte bancaire, faire du commerce, rechercher des documents..."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "améliorer les conditions de vie",
+            "meaning": "改善生活条件",
+            "usage": "améliorer 为第一组规则动词；condition de vie 为固定搭配，常用复数 conditions de vie。",
+            "exampleSentence": "Les robots...améliorent nos conditions de vie et de travail."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "futur",
+            "partOfSpeech": "n.m.",
+            "definition": "①未来，将来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans le futur",
+                    "vocabularyCollocationMeaning": "在未来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le futur proche",
+                    "vocabularyCollocationMeaning": "近未来；（语法）近将来时"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "préparer l'avenir / le futur",
+                    "vocabularyCollocationMeaning": "为未来做准备"
+                }
+            ],
+            "synonymAnalysis": "futur vs avenir：两者均指“未来”，但 avenir 更常用于抽象意义（如“前途”“未来发展”），futur 则更多指时间上的将来，也用作形容词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "futur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "未来的，将来的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "futuriste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "未来主义的；超前的"
+                }
+            ],
+            "pluralForm": "futurs"
+        },
+        {
+            "index": "2",
+            "vocabulary": "innovation",
+            "partOfSpeech": "n.f.",
+            "definition": "①革新，创新 ②新事物，新做法",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une innovation technologique",
+                    "vocabularyCollocationMeaning": "技术革新"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "promouvoir l'innovation",
+                    "vocabularyCollocationMeaning": "推动创新"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une innovation de toutes sortes",
+                    "vocabularyCollocationMeaning": "各种各样的创新"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "innover",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "创新，革新"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "innovant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "创新的，革新的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "innovateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "革新者，创新者"
+                }
+            ],
+            "pluralForm": "innovations"
+        },
+        {
+            "index": "3",
+            "vocabulary": "sorte",
+            "partOfSpeech": "n.f.",
+            "definition": "①种类，类别 ②方式，样子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de toutes sortes",
+                    "vocabularyCollocationMeaning": "各种各样的（置于名词后）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une sorte de",
+                    "vocabularyCollocationMeaning": "一种……，某种……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en quelque sorte",
+                    "vocabularyCollocationMeaning": "在某种程度上，可以说"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "de sorte que + subj./ind.",
+                    "vocabularyCollocationMeaning": "以便……（虚拟式）；结果……（直陈式）"
+                }
+            ],
+            "synonymAnalysis": "sorte vs genre vs type：三者均可表示“种类”，sorte 偏口语；genre 常指风格类型；type 更正式或技术性。",
+            "derivedWords": [],
+            "pluralForm": "sortes"
+        },
+        {
+            "index": "4",
+            "vocabulary": "science",
+            "partOfSpeech": "n.f.",
+            "definition": "①科学 ②学科，知识体系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les sciences naturelles",
+                    "vocabularyCollocationMeaning": "自然科学"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les sciences humaines",
+                    "vocabularyCollocationMeaning": "人文科学"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la science-fiction",
+                    "vocabularyCollocationMeaning": "科幻小说/电影"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "scientifique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "科学的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "scientifique",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "科学家"
+                }
+            ],
+            "pluralForm": "sciences"
+        },
+        {
+            "index": "5",
+            "vocabulary": "technique",
+            "partOfSpeech": "n.f.",
+            "definition": "①技术，工艺 ②方法，手法",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les sciences et les techniques",
+                    "vocabularyCollocationMeaning": "科学与技术"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une technique avancée",
+                    "vocabularyCollocationMeaning": "先进技术"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "maîtriser une technique",
+                    "vocabularyCollocationMeaning": "掌握一种技术"
+                }
+            ],
+            "synonymAnalysis": "technique (n.f.) vs technologie (n.f.)：technique 泛指具体操作技术或方法；technologie 更强调系统性技术体系，多用于高科技领域。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "technique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "技术的，技术性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "technologie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "技术，科技"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "technologique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "技术的，工艺的"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "technicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "技术员，技师"
+                }
+            ],
+            "pluralForm": "techniques"
+        },
+        {
+            "index": "6",
+            "vocabulary": "possible",
+            "partOfSpeech": "adj.",
+            "definition": "①可能的 ②可行的，做得到的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il est possible de faire qch.",
+                    "vocabularyCollocationMeaning": "有可能做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il est possible que + subj.",
+                    "vocabularyCollocationMeaning": "有可能……（后接虚拟式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le plus tôt possible",
+                    "vocabularyCollocationMeaning": "尽可能早地"
+                }
+            ],
+            "synonymAnalysis": "possible vs probable：possible 表示“有可能（不排除）”；probable 表示“很可能（概率较高）”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "possibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "可能性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "impossibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不可能性"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "impossible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不可能的"
+                }
+            ],
+            "genderNumberVariation": "复数 possibles；无特殊阴阳性变化（阴阳同形）",
+            "position": "通常置于名词之后或作表语"
+        },
+        {
+            "index": "7",
+            "vocabulary": "Internet",
+            "partOfSpeech": "n.m.",
+            "definition": "①因特网，互联网",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur Internet",
+                    "vocabularyCollocationMeaning": "在网上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "accéder à Internet",
+                    "vocabularyCollocationMeaning": "接入互联网"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "commerce sur Internet",
+                    "vocabularyCollocationMeaning": "网络商务，电商"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "（专有名词，一般不用复数）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "tel",
+            "partOfSpeech": "adj.",
+            "definition": "①这样的，如此的 ②某（不定义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tel que",
+                    "vocabularyCollocationMeaning": "例如，诸如；正如"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un tel homme",
+                    "vocabularyCollocationMeaning": "这样的人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tel quel",
+                    "vocabularyCollocationMeaning": "原样，照原样"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 telle，阳性复数 tels，阴性复数 telles",
+            "position": "通常置于名词之前；tel que 中置于被列举名词之后"
+        },
+        {
+            "index": "9",
+            "vocabulary": "intelligence",
+            "partOfSpeech": "n.f.",
+            "definition": "①智慧，智力 ②智能 ③理解力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'intelligence artificielle",
+                    "vocabularyCollocationMeaning": "人工智能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir de l'intelligence",
+                    "vocabularyCollocationMeaning": "有智慧，聪明"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en bonne intelligence avec qn.",
+                    "vocabularyCollocationMeaning": "与某人友好相处"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "intelligent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "聪明的，智慧的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "intelligemment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "聪明地，明智地"
+                }
+            ],
+            "pluralForm": "intelligences"
+        },
+        {
+            "index": "10",
+            "vocabulary": "artificiel",
+            "partOfSpeech": "adj.",
+            "definition": "①人造的，人工的 ②虚假的，不自然的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'intelligence artificielle",
+                    "vocabularyCollocationMeaning": "人工智能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la lumière artificielle",
+                    "vocabularyCollocationMeaning": "人工照明，灯光"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un sourire artificiel",
+                    "vocabularyCollocationMeaning": "虚假的微笑"
+                }
+            ],
+            "synonymAnalysis": "artificiel vs synthétique：artificiel 指人工制造、非天然的；synthétique 更强调通过化学合成制造的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "artificiellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "人工地，人为地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "artifice",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "手段，花招；烟火"
+                }
+            ],
+            "genderNumberVariation": "阴性 artificielle，阳性复数 artificiels，阴性复数 artificielles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "11",
+            "vocabulary": "réalité",
+            "partOfSpeech": "n.f.",
+            "definition": "①现实，实际 ②真实性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la réalité virtuelle",
+                    "vocabularyCollocationMeaning": "虚拟现实"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en réalité",
+                    "vocabularyCollocationMeaning": "实际上，事实上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "devenir réalité",
+                    "vocabularyCollocationMeaning": "成为现实"
+                }
+            ],
+            "synonymAnalysis": "réalité vs vérité：réalité 指客观存在的现实；vérité 指主观认知或表述上的真实。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "真实的，现实的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "真实地，确实地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "réaliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "实现；制作；意识到"
+                }
+            ],
+            "pluralForm": "réalités"
+        },
+        {
+            "index": "12",
+            "vocabulary": "virtuel",
+            "partOfSpeech": "adj.",
+            "definition": "①虚拟的 ②潜在的，可能的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la réalité virtuelle",
+                    "vocabularyCollocationMeaning": "虚拟现实"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le monde virtuel",
+                    "vocabularyCollocationMeaning": "虚拟世界"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une rencontre virtuelle",
+                    "vocabularyCollocationMeaning": "网络（虚拟）会面"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "virtuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "虚拟地；实际上，几乎"
+                }
+            ],
+            "genderNumberVariation": "阴性 virtuelle，阳性复数 virtuels，阴性复数 virtuelles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "13",
+            "vocabulary": "multifonction",
+            "partOfSpeech": "n.f.",
+            "definition": "①多功能，多用途",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le téléphone multifonction",
+                    "vocabularyCollocationMeaning": "多功能手机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une imprimante multifonction",
+                    "vocabularyCollocationMeaning": "多功能打印机"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "multifonctions"
+        },
+        {
+            "index": "14",
+            "vocabulary": "robot",
+            "partOfSpeech": "n.m.",
+            "definition": "①机器人 ②（喻）机械行事的人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un robot ménager",
+                    "vocabularyCollocationMeaning": "家用机器人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "utiliser des robots",
+                    "vocabularyCollocationMeaning": "使用机器人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les robots industriels",
+                    "vocabularyCollocationMeaning": "工业机器人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "robotique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "机器人技术，机器人学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "robotiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使自动化，用机器人取代"
+                }
+            ],
+            "pluralForm": "robots"
+        },
+        {
+            "index": "15",
+            "vocabulary": "dessiner",
+            "partOfSpeech": "vt.",
+            "definition": "①绘图，素描 ②描绘，勾画 ③勾勒出（轮廓）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dessiner un portrait",
+                    "vocabularyCollocationMeaning": "画肖像"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dessiner le monde de demain",
+                    "vocabularyCollocationMeaning": "描绘未来的世界"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se dessiner",
+                    "vocabularyCollocationMeaning": "（轮廓）显现，成形"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dessin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "图画，素描；设计"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dessinateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "画家；设计师"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "imaginer",
+            "partOfSpeech": "vt.",
+            "definition": "①想象，设想 ②想出，构思",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "imaginer qch./qn.",
+                    "vocabularyCollocationMeaning": "想象某事/某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "imaginer de faire qch.",
+                    "vocabularyCollocationMeaning": "想出做某事的主意"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'imaginer que",
+                    "vocabularyCollocationMeaning": "以为，自以为"
+                }
+            ],
+            "synonymAnalysis": "imaginer vs supposer：imaginer 侧重在脑中构建画面或场景；supposer 侧重逻辑推断或假设。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "imagination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "想象力；想象"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "imaginaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "虚构的，想象中的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "imaginatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富有想象力的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "transport",
+            "partOfSpeech": "n.m.",
+            "definition": "①运输，输送 ②交通（工具）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les transports en commun",
+                    "vocabularyCollocationMeaning": "公共交通"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les moyens de transport",
+                    "vocabularyCollocationMeaning": "交通工具"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le transport de marchandises",
+                    "vocabularyCollocationMeaning": "货物运输"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "transporter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "运送，运输"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "transporteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "运输者，承运人"
+                }
+            ],
+            "pluralForm": "transports"
+        },
+        {
+            "index": "18",
+            "vocabulary": "puissant",
+            "partOfSpeech": "adj.",
+            "definition": "①强大的，强有力的 ②功率大的，性能强的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un moteur puissant",
+                    "vocabularyCollocationMeaning": "大功率发动机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un pays puissant",
+                    "vocabularyCollocationMeaning": "强大的国家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un médicament puissant",
+                    "vocabularyCollocationMeaning": "效力强的药物"
+                }
+            ],
+            "synonymAnalysis": "puissant vs fort：puissant 更多指权势或能量上的强大；fort 更广泛，包括体力、意志、程度等。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "puissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "力量，权力；功率"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "puissamment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "强有力地，有力地"
+                }
+            ],
+            "genderNumberVariation": "阴性 puissante，阳性复数 puissants，阴性复数 puissantes",
+            "position": "通常置于名词之后；部分抽象或强调用法可前置"
+        },
+        {
+            "index": "19",
+            "vocabulary": "avion",
+            "partOfSpeech": "n.m.",
+            "definition": "①飞机",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre l'avion",
+                    "vocabularyCollocationMeaning": "乘飞机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voyager en avion",
+                    "vocabularyCollocationMeaning": "坐飞机旅行"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par avion",
+                    "vocabularyCollocationMeaning": "航空邮件，空运"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "avions"
+        },
+        {
+            "index": "20",
+            "vocabulary": "permettre",
+            "partOfSpeech": "vt.",
+            "definition": "①允许，准许 ②使……能够，使……得以",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "permettre à qn. de faire qch.",
+                    "vocabularyCollocationMeaning": "允许某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "permettre de faire qch.",
+                    "vocabularyCollocationMeaning": "使……成为可能"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se permettre de faire qch.",
+                    "vocabularyCollocationMeaning": "敢于做某事；有能力做某事"
+                }
+            ],
+            "synonymAnalysis": "permettre vs autoriser：permettre 更口语化，授权意味较弱；autoriser 更正式，常用于官方或书面语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "permission",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "许可，允许"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "permis",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "许可证；执照"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "permis",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "被允许的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je permets, tu permets, il permet, nous permettons, vous permettez, ils permettent",
+                "compoundPast": "j'ai permis",
+                "simpleFuture": "je permettrai",
+                "memoryAids": "属于 -mettre 类动词，变位与 mettre 相同：je mets/permets，nous mettons/permettons，过去分词 mis/permis。"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "paraître",
+            "partOfSpeech": "vi.",
+            "definition": "①看起来，好像 ②出现；（书报等）出版，发行",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "paraître + adj.",
+                    "vocabularyCollocationMeaning": "显得……，看起来……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il paraît que + ind.",
+                    "vocabularyCollocationMeaning": "据说……，听说……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire paraître",
+                    "vocabularyCollocationMeaning": "出版，发行"
+                }
+            ],
+            "synonymAnalysis": "paraître vs sembler vs avoir l'air：三者均可表示“看起来”。paraître 强调外部印象；sembler 更主观；avoir l'air 更口语，常接形容词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apparence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "外表，外观"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apparent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "明显的；表面的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je parais, tu parais, il paraît, nous paraissons, vous paraissez, ils paraissent",
+                "compoundPast": "il a paru / il est paru（用 être 时强调状态出现）",
+                "simpleFuture": "je paraîtrai",
+                "memoryAids": "属于 -aître 类动词，变位规律与 connaître 相同：词干 parais-/paraiss-，注意 il paraît 有抑音符。"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "valoir",
+            "partOfSpeech": "vi.",
+            "definition": "①值，值得 ②等于，相当于 ③有……的价值",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "valoir la peine de faire qch.",
+                    "vocabularyCollocationMeaning": "值得做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il vaut mieux + inf.",
+                    "vocabularyCollocationMeaning": "最好……（非人称结构）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une journée en vaut deux",
+                    "vocabularyCollocationMeaning": "一天抵两天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "valeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "价值；价格"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "valoriser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "提升……的价值"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vaux, tu vaux, il vaut, nous valons, vous valez, ils valent",
+                "compoundPast": "j'ai valu",
+                "simpleFuture": "je vaudrai",
+                "presentSubjunctive": "que je vaille, que tu vailles, qu'il vaille, que nous valions, que vous valiez, qu'ils vaillent",
+                "memoryAids": "注意 je/tu vaux（词尾 -x 不常见），il vaut，词干在虚拟式变为 vaille-；与 falloir 同属高频考研不规则动词。"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "lieu",
+            "partOfSpeech": "n.m.",
+            "definition": "①地点，场所 ②（复数）处所，住所",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au lieu de",
+                    "vocabularyCollocationMeaning": "不……而……，代替"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir lieu",
+                    "vocabularyCollocationMeaning": "发生，举行"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en premier lieu",
+                    "vocabularyCollocationMeaning": "首先，第一"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "tenir lieu de",
+                    "vocabularyCollocationMeaning": "充当，代替"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lieu-dit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "地名，地方名称"
+                }
+            ],
+            "pluralForm": "lieux"
+        },
+        {
+            "index": "24",
+            "vocabulary": "découvrir",
+            "partOfSpeech": "vt.",
+            "definition": "①发现，找到 ②揭露，揭开 ③了解，认识",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "découvrir un pays",
+                    "vocabularyCollocationMeaning": "探索/了解一个国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "découvrir la vérité",
+                    "vocabularyCollocationMeaning": "发现真相"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se découvrir",
+                    "vocabularyCollocationMeaning": "摘帽；（天气）放晴；发现自身"
+                }
+            ],
+            "synonymAnalysis": "découvrir vs trouver：découvrir 强调发现原本未知之物，带有探索意味；trouver 更中性，指找到（可以是已知存在的）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "découverte",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "发现；新发现的事物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "découvreur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发现者，探索者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je découvre, tu découvres, il découvre, nous découvrons, vous découvrez, ils découvrent",
+                "compoundPast": "j'ai découvert",
+                "simpleFuture": "je découvrirai",
+                "memoryAids": "属于 -vrir/-frir 类不规则动词，与 ouvrir 变位相同，现在时单数词尾为 -e/-es/-e（非 -s/-s/-t）；过去分词 découvert。"
+            }
+        },
+        {
+            "index": "25",
+            "vocabulary": "proposer",
+            "partOfSpeech": "vt.",
+            "definition": "①建议，提议 ②提供，给予",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "proposer de faire qch.",
+                    "vocabularyCollocationMeaning": "建议做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "proposer qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人提供某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se proposer de faire qch.",
+                    "vocabularyCollocationMeaning": "打算做某事"
+                }
+            ],
+            "synonymAnalysis": "proposer vs suggérer：proposer 更常用，可指建议或提供；suggérer 更含蓄，侧重间接暗示或启发。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "proposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "提议，建议；命题（语法）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "26",
+            "vocabulary": "gérer",
+            "partOfSpeech": "vt.",
+            "definition": "①管理，经营 ②处理，应对",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "gérer une entreprise",
+                    "vocabularyCollocationMeaning": "管理企业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gérer un compte bancaire",
+                    "vocabularyCollocationMeaning": "管理银行账户"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "gérer son temps",
+                    "vocabularyCollocationMeaning": "管理时间"
+                }
+            ],
+            "synonymAnalysis": "gérer vs administrer vs diriger：gérer 偏重日常运营管理；administrer 侧重行政管理；diriger 侧重领导指挥。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gestion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "管理，经营"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gestionnaire",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "管理者，经理"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je gère, tu gères, il gère, nous gérons, vous gérez, ils gèrent",
+                "compoundPast": "j'ai géré",
+                "simpleFuture": "je gérerai",
+                "memoryAids": "属于 é→è 变音类动词（重音音节前 é 变 è），类似 préférer、espérer；注意 nous/vous 保留 é：gérons, gérez。"
+            }
+        },
+        {
+            "index": "27",
+            "vocabulary": "compte",
+            "partOfSpeech": "n.m.",
+            "definition": "①账户，账目 ②计算，核算 ③考虑",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ouvrir un compte",
+                    "vocabularyCollocationMeaning": "开户"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gérer un compte bancaire",
+                    "vocabularyCollocationMeaning": "管理银行账户"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tenir compte de",
+                    "vocabularyCollocationMeaning": "考虑到，顾及"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "rendre compte de",
+                    "vocabularyCollocationMeaning": "汇报，说明；意识到"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "计数；打算；重要"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "comptable",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "会计师"
+                }
+            ],
+            "pluralForm": "comptes"
+        },
+        {
+            "index": "28",
+            "vocabulary": "bancaire",
+            "partOfSpeech": "adj.",
+            "definition": "①银行的，银行业的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un compte bancaire",
+                    "vocabularyCollocationMeaning": "银行账户"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une carte bancaire",
+                    "vocabularyCollocationMeaning": "银行卡"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le secteur bancaire",
+                    "vocabularyCollocationMeaning": "银行业"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "banque",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "银行"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "banquier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "银行家"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 bancaires",
+            "position": "置于名词之后"
+        },
+        {
+            "index": "29",
+            "vocabulary": "commerce",
+            "partOfSpeech": "n.m.",
+            "definition": "①商业，贸易 ②商店，店铺",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du commerce",
+                    "vocabularyCollocationMeaning": "做买卖，经商"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le commerce électronique",
+                    "vocabularyCollocationMeaning": "电子商务"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le commerce international",
+                    "vocabularyCollocationMeaning": "国际贸易"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commercial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "商业的，贸易的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "commerçant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "商人，店主"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "commercialiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使商业化；推向市场"
+                }
+            ],
+            "pluralForm": "commerces"
+        },
+        {
+            "index": "30",
+            "vocabulary": "document",
+            "partOfSpeech": "n.m.",
+            "definition": "①文件，文档 ②资料，材料",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rechercher des documents",
+                    "vocabularyCollocationMeaning": "查找资料"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un document officiel",
+                    "vocabularyCollocationMeaning": "官方文件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "classer des documents",
+                    "vocabularyCollocationMeaning": "整理文件"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "documenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "用资料证明；记录"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "documentaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "纪录片"
+                }
+            ],
+            "pluralForm": "documents"
+        },
+        {
+            "index": "31",
+            "vocabulary": "communiquer",
+            "partOfSpeech": "vt.",
+            "definition": "①通知，传达 ②传递，传送",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "communiquer une information à qn.",
+                    "vocabularyCollocationMeaning": "向某人传达信息"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se communiquer",
+                    "vocabularyCollocationMeaning": "相互交流；扩散，蔓延"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "communiquer avec qn.",
+                    "vocabularyCollocationMeaning": "与某人沟通，交流"
+                }
+            ],
+            "synonymAnalysis": "communiquer vs informer：communiquer 侧重双向交流传达；informer 侧重单向告知。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "communication",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "通讯，交流；传播"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "communicatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "善于交流的；（情绪）感染性强的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "32",
+            "vocabulary": "emprunter",
+            "partOfSpeech": "vt.",
+            "definition": "①借入，借用 ②抄用，套用（表达方式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "emprunter qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人借某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "emprunter un livre à la bibliothèque",
+                    "vocabularyCollocationMeaning": "从图书馆借书"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "emprunter une route",
+                    "vocabularyCollocationMeaning": "走某条路，取道"
+                }
+            ],
+            "synonymAnalysis": "emprunter vs prêter：emprunter 指借入（自己借来）；prêter 指借出（给别人借）。注意方向相反。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "emprunt",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "借款；借用词"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "emprunteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "借款人，借用者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "33",
+            "vocabulary": "consulter",
+            "partOfSpeech": "vt.",
+            "definition": "①咨询，请教 ②查询，查阅 ③就诊（医生）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consulter un médecin",
+                    "vocabularyCollocationMeaning": "就医，看病"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "consulter un dictionnaire",
+                    "vocabularyCollocationMeaning": "查字典"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "consulter ses collègues",
+                    "vocabularyCollocationMeaning": "征求同事意见"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "consultation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "咨询；（医生的）诊断"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "consultant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "顾问"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "34",
+            "vocabulary": "suivre",
+            "partOfSpeech": "vt.",
+            "definition": "①跟随，跟着 ②沿着 ③遵循，遵守 ④听（课），学习",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "suivre des cours",
+                    "vocabularyCollocationMeaning": "上课，听课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre un régime",
+                    "vocabularyCollocationMeaning": "遵守饮食规定，节食"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "suivre qn.",
+                    "vocabularyCollocationMeaning": "跟随某人"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "se suivre",
+                    "vocabularyCollocationMeaning": "依次排列，相互接续"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "suite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "继续；结果；套房"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "suivant",
+                    "derivedWordPartOfSpeech": "prép.",
+                    "derivedWordMeaning": "根据，按照"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je suis, tu suis, il suit, nous suivons, vous suivez, ils suivent",
+                "compoundPast": "j'ai suivi",
+                "simpleFuture": "je suivrai",
+                "memoryAids": "注意 je suis 与 être 的 je suis（我是）同形，须依靠上下文区分；过去分词 suivi 规则。"
+            }
+        },
+        {
+            "index": "35",
+            "vocabulary": "améliorer",
+            "partOfSpeech": "vt.",
+            "definition": "①改善，改进 ②提高，提升",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "améliorer les conditions de vie",
+                    "vocabularyCollocationMeaning": "改善生活条件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "améliorer la qualité",
+                    "vocabularyCollocationMeaning": "提高质量"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'améliorer",
+                    "vocabularyCollocationMeaning": "（自身）得到改善，进步"
+                }
+            ],
+            "synonymAnalysis": "améliorer vs perfectionner：améliorer 指使情况变好（从差到好）；perfectionner 指使已有的东西更完善（从好到更好）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "amélioration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "改善，改进"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "36",
+            "vocabulary": "condition",
+            "partOfSpeech": "n.f.",
+            "definition": "①条件，状况 ②境况，处境 ③条件，前提",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les conditions de vie",
+                    "vocabularyCollocationMeaning": "生活条件/状况"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à condition de + inf. / à condition que + subj.",
+                    "vocabularyCollocationMeaning": "条件是……，前提是……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans de bonnes conditions",
+                    "vocabularyCollocationMeaning": "在良好条件下"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conditionnel",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "条件式（语法时态）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conditionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "制约；包装"
+                }
+            ],
+            "pluralForm": "conditions"
+        },
+        {
+            "index": "37",
+            "vocabulary": "conduire",
+            "partOfSpeech": "vt.",
+            "definition": "①驾驶，开（车）②引导，带领 ③通向",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conduire une voiture",
+                    "vocabularyCollocationMeaning": "开车"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conduire qn. à + lieu",
+                    "vocabularyCollocationMeaning": "带某人去某地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se conduire",
+                    "vocabularyCollocationMeaning": "举止，表现"
+                }
+            ],
+            "synonymAnalysis": "conduire vs mener vs guider：conduire 侧重驾驶或带领到达目的地；mener 强调主动引导方向；guider 强调提供指导。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conducteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "驾驶员，司机；导体"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conduite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "驾驶；行为举止"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je conduis, tu conduis, il conduit, nous conduisons, vous conduisez, ils conduisent",
+                "compoundPast": "j'ai conduit",
+                "simpleFuture": "je conduirai",
+                "memoryAIds": "属于 -uire 类动词，与 construire、produire、réduire 变位相同；过去分词 conduit。"
+            }
+        },
+        {
+            "index": "38",
+            "vocabulary": "construire",
+            "partOfSpeech": "vt.",
+            "definition": "①建造，建设 ②构建，构成",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "construire une maison",
+                    "vocabularyCollocationMeaning": "建房子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "construire une phrase",
+                    "vocabularyCollocationMeaning": "构造句子"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se construire",
+                    "vocabularyCollocationMeaning": "被建造；自我构建"
+                }
+            ],
+            "synonymAnalysis": "construire vs bâtir vs ériger：construire 最通用；bâtir 更文学性；ériger 更庄严，常用于纪念碑等。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "construction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "建造，建设；结构"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "constructeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "建造者；制造商"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je construis, tu construis, il construit, nous construisons, vous construisez, ils construisent",
+                "compoundPast": "j'ai construit",
+                "simpleFuture": "je construirai",
+                "memoryAids": "与 conduire 同属 -uire 类不规则动词，过去分词 construit。"
+            }
+        },
+        {
+            "index": "39",
+            "vocabulary": "régler",
+            "partOfSpeech": "vt.",
+            "definition": "①调整，调节 ②解决，处理 ③结账，付款",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "régler la circulation",
+                    "vocabularyCollocationMeaning": "调控交通"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "régler un problème",
+                    "vocabularyCollocationMeaning": "解决问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "régler la facture",
+                    "vocabularyCollocationMeaning": "结账，付账单"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "règlement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "规定，规章；结算"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "règle",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "规则，规定；尺"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je règle, tu règles, il règle, nous réglons, vous réglez, ils règlent",
+                "compoundPast": "j'ai réglé",
+                "simpleFuture": "je réglerai",
+                "memoryAids": "属于 é→è 变音类动词，重读音节前 é 变 è；nous/vous 保留 é：réglons, réglez。与 gérer、préférer 变化规律相同。"
+            }
+        },
+        {
+            "index": "40",
+            "vocabulary": "circulation",
+            "partOfSpeech": "n.f.",
+            "definition": "①交通，车辆流通 ②循环，流通",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "régler la circulation",
+                    "vocabularyCollocationMeaning": "疏导交通"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la circulation sanguine",
+                    "vocabularyCollocationMeaning": "血液循环"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre en circulation",
+                    "vocabularyCollocationMeaning": "使流通，发行"
+                }
+            ],
+            "synonymAnalysis": "circulation vs trafic：circulation 泛指交通流量；trafic 更偏向交通量大且拥堵，或非法贸易。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "circuler",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "流通，流动；行驶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "circulaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "循环的；圆形的"
+                }
+            ],
+            "pluralForm": "circulations"
+        },
+        {
+            "index": "41",
+            "vocabulary": "utilisation",
+            "partOfSpeech": "n.f.",
+            "definition": "①使用，利用",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'utilisation de robots",
+                    "vocabularyCollocationMeaning": "机器人的使用"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mode d'utilisation",
+                    "vocabularyCollocationMeaning": "使用方法，使用说明"
+                }
+            ],
+            "synonymAnalysis": "utilisation vs usage vs emploi：三者均可表示“使用”；utilisation 最中性；usage 更强调习惯性或长期使用；emploi 更正式，常用于语法或人力资源领域。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "utiliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使用，利用"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "utile",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有用的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "utilisateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "用户，使用者"
+                }
+            ],
+            "pluralForm": "utilisations"
+        },
+        {
+            "index": "42",
+            "vocabulary": "conséquence",
+            "partOfSpeech": "n.f.",
+            "definition": "①结果，后果 ②重要性，意义",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir pour conséquence qch.",
+                    "vocabularyCollocationMeaning": "导致……，以……为结果"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en conséquence",
+                    "vocabularyCollocationMeaning": "因此，所以"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par conséquent",
+                    "vocabularyCollocationMeaning": "因此，从而"
+                }
+            ],
+            "synonymAnalysis": "conséquence vs résultat vs effet：conséquence 指（尤其是负面的）后果；résultat 更中性，指结果；effet 侧重某个原因产生的效果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conséquent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "合乎逻辑的；重要的"
+                }
+            ],
+            "pluralForm": "conséquences"
+        },
+        {
+            "index": "43",
+            "vocabulary": "diminution",
+            "partOfSpeech": "n.f.",
+            "definition": "①减少，降低，缩减",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une diminution de la durée du travail",
+                    "vocabularyCollocationMeaning": "工作时长的缩减"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être en diminution",
+                    "vocabularyCollocationMeaning": "呈下降趋势"
+                }
+            ],
+            "synonymAnalysis": "diminution vs réduction vs baisse：三者均指减少；diminution 最通用；réduction 更多指主动削减；baisse 多用于价格、数量等可量化指标。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "diminuer",
+                    "derivedWordPartOfSpeech": "vt./vi.",
+                    "derivedWordMeaning": "减少，降低；缩短"
+                }
+            ],
+            "pluralForm": "diminutions"
+        },
+        {
+            "index": "44",
+            "vocabulary": "durée",
+            "partOfSpeech": "n.f.",
+            "definition": "①持续时间，时长 ②期限",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la durée du travail",
+                    "vocabularyCollocationMeaning": "工作时长"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de longue durée",
+                    "vocabularyCollocationMeaning": "长期的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pendant la durée de",
+                    "vocabularyCollocationMeaning": "在……期间"
+                }
+            ],
+            "synonymAnalysis": "durée vs période：durée 强调时间的长度；période 强调某一特定阶段或时期。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "durer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "持续，延续"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "durable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "持久的，耐用的"
+                }
+            ],
+            "pluralForm": "durées"
+        },
+        {
+            "index": "45",
+            "vocabulary": "siècle",
+            "partOfSpeech": "n.m.",
+            "definition": "①世纪 ②时代，时期",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au XXIe siècle",
+                    "vocabularyCollocationMeaning": "在21世纪"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le dernier siècle",
+                    "vocabularyCollocationMeaning": "上个世纪"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pendant des siècles",
+                    "vocabularyCollocationMeaning": "数百年来"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "siècles"
+        },
+        {
+            "index": "46",
+            "vocabulary": "début",
+            "partOfSpeech": "n.m.",
+            "definition": "①开始，开端 ②初期",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au début",
+                    "vocabularyCollocationMeaning": "起初，最初"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dès le début",
+                    "vocabularyCollocationMeaning": "从一开始"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au début de",
+                    "vocabularyCollocationMeaning": "在……初期，在……开始时"
+                }
+            ],
+            "synonymAnalysis": "début vs commencement：两者均指“开始”；commencement 更正式，常用于书面；début 更常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "débuter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "开始；（演员等）初次登台"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "débutant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "初学者，新手"
+                }
+            ],
+            "pluralForm": "débuts"
+        },
+        {
+            "index": "47",
+            "vocabulary": "paiement",
+            "partOfSpeech": "n.m.",
+            "definition": "①支付，付款 ②款项",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les paiements en espèces",
+                    "vocabularyCollocationMeaning": "现金支付"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mode de paiement",
+                    "vocabularyCollocationMeaning": "支付方式"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "effectuer un paiement",
+                    "vocabularyCollocationMeaning": "完成付款"
+                }
+            ],
+            "synonymAnalysis": "paiement vs règlement vs versement：paiement 最通用；règlement 偏书面，指结清款项；versement 指定期分次支付。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "payer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "支付，付款"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "payant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "付费的，收费的"
+                }
+            ],
+            "pluralForm": "paiements"
+        },
+        {
+            "index": "48",
+            "vocabulary": "espèce",
+            "partOfSpeech": "n.f.",
+            "definition": "①种类，物种 ②（复数）现金",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en espèces",
+                    "vocabularyCollocationMeaning": "用现金（支付）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une espèce protégée",
+                    "vocabularyCollocationMeaning": "受保护的物种"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une espèce de",
+                    "vocabularyCollocationMeaning": "一种……，某种……（口语）"
+                }
+            ],
+            "synonymAnalysis": "espèces（现金）vs argent liquide：两者均指现金；espèces 更正式，常见于银行书面语境；argent liquide 更口语化。",
+            "derivedWords": [],
+            "pluralForm": "espèces"
+        },
+        {
+            "index": "49",
+            "vocabulary": "crédit",
+            "partOfSpeech": "n.m.",
+            "definition": "①信贷，信用 ②学分（教育）③荣誉，声望",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "carte de crédit",
+                    "vocabularyCollocationMeaning": "信用卡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "accorder un crédit",
+                    "vocabularyCollocationMeaning": "授予信贷，提供贷款"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à crédit",
+                    "vocabularyCollocationMeaning": "赊账，分期付款"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "créditer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "贷记，存入账户"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "créditeur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "贷方的，有余额的"
+                }
+            ],
+            "pluralForm": "crédits"
+        },
+        {
+            "index": "50",
+            "vocabulary": "somme",
+            "partOfSpeech": "n.f.",
+            "definition": "①金额，总数 ②总和，总计",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de grosses sommes",
+                    "vocabularyCollocationMeaning": "大笔金额，大量现金"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une somme d'argent",
+                    "vocabularyCollocationMeaning": "一笔钱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en somme",
+                    "vocabularyCollocationMeaning": "总之，综上所述"
+                }
+            ],
+            "synonymAnalysis": "somme vs montant：somme 更口语，泛指金额或总数；montant 更正式，多见于合同、账单等书面表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "要求，通知（正式）"
+                }
+            ],
+            "pluralForm": "sommes"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Avec le développement des sciences et des techniques, tout sera bientôt possible. Des innovations telles que l'intelligence artificielle et la monnaie électronique dessinent déjà le monde de demain. L'utilisation de robots de plus en plus nombreux aura pour conséquence une nouvelle diminution de la durée du travail. Elle nous permettra aussi de voyager dans n'importe quel pays avec une seule carte de crédit, sans avoir besoin de porter sur nous de grosses sommes.",
+            "chineseTranslation": "随着科学与技术的不断发展，一切很快都将成为可能。人工智能、电子货币等创新成果已经在描绘明日的世界。越来越多的机器人的使用将进一步缩减工作时长。它也将让我们只需一张信用卡便可走遍世界，无需随身携带大量现金。",
+            "fr2cnStrategy": "① Avec le développement des sciences et des techniques 译为“随着科学与技术的不断发展”，是典型的介词短语转汉语状语处理，增译“不断”使语感更自然。② telles que 引导的列举适当压缩为“等”，避免堆砌。③ aura pour conséquence 是固定结构，直译较生硬，转化为动宾结构“将进一步缩减”，属词性转换（名词→动词）。④ sans avoir besoin de porter sur nous de grosses sommes 是否定不定式状语，译为“无需随身携带大量现金”，语序后移，更贴合汉语逻辑。⑤ dans n'importe quel pays 译为“走遍世界”，属意译，相较于“在任何国家”更地道流畅。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "随着因特网的发展，许多日常活动，例如查阅资料、网上购物，都可以在家里完成。",
+                "frenchTranslation": "Avec le développement d'Internet, de nombreuses activités quotidiennes, telles que rechercher des documents et faire des courses en ligne, peuvent se faire à domicile.",
+                "cn2frStrategy": "① “随着……的发展”用 avec le développement de 表达，是本课核心句型。② “例如”用 telles que 引导列举，注意 telles 与 activités（阴性复数）性数一致。③ “可以在家完成”用 pouvoir + se faire（代词式被动）表达，比 on peut faire 更地道。④ “在家里”用 à domicile 而非 à la maison，更符合书面表达。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "机器人将取代越来越多的人工劳动，这将导致失业人数的增加。",
+                "frenchTranslation": "Les robots remplaceront de plus en plus le travail de l'homme, ce qui aura pour conséquence une augmentation du nombre des chômeurs.",
+                "cn2frStrategy": "① “越来越多的人工劳动”用 de plus en plus + 名词短语表达，是本课核心句型。② “这将导致”用 ce qui aura pour conséquence 表达，其中 ce qui 为非限定性关系代词，指代前面整个情况；avoir pour conséquence 为固定结构。③ “失业人数的增加”译为 une augmentation du nombre des chômeurs，名词化处理符合法语书面语习惯。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "如今，人们不再满足于待在家里，而是希望通过旅行来了解和探索世界。",
+                "frenchTranslation": "Aujourd'hui, les gens ne se contentent plus de rester chez eux; au lieu de cela, ils veulent voyager à travers le monde pour le connaître et le découvrir.",
+                "cn2frStrategy": "① “不再满足于”用 ne plus se contenter de + inf. 表达。② “而是”使用分号加 au lieu de cela 处理，比直接用 mais 更强调替代关系。③ “通过旅行”转化为不定式 voyager，法语中目的常用 pour + inf. 表达。④ le connaître et le découvrir 中两个 le 分别替代 le monde，保持与课文相同的代词使用方式。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "电子货币自上世纪末开始推广，如今已使我们无需携带大量现金即可在世界各地旅行。",
+                "frenchTranslation": "Mise en service dès la fin du dernier siècle, la monnaie électronique nous permet aujourd'hui de voyager partout dans le monde sans avoir besoin de porter sur nous de grosses sommes.",
+                "cn2frStrategy": "① “自上世纪末开始推广”用过去分词短语 Mise en service dès la fin du dernier siècle 前置，作方式/时间状语，过去分词与主语 la monnaie électronique 性数一致（阴性单数）。② “无需携带大量现金”用 sans avoir besoin de porter sur nous de grosses sommes 表达，是课文原句型的直接迁移应用。③ “使我们能够”用 permettre à qn. de faire qch. 表达，此处省略 à nous，用间接宾语代词 nous 替代。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1719 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il bavarde un instant avec Emile, son ordinateur, qui lui souhaite une bonne journée et lui rappelle son rendez-vous avec Amélie, sa femme virtuelle, qui habite à Montréal.",
+            "translatedSentence": "他和电脑Emile聊了一会儿，Emile祝他一天愉快，并提醒他与住在蒙特利尔的虚拟妻子Amélie有个约会。",
+            "sentenceStructure": "主句为 Il bavarde un instant avec Emile，son ordinateur 为同位语；qui lui souhaite... et lui rappelle... 为关系从句修饰 Emile；sa femme virtuelle 为 Amélie 的同位语；qui habite à Montréal 为修饰 Amélie 的关系从句。",
+            "grammarAnalysis": "① qui 引导两个并列关系从句（qui lui souhaite... et lui rappelle...），共享同一先行词 Emile。② 间接宾语代词 lui 指代 Nicolas，位于动词前。③ son rendez-vous avec Amélie 中 son 指代 Nicolas 的约会，注意与 sa femme virtuelle 的所有格一致。",
+            "commonMistakes": "学生易将第二个 qui（qui habite à Montréal）误判为修饰 Emile，实际上其先行词为 Amélie。注意两个关系从句各自的先行词须通过语义判断加以区分。"
+        },
+        {
+            "index": "2",
+            "sentence": "Dès qu'il a terminé son repas, le reste de son petit déjeuner est immédiatement ramassé par sa poubelle qui le compresse et enlève les odeurs.",
+            "translatedSentence": "他一吃完饭，早餐的剩余部分就立刻被垃圾桶收走，垃圾桶会将其压缩并消除气味。",
+            "sentenceStructure": "Dès que 引导时间状语从句（il a terminé son repas）；主句为 le reste de son petit déjeuner est immédiatement ramassé par sa poubelle；qui le compresse et enlève les odeurs 为修饰 poubelle 的关系从句。",
+            "grammarAnalysis": "① Dès que 引导时间状语从句，表示“一……就……”，从句使用复合过去时，主句使用现在时。② 主句为被动语态：est ramassé par，由 être + 过去分词构成，施动者由 par 引出。③ 关系代词 qui 在从句中作主语，代指 poubelle。",
+            "commonMistakes": "① 被动语态中施动者须用 par 引出，不可误用 de（de 仅用于表示状态或情感的少数动词）。② Dès que 从句中时态须对应：从句用复合过去时，主句用现在时，不可将两者时态混淆。"
+        },
+        {
+            "index": "3",
+            "sentence": "Virtuellement, Nicolas et elle se retrouvent ainsi tous les jours, matin et soir à l'appartement et, chaque fin de semaine, dans leur maison de campagne.",
+            "translatedSentence": "就这样，Nicolas和她每天早晚都在公寓里“相聚”，每个周末则在他们的乡间别墅会面——当然，这一切都是虚拟的。",
+            "sentenceStructure": "主语为 Nicolas et elle，谓语为代词式动词 se retrouvent，副词 ainsi 修饰全句；时间状语 tous les jours、地点状语 à l'appartement 和 dans leur maison de campagne 分别说明频率与场所。",
+            "grammarAnalysis": "① se retrouver 为代词式动词，表示“（相互）重逢、再次聚在一起”。② ainsi 置于句首或句中表示“如此，就这样”。③ chaque fin de semaine 相当于 chaque week-end，表示“每个周末”，为名词短语作时间状语，无需介词。",
+            "commonMistakes": "① se retrouver 不等同于 se trouver（位于某处），前者强调“重新相聚”，后者仅表示位置。② chaque + 单数名词无需加冠词，不可写成 chaque la fin de semaine。"
+        },
+        {
+            "index": "4",
+            "sentence": "Emile obéit à ses instructions orales et les transforme en un objet 3D.",
+            "translatedSentence": "Emile听从他的口头指令，将其转换为一个三维物体。",
+            "sentenceStructure": "主语 Emile，两个并列谓语：obéit à ses instructions orales（间接及物）和 les transforme en un objet 3D（直接及物）；les 为直接宾语代词，指代 instructions。",
+            "grammarAnalysis": "① obéir à qch./qn. 为固定搭配，间接及物动词，后接介词 à，不可直接接宾语。② transformer qch. en qch. 为固定结构，表示“把……变成……”。③ 直接宾语代词 les 代替 ses instructions orales，置于动词前。",
+            "commonMistakes": "① obéir 为间接及物动词，其宾语不可用直接宾语代词替换，须用 lui/leur；但此句宾语为物（instructions），故用 y 代替更为严格（口语中有时省略）。② transformer 后的介词固定为 en，不可误用 à 或 dans。"
+        },
+        {
+            "index": "5",
+            "sentence": "Emile, qui a déjà commandé tout ce qu'il faut à l'hypermarché, dirigera les robots de la cuisine... Leur repas sera prêt.",
+            "translatedSentence": "Emile已经向超市订购了所需的一切食材，届时将指挥厨房里的机器人……他们的晚餐将会准备就绪。",
+            "sentenceStructure": "主句为 Emile dirigera les robots de la cuisine；qui a déjà commandé tout ce qu'il faut à l'hypermarché 为插入性关系从句修饰 Emile；ce qu'il faut 为名词性从句作 commandé 的宾语。Leur repas sera prêt 为独立简单句。",
+            "grammarAnalysis": "① qui a déjà commandé 关系从句使用复合过去时，表示在主句动作之前已完成的动作。② dirigera 和 sera 均为简单将来时，表示未来将发生的事。③ tout ce qu'il faut 为固定表达，意为“所有必需的东西”，ce que 引导名词性从句。",
+            "commonMistakes": "① tout ce qu'il faut 中的 que 为关系代词，不可误用 qui（qui 作主语，que 作宾语）。② 简单将来时词干：diriger → dirigera（保留 e），sera 为 être 的将来时不规则形式，须特别记忆。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "apparaître sur l'écran",
+            "meaning": "出现在屏幕上",
+            "usage": "固定搭配，apparaître 为不及物动词，后接介词 sur 表示出现的位置。常用于科技、影视语境。",
+            "exampleSentence": "le programme de musique apparaît sur l'écran 3D et réveille Nicolas."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "souhaiter qch. à qn.",
+            "meaning": "祝愿某人某事",
+            "usage": "双宾语结构，直接宾语为祝愿内容，间接宾语（à + 人）为祝愿对象。常见于问候表达：souhaiter une bonne journée、souhaiter bonne chance 等。",
+            "exampleSentence": "son ordinateur, qui lui souhaite une bonne journée"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "rappeler qch. à qn.",
+            "meaning": "提醒某人某事",
+            "usage": "双宾语结构。注意与 se rappeler de qch.（记起某事，代词式）区分：rappeler 是及物动词，主语为提醒者；se rappeler 主语为记起者。",
+            "exampleSentence": "lui rappelle son rendez-vous avec Amélie"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "passer à + lieu",
+            "meaning": "去（某处）",
+            "usage": "表示短暂前往某地，强调经过或顺道去。passer à la salle de bains 即“去一下浴室”，语气轻松随意，常用于口语。",
+            "exampleSentence": "Nicolas passe à la salle de bains pour se laver."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "faire le bilan de qch.",
+            "meaning": "对某事作总结；进行……检查",
+            "usage": "bilan 本义为“资产负债表”，引申为“总结、评估”。faire le bilan de santé 为固定表达，意为“做体检”。",
+            "exampleSentence": "son bilan de santé est aussitôt fait"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "dès que + 复合过去时/将来时",
+            "meaning": "一……就……",
+            "usage": "dès que 引导时间状语从句，强调两个动作紧密衔接。叙述过去事件时从句用复合过去时，叙述将来事件时从句用将来时（不可用现在时替代）。",
+            "exampleSentence": "Dès qu'il a terminé son repas, le reste de son petit déjeuner est immédiatement ramassé."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "se retrouver + 地点/时间状语",
+            "meaning": "（相互）重逢；再次聚在一起",
+            "usage": "代词式动词，主语须为复数或表示相互关系。注意与 se trouver（位于）区分：se retrouver 强调重聚的动态过程。",
+            "exampleSentence": "Nicolas et elle se retrouvent ainsi tous les jours, matin et soir à l'appartement."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "obéir à qch./qn.",
+            "meaning": "服从，听从",
+            "usage": "间接及物动词，固定接介词 à，不可直接接宾语。代词替换时用 lui/leur（指人）或 y（指物）。",
+            "exampleSentence": "Emile obéit à ses instructions orales."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "transformer qch. en qch.",
+            "meaning": "把……转变为……",
+            "usage": "固定结构，介词 en 不可替换为 à 或 dans。表示性质或形态的根本改变。",
+            "exampleSentence": "les transforme en un objet 3D"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "transmettre qch. à qn./qch.",
+            "meaning": "传送，传递；传播",
+            "usage": "及物动词，双宾语结构。直接宾语为传送的内容，间接宾语（à）为接收方。可用于信息、文件、程序的传递，也用于疾病、情感的传播。",
+            "exampleSentence": "il transmet le programme de fabrication à l'ordinateur central de l'usine."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "établir le contact avec qn.",
+            "meaning": "与某人建立联系",
+            "usage": "固定搭配。établir 强调建立、创建的动作，contact 后固定用介词 avec。",
+            "exampleSentence": "il établit le contact avec la cuisine d'Amélie."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "tout ce qu'il faut",
+            "meaning": "所有必需的东西",
+            "usage": "固定表达，ce que 引导名词性从句作 tout 的同位语，il faut 为非人称结构。可灵活运用于各种语境，如 tout ce qu'il faut pour réussir（成功所需的一切）。",
+            "exampleSentence": "Emile, qui a déjà commandé tout ce qu'il faut à l'hypermarché"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "conte",
+            "partOfSpeech": "n.m.",
+            "definition": "①故事，短篇故事 ②童话故事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conte de fées",
+                    "vocabularyCollocationMeaning": "童话故事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conte fantastique",
+                    "vocabularyCollocationMeaning": "奇幻故事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "raconter un conte",
+                    "vocabularyCollocationMeaning": "讲述一个故事"
+                }
+            ],
+            "synonymAnalysis": "conte vs histoire vs récit：conte 特指短篇虚构故事，常带奇幻色彩；histoire 泛指故事、历史；récit 强调叙述行为，较正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "讲述（故事）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "讲故事的人，说书人"
+                }
+            ],
+            "pluralForm": "contes"
+        },
+        {
+            "index": "2",
+            "vocabulary": "post-moderne",
+            "partOfSpeech": "adj.",
+            "definition": "后现代的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "art post-moderne",
+                    "vocabularyCollocationMeaning": "后现代艺术"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "littérature post-moderne",
+                    "vocabularyCollocationMeaning": "后现代文学"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "postmodernisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "后现代主义"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 post-modernes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "programme",
+            "partOfSpeech": "n.m.",
+            "definition": "①计划，方案 ②节目，节目单 ③程序（计算机）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "programme de musique",
+                    "vocabularyCollocationMeaning": "音乐节目"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "programme informatique",
+                    "vocabularyCollocationMeaning": "计算机程序"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "programme de fabrication",
+                    "vocabularyCollocationMeaning": "制造程序"
+                }
+            ],
+            "synonymAnalysis": "programme vs projet：programme 指较系统性的计划或节目；projet 指尚在规划阶段的具体项目。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "programmer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "编程；安排计划"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "programmeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "程序员"
+                }
+            ],
+            "pluralForm": "programmes"
+        },
+        {
+            "index": "4",
+            "vocabulary": "apparaître",
+            "partOfSpeech": "vi.",
+            "definition": "①出现，显现 ②显示，呈现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apparaître sur l'écran",
+                    "vocabularyCollocationMeaning": "出现在屏幕上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "apparaître soudainement",
+                    "vocabularyCollocationMeaning": "突然出现"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il apparaît que",
+                    "vocabularyCollocationMeaning": "看来，显然"
+                }
+            ],
+            "synonymAnalysis": "apparaître vs paraître：apparaître 强调从无到有地出现；paraître 侧重“看起来、似乎”，或指出版、发行。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apparition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "出现；幻影"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apparent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "明显的；表面的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'apparais, tu apparais, il apparaît, nous apparaissons, vous apparaissez, ils apparaissent",
+                "compoundPast": "il est apparu（助动词用 être）",
+                "simpleFuture": "j'apparaîtrai, tu apparaîtras, il apparaîtra, nous apparaîtrons, vous apparaîtrez, ils apparaîtront",
+                "memoryAids": "属于 -aître 类不规则动词，与 paraître、connaître 变位规律相同；复合过去时助动词用 être，注意过去分词与主语性数一致。"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "écran",
+            "partOfSpeech": "n.m.",
+            "definition": "①屏幕，荧幕 ②遮蔽物，屏障",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écran 3D",
+                    "vocabularyCollocationMeaning": "三维屏幕"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur l'écran",
+                    "vocabularyCollocationMeaning": "在屏幕上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "petit écran",
+                    "vocabularyCollocationMeaning": "电视（小屏幕，借指电视）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "écrans"
+        },
+        {
+            "index": "6",
+            "vocabulary": "tridimensionnel",
+            "partOfSpeech": "adj.",
+            "definition": "三维的，立体的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "objet tridimensionnel",
+                    "vocabularyCollocationMeaning": "三维物体"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "image tridimensionnelle",
+                    "vocabularyCollocationMeaning": "三维图像"
+                }
+            ],
+            "synonymAnalysis": "tridimensionnel 为正式书面语；3D 为缩写形式，口语和书面均常用。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 tridimensionnelle，阳性复数 tridimensionnels，阴性复数 tridimensionnelles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "7",
+            "vocabulary": "instant",
+            "partOfSpeech": "n.m.",
+            "definition": "①瞬间，片刻 ②时刻，时候",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un instant",
+                    "vocabularyCollocationMeaning": "一会儿，片刻"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'instant",
+                    "vocabularyCollocationMeaning": "刚刚，立刻"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pour l'instant",
+                    "vocabularyCollocationMeaning": "目前，暂时"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "en un instant",
+                    "vocabularyCollocationMeaning": "瞬间，一转眼"
+                }
+            ],
+            "synonymAnalysis": "instant vs moment：两者均表示“时刻/片刻”，基本可互换；instant 更强调时间的短暂性；moment 使用范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "instantané",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "瞬间的；即溶的"
+                }
+            ],
+            "pluralForm": "instants"
+        },
+        {
+            "index": "8",
+            "vocabulary": "souhaiter",
+            "partOfSpeech": "vt.",
+            "definition": "①祝愿，祝贺 ②希望，盼望",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "souhaiter qch. à qn.",
+                    "vocabularyCollocationMeaning": "祝某人某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "souhaiter faire qch.",
+                    "vocabularyCollocationMeaning": "希望做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "souhaiter la bienvenue à qn.",
+                    "vocabularyCollocationMeaning": "欢迎某人"
+                }
+            ],
+            "synonymAnalysis": "souhaiter vs désirer vs vouloir：souhaiter 表达的愿望较委婉、礼貌，常用于祝愿；désirer 语气比 vouloir 更正式；vouloir 最直接，表达意志。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "souhait",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "愿望，祝愿"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "rappeler",
+            "partOfSpeech": "vt.",
+            "definition": "①提醒；使想起 ②回电话，再次致电 ③召回",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rappeler qch. à qn.",
+                    "vocabularyCollocationMeaning": "提醒某人某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se rappeler de qch.",
+                    "vocabularyCollocationMeaning": "记起某事（代词式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rappeler qn.",
+                    "vocabularyCollocationMeaning": "给某人回电话"
+                }
+            ],
+            "synonymAnalysis": "rappeler qch. à qn.（提醒某人）vs se rappeler de qch.（自己记起）：主动与反身用法语义不同，须注意区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rappel",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "提醒；召回；加演"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je rappelle, tu rappelles, il rappelle, nous rappelons, vous rappelez, ils rappellent",
+                "compoundPast": "j'ai rappelé",
+                "simpleFuture": "je rappellerai, tu rappelleras, il rappellera, nous rappellerons, vous rappellerez, ils rappelleront",
+                "memoryAids": "双写辅音 l 型动词：je/tu/il/ils 形式双写 ll，nous/vous 保持单 l。类似 appeler、épeler。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "bilan",
+            "partOfSpeech": "n.m.",
+            "definition": "①总结，综合评估 ②（财务）资产负债表 ③体检结果",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire le bilan de qch.",
+                    "vocabularyCollocationMeaning": "对某事作总结"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bilan de santé",
+                    "vocabularyCollocationMeaning": "体检"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bilan comptable",
+                    "vocabularyCollocationMeaning": "会计报表"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "bilans"
+        },
+        {
+            "index": "11",
+            "vocabulary": "terminer",
+            "partOfSpeech": "vt.",
+            "definition": "①结束，完成 ②终止",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "terminer son repas",
+                    "vocabularyCollocationMeaning": "吃完饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se terminer par qch.",
+                    "vocabularyCollocationMeaning": "以……结束"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "terminer un travail",
+                    "vocabularyCollocationMeaning": "完成一项工作"
+                }
+            ],
+            "synonymAnalysis": "terminer vs finir：两者基本同义，均表示“结束”；finir 更口语化，terminer 稍正式；finir de faire qch. 与 terminer de faire qch. 均表示“做完某事”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "terminaison",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "词尾；结尾"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "terminal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "末端的；终结的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "reste",
+            "partOfSpeech": "n.m.",
+            "definition": "①剩余部分，余留部分 ②其余的人或物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le reste de qch.",
+                    "vocabularyCollocationMeaning": "某物的剩余部分"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "du reste",
+                    "vocabularyCollocationMeaning": "此外，况且（副词短语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au reste",
+                    "vocabularyCollocationMeaning": "此外（较书面）"
+                }
+            ],
+            "synonymAnalysis": "reste vs restant：reste 为名词，指剩余的东西；restant 既可作名词（剩余的人/物），也可作形容词（剩余的），搭配稍有差异。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rester",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "留下；剩下"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "restant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "剩余的"
+                }
+            ],
+            "pluralForm": "restes"
+        },
+        {
+            "index": "13",
+            "vocabulary": "immédiatement",
+            "partOfSpeech": "adv.",
+            "definition": "立即，立刻；直接地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "immédiatement après",
+                    "vocabularyCollocationMeaning": "紧随其后，之后立即"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "répondre immédiatement",
+                    "vocabularyCollocationMeaning": "立即回复"
+                }
+            ],
+            "synonymAnalysis": "immédiatement vs aussitôt vs tout de suite：三者均表示“立刻”；immédiatement 最正式，多用于书面；aussitôt 常引导从句（aussitôt que）；tout de suite 最口语化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "immédiat",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "即刻的，直接的"
+                }
+            ],
+            "useExplanation": "通常置于动词后或过去分词后，修饰整个谓语动作；也可置于句首表示强调。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "ramasser",
+            "partOfSpeech": "vt.",
+            "definition": "①收集，捡起 ②收拢，整理",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ramasser les ordures",
+                    "vocabularyCollocationMeaning": "收垃圾"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ramasser ses affaires",
+                    "vocabularyCollocationMeaning": "收拾自己的东西"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ramasser qch. par terre",
+                    "vocabularyCollocationMeaning": "从地上捡起某物"
+                }
+            ],
+            "synonymAnalysis": "ramasser vs collecter vs recueillir：ramasser 强调从地上或某处捡起、收集；collecter 更正式，指系统性收集（如数据、捐款）；recueillir 含有“汇集、收留”之意，语义更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ramassage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "收集；（垃圾）收运"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "poubelle",
+            "partOfSpeech": "n.f.",
+            "definition": "垃圾桶，垃圾箱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jeter qch. à la poubelle",
+                    "vocabularyCollocationMeaning": "将某物扔进垃圾桶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vider la poubelle",
+                    "vocabularyCollocationMeaning": "倒垃圾"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sortir la poubelle",
+                    "vocabularyCollocationMeaning": "把垃圾桶拿出去"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "poubelles"
+        },
+        {
+            "index": "16",
+            "vocabulary": "compresser",
+            "partOfSpeech": "vt.",
+            "definition": "①压缩，压紧 ②（计算机）压缩（文件）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compresser un fichier",
+                    "vocabularyCollocationMeaning": "压缩文件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "compresser les déchets",
+                    "vocabularyCollocationMeaning": "压缩废弃物"
+                }
+            ],
+            "synonymAnalysis": "compresser vs comprimer：两者均有“压缩”之意；comprimer 更常用于物理性压缩（气体、弹簧等）；compresser 现多用于计算机文件压缩或口语语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compression",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "压缩"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "compresseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "压缩机"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "enlever",
+            "partOfSpeech": "vt.",
+            "definition": "①除去，去掉 ②脱掉（衣物）③带走，拿走",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enlever les odeurs",
+                    "vocabularyCollocationMeaning": "消除气味"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enlever son manteau",
+                    "vocabularyCollocationMeaning": "脱掉外套"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "enlever une tache",
+                    "vocabularyCollocationMeaning": "去除污渍"
+                }
+            ],
+            "synonymAnalysis": "enlever vs ôter vs retirer：三者均有“去掉、脱去”之意；ôter 与 enlever 可互换，ôter 较书面；retirer 强调“抽回、退出”，有时含有从某处取回之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enlèvement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "除去；绑架"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'enlève, tu enlèves, il enlève, nous enlevons, vous enlevez, ils enlèvent",
+                "compoundPast": "j'ai enlevé",
+                "simpleFuture": "j'enlèverai, tu enlèveras, il enlèvera, nous enlèverons, vous enlèverez, ils enlèveront",
+                "memoryAids": "e muet变音型：je/tu/il/ils 前加重音符（e→è），nous/vous 保持原形。类似 lever、mener。"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "odeur",
+            "partOfSpeech": "n.f.",
+            "definition": "①气味 ②香味或臭味（视语境而定）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bonne odeur",
+                    "vocabularyCollocationMeaning": "好闻的气味"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mauvaise odeur",
+                    "vocabularyCollocationMeaning": "难闻的气味"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "enlever les odeurs",
+                    "vocabularyCollocationMeaning": "消除气味"
+                }
+            ],
+            "synonymAnalysis": "odeur vs parfum vs senteur：odeur 为中性词，指一般气味；parfum 专指香味、香水；senteur 为诗意或文学性用词，指香气。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "odorant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有气味的，芳香的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inodore",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无味的"
+                }
+            ],
+            "pluralForm": "odeurs"
+        },
+        {
+            "index": "19",
+            "vocabulary": "aussitôt",
+            "partOfSpeech": "adv.",
+            "definition": "立刻，马上；随即",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aussitôt que",
+                    "vocabularyCollocationMeaning": "一……就……（引导时间从句）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aussitôt dit, aussitôt fait",
+                    "vocabularyCollocationMeaning": "说做就做（固定表达）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aussitôt après",
+                    "vocabularyCollocationMeaning": "随后，紧接着"
+                }
+            ],
+            "synonymAnalysis": "aussitôt vs immédiatement vs tout de suite：意思相近，aussitôt 更强调紧随某个事件之后发生；immédiatement 最正式；tout de suite 最口语。",
+            "derivedWords": [],
+            "useExplanation": "既可作副词单独修饰动词（aussitôt fait），也可引导时间从句 aussitôt que + 陈述式，用法类似 dès que。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "virtuellement",
+            "partOfSpeech": "adv.",
+            "definition": "①虚拟地，假定地 ②实际上，事实上（在可能性上）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se retrouver virtuellement",
+                    "vocabularyCollocationMeaning": "虚拟聚会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "virtuellement impossible",
+                    "vocabularyCollocationMeaning": "实际上不可能"
+                }
+            ],
+            "synonymAnalysis": "virtuellement 有两个相反的含义须注意区分：①“通过虚拟手段”（源自 virtuel = 虚拟的）；②“几乎、实际上”（源自拉丁语 virtus，强调潜在可能性），后者多见于正式书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "virtuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "虚拟的；潜在的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "virtualité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "虚拟性；潜在可能"
+                }
+            ],
+            "useExplanation": "在本课语境中取义①“虚拟地”；置于动词后或句首均可。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "ainsi",
+            "partOfSpeech": "adv.",
+            "definition": "①如此，这样 ②因此，于是",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ainsi que",
+                    "vocabularyCollocationMeaning": "正如，以及"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ainsi donc",
+                    "vocabularyCollocationMeaning": "如此一来，因此"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pour ainsi dire",
+                    "vocabularyCollocationMeaning": "可以说，姑且这么说"
+                }
+            ],
+            "synonymAnalysis": "ainsi vs donc：ainsi 侧重方式（“如此”）或承接关系；donc 侧重逻辑推断（“因此，所以”）。二者均可用于承接上文，但 ainsi 常带有回顾性。",
+            "derivedWords": [],
+            "useExplanation": "置于句首时，若后接主语为人称代词，须倒装：Ainsi Nicolas se retrouve-t-il...；置于句中或句尾则无需倒装。"
+        },
+        {
+            "index": "22",
+            "vocabulary": "bébé",
+            "partOfSpeech": "n.m.",
+            "definition": "婴儿，宝宝",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir un bébé",
+                    "vocabularyCollocationMeaning": "生孩子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un bébé",
+                    "vocabularyCollocationMeaning": "生一个孩子（口语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bébé virtuel",
+                    "vocabularyCollocationMeaning": "虚拟婴儿"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "bébés"
+        },
+        {
+            "index": "23",
+            "vocabulary": "menuisier",
+            "partOfSpeech": "n.m.",
+            "definition": "细木工匠，木工，木匠",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "menuisier ébéniste",
+                    "vocabularyCollocationMeaning": "家具木工，细木工"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "menuisier charpentier",
+                    "vocabularyCollocationMeaning": "木工兼建筑木匠"
+                }
+            ],
+            "synonymAnalysis": "menuisier（细木工）vs charpentier（建筑木工）：menuisier 专注于家具、门窗等精细木工；charpentier 侧重建筑结构性木工（房梁、屋架等）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "menuiserie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "木工活，细木工艺；木工车间"
+                }
+            ],
+            "pluralForm": "menuisiers"
+        },
+        {
+            "index": "24",
+            "vocabulary": "modèle",
+            "partOfSpeech": "n.m.",
+            "definition": "①模型，样品 ②典范，榜样 ③模特儿",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "modèle de meuble",
+                    "vocabularyCollocationMeaning": "家具模型"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "servir de modèle",
+                    "vocabularyCollocationMeaning": "充当榜样"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "modèle réduit",
+                    "vocabularyCollocationMeaning": "缩比模型"
+                }
+            ],
+            "synonymAnalysis": "modèle vs maquette：modèle 泛指“模型/典范”；maquette 特指按比例缩小的实物模型（如建筑模型）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "modéliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建模，模型化"
+                }
+            ],
+            "pluralForm": "modèles"
+        },
+        {
+            "index": "25",
+            "vocabulary": "meuble",
+            "partOfSpeech": "n.m.",
+            "definition": "①家具（单件）②（法律）动产",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "meuble de bureau",
+                    "vocabularyCollocationMeaning": "办公家具"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "magasin de meubles",
+                    "vocabularyCollocationMeaning": "家具店"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "meubler une pièce",
+                    "vocabularyCollocationMeaning": "为房间配置家具"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "meubler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "为……配置家具"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "meublé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "家具齐全的（如 appartement meublé 带家具的公寓）"
+                }
+            ],
+            "pluralForm": "meubles"
+        },
+        {
+            "index": "26",
+            "vocabulary": "poser",
+            "partOfSpeech": "vt.",
+            "definition": "①放，置 ②提出（问题）③安装，铺设",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "poser qch. sur qch.",
+                    "vocabularyCollocationMeaning": "把某物放在某物上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poser une question",
+                    "vocabularyCollocationMeaning": "提出一个问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "poser sa candidature",
+                    "vocabularyCollocationMeaning": "提交申请"
+                }
+            ],
+            "synonymAnalysis": "poser vs mettre vs déposer：poser 强调放下时的“安放、摆放”动作，含稳妥之意；mettre 最泛用；déposer 含“放下后离开”之意，或指存放于某处。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pose",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安放；姿势；（长时间）曝光"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "27",
+            "vocabulary": "dessin",
+            "partOfSpeech": "n.m.",
+            "definition": "①图画，绘画 ②设计图，图纸 ③轮廓，线条",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dessin animé",
+                    "vocabularyCollocationMeaning": "动画片"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dessin industriel",
+                    "vocabularyCollocationMeaning": "工业制图"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire un dessin",
+                    "vocabularyCollocationMeaning": "画一幅画"
+                }
+            ],
+            "synonymAnalysis": "dessin vs peinture vs tableau：dessin 指素描或线条画；peinture 指涂色画或颜料本身；tableau 指（有框的）绘画作品。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dessiner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "画，绘制"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dessinateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "绘图员；漫画家"
+                }
+            ],
+            "pluralForm": "dessins"
+        },
+        {
+            "index": "28",
+            "vocabulary": "obéir",
+            "partOfSpeech": "vt.",
+            "definition": "听从，服从",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obéir à qn./qch.",
+                    "vocabularyCollocationMeaning": "服从某人/某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "obéir aux ordres",
+                    "vocabularyCollocationMeaning": "服从命令"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "obéir aux lois",
+                    "vocabularyCollocationMeaning": "遵守法律"
+                }
+            ],
+            "synonymAnalysis": "obéir à vs suivre：obéir à 强调“服从、听令”，含下级服从上级的意味；suivre 更中性，表示“遵循、跟随”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "obéissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "服从，顺从"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "obéissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "顺从的，听话的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "désobéir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "不服从，违抗"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "29",
+            "vocabulary": "instruction",
+            "partOfSpeech": "n.f.",
+            "definition": "①（复数）指令，命令 ②教育，培养 ③（法律）预审",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "instructions orales",
+                    "vocabularyCollocationMeaning": "口头指令"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre les instructions",
+                    "vocabularyCollocationMeaning": "遵照指令"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "instruction publique",
+                    "vocabularyCollocationMeaning": "公共教育"
+                }
+            ],
+            "synonymAnalysis": "instruction（单数）侧重“教育”；instructions（复数）侧重“指令、说明”；ordre 侧重“命令”，语气更强硬。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "instruire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "教育，培训"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "instruit",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有学识的，受过教育的"
+                }
+            ],
+            "pluralForm": "instructions"
+        },
+        {
+            "index": "30",
+            "vocabulary": "oral",
+            "partOfSpeech": "adj.",
+            "definition": "①口头的，口述的 ②口腔的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "instructions orales",
+                    "vocabularyCollocationMeaning": "口头指令"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "examen oral",
+                    "vocabularyCollocationMeaning": "口试"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "expression orale",
+                    "vocabularyCollocationMeaning": "口头表达"
+                }
+            ],
+            "synonymAnalysis": "oral vs verbal：oral 专指“口头的”；verbal 在法语中主要指“语言的（包括口头和书面）”，有时也指口头，但含义更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "oralement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "口头地"
+                }
+            ],
+            "genderNumberVariation": "阴性 orale，阳性复数 oraux，阴性复数 orales",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "31",
+            "vocabulary": "transformer",
+            "partOfSpeech": "vt.",
+            "definition": "①改变，转换 ②将……变成（transformer qch. en qch.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "transformer qch. en qch.",
+                    "vocabularyCollocationMeaning": "将某物转变为某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se transformer en",
+                    "vocabularyCollocationMeaning": "变成，转变为（代词式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "transformer une idée en réalité",
+                    "vocabularyCollocationMeaning": "将想法变为现实"
+                }
+            ],
+            "synonymAnalysis": "transformer vs changer vs modifier：transformer 强调根本性变化（质的改变）；changer 为泛用词；modifier 指局部调整，变化程度较小。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "transformation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "转变，变革"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "transformateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "变压器"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "32",
+            "vocabulary": "objet",
+            "partOfSpeech": "n.m.",
+            "definition": "①物体，物件 ②目的，对象 ③（语法）宾语",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "objet 3D",
+                    "vocabularyCollocationMeaning": "三维物体"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "objet de valeur",
+                    "vocabularyCollocationMeaning": "贵重物品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire l'objet de qch.",
+                    "vocabularyCollocationMeaning": "成为……的对象/受到……"
+                }
+            ],
+            "synonymAnalysis": "objet vs chose：objet 更正式，强调具体的物体或目标；chose 更口语化，泛指任何事物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "objectif",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "目标；（相机）镜头"
+                }
+            ],
+            "pluralForm": "objets"
+        },
+        {
+            "index": "33",
+            "vocabulary": "modifier",
+            "partOfSpeech": "vt.",
+            "definition": "①修改，更改 ②调整，变动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "modifier un fichier",
+                    "vocabularyCollocationMeaning": "修改文件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "modifier son comportement",
+                    "vocabularyCollocationMeaning": "改变自己的行为"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se modifier",
+                    "vocabularyCollocationMeaning": "发生变化"
+                }
+            ],
+            "synonymAnalysis": "modifier vs transformer vs changer：modifier 指局部调整，不改变整体性质；transformer 指根本性改变；changer 最泛用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "modification",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "修改，更改"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "34",
+            "vocabulary": "colorer",
+            "partOfSpeech": "vt.",
+            "definition": "①给……着色，染色 ②使带有色彩（比喻义：使带有某种色调）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "colorer avec une peinture",
+                    "vocabularyCollocationMeaning": "用颜料着色"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se colorer",
+                    "vocabularyCollocationMeaning": "变色，呈现颜色"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "colorer un dessin",
+                    "vocabularyCollocationMeaning": "给图画上色"
+                }
+            ],
+            "synonymAnalysis": "colorer vs colorier vs peindre：colorer 较泛用，可指任何形式的着色；colorier 专指给图画填色（如儿童填色）；peindre 指用颜料绘画，范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "couleur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "颜色"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "coloré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有色彩的；生动的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "coloris",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "色调，配色"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "35",
+            "vocabulary": "peinture",
+            "partOfSpeech": "n.f.",
+            "definition": "①绘画，油画 ②颜料，油漆 ③绘画艺术",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "peinture à l'huile",
+                    "vocabularyCollocationMeaning": "油画"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "peinture murale",
+                    "vocabularyCollocationMeaning": "壁画"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire de la peinture",
+                    "vocabularyCollocationMeaning": "从事绘画"
+                }
+            ],
+            "synonymAnalysis": "peinture vs tableau：peinture 指绘画艺术或颜料本身；tableau 指具体的一幅绘画作品。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "peindre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "绘画，涂色"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "peintre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "画家"
+                }
+            ],
+            "pluralForm": "peintures"
+        },
+        {
+            "index": "36",
+            "vocabulary": "pinceau",
+            "partOfSpeech": "n.m.",
+            "definition": "①画笔，毛笔 ②笔触，笔法",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pinceau virtuel",
+                    "vocabularyCollocationMeaning": "虚拟画笔"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "coup de pinceau",
+                    "vocabularyCollocationMeaning": "一笔，笔触"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "peindre au pinceau",
+                    "vocabularyCollocationMeaning": "用画笔绘画"
+                }
+            ],
+            "synonymAnalysis": "pinceau（画笔）vs brosse（刷子）：pinceau 特指绘画用的细笔；brosse 泛指较粗的刷子，也可用于较大面积涂刷。",
+            "derivedWords": [],
+            "pluralForm": "pinceaux"
+        },
+        {
+            "index": "37",
+            "vocabulary": "transmettre",
+            "partOfSpeech": "vt.",
+            "definition": "①传送，传递 ②转移，转交 ③传播（疾病、信息）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "transmettre qch. à qn.",
+                    "vocabularyCollocationMeaning": "将某物传送给某人/某处"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "transmettre un message",
+                    "vocabularyCollocationMeaning": "传递信息"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "transmettre une maladie",
+                    "vocabularyCollocationMeaning": "传播疾病"
+                }
+            ],
+            "synonymAnalysis": "transmettre vs envoyer vs faire passer：transmettre 强调从一方向另一方传递，含有中转或正式转交的意味；envoyer 最泛用；faire passer 口语化，指将物品或信息“传过去”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "transmission",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "传输，传送；传播"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je transmets, tu transmets, il transmet, nous transmettons, vous transmettez, ils transmettent",
+                "compoundPast": "j'ai transmis",
+                "simpleFuture": "je transmettrai, tu transmettras, il transmettra, nous transmettrons, vous transmettrez, ils transmettront",
+                "memoryAids": "属于 mettre 类不规则动词（promettre、permettre、soumettre 等）。过去分词 transmis 须特别记忆；je/tu 现在时词尾为 -ets（无 s 后的 t）。"
+            }
+        },
+        {
+            "index": "38",
+            "vocabulary": "fabrication",
+            "partOfSpeech": "n.f.",
+            "definition": "①制造，生产 ②制作，加工",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "programme de fabrication",
+                    "vocabularyCollocationMeaning": "制造程序"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fabrication en série",
+                    "vocabularyCollocationMeaning": "批量生产"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de fabrication française",
+                    "vocabularyCollocationMeaning": "法国制造的"
+                }
+            ],
+            "synonymAnalysis": "fabrication vs production vs manufacture：fabrication 侧重具体的制作过程；production 更广义，可指各类生产活动；manufacture 为较正式或历史性用语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fabriquer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "制造，生产"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fabricant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "制造商，厂家"
+                }
+            ],
+            "pluralForm": "fabrications"
+        },
+        {
+            "index": "39",
+            "vocabulary": "central",
+            "partOfSpeech": "adj.",
+            "definition": "①中央的，中心的 ②主要的，核心的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ordinateur central",
+                    "vocabularyCollocationMeaning": "中央计算机，主机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chauffage central",
+                    "vocabularyCollocationMeaning": "集中供暖"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rôle central",
+                    "vocabularyCollocationMeaning": "核心作用"
+                }
+            ],
+            "synonymAnalysis": "central vs principal vs principal：central 强调地理或结构上的中心位置；principal 强调重要性排名第一。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "centraliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "集中，使中央化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "centre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "中心，中央"
+                }
+            ],
+            "genderNumberVariation": "阴性 centrale，阳性复数 centraux，阴性复数 centrales",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "40",
+            "vocabulary": "établir",
+            "partOfSpeech": "vt.",
+            "definition": "①建立，制定 ②确立，证明 ③安排，部署",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "établir le contact avec qn.",
+                    "vocabularyCollocationMeaning": "与某人建立联系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "établir un record",
+                    "vocabularyCollocationMeaning": "创造纪录"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "établir un plan",
+                    "vocabularyCollocationMeaning": "制定计划"
+                }
+            ],
+            "synonymAnalysis": "établir vs créer vs fonder：établir 强调通过努力建立某种关系或制度；créer 侧重创造性；fonder 常用于建立机构或以……为基础。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "établissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "机构，建立"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "41",
+            "vocabulary": "contact",
+            "partOfSpeech": "n.m.",
+            "definition": "①接触，联系 ②（电）触点，接触器",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "établir le contact avec qn.",
+                    "vocabularyCollocationMeaning": "与某人建立联系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre contact avec qn.",
+                    "vocabularyCollocationMeaning": "与某人取得联系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rester en contact",
+                    "vocabularyCollocationMeaning": "保持联系"
+                }
+            ],
+            "synonymAnalysis": "contact vs liaison：contact 强调接触或联系的建立；liaison 更强调持续性的联系或关系（也可指恋爱关系）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contacter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "联系，接触"
+                }
+            ],
+            "pluralForm": "contacts"
+        },
+        {
+            "index": "42",
+            "vocabulary": "commander",
+            "partOfSpeech": "vt.",
+            "definition": "①订购，订货 ②指挥，命令 ③控制，操控",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "commander qch. à l'hypermarché",
+                    "vocabularyCollocationMeaning": "在超市订购某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "commander les troupes",
+                    "vocabularyCollocationMeaning": "指挥军队"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "commander en ligne",
+                    "vocabularyCollocationMeaning": "网上订购"
+                }
+            ],
+            "synonymAnalysis": "commander vs ordonner：commander 可表示“订购”或“指挥”；ordonner 专指下达命令，语气更强硬，且常接 que + 虚拟式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commande",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "订单；命令；操控装置"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "commandant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "指挥官，司令官"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "43",
+            "vocabulary": "diriger",
+            "partOfSpeech": "vt.",
+            "definition": "①领导，指挥 ②操纵，控制 ③引导，使朝向",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "diriger les robots",
+                    "vocabularyCollocationMeaning": "指挥机器人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "diriger une entreprise",
+                    "vocabularyCollocationMeaning": "管理企业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se diriger vers",
+                    "vocabularyCollocationMeaning": "朝……方向走去"
+                }
+            ],
+            "synonymAnalysis": "diriger vs conduire vs mener：diriger 强调掌管方向或领导；conduire 着重引领或驾驶；mener 含有带领推进之意，可用于比喻（mener une enquête 开展调查）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "direction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "方向；领导，管理层"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "directeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "主任，主管，导演"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je dirige, tu diriges, il dirige, nous dirigeons, vous dirigez, ils dirigent",
+                "compoundPast": "j'ai dirigé",
+                "simpleFuture": "je dirigerai, tu dirigeras, il dirigera, nous dirigerons, vous dirigerez, ils dirigeront",
+                "memoryAids": "-ger 型动词：nous 形式加 e 保持 g 的软音（nous dirigeons），将来时词干去掉 er 末尾的 e（diriger → dirigerai）。类似 manger、voyager、partager。"
+            }
+        },
+        {
+            "index": "44",
+            "vocabulary": "délicieux",
+            "partOfSpeech": "adj.",
+            "definition": "①美味的，可口的 ②美妙的，令人愉悦的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "repas délicieux",
+                    "vocabularyCollocationMeaning": "美味的饭菜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "soirée délicieuse",
+                    "vocabularyCollocationMeaning": "美妙的夜晚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est délicieux",
+                    "vocabularyCollocationMeaning": "太好吃了"
+                }
+            ],
+            "synonymAnalysis": "délicieux vs savoureux vs succulent：délicieux 最常用，可形容食物或令人愉悦的事物；savoureux 更强调风味丰富；succulent 含多汁、鲜嫩之意，多用于书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "délice",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "乐趣，美味（常用复数 délices）"
+                }
+            ],
+            "genderNumberVariation": "阴性 délicieuse，阳性复数 délicieux，阴性复数 délicieuses",
+            "position": "通常置于名词之后"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Dès qu'il a terminé son repas, le reste de son petit déjeuner est immédiatement ramassé par sa poubelle qui le compresse et enlève les odeurs. Nicolas travaille chez lui: il est menuisier et dessine des modèles de meubles. Emile obéit à ses instructions orales et les transforme en un objet 3D. Une fois le meuble terminé, il transmet le programme de fabrication à l'ordinateur central de l'usine, qui le réalisera.",
+            "chineseTranslation": "他一吃完饭，早餐的剩余部分便立刻被垃圾桶收走——垃圾桶会将其压缩并消除气味。Nicolas在家工作：他是一名细木工匠，专门设计家具模型。Emile听从他的口头指令，将设计图转化为三维立体物件。家具模型一旦完成，他就将制造程序传送给工厂的中央计算机，由其负责生产。",
+            "fr2cnStrategy": "① Dès que 从句译为“一……就……”，体现汉语紧缩句的表达习惯；② 被动结构 est ramassé par sa poubelle 转换为主动句“被垃圾桶收走”，符合汉语表达；③ 破折号用于衔接补充说明，使译文层次清晰；④ les（代指 instructions orales）翻译时还原为“设计图”（结合语境），属增译；⑤ Une fois le meuble terminé 译为“家具模型一旦完成”，调整语序并增加主语补足语；⑥ qui le réalisera 用汉语“由其负责生产”处理，避免出现“它将实现它”的歧义。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他的电脑提醒他今晚与妻子有个约会。",
+                "frenchTranslation": "Son ordinateur lui rappelle son rendez-vous avec sa femme ce soir.",
+                "cn2frStrategy": "① “提醒某人某事”用 rappeler qch. à qn. 结构，间接宾语代词 lui 置于动词前；② “今晚”用时间状语 ce soir 置于句末；③ “约会”用 rendez-vous（阳性名词），注意不加冠词 un，因为是特指已知的约会，用物主代词 son。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "垃圾一旦被压缩，气味就会立刻消失。",
+                "frenchTranslation": "Une fois les déchets compressés, les odeurs disparaissent immédiatement.",
+                "cn2frStrategy": "① “一旦……就……”用 une fois + 名词 + 过去分词的独立结构，体现法语分词独立短语的用法；② 被动含义通过过去分词 compressés 体现，无需使用 être + 过去分词的完整被动式；③ “立刻”用 immédiatement 置于动词后；④ “气味消失”用 les odeurs disparaissent，注意主谓一致。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他们虽然生活在不同的城市，但每天都通过网络相聚。",
+                "frenchTranslation": "Bien qu'ils vivent dans des villes différentes, ils se retrouvent tous les jours sur Internet.",
+                "cn2frStrategy": "① “虽然……但……”用让步连词 bien que，后接虚拟式 vivent（vivre 的现在虚拟式）；② “在不同的城市”用介词短语 dans des villes différentes；③ “通过网络相聚”用 se retrouver sur Internet，代词式动词 se retrouver 强调相互见面的动态。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "Emile已经订购了所有需要的食材，并将指挥厨房里的机器人准备晚餐。",
+                "frenchTranslation": "Emile a déjà commandé tout ce qu'il faut et dirigera les robots de la cuisine pour préparer le dîner.",
+                "cn2frStrategy": "① “已经订购”用复合过去时 a commandé，副词 déjà 置于助动词与过去分词之间；② “所有需要的食材”译为 tout ce qu'il faut，避免冗长表达；③ “将指挥”用简单将来时 dirigera；④ “准备晚餐”用目的不定式 pour préparer le dîner，体现目的关系；⑤ 两个谓语动作用 et 并列，时态前后分别为过去时和将来时，体现时间层次。"
+            }
+        ]
+    }
+}
