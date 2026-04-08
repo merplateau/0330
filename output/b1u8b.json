@@ -1,0 +1,1231 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Je t'écris en français, pour vous montrer, à toi et à papa, que j'ai fait beaucoup de progrès.",
+            "translatedSentence": "我用法语给你写信，是为了向你和爸爸证明我已经取得了很大的进步。",
+            "sentenceStructure": "主句为 Je t'écris en français，pour 引导目的状语不定式短语 pour vous montrer...，其后接 que 引导的宾语从句 que j'ai fait beaucoup de progrès。",
+            "grammarAnalysis": "① pour + 不定式表目的，意为“为了”。② vous montrer 中 vous 为间接宾语代词，指“你和爸爸”，动词 montrer 后接双宾语结构 montrer qch. à qn.。③ j'ai fait beaucoup de progrès 为复合过去时，强调已完成的进步。",
+            "commonMistakes": "易将 vous 误理解为“你们”，但此处指“你（maman）和爸爸”，为复数礼貌用法。注意 montrer à toi et à papa 中介词 à 不可省略。"
+        },
+        {
+            "index": 2,
+            "sentence": "Je me promène souvent le long de la Seine et autour de Notre-Dame: un petit vent frais, des feuilles tombent, les enfants sortent de l'école, les bouquinistes sourient, il y a des pigeons partout... c'est joli, c'est gai, c'est Paris.",
+            "translatedSentence": "我常常在塞纳河边和巴黎圣母院周围散步：微风清凉，树叶飘落，孩子们从学校里走出来，旧书摊老板微笑着，到处都是鸽子……这里美丽，这里欢快，这就是巴黎。",
+            "sentenceStructure": "前部分为主句 Je me promène souvent le long de la Seine et autour de Notre-Dame，冒号后为一系列并列的名词短语和短句，构成生动的场景描写，最后以三个并列的 c'est... 作总结。",
+            "grammarAnalysis": "① se promener 为代词式动词，第一人称单数现在时形式为 je me promène（注意重音符变化）。② le long de 和 autour de 均为复合介词，介词搭配固定。③ il y a 为固定句型，表存在。④ 三个并列的 c'est... 为感叹式结构，形成排比修辞效果。",
+            "commonMistakes": "se promener 属于 e muet 类动词，在第一、二、三人称单数及第三人称复数时词干末音节出现重音符：je me promène。学生易忘记加重音符写成 je me promene（错误）。"
+        },
+        {
+            "index": 3,
+            "sentence": "Je lui ai demandé pourquoi cette Joconde est si célèbre, elle n'est pas très belle...",
+            "translatedSentence": "我问了他为什么《蒙娜丽莎》如此出名——她其实并不算很漂亮……",
+            "sentenceStructure": "主句为 Je lui ai demandé，后接由 pourquoi 引导的间接疑问从句 pourquoi cette Joconde est si célèbre；第二个分句 elle n'est pas très belle 为独立评论句，以省略号表语气。",
+            "grammarAnalysis": "① lui 为间接宾语代词，指前文提到的法国朋友。② demander pourquoi + 陈述句语序，为间接疑问句，动词不倒装。③ si 作副词修饰形容词，意为“如此，这么”。④ ne...pas 否定结构，包夹动词。",
+            "commonMistakes": "间接疑问句中，疑问词后动词不倒装，须用陈述句语序。学生易写成 pourquoi est cette Joconde si célèbre（错误，为直接疑问句语序）。"
+        },
+        {
+            "index": 4,
+            "sentence": "Je dois te dire une chose, moins agréable peut-être, je n'ai plus d'argent.",
+            "translatedSentence": "我必须告诉你一件事，也许不那么令人愉快——我没钱了。",
+            "sentenceStructure": "主句为 Je dois te dire une chose，moins agréable peut-être 为插入语，作 une chose 的修饰成分；je n'ai plus d'argent 为第二个主句，以逗号衔接，说明“那件事”的内容。",
+            "grammarAnalysis": "① devoir + 不定式，表示“必须”，语气较强。② te 为间接宾语代词，位于动词前。③ ne...plus 否定结构，表“不再，再也没有”，与 ne...pas 区别在于强调状态的改变。④ 否定句中不定冠词 de l'argent 变为 de（ne...plus de...）。",
+            "commonMistakes": "ne...plus 与 ne...pas 易混淆：ne...pas 表一般否定，ne...plus 强调“曾经有/做，现在不再”。否定结构后接名词时，冠词须改为 de/d'，学生易误写成 je n'ai plus de l'argent。"
+        },
+        {
+            "index": 5,
+            "sentence": "Il faut 30 euros environ pour la chambre et le petit déjeuner.",
+            "translatedSentence": "住宿和早餐大约需要30欧元。",
+            "sentenceStructure": "主语为非人称 il，谓语为 faut，后接名词短语 30 euros environ 作主语补足语，pour 引导用途状语。",
+            "grammarAnalysis": "① il faut 为非人称句型，后接名词时表“需要……”，是 falloir 的非人称变位。② environ 作副词，修饰数词，意为“大约”，通常后置于数词后。③ pour 表用途，意为“用于，为了”。",
+            "commonMistakes": "il faut 后接名词不加冠词变化，直接跟数量词。注意 environ 作副词时直接置于所修饰数词后，不可误作形容词放在名词前。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "écrire à qn.",
+            "meaning": "给某人写信",
+            "usage": "écrire 为不规则动词，间接及物，后接介词 à + 人。注意区分 écrire à qn.（写信给某人）和 écrire qch.（写某物）。",
+            "exampleSentence": "Je t'écris en français."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "faire des progrès",
+            "meaning": "取得进步",
+            "usage": "固定搭配，progrès 常用复数形式；faire 后接名词构成动宾短语，是法语中表示“进行某活动”的常见结构。beaucoup de progrès 表“很大的进步”。",
+            "exampleSentence": "J'ai fait beaucoup de progrès."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "se promener le long de + lieu",
+            "meaning": "沿着……散步",
+            "usage": "se promener 为代词式动词，le long de 为固定复合介词，后接名词。注意 le long de 中冠词 le 不与 de 缩合。",
+            "exampleSentence": "Je me promène souvent le long de la Seine."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "autour de + lieu/personne",
+            "meaning": "在……周围",
+            "usage": "复合介词，后接名词，表位置或范围。注意与 environ（大约）区分：autour de 表空间，约等于 around。",
+            "exampleSentence": "Je me promène autour de Notre-Dame."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "sortir de + lieu",
+            "meaning": "从……出来，离开……",
+            "usage": "sortir 为不规则动词（变位同 servir），后接 de + 地点名词，构成离开某地的含义。与 sortir + 不定式（出去做某事）区分。",
+            "exampleSentence": "Les enfants sortent de l'école."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "il y a + nom",
+            "meaning": "有……，存在……",
+            "usage": "固定非人称句型，表存在。时态变化：il y avait（未完成过去时），il y a eu（复合过去时），il y aura（将来时）。否定形式：il n'y a pas de...",
+            "exampleSentence": "Il y a des pigeons partout."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "faire le tour de + lieu",
+            "meaning": "游览……，环绕……一圈",
+            "usage": "固定搭配，faire le tour de 意为“走遍，游览全程”。常与交通方式连用：en bateau, en voiture 等。",
+            "exampleSentence": "J'ai fait le tour de Paris en bateau et en voiture."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "demander à qn. pourquoi/si...",
+            "meaning": "问某人为什么……/是否……",
+            "usage": "demander 后接间接宾语 à qn.，再接间接疑问从句（陈述句语序）。注意与直接疑问句区分，间接疑问中动词不倒装。",
+            "exampleSentence": "Je lui ai demandé pourquoi cette Joconde est si célèbre."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "ne...plus de + nom",
+            "meaning": "不再有……",
+            "usage": "ne...plus 为否定结构，强调从前有而现在不再有的变化。后接名词时冠词改为 de/d'（不定冠词/部分冠词消失）。",
+            "exampleSentence": "Je n'ai plus d'argent."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "il faut + nom/inf.",
+            "meaning": "需要……，必须……",
+            "usage": "非人称句型。il faut + 名词（需要某物）；il faut + 不定式（必须做某事）；il faut que + 虚拟式（必须……）。是考研高频句型。",
+            "exampleSentence": "Il faut 30 euros environ pour la chambre et le petit déjeuner."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "chercher à faire qch.",
+            "meaning": "设法做某事，寻求……",
+            "usage": "chercher + à + 不定式，表示努力寻求或试图做某事，强调主观意图。注意与 chercher qch.（寻找某物，直接及物）区分。",
+            "exampleSentence": "Je vais chercher une chambre moins chère."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "préparer qch. soi-même",
+            "meaning": "自己准备……",
+            "usage": "soi-même / moi-même 等强调代词，重读人称代词 + 连字符 + même，表“……自己”，起强调作用。",
+            "exampleSentence": "Je vais préparer le petit déjeuner moi-même."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "écrire",
+            "partOfSpeech": "vt.",
+            "definition": "①写，书写 ②给……写信",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire une lettre à qn.",
+                    "vocabularyCollocationMeaning": "给某人写信"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "écrire en français",
+                    "vocabularyCollocationMeaning": "用法语写"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'écrire",
+                    "vocabularyCollocationMeaning": "互相通信；（词）拼写"
+                }
+            ],
+            "synonymAnalysis": "écrire 侧重书写行为本身；rédiger 强调正式起草、撰写（如文件、报告）；correspondre avec qn. 侧重持续的书信往来关系。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écrit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "文字，书面作品；（考试）笔试"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "écriture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "书写，笔迹；写作"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "écrivain",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "作家"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "description",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "描写，描述"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'écris, tu écris, il écrit, nous écrivons, vous écrivez, ils écrivent",
+                "compoundPast": "j'ai écrit（过去分词 écrit）",
+                "simpleFuture": "j'écrirai, tu écriras, il écrira, nous écrirons, vous écrirez, ils écriront",
+                "imperfect": "j'écrivais（词干 écriv-，规则变化）",
+                "presentSubjunctive": "que j'écrive, que tu écrives, qu'il écrive, que nous écrivions, que vous écriviez, qu'ils écrivent",
+                "memoryAids": "属于 -ire 类不规则动词，与 décrire（描述）、inscrire（登记）、prescrire（处方）等同类变位，复数词干 écriv-。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "lettre",
+            "partOfSpeech": "n.f.",
+            "definition": "①信，信件 ②字母 ③（复数）文学，文科",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire une lettre",
+                    "vocabularyCollocationMeaning": "写一封信"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lettre majuscule / minuscule",
+                    "vocabularyCollocationMeaning": "大写字母 / 小写字母"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "lettres françaises",
+                    "vocabularyCollocationMeaning": "法国文学"
+                }
+            ],
+            "synonymAnalysis": "lettre 泛指信件；courrier 多指邮件（包括电子邮件等），也可泛指邮寄物品；message 更口语化，也指短信、留言。",
+            "derivedWords": [],
+            "pluralForm": "lettres"
+        },
+        {
+            "index": "3",
+            "vocabulary": "voici",
+            "partOfSpeech": "prép.",
+            "definition": "这是，这儿是（用于指示靠近说话者的人或物）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voici + nom",
+                    "vocabularyCollocationMeaning": "这是……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voici ce que...",
+                    "vocabularyCollocationMeaning": "以下是……，这就是……"
+                }
+            ],
+            "synonymAnalysis": "voici 指示靠近说话者的人或物；voilà 指示离说话者较远的人或物，也可表“就是这样”。口语中两者常混用，但严格区分时空间距离有别。",
+            "derivedWords": [],
+            "useExplanation": "voici 引导名词短语或从句，相当于英语的 here is/are。后接人称代词宾格：me voici（我来了），te voilà（你在那里）。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "courrier",
+            "partOfSpeech": "n.m.",
+            "definition": "①邮件，信件 ②邮差，信使",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "courrier électronique",
+                    "vocabularyCollocationMeaning": "电子邮件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "recevoir un courrier",
+                    "vocabularyCollocationMeaning": "收到一封邮件"
+                }
+            ],
+            "synonymAnalysis": "courrier 泛指邮政类信件或邮件（包括电子邮件）；lettre 专指手写或正式信件；mail/mél 为口语中“电子邮件”的说法。",
+            "derivedWords": [],
+            "pluralForm": "courriers"
+        },
+        {
+            "index": "5",
+            "vocabulary": "électronique",
+            "partOfSpeech": "adj.",
+            "definition": "①电子的 ②电子学的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "courrier électronique",
+                    "vocabularyCollocationMeaning": "电子邮件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "musique électronique",
+                    "vocabularyCollocationMeaning": "电子音乐"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "électronique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "电子学（作名词用）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "électron",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "电子（物理）"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：électroniques",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "anglais",
+            "partOfSpeech": "adj.m.",
+            "definition": "①英国的 ②英语的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un étudiant anglais",
+                    "vocabularyCollocationMeaning": "一位英国学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la langue anglaise",
+                    "vocabularyCollocationMeaning": "英语"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 anglaise，复数 anglais / anglaises",
+            "position": "通常置于名词后；大写 Anglais(e) 作名词时指英国人"
+        },
+        {
+            "index": "7",
+            "vocabulary": "montrer",
+            "partOfSpeech": "vt.",
+            "definition": "①给……看，展示 ②指出，表明",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "montrer qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物给某人看"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "montrer que + prop.",
+                    "vocabularyCollocationMeaning": "表明……，证明……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se montrer + adj.",
+                    "vocabularyCollocationMeaning": "表现得……，显得……"
+                }
+            ],
+            "synonymAnalysis": "montrer 强调“展示给他人看”；indiquer 强调“指示，指出方向或信息”；démontrer 强调“论证，证明”（更正式，用于学术）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "démonstration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "展示；论证；示威"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "progrès",
+            "partOfSpeech": "n.m.",
+            "definition": "①进步，发展 ②进展",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire des progrès",
+                    "vocabularyCollocationMeaning": "取得进步"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "progrès scientifique",
+                    "vocabularyCollocationMeaning": "科学进步"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en progrès",
+                    "vocabularyCollocationMeaning": "在进步中，有所改善"
+                }
+            ],
+            "synonymAnalysis": "progrès 泛指进步或发展；avance 强调领先的优势；développement 强调规模上的扩展和发展（常用于经济、科技等领域）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "progresser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "进步，前进"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "progressif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "逐渐的，渐进的"
+                }
+            ],
+            "pluralForm": "progrès（单复数同形，词尾已有 -s）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "joli",
+            "partOfSpeech": "adj.m.",
+            "definition": "①漂亮的，可爱的 ②相当大的，可观的（口语，修饰数量）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une jolie fille",
+                    "vocabularyCollocationMeaning": "一个漂亮的女孩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est joli",
+                    "vocabularyCollocationMeaning": "真漂亮"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une jolie somme",
+                    "vocabularyCollocationMeaning": "一笔可观的金额（口语，带讽刺或夸张语气）"
+                }
+            ],
+            "synonymAnalysis": "joli 侧重外形小巧精致的可爱；beau（belle）更强调庄重、宏大之美；mignon 更口语化，多用于小而可爱的事物。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 jolie，复数 jolis / jolies",
+            "position": "通常置于名词前（BAGS规则中属于beauty类形容词）"
+        },
+        {
+            "index": "10",
+            "vocabulary": "se promener",
+            "partOfSpeech": "v.pron.",
+            "definition": "散步，漫步",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se promener dans + lieu",
+                    "vocabularyCollocationMeaning": "在……散步"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se promener le long de",
+                    "vocabularyCollocationMeaning": "沿着……散步"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aller se promener",
+                    "vocabularyCollocationMeaning": "去散散步"
+                }
+            ],
+            "synonymAnalysis": "se promener 强调休闲漫步；marcher 单纯指“走路”动作；se balader 为口语化表达，意思相近但更随意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "promenade",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "散步；散步的地方，林荫道"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "promeneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "散步者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je me promène, tu te promènes, il se promène, nous nous promenons, vous vous promenez, ils se promènent",
+                "compoundPast": "je me suis promené(e)（助动词用 être，过去分词与主语性数一致）",
+                "simpleFuture": "je me promènerai",
+                "memoryAids": "属于 e muet 类（-e/è 变音）动词，词根末音节在 je/tu/il/ils 变位时加重音符 è：promène。助动词用 être，注意过去分词性数配合。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "autour de",
+            "partOfSpeech": "prép.",
+            "definition": "在……周围，围绕……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "autour de la table",
+                    "vocabularyCollocationMeaning": "在桌子周围"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "autour de lui",
+                    "vocabularyCollocationMeaning": "在他周围"
+                }
+            ],
+            "synonymAnalysis": "autour de 表空间上“围绕”；environ 表数量上“大约”，两者不可混用。",
+            "derivedWords": [],
+            "useExplanation": "复合介词，后接名词或重读代词。也可单独用作副词 autour，意为“在周围”（无 de）。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "frais",
+            "partOfSpeech": "adj.m.",
+            "definition": "①清凉的，凉爽的 ②新鲜的 ③（颜色）清新的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un vent frais",
+                    "vocabularyCollocationMeaning": "凉爽的风"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des légumes frais",
+                    "vocabularyCollocationMeaning": "新鲜蔬菜"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il fait frais",
+                    "vocabularyCollocationMeaning": "天气凉爽"
+                }
+            ],
+            "synonymAnalysis": "frais 兼有“清凉”和“新鲜”两义；frold 指“冷的”（温度更低）；nouveau 指“新的”（强调时间上刚出现）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fraîcheur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "清凉；新鲜；清新"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fraîchement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "新鲜地；（口语）冷淡地"
+                }
+            ],
+            "genderNumberVariation": "阴性 fraîche，阳性复数 frais，阴性复数 fraîches",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "13",
+            "vocabulary": "sortir",
+            "partOfSpeech": "vi.",
+            "definition": "①出去，出来 ②外出，上街 ③（及物）带……出去",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sortir de + lieu",
+                    "vocabularyCollocationMeaning": "从……出来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sortir avec qn.",
+                    "vocabularyCollocationMeaning": "与某人外出；与某人约会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sortir un livre",
+                    "vocabularyCollocationMeaning": "出版一本书（及物用法）"
+                }
+            ],
+            "synonymAnalysis": "sortir 泛指出去或离开某处；partir 强调出发、离开（强调起点）；quitter 强调离开某人或某处（直接及物）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sortie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "出口；外出；下班"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je sors, tu sors, il sort, nous sortons, vous sortez, ils sortent",
+                "compoundPast": "je suis sorti(e)（不及物用法，助动词用 être）；j'ai sorti qch.（及物用法，助动词用 avoir）",
+                "simpleFuture": "je sortirai",
+                "memoryAids": "与 servir, partir, dormir, mentir 同属一类，复数用词干 sort-，单数词尾 -s/-s/-t。"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "pigeon",
+            "partOfSpeech": "n.m.",
+            "definition": "①鸽子 ②（口语）易受骗的人，冤大头",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un pigeon voyageur",
+                    "vocabularyCollocationMeaning": "信鸽"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des pigeons partout",
+                    "vocabularyCollocationMeaning": "到处都是鸽子"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "pigeons"
+        },
+        {
+            "index": "15",
+            "vocabulary": "partout",
+            "partOfSpeech": "adv.",
+            "definition": "到处，各处",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "partout dans le monde",
+                    "vocabularyCollocationMeaning": "在全世界各地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un peu partout",
+                    "vocabularyCollocationMeaning": "到处都有一些"
+                }
+            ],
+            "synonymAnalysis": "partout 表所有地方；nulle part 表“哪里都不”（否定对应）；quelque part 表“某处”。",
+            "derivedWords": [],
+            "useExplanation": "副词，修饰动词，表地点范围。常与 il y a, on trouve, chercher 等动词连用。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "gai",
+            "partOfSpeech": "adj.m.",
+            "definition": "①快乐的，愉快的 ②（色彩、氛围）明朗的，活泼的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une atmosphère gaie",
+                    "vocabularyCollocationMeaning": "欢快的气氛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être gai",
+                    "vocabularyCollocationMeaning": "心情愉快"
+                }
+            ],
+            "synonymAnalysis": "gai 强调外在表现出的欢乐；joyeux 强调发自内心的喜悦；content 更口语，表示满意、高兴。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gaîté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "欢乐，愉快"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gaiement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "欢快地"
+                }
+            ],
+            "genderNumberVariation": "阴性 gaie，复数 gais / gaies",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "17",
+            "vocabulary": "hier",
+            "partOfSpeech": "adv.",
+            "definition": "昨天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "hier soir",
+                    "vocabularyCollocationMeaning": "昨晚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "hier matin",
+                    "vocabularyCollocationMeaning": "昨天早上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avant-hier",
+                    "vocabularyCollocationMeaning": "前天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "副词，修饰动词，常与复合过去时连用表过去发生的事。也可作名词：le journal d'hier（昨天的报纸）。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "rencontrer",
+            "partOfSpeech": "vt.",
+            "definition": "①碰见，偶然遇见 ②会见，与……相遇",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rencontrer qn. par hasard",
+                    "vocabularyCollocationMeaning": "偶然遇见某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se rencontrer",
+                    "vocabularyCollocationMeaning": "相互相遇，碰面"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rencontrer des difficultés",
+                    "vocabularyCollocationMeaning": "遇到困难"
+                }
+            ],
+            "synonymAnalysis": "rencontrer 强调偶然相遇；retrouver 强调重新找到或约好见面；voir 仅表见到，不一定有相遇含义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rencontre",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "相遇；会面；比赛"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "si",
+            "partOfSpeech": "conj.",
+            "definition": "①如果，假如 ②只要 ③（加重音时）如此，这么",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "si + présent, futur simple",
+                    "vocabularyCollocationMeaning": "如果……就……（真实条件）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "si + imparfait, conditionnel présent",
+                    "vocabularyCollocationMeaning": "如果……就……（非真实条件）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "si célèbre",
+                    "vocabularyCollocationMeaning": "如此出名"
+                }
+            ],
+            "synonymAnalysis": "si 作连词时引导条件从句（相当于 if）；si 作副词时相当于 tellement（如此），但 si 不可修饰动词，tellement 可以。注意 si 在否定疑问句中作肯定回答（答 si，不用 oui）。",
+            "derivedWords": [],
+            "useExplanation": "多功能词：① 连词，引导条件从句（si + 现在时，主句用将来时）；② 副词，加强程度（= tellement，如此）；③ 回答否定疑问句时表肯定（= yes）。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "célèbre",
+            "partOfSpeech": "adj.",
+            "definition": "著名的，有名的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un artiste célèbre",
+                    "vocabularyCollocationMeaning": "一位著名艺术家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être célèbre pour qch.",
+                    "vocabularyCollocationMeaning": "因……而出名"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "devenir célèbre",
+                    "vocabularyCollocationMeaning": "成名"
+                }
+            ],
+            "synonymAnalysis": "célèbre 泛指著名；fameux 可表褒义（著名的）也可表贬义（臭名昭著的）；renommé 更正式，多用于书面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "célébrité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "名人；名声，名望"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "célébrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "庆祝；赞颂"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 célèbres",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "21",
+            "vocabulary": "heureusement",
+            "partOfSpeech": "adv.",
+            "definition": "幸好，幸运地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "heureusement que + prop.",
+                    "vocabularyCollocationMeaning": "幸好……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "heureusement pour qn.",
+                    "vocabularyCollocationMeaning": "对某人来说幸运的是"
+                }
+            ],
+            "synonymAnalysis": "heureusement 表庆幸；par chance / par bonheur 也表幸运，但 heureusement 常置于句首作语气副词，而 par chance 更口语。反义词：malheureusement（不幸地）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "heureux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "幸福的，快乐的；幸运的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bonheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "幸福；好运"
+                }
+            ],
+            "useExplanation": "副词，常置于句首作语气副词，修饰整个命题。heureusement que 后接陈述句，表示“幸好……”，是书面语和口语中均常见的表达。"
+        },
+        {
+            "index": "22",
+            "vocabulary": "musée",
+            "partOfSpeech": "n.m.",
+            "definition": "博物馆，美术馆",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "visiter un musée",
+                    "vocabularyCollocationMeaning": "参观博物馆"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "musée d'art",
+                    "vocabularyCollocationMeaning": "美术馆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "musées"
+        },
+        {
+            "index": "23",
+            "vocabulary": "bateau",
+            "partOfSpeech": "n.m.",
+            "definition": "①船，小艇 ②（口语）陈腐之事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en bateau",
+                    "vocabularyCollocationMeaning": "乘船"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bateau à voile",
+                    "vocabularyCollocationMeaning": "帆船"
+                }
+            ],
+            "synonymAnalysis": "bateau 泛指各类船只；navire 特指大型海船；barque 指小型划船。",
+            "derivedWords": [],
+            "pluralForm": "bateaux（以 -eau 结尾，复数加 -x）"
+        },
+        {
+            "index": "24",
+            "vocabulary": "agréable",
+            "partOfSpeech": "adj.",
+            "definition": "愉快的，令人舒适的，宜人的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une chose agréable",
+                    "vocabularyCollocationMeaning": "令人愉快的事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "agréable à + inf.",
+                    "vocabularyCollocationMeaning": "做起来让人愉快的"
+                }
+            ],
+            "synonymAnalysis": "agréable 强调令人感到舒适愉快（侧重感受）；plaisant 强调令人开心有趣（侧重情绪）；sympathique 口语，更侧重人或氛围“讨人喜欢”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "agréablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "愉快地，舒适地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "désagréable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人不快的，不宜人的"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 agréables",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "25",
+            "vocabulary": "argent",
+            "partOfSpeech": "n.m.",
+            "definition": "①钱，货币 ②银（金属）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir de l'argent",
+                    "vocabularyCollocationMeaning": "有钱"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "manquer d'argent",
+                    "vocabularyCollocationMeaning": "缺钱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "argent liquide",
+                    "vocabularyCollocationMeaning": "现金"
+                }
+            ],
+            "synonymAnalysis": "argent 日常用语中泛指金钱；monnaie 指零钱或货币；fortune 指大笔财富。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "argenté",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "银色的；（口语）有钱的"
+                }
+            ],
+            "pluralForm": "argents（极少用，通常不可数）"
+        },
+        {
+            "index": "26",
+            "vocabulary": "dictionnaire",
+            "partOfSpeech": "n.m.",
+            "definition": "字典，词典",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consulter un dictionnaire",
+                    "vocabularyCollocationMeaning": "查词典"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dictionnaire bilingue",
+                    "vocabularyCollocationMeaning": "双语词典"
+                }
+            ],
+            "synonymAnalysis": "dictionnaire 为通用词；lexique 指词汇表或术语表（规模较小）；encyclopédie 指百科全书（条目更详尽）。",
+            "derivedWords": [],
+            "pluralForm": "dictionnaires"
+        },
+        {
+            "index": "27",
+            "vocabulary": "hôtel",
+            "partOfSpeech": "n.m.",
+            "definition": "①旅馆，大饭店 ②（历史上）大型城市宅邸，府邸",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "habiter dans un hôtel",
+                    "vocabularyCollocationMeaning": "住在旅馆里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "hôtel de ville",
+                    "vocabularyCollocationMeaning": "市政厅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hôtel particulier",
+                    "vocabularyCollocationMeaning": "（旧时贵族）私人大宅"
+                }
+            ],
+            "synonymAnalysis": "hôtel 泛指旅馆；auberge 多指乡村旅馆或青年旅舍（auberge de jeunesse）；pension 指提供食宿的小型旅馆。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hôtelier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "旅馆业主，酒店管理者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "hôtellerie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "旅馆业，酒店管理（行业）"
+                }
+            ],
+            "pluralForm": "hôtels"
+        },
+        {
+            "index": "28",
+            "vocabulary": "simple",
+            "partOfSpeech": "adj.",
+            "definition": "①简单的，普通的 ②朴素的 ③单纯的，天真的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un repas simple",
+                    "vocabularyCollocationMeaning": "一顿简单的饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller simple",
+                    "vocabularyCollocationMeaning": "单程票（车票）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est simple",
+                    "vocabularyCollocationMeaning": "这很简单"
+                }
+            ],
+            "synonymAnalysis": "simple 强调无复杂性；facile 强调容易做到；modeste 强调朴素、不奢华。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "simplement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "简单地，朴素地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "simplicité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "简单，朴素"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 simples",
+            "position": "通常置于名词后；前置时意义相同，较少"
+        },
+        {
+            "index": "29",
+            "vocabulary": "environ",
+            "partOfSpeech": "adv.",
+            "definition": "大约，将近",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "environ 30 euros",
+                    "vocabularyCollocationMeaning": "大约30欧元"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aux environs de + lieu/date",
+                    "vocabularyCollocationMeaning": "在……附近；在……前后（时间）"
+                }
+            ],
+            "synonymAnalysis": "environ 作副词修饰数字；à peu près 可修饰数字或形容词，语气略口语；autour de 也可表数量上的“大约”，但本义为空间上“在……周围”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "environs",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（复数）附近，周围地区；les environs de Paris（巴黎郊区）"
+                }
+            ],
+            "useExplanation": "副词，置于所修饰数词之前或之后，通常后置（il faut 30 euros environ）。复数名词 les environs 则指“周边地区”，与副词用法不同。"
+        },
+        {
+            "index": "30",
+            "vocabulary": "magasin",
+            "partOfSpeech": "n.m.",
+            "definition": "①商店，店铺 ②仓库",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire les magasins",
+                    "vocabularyCollocationMeaning": "逛商店"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grand magasin",
+                    "vocabularyCollocationMeaning": "百货商店"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "magasin de sport",
+                    "vocabularyCollocationMeaning": "运动用品商店"
+                }
+            ],
+            "synonymAnalysis": "magasin 为通用词；boutique 指小型精品店或专卖店；supermarché 指超市；épicerie 指食品杂货店。",
+            "derivedWords": [],
+            "pluralForm": "magasins"
+        },
+        {
+            "index": "31",
+            "vocabulary": "marché",
+            "partOfSpeech": "n.m.",
+            "definition": "①市场，集市 ②交易，买卖 ③价格",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire son marché",
+                    "vocabularyCollocationMeaning": "去市场买菜，采购食品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marché aux puces",
+                    "vocabularyCollocationMeaning": "跳蚤市场"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bon marché",
+                    "vocabularyCollocationMeaning": "便宜的，廉价的"
+                }
+            ],
+            "synonymAnalysis": "marché 强调交易场所；commerce 强调商业活动；supermarché 特指超市。bon marché 是“便宜”的表达，反义词为 cher。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marchand",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "商人，小贩"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "marchander",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "讨价还价"
+                }
+            ],
+            "pluralForm": "marchés"
+        },
+        {
+            "index": "32",
+            "vocabulary": "arabe",
+            "partOfSpeech": "adj.m.",
+            "definition": "阿拉伯的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la langue arabe",
+                    "vocabularyCollocationMeaning": "阿拉伯语"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marché arabe",
+                    "vocabularyCollocationMeaning": "阿拉伯市场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴阳同形，复数 arabes",
+            "position": "形容词置于名词后；大写 Arabe 作名词时指阿拉伯人"
+        },
+        {
+            "index": "33",
+            "vocabulary": "studio",
+            "partOfSpeech": "n.m.",
+            "definition": "①单间套房（含厨卫的一室公寓）②工作室，摄影棚",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "louer un studio",
+                    "vocabularyCollocationMeaning": "租一间单间公寓"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "studio d'enregistrement",
+                    "vocabularyCollocationMeaning": "录音室"
+                }
+            ],
+            "synonymAnalysis": "studio 在法语中专指带卫浴和简易厨房的一室公寓；appartement 泛指公寓；chambre 仅指卧室（不含厨房）。",
+            "derivedWords": [],
+            "pluralForm": "studios"
+        },
+        {
+            "index": "34",
+            "vocabulary": "par",
+            "partOfSpeech": "prép.",
+            "definition": "①每（表频率）②经过，通过 ③由（被动句中引出施动者）④凭借，通过（方式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par mois / par jour / par an",
+                    "vocabularyCollocationMeaning": "每月 / 每天 / 每年"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par ici / par là",
+                    "vocabularyCollocationMeaning": "从这里 / 从那里"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être fait par qn.",
+                    "vocabularyCollocationMeaning": "被某人做（被动结构）"
+                }
+            ],
+            "synonymAnalysis": "par 表频率时相当于“每”；pour 表目的或持续时间（pendant 的近义词）；à 表单价（5 euros à la pièce 每件5欧）。注意 par jour 和 à la journée 的区别（par jour 强调频率，à la journée 强调按天计）。",
+            "derivedWords": [],
+            "useExplanation": "多义介词：① 表频率：450 euros par mois（每月450欧）；② 表路径：passer par la gare（经过车站）；③ 被动句中引出动作发出者：être écrit par David；④ 表方式手段：par téléphone, par courrier。"
+        },
+        {
+            "index": "35",
+            "vocabulary": "trop",
+            "partOfSpeech": "adv.",
+            "definition": "①太，过于 ②非常（否定句中：pas trop = 不太）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "trop + adj./adv.",
+                    "vocabularyCollocationMeaning": "太……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "trop de + nom",
+                    "vocabularyCollocationMeaning": "太多的……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est trop cher",
+                    "vocabularyCollocationMeaning": "太贵了"
+                }
+            ],
+            "synonymAnalysis": "trop 强调超出适度范围；très 只表程度高但无“超过”之意；beaucoup 修饰动词（不修饰形容词）。注意：très bon（很好）、trop bon（好得过分，语气有时含讽刺）。",
+            "derivedWords": [],
+            "useExplanation": "副词，修饰形容词、副词或动词（trop manger = 吃太多）。trop de + 名词表数量过多；c'est trop 口语中表“太过分了”。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Je me promène souvent le long de la Seine et autour de Notre-Dame. Il y a des pigeons partout, les bouquinistes sourient, c'est joli, c'est gai, c'est Paris. Hier, j'ai rencontré un ami français au musée du Louvre et je lui ai demandé pourquoi cette Joconde est si célèbre. Heureusement, on y voit beaucoup d'autres choses différentes. Je dois te dire une chose, moins agréable peut-être: je n'ai plus d'argent, car Paris, c'est cher!",
+            "chineseTranslation": "我常常在塞纳河边和巴黎圣母院周围散步。鸽子到处都是，旧书摊老板们微笑着，这里美丽，这里欢快，这就是巴黎。昨天，我在卢浮宫偶遇了一位法国朋友，问他《蒙娜丽莎》为何如此出名。幸好，那里还有很多其他各式各样的东西可看。但有一件事我得告诉你，也许你听了不太高兴：我没钱了——毕竟，巴黎的消费真的很高！",
+            "fr2cnStrategy": "① je lui ai demandé pourquoi... 为间接疑问句，译为“问他……为何……”，动词还原为陈述语序，避免疑问腔调；② on y voit beaucoup d'autres choses différentes 中 on 译为“那里”+“可看”，y 隐含指代 musée，通过意译融入句中；③ une chose, moins agréable peut-être 为插入语，直译“不太令人愉快的事”会显生硬，改为“你听了不太高兴”更自然；④ Paris, c'est cher 为感叹式评论，意译为“巴黎的消费真的很高”，加“毕竟”使逻辑更连贯（增译）；⑤ je n'ai plus d'argent 强调状态转变（曾有钱，现在没了），译为“没钱了”并以破折号引出原因，符合汉语叙述节奏。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他沿着塞纳河散步，到处都能看到鸽子。",
+                "frenchTranslation": "Il se promène le long de la Seine et il y a des pigeons partout.",
+                "cn2frStrategy": "① “沿着”用复合介词 le long de；② “到处都能看到”用 il y a...partout 句型，避免直译为 on peut voir（语气略重）；③ 两个分句用 et 连接，符合法语并列习惯。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "幸好，博物馆里还有很多其他有趣的东西可以看。",
+                "frenchTranslation": "Heureusement, on peut voir beaucoup d'autres choses intéressantes dans le musée.",
+                "cn2frStrategy": "① “幸好”用语气副词 heureusement 置于句首；② “还有很多”用 beaucoup d'autres，autres 须置于名词前；③ “有趣的”用 intéressantes，形容词置于名词后并与阴性复数一致。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这个小旅馆住一晚大约要30欧元，有点贵。",
+                "frenchTranslation": "Il faut environ 30 euros par nuit pour cet hôtel, c'est un peu cher.",
+                "cn2frStrategy": "① “需要……欧元”用 il faut + 数量 + pour 句型；② “大约”用 environ 置于数词前；③ “一晚”译为 par nuit（频率介词 par）；④ 后半句改为评论句 c'est un peu cher，符合法语口语节奏。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他已经没有钱了，所以打算自己准备早餐。",
+                "frenchTranslation": "Il n'a plus d'argent, alors il va préparer le petit déjeuner lui-même.",
+                "cn2frStrategy": "① “没有钱了”用 ne...plus de + 名词（ne...plus 强调状态转变，否定后不定冠词变为 de）；② “所以”用 alors（口语连词）；③ “自己”用强调代词 lui-même（主语为 il，用 lui-même）；④ “打算做”用近将来时 aller + 不定式。"
+            }
+        ]
+    }
+}
