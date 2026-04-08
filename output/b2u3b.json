@@ -1,0 +1,1681 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Pour faciliter le commerce et l'échange entre les Etats membres, l'Union européenne a décidé au début des années 90 du XXe siècle de mener une politique pour stabiliser le taux de change.",
+            "translatedSentence": "为了促进成员国之间的贸易与往来，欧盟在20世纪90年代初决定推行一项稳定汇率的政策。",
+            "sentenceStructure": "主句为 l'Union européenne a décidé de mener une politique pour stabiliser le taux de change，句首 Pour faciliter... 为目的状语不定式短语，au début des années 90 du XXe siècle 为时间状语。",
+            "grammarAnalysis": "① Pour + 不定式引导目的状语，意为”为了……”。② décider de + inf. 为固定搭配，意为”决定做某事”。③ pour stabiliser 再次使用目的不定式，修饰 politique。④ 全句为复合过去时（a décidé），表示已完成的历史决定。",
+            "commonMistakes": "注意 décider de faire qch. 与 décider que + 从句 的区别：前者主语自己决定做某事，后者引导内容从句。另外 au début des années 90 中 années 用复数，表示整个90年代初期，不可用单数。"
+        },
+        {
+            "index": 2,
+            "sentence": "En 1992, par le Traité de Maastricht, le projet de la monnaie unique commence.",
+            "translatedSentence": "1992年，通过《马斯特里赫特条约》，统一货币计划正式启动。",
+            "sentenceStructure": "主句为 le projet de la monnaie unique commence，En 1992 为时间状语，par le Traité de Maastricht 为方式/手段状语。",
+            "grammarAnalysis": "① par + 名词表示手段或途径，意为”通过……”。② 使用历史现在时（présent historique），以现在时叙述过去事件，增强叙述的生动性，常见于书面历史文本。③ le projet de + 名词，表示”……的计划/方案”。",
+            "commonMistakes": "历史现在时与一般现在时形式相同，需结合上下文时间状语判断。par 与 avec 均可表示”通过/用”，但 par 强调途径或手段，avec 强调工具或伴随，此处用 par 表示”借助条约”，不可换用 avec。"
+        },
+        {
+            "index": 3,
+            "sentence": "Le symbole de l'euro (€), imaginé par la Commission européenne, s'inspire de la lettre grecque epsilon et est emprunté à la première lettre du mot «Europe».",
+            "translatedSentence": "欧元符号（€）由欧盟委员会设计，其灵感来源于希腊字母epsilon，同时也借用了”欧洲”这个词的首字母。",
+            "sentenceStructure": "主句有两个并列谓语：s'inspire de... 和 est emprunté à...；imaginé par la Commission européenne 为过去分词短语作插入语，修饰主语 le symbole de l'euro。",
+            "grammarAnalysis": "① imaginé par... 为过去分词短语，表示被动含义，相当于 qui a été imaginé par...。② s'inspirer de qch. 为代词式动词固定搭配，意为”从……获得灵感”。③ être emprunté à qch. 为被动语态，意为”借用自……”。④ 两个谓语由 et 并列连接，共享同一主语。",
+            "commonMistakes": "s'inspirer de 与 être inspiré de/par 均表示”受……启发”，但前者为代词式动词，后者为被动结构；两者介词不同，s'inspirer 固定搭配 de，不可用 par。emprunter qch. à qn./qch. 意为”从……借用”，注意介词为 à 而非 de。"
+        },
+        {
+            "index": 4,
+            "sentence": "Les billets sont identiques ; les pièces, elles, ont une face commune et une face nationale de l'Etat membre d'émission.",
+            "translatedSentence": "纸币的样式完全相同；而硬币则有一面是各成员国共同的图案，另一面是发行国的国家标志。",
+            "sentenceStructure": "两个并列分句，以分号分隔。第二分句主语为 les pièces，elles 为强调代词（pronom disjoint）用于强调主语，谓语为 ont，宾语为 une face commune et une face nationale de l'Etat membre d'émission。",
+            "grammarAnalysis": "① elles 为强调代词，置于主语后起强调或对比作用，常见于对比结构中，相当于汉语的”而……则……”。② une face commune et une face nationale 为并列名词短语，两个 une face... 结构对称。③ de l'Etat membre d'émission 为名词短语后置定语，d'émission 修饰 Etat membre。",
+            "commonMistakes": "强调代词（pronoms toniques）elles 置于主语之后时，不可误解为宾语；此结构专用于强调或对比，学生易漏译或误译其对比语气。另注意 face 此处为 n.f.，意为”面”，与 visage（脸）不同。"
+        },
+        {
+            "index": 5,
+            "sentence": "Situated à Francfort, la Banque centrale européenne est chargée de «gérer» l'euro, surtout par la fixation des taux d'intérêts.",
+            "translatedSentence": "欧洲中央银行位于法兰克福，负责”管理”欧元，主要通过设定利率来实现这一职能。",
+            "sentenceStructure": "主句为 la Banque centrale européenne est chargée de «gérer» l'euro，Située à Francfort 为过去分词短语作状语，surtout par la fixation des taux d'intérêts 为方式状语。",
+            "grammarAnalysis": "① Située à + 地点，过去分词短语表示位置，相当于 qui est située à...。② être chargé de + inf./n. 为固定搭配，意为”负责……，承担……”。③ par la fixation de... 表示手段，par + 名词结构，意为”通过……”。",
+            "commonMistakes": "être chargé de 后可接名词或动词不定式，注意与 charger qn. de faire qch.（委托某人做某事）的主被动关系区别。surtout 为副词，修饰整个方式状语短语，意为”尤其，主要是”，不可将其误解为形容词。"
+        },
+        {
+            "index": 6,
+            "sentence": "Comme elle relève des gouvernements des Etats membres, elle peut réunir des capitaux et fournir des prêts à des taux avantageux.",
+            "translatedSentence": "由于该银行隶属于各成员国政府，因此能够筹集资本，并以优惠利率提供贷款。",
+            "sentenceStructure": "Comme 引导原因状语从句 elle relève des gouvernements des Etats membres，主句为 elle peut réunir des capitaux et fournir des prêts à des taux avantageux，两个不定式 réunir 和 fournir 由 et 并列。",
+            "grammarAnalysis": "① Comme 引导原因从句，意为”由于，因为”，语气较中性，多用于书面语。② relever de qch. 为固定搭配，意为”隶属于……，归……管辖”。③ à des taux avantageux 为介词短语作方式状语，意为”以优惠利率”。④ pouvoir + inf. 表示能力或可能性。",
+            "commonMistakes": "relever de 与 dépendre de 均可表示”隶属于”，但 relever de 更正式，多用于行政、组织层级关系；dépendre de 则更口语化，也可表示”取决于”。注意 des gouvernements des Etats membres 中两个 des 的用法：第一个为 de + les 的缩写（来自 relever de），第二个为名词的所属关系。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "décider de faire qch.",
+            "meaning": "决定做某事",
+            "usage": "固定搭配，décider 后接 de + 不定式；若引导内容从句则用 décider que + 陈述式。注意与 décider qch.（决定某事，直接及物）区分。",
+            "exampleSentence": "l'Union européenne a décidé de mener une politique pour stabiliser le taux de change."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "mener une politique",
+            "meaning": "推行一项政策",
+            "usage": "固定搭配，mener 在此表示”推行、实施”，常与 politique、guerre、vie 等名词搭配。书面语色彩较强。",
+            "exampleSentence": "l'Union européenne a décidé de mener une politique pour stabiliser le taux de change."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "stabiliser le taux de change",
+            "meaning": "稳定汇率",
+            "usage": "经济类常用表达，taux de change 为固定搭配，意为”汇率”；taux d'intérêt 为”利率”，注意两者区分。",
+            "exampleSentence": "une politique pour stabiliser le taux de change"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "adhérer à qch.",
+            "meaning": "加入（组织、协议等）",
+            "usage": "v.t.ind.，固定搭配 à，表示正式加入某组织或协议。书面语，常用于政治、外交语境。与 rejoindre（加入）近义，但 adhérer à 更强调认同与接受。",
+            "exampleSentence": "la Slovénie a adhéré à la zone euro"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "s'inspirer de qch.",
+            "meaning": "从……获得灵感，以……为灵感来源",
+            "usage": "代词式动词，固定搭配 de，不可用 par 或 à。常用于艺术、创作、设计等语境。",
+            "exampleSentence": "s'inspire de la lettre grecque epsilon"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être emprunté à qch./qn.",
+            "meaning": "借用自……，取自……",
+            "usage": "被动结构，固定搭配 à，表示来源。注意主动式为 emprunter qch. à qn.（从某人处借用某物），介词同为 à。",
+            "exampleSentence": "est emprunté à la première lettre du mot «Europe»"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "être chargé de + inf./n.",
+            "meaning": "负责……，承担……",
+            "usage": "固定搭配，de 后接名词或不定式。主动式 charger qn. de faire qch. 意为”委托某人做某事”。书面语。",
+            "exampleSentence": "la Banque centrale européenne est chargée de «gérer» l'euro"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "veiller à qch. / veiller à faire qch.",
+            "meaning": "注意……，确保……，看管……",
+            "usage": "v.t.ind.，固定搭配 à，后接名词或不定式。强调主动关注和保障某事，书面语色彩较强。",
+            "exampleSentence": "Elle doit veiller avant tout à la stabilité des prix pour éviter l'inflation."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avant tout",
+            "meaning": "首先，最重要的是",
+            "usage": "固定副词短语，置于动词之后或句中，表示优先级，意为”首先，尤其”。口语书面语均可使用。",
+            "exampleSentence": "Elle doit veiller avant tout à la stabilité des prix."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "prêter attention à qch.",
+            "meaning": "注意，关注某事",
+            "usage": "固定搭配，prêter une grande attention à 意为”高度关注”。注意与 faire attention à（当心，注意）的语义差别：前者强调积极关注，后者强调警惕。",
+            "exampleSentence": "Elle prête une grande attention à la construction des voies ferrées et routes."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "relever de qch.",
+            "meaning": "隶属于……，归……管辖",
+            "usage": "v.t.ind.，固定搭配 de，表示行政或组织从属关系，书面正式用语。",
+            "exampleSentence": "Comme elle relève des gouvernements des Etats membres"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "réunir des capitaux",
+            "meaning": "筹集资本",
+            "usage": "réunir 在此意为”汇集，筹集”，常与 capitaux、fonds、ressources 等搭配，经济类书面语。",
+            "exampleSentence": "elle peut réunir des capitaux et fournir des prêts à des taux avantageux."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "fournir des prêts à des taux avantageux",
+            "meaning": "以优惠利率提供贷款",
+            "usage": "fournir qch. à qn. 意为”向某人提供某物”；à des taux avantageux 为方式状语，表示利率条件。经济类常用表达。",
+            "exampleSentence": "elle peut réunir des capitaux et fournir des prêts à des taux avantageux."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "à l'intérieur de qch.",
+            "meaning": "在……内部，在……范围内",
+            "usage": "固定介词短语，表示空间或范围上的”内部”，可指地理范围，也可指组织范围。",
+            "exampleSentence": "la réalisation des projets à l'intérieur de l'Union européenne"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "euro",
+            "partOfSpeech": "n.m.",
+            "definition": "欧元（欧洲统一货币）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "zone euro",
+                    "vocabularyCollocationMeaning": "欧元区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pièce en euro",
+                    "vocabularyCollocationMeaning": "欧元硬币"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "billet en euro",
+                    "vocabularyCollocationMeaning": "欧元纸币"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "euros"
+        },
+        {
+            "index": "2",
+            "vocabulary": "mener",
+            "partOfSpeech": "vt.",
+            "definition": "①导向，带领 ②推行，实施（政策等） ③进行（调查、谈判等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mener une politique",
+                    "vocabularyCollocationMeaning": "推行一项政策"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mener une enquête",
+                    "vocabularyCollocationMeaning": "进行调查"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mener qn. à qch.",
+                    "vocabularyCollocationMeaning": "带领某人到某地/通向某结果"
+                }
+            ],
+            "synonymAnalysis": "mener vs conduire：两者均可表示”带领，引导”，mener 更常用于具体的行动或政策的推行；conduire 则既可指驾驶，也可指引导至某结果，后者更强调终点或结果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "meneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "领导者，煽动者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je mène, tu mènes, il mène, nous menons, vous menez, ils mènent",
+                "compoundPast": "j'ai mené",
+                "simpleFuture": "je mènerai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 e + 辅音 + er 型动词，重读音节时 e 变 è（加重音符），类似 acheter → j'achète。词干变化规律：nous/vous 保留原词干 men-，其余人称改为 mèn-。"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "stabiliser",
+            "partOfSpeech": "vt.",
+            "definition": "①稳定，使稳定 ②巩固",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "stabiliser le taux de change",
+                    "vocabularyCollocationMeaning": "稳定汇率"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "stabiliser une situation",
+                    "vocabularyCollocationMeaning": "稳定局势"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se stabiliser",
+                    "vocabularyCollocationMeaning": "趋于稳定"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "stabilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "稳定，稳定性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "stable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "稳定的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "stabilisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "稳定（化），巩固"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "taux",
+            "partOfSpeech": "n.m.",
+            "definition": "①率，比率 ②税率 ③利率",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "taux de change",
+                    "vocabularyCollocationMeaning": "汇率"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "taux d'intérêt",
+                    "vocabularyCollocationMeaning": "利率"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "taux de chômage",
+                    "vocabularyCollocationMeaning": "失业率"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "taux avantageux",
+                    "vocabularyCollocationMeaning": "优惠利率"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "taux（单复数同形）"
+        },
+        {
+            "index": "5",
+            "vocabulary": "traité",
+            "partOfSpeech": "n.m.",
+            "definition": "①条约，协约 ②专著，论著",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "signer un traité",
+                    "vocabularyCollocationMeaning": "签署条约"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conclure un traité",
+                    "vocabularyCollocationMeaning": "缔结条约"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "traité de paix",
+                    "vocabularyCollocationMeaning": "和平条约"
+                }
+            ],
+            "synonymAnalysis": "traité vs accord vs convention：traité 最正式，专指国家间签订的国际条约；accord 泛指各类协议；convention 多指多方签订的惯例性协议或公约。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "traiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "处理；对待；谈判"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "traitement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "处理；治疗；薪酬"
+                }
+            ],
+            "pluralForm": "traités"
+        },
+        {
+            "index": "6",
+            "vocabulary": "projet",
+            "partOfSpeech": "n.m.",
+            "definition": "①计划，方案 ②项目，工程 ③草案",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réaliser un projet",
+                    "vocabularyCollocationMeaning": "实施一个项目"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "projet de loi",
+                    "vocabularyCollocationMeaning": "法律草案"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir le projet de faire qch.",
+                    "vocabularyCollocationMeaning": "有做某事的计划"
+                }
+            ],
+            "synonymAnalysis": "projet vs plan：projet 指尚未实施的计划或构想；plan 更强调具体的步骤和安排。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "projeter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "计划；投射；放映"
+                }
+            ],
+            "pluralForm": "projets"
+        },
+        {
+            "index": "7",
+            "vocabulary": "adhérer",
+            "partOfSpeech": "vt.",
+            "definition": "①加入（组织、协议） ②粘附，附着 ③赞同，支持",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "adhérer à l'Union européenne",
+                    "vocabularyCollocationMeaning": "加入欧盟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adhérer à une idée",
+                    "vocabularyCollocationMeaning": "赞同一种观点"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "adhérer à la zone euro",
+                    "vocabularyCollocationMeaning": "加入欧元区"
+                }
+            ],
+            "synonymAnalysis": "adhérer à vs rejoindre：两者均可表示”加入”，adhérer 更强调正式接受和认同，常用于政治组织；rejoindre 更口语化，也可指在空间上追上某人/某团体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adhésion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "加入，入会；赞同"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "adhérent",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "成员，会员"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'adhère, tu adhères, il adhère, nous adhérons, vous adhérez, ils adhèrent",
+                "compoundPast": "j'ai adhéré",
+                "simpleFuture": "j'adhérerai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 é + 辅音 + er 型动词（如 espérer, préférer），在重读音节下 é 变 è，nous/vous 保留原词干 adhér-。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "symbole",
+            "partOfSpeech": "n.m.",
+            "definition": "①符号，标记 ②象征",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "symbole de qch.",
+                    "vocabularyCollocationMeaning": "……的象征"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "symbole chimique",
+                    "vocabularyCollocationMeaning": "化学符号"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "servir de symbole",
+                    "vocabularyCollocationMeaning": "充当象征"
+                }
+            ],
+            "synonymAnalysis": "symbole vs signe：symbole 强调抽象意义和文化内涵；signe 更泛指各类符号或迹象。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "symboliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "象征"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "symbolique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "象征性的"
+                }
+            ],
+            "pluralForm": "symboles"
+        },
+        {
+            "index": "9",
+            "vocabulary": "inspirer",
+            "partOfSpeech": "vi.",
+            "definition": "①吸气 ②激励，给予灵感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inspirer qn.",
+                    "vocabularyCollocationMeaning": "激励某人，给某人灵感"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'inspirer de qch.",
+                    "vocabularyCollocationMeaning": "从……获得灵感"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "inspirer confiance",
+                    "vocabularyCollocationMeaning": "令人信任"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inspiration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "灵感；吸气"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inspiré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有灵感的；受启发的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "grec, grecque",
+            "partOfSpeech": "adj.m.",
+            "definition": "①希腊的 ②希腊人的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lettre grecque",
+                    "vocabularyCollocationMeaning": "希腊字母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mythologie grecque",
+                    "vocabularyCollocationMeaning": "希腊神话"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "Grec",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "希腊人（大写为名词）"
+                }
+            ],
+            "genderNumberVariation": "阳性 grec，阴性 grecque，阳性复数 grecs，阴性复数 grecques。阴性形式为不规则变化（双写 c + e）。",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "11",
+            "vocabulary": "epsilon",
+            "partOfSpeech": "n.m.",
+            "definition": "epsilon（希腊字母表中第五个字母，对应英语字母 e）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la lettre epsilon",
+                    "vocabularyCollocationMeaning": "希腊字母epsilon"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "epsilon（不变化，inv.）",
+            "useExplanation": "为不变化名词（n.m.inv.），源自希腊语，单复数形式相同。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "parallèle",
+            "partOfSpeech": "adj.",
+            "definition": "①平行的 ②类似的，相仿的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lignes parallèles",
+                    "vocabularyCollocationMeaning": "平行线"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marché parallèle",
+                    "vocabularyCollocationMeaning": "平行市场，黑市"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "parallèlement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "平行地；同时地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：parallèles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "13",
+            "vocabulary": "représenter",
+            "partOfSpeech": "vt.",
+            "definition": "①表示，代表 ②描绘，呈现 ③扮演",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "représenter qch.",
+                    "vocabularyCollocationMeaning": "代表某物，象征某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se représenter qch.",
+                    "vocabularyCollocationMeaning": "想象某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "représenter un pays",
+                    "vocabularyCollocationMeaning": "代表一个国家"
+                }
+            ],
+            "synonymAnalysis": "représenter vs symboliser：représenter 更宽泛，可指具体描绘或抽象代表；symboliser 专指通过象征物来代表某种抽象概念。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "représentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "表示；呈现；演出；代表"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "représentant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "代表，代理人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "stabilité",
+            "partOfSpeech": "n.f.",
+            "definition": "①稳定，稳定性 ②坚定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "stabilité des prix",
+                    "vocabularyCollocationMeaning": "物价稳定"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maintenir la stabilité",
+                    "vocabularyCollocationMeaning": "维持稳定"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "stabilité politique",
+                    "vocabularyCollocationMeaning": "政治稳定"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "stable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "稳定的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "stabiliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使稳定"
+                }
+            ],
+            "pluralForm": "stabilités（较少用）"
+        },
+        {
+            "index": "15",
+            "vocabulary": "intérieur",
+            "partOfSpeech": "adj.",
+            "definition": "①内部的，里面的 ②国内的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'intérieur de qch.",
+                    "vocabularyCollocationMeaning": "在……内部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "politique intérieure",
+                    "vocabularyCollocationMeaning": "内政"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "marché intérieur",
+                    "vocabularyCollocationMeaning": "国内市场"
+                }
+            ],
+            "synonymAnalysis": "intérieur vs interne：两者均可表示”内部的”，intérieur 更常用于空间或国家层面；interne 更常用于组织、机构内部，或医学”内科”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "intérieurement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "内心地，在内部"
+                }
+            ],
+            "genderNumberVariation": "阴性 intérieure，复数 intérieurs / intérieures",
+            "position": "通常置于名词之后；作名词时 l'intérieur 意为”内部，内政部”。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "accepter",
+            "partOfSpeech": "vt.",
+            "definition": "①接受，接纳 ②承认，认可",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "accepter qch./qn.",
+                    "vocabularyCollocationMeaning": "接受某事/某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "accepter de faire qch.",
+                    "vocabularyCollocationMeaning": "同意做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être accepté",
+                    "vocabularyCollocationMeaning": "被接受"
+                }
+            ],
+            "synonymAnalysis": "accepter vs admettre：accepter 侧重”接受，同意”；admettre 侧重”承认（不情愿的事实）”或”允许进入”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "acceptation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "接受，承认"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "identique",
+            "partOfSpeech": "adj.",
+            "definition": "①相同的，完全一样的 ②一致的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "identique à qch.",
+                    "vocabularyCollocationMeaning": "与某物相同"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des billets identiques",
+                    "vocabularyCollocationMeaning": "相同的纸币"
+                }
+            ],
+            "synonymAnalysis": "identique vs pareil vs même：identique 最强调完全一致（尤指外形、内容）；pareil 较口语化，意为”一样的”；même 用法更广，可作限定词或强调词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "identifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "识别，认同"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "identité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "身份；相同性"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：identiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "18",
+            "vocabulary": "face",
+            "partOfSpeech": "n.f.",
+            "definition": "①面，面孔 ②（钱币的）正面或反面 ③方面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "face à face",
+                    "vocabularyCollocationMeaning": "面对面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire face à qch.",
+                    "vocabularyCollocationMeaning": "面对，应对某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en face de qch.",
+                    "vocabularyCollocationMeaning": "在……对面"
+                }
+            ],
+            "synonymAnalysis": "face vs visage：face 泛指”面，表面”，可用于非人类对象；visage 专指人的脸。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "facette",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "小面，切面；方面"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "facial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "面部的"
+                }
+            ],
+            "pluralForm": "faces"
+        },
+        {
+            "index": "19",
+            "vocabulary": "émission",
+            "partOfSpeech": "n.f.",
+            "definition": "①发行（货币、债券） ②播出，广播节目 ③排放",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "émission de monnaie",
+                    "vocabularyCollocationMeaning": "货币发行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "émission télévisée",
+                    "vocabularyCollocationMeaning": "电视节目"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "émission de CO2",
+                    "vocabularyCollocationMeaning": "二氧化碳排放"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "émettre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "发行；播出；排放；发出（声音）"
+                }
+            ],
+            "pluralForm": "émissions"
+        },
+        {
+            "index": "20",
+            "vocabulary": "banque",
+            "partOfSpeech": "n.f.",
+            "definition": "①银行 ②（数据、血液等）库",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "banque centrale",
+                    "vocabularyCollocationMeaning": "中央银行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "compte en banque",
+                    "vocabularyCollocationMeaning": "银行账户"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "banque de données",
+                    "vocabularyCollocationMeaning": "数据库"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "banquier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "银行家"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bancaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "银行的，银行业的"
+                }
+            ],
+            "pluralForm": "banques"
+        },
+        {
+            "index": "21",
+            "vocabulary": "charger",
+            "partOfSpeech": "vt.",
+            "definition": "①委托，责成 ②装载，装上 ③充电",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "charger qn. de faire qch.",
+                    "vocabularyCollocationMeaning": "委托某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être chargé de qch.",
+                    "vocabularyCollocationMeaning": "负责某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "charger un camion",
+                    "vocabularyCollocationMeaning": "装载卡车"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chargement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "装载；货物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chargeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "充电器；装载者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "fixation",
+            "partOfSpeech": "n.f.",
+            "definition": "①确定，设定 ②固定 ③（心理）固着",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fixation des prix",
+                    "vocabularyCollocationMeaning": "价格设定"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fixation des taux d'intérêt",
+                    "vocabularyCollocationMeaning": "利率设定"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fixer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "确定；固定；凝视"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fixe",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "固定的；不变的"
+                }
+            ],
+            "pluralForm": "fixations"
+        },
+        {
+            "index": "23",
+            "vocabulary": "intérêt",
+            "partOfSpeech": "n.m.",
+            "definition": "①利息，利益 ②兴趣 ③重要性，意义",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "taux d'intérêt",
+                    "vocabularyCollocationMeaning": "利率"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir de l'intérêt pour qch.",
+                    "vocabularyCollocationMeaning": "对某事感兴趣"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans l'intérêt de qn.",
+                    "vocabularyCollocationMeaning": "为了某人的利益"
+                }
+            ],
+            "synonymAnalysis": "intérêt（利息）vs dividende（股息）：intérêt 指借贷资金产生的利息；dividende 指股票分红。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "intéressant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有趣的；合算的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "intéresser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使感兴趣；使有利"
+                }
+            ],
+            "pluralForm": "intérêts"
+        },
+        {
+            "index": "24",
+            "vocabulary": "veiller",
+            "partOfSpeech": "vt.",
+            "definition": "①注意，确保（veiller à） ②守夜，看护 ③保持清醒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "veiller à qch.",
+                    "vocabularyCollocationMeaning": "注意某事，确保某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "veiller à faire qch.",
+                    "vocabularyCollocationMeaning": "注意做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "veiller sur qn.",
+                    "vocabularyCollocationMeaning": "照看某人，守护某人"
+                }
+            ],
+            "synonymAnalysis": "veiller à vs faire attention à：veiller à 更强调主动保障和确保某事的实现，书面语色彩较强；faire attention à 更口语化，强调警觉和小心。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "veilleur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "守夜人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "veillée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "夜晚聚会；守夜"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "25",
+            "vocabulary": "inflation",
+            "partOfSpeech": "n.f.",
+            "definition": "通货膨胀",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "éviter l'inflation",
+                    "vocabularyCollocationMeaning": "避免通货膨胀"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lutter contre l'inflation",
+                    "vocabularyCollocationMeaning": "抗击通货膨胀"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "taux d'inflation",
+                    "vocabularyCollocationMeaning": "通货膨胀率"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inflationniste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "通货膨胀的，导致通胀的"
+                }
+            ],
+            "pluralForm": "inflations（较少用）"
+        },
+        {
+            "index": "26",
+            "vocabulary": "investissement",
+            "partOfSpeech": "n.m.",
+            "definition": "①投资 ②（时间、精力的）投入",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "besoin d'investissement",
+                    "vocabularyCollocationMeaning": "投资需求"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attirer les investissements",
+                    "vocabularyCollocationMeaning": "吸引投资"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "investissement étranger",
+                    "vocabularyCollocationMeaning": "外资，外国投资"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "investir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "投资；投入"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "investisseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "投资者"
+                }
+            ],
+            "pluralForm": "investissements"
+        },
+        {
+            "index": "27",
+            "vocabulary": "fournir",
+            "partOfSpeech": "vt.",
+            "definition": "①提供，供给 ②出示，提交",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fournir qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人提供某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fournir des prêts",
+                    "vocabularyCollocationMeaning": "提供贷款"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fournir des efforts",
+                    "vocabularyCollocationMeaning": "付出努力"
+                }
+            ],
+            "synonymAnalysis": "fournir vs fournir vs procurer：fournir 强调持续供给；procurer 更强调设法获取并给予，语气更主动。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fournisseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "供应商，提供者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fourniture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "供应；文具（复数 fournitures）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "prêt",
+            "partOfSpeech": "n.m.",
+            "definition": "①借贷，贷款 ②借出的物品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fournir des prêts",
+                    "vocabularyCollocationMeaning": "提供贷款"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prêt immobilier",
+                    "vocabularyCollocationMeaning": "房屋贷款"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prêt à taux zéro",
+                    "vocabularyCollocationMeaning": "零利率贷款"
+                }
+            ],
+            "synonymAnalysis": "prêt（n.m.，贷款）vs crédit（n.m.，信贷）：prêt 指一次性借出的款项；crédit 更广泛，可指信用额度或赊购。注意 prêt 同时也是形容词，意为”准备好的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prêter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "出借，借给"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "prêteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "放贷人"
+                }
+            ],
+            "pluralForm": "prêts"
+        },
+        {
+            "index": "29",
+            "vocabulary": "prêter",
+            "partOfSpeech": "vt.",
+            "definition": "①出借，借给 ②赋予，给予",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prêter qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物借给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prêter attention à qch.",
+                    "vocabularyCollocationMeaning": "注意某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prêter serment",
+                    "vocabularyCollocationMeaning": "宣誓"
+                }
+            ],
+            "synonymAnalysis": "prêter vs emprunter：prêter qch. à qn. 意为”把……借给某人”（主语是出借方）；emprunter qch. à qn. 意为”向某人借……”（主语是借入方）。两者方向相反，极易混淆。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prêteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "出借人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "construction",
+            "partOfSpeech": "n.f.",
+            "definition": "①建筑，建设 ②构造，结构 ③（句子的）构成",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "construction des voies ferrées",
+                    "vocabularyCollocationMeaning": "铁路建设"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en construction",
+                    "vocabularyCollocationMeaning": "在建设中"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "construction européenne",
+                    "vocabularyCollocationMeaning": "欧洲一体化建设"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "construire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建造，建设"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "constructeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "建造者，制造商"
+                }
+            ],
+            "pluralForm": "constructions"
+        },
+        {
+            "index": "31",
+            "vocabulary": "voie",
+            "partOfSpeech": "n.f.",
+            "definition": "①路，道路 ②方式，途径 ③轨道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voie ferrée",
+                    "vocabularyCollocationMeaning": "铁路，铁轨"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par voie de qch.",
+                    "vocabularyCollocationMeaning": "通过……途径"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en voie de développement",
+                    "vocabularyCollocationMeaning": "发展中的"
+                }
+            ],
+            "synonymAnalysis": "voie vs route vs chemin：voie 最抽象，可指途径；route 指公路；chemin 指小路或路径，也可比喻道路。",
+            "derivedWords": [],
+            "pluralForm": "voies"
+        },
+        {
+            "index": "32",
+            "vocabulary": "ferré",
+            "partOfSpeech": "adj.",
+            "definition": "①钢铁的；包铁皮的 ②（voie ferrée）铁路",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voie ferrée",
+                    "vocabularyCollocationMeaning": "铁路"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réseau ferré",
+                    "vocabularyCollocationMeaning": "铁路网络"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ferroviaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "铁路的（更常用于正式文本）"
+                }
+            ],
+            "genderNumberVariation": "阴性 ferrée，复数 ferrés / ferrées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "33",
+            "vocabulary": "aéroport",
+            "partOfSpeech": "n.m.",
+            "definition": "飞机场，航空港",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aéroport international",
+                    "vocabularyCollocationMeaning": "国际机场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'aéroport",
+                    "vocabularyCollocationMeaning": "在机场"
+                }
+            ],
+            "synonymAnalysis": "aéroport vs aérodrome：aéroport 指有候机楼设施的大型机场；aérodrome 泛指任何可起降飞机的场所，范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "aéroportuaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "机场的，航空港的"
+                }
+            ],
+            "pluralForm": "aéroports"
+        },
+        {
+            "index": "34",
+            "vocabulary": "installation",
+            "partOfSpeech": "n.f.",
+            "definition": "①设备，装置 ②安装，安置 ③安居，入驻",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "installations industrielles",
+                    "vocabularyCollocationMeaning": "工业设施"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "installation électrique",
+                    "vocabularyCollocationMeaning": "电气设施"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "installation d'une entreprise",
+                    "vocabularyCollocationMeaning": "企业入驻"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "installer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "安装；安置"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'installer",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "定居；就位"
+                }
+            ],
+            "pluralForm": "installations"
+        },
+        {
+            "index": "35",
+            "vocabulary": "protection",
+            "partOfSpeech": "n.f.",
+            "definition": "①保护 ②防护措施",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "protection de l'environnement",
+                    "vocabularyCollocationMeaning": "环境保护"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sous la protection de qn.",
+                    "vocabularyCollocationMeaning": "在某人的保护下"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "protection sociale",
+                    "vocabularyCollocationMeaning": "社会保障"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "protéger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "保护"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "protecteur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "保护性的；保护者"
+                }
+            ],
+            "pluralForm": "protections"
+        },
+        {
+            "index": "36",
+            "vocabulary": "environnement",
+            "partOfSpeech": "n.m.",
+            "definition": "①环境 ②（计算机）运行环境",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "protection de l'environnement",
+                    "vocabularyCollocationMeaning": "环境保护"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "environnement naturel",
+                    "vocabularyCollocationMeaning": "自然环境"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "respecter l'environnement",
+                    "vocabularyCollocationMeaning": "尊重环境，环保"
+                }
+            ],
+            "synonymAnalysis": "environnement vs milieu：environnement 强调周围的自然或社会环境；milieu 更强调所处的社会阶层或群体背景，也可指中间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "environnemental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "环境的，环保的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "environner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "环绕，围绕"
+                }
+            ],
+            "pluralForm": "environnements"
+        },
+        {
+            "index": "37",
+            "vocabulary": "nécessaire",
+            "partOfSpeech": "adj.",
+            "definition": "①必需的，必要的 ②不可缺少的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il est nécessaire de faire qch.",
+                    "vocabularyCollocationMeaning": "有必要做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'argent nécessaire",
+                    "vocabularyCollocationMeaning": "所需资金"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mesures nécessaires",
+                    "vocabularyCollocationMeaning": "必要措施"
+                }
+            ],
+            "synonymAnalysis": "nécessaire vs indispensable vs obligatoire：nécessaire 表示”必要的”（有必要）；indispensable 语气更强，表示”不可缺少的”；obligatoire 表示”强制的，义务的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nécessité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "必要性，需要"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "nécessairement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "必然地，必定"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：nécessaires",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "38",
+            "vocabulary": "relever",
+            "partOfSpeech": "vt.",
+            "definition": "①升起，扶起 ②指出，发现 ③（relever de）隶属于，归……管辖",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relever de qch.",
+                    "vocabularyCollocationMeaning": "隶属于，归……管辖"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "relever la tête",
+                    "vocabularyCollocationMeaning": "抬起头"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "relever un défi",
+                    "vocabularyCollocationMeaning": "应对挑战"
+                }
+            ],
+            "synonymAnalysis": "relever de vs dépendre de：relever de 用于正式行政或组织隶属关系；dépendre de 更通用，也可表示”取决于”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "relevé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "账单；报表；摘录"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je relève, tu relèves, il relève, nous relevons, vous relevez, ils relèvent",
+                "compoundPast": "j'ai relevé",
+                "simpleFuture": "je relèverai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 e + 辅音 + er 型动词，重读时 e 变 è，类似 mener、lever。"
+            }
+        },
+        {
+            "index": "39",
+            "vocabulary": "gouvernement",
+            "partOfSpeech": "n.m.",
+            "definition": "①政府 ②治理，统治",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "gouvernement central",
+                    "vocabularyCollocationMeaning": "中央政府"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chef du gouvernement",
+                    "vocabularyCollocationMeaning": "政府首脑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "former un gouvernement",
+                    "vocabularyCollocationMeaning": "组建政府"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gouverner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "治理，统治"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gouverneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "总督，州长"
+                }
+            ],
+            "pluralForm": "gouvernements"
+        },
+        {
+            "index": "40",
+            "vocabulary": "capital",
+            "partOfSpeech": "n.m.",
+            "definition": "①资本，资金 ②首都（此义为n.f. capitale） ③最重要的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réunir des capitaux",
+                    "vocabularyCollocationMeaning": "筹集资本"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "capital social",
+                    "vocabularyCollocationMeaning": "注册资本"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "capital humain",
+                    "vocabularyCollocationMeaning": "人力资本"
+                }
+            ],
+            "synonymAnalysis": "capital（资本，n.m.）vs capitale（首都，n.f.）：两者词形相近，注意性别区分。作形容词时 capital 意为”最重要的，首要的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "capitalisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "资本主义"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "capitaliste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "资本家；资本主义的"
+                }
+            ],
+            "pluralForm": "capitaux（经济义复数为capitaux；一般义复数为capitaux）"
+        },
+        {
+            "index": "41",
+            "vocabulary": "avantageux",
+            "partOfSpeech": "adj.",
+            "definition": "①有利的，合算的 ②优惠的 ③自负的（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "taux avantageux",
+                    "vocabularyCollocationMeaning": "优惠利率"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conditions avantageuses",
+                    "vocabularyCollocationMeaning": "优惠条件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prix avantageux",
+                    "vocabularyCollocationMeaning": "实惠的价格"
+                }
+            ],
+            "synonymAnalysis": "avantageux vs favorable vs bénéfique：avantageux 强调在利益或条件上的优势；favorable 强调有利于某人或某事的条件；bénéfique 强调带来益处和好处。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "avantage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "优势，好处"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "avantageusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "有利地，合算地"
+                }
+            ],
+            "genderNumberVariation": "阴性 avantageuse，阳性复数 avantageux，阴性复数 avantageuses",
+            "position": "通常置于名词之后"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Pour faciliter le commerce entre les Etats membres, l'Union européenne a décidé de mener une politique pour stabiliser le taux de change. En 1992, par le Traité de Maastricht, le projet de la monnaie unique commence. Le symbole de l'euro, imaginé par la Commission européenne, s'inspire de la lettre grecque epsilon. La Banque centrale européenne, située à Francfort, est chargée de gérer l'euro, et elle doit veiller avant tout à la stabilité des prix pour éviter l'inflation.",
+            "chineseTranslation": "为了促进成员国之间的贸易往来，欧盟决定推行一项稳定汇率的政策。1992年，《马斯特里赫特条约》签署，统一货币计划由此启动。欧元符号由欧盟委员会设计，其灵感来源于希腊字母epsilon。位于法兰克福的欧洲中央银行负责管理欧元，其首要职责是维护物价稳定，以防止通货膨胀。",
+            "fr2cnStrategy": "① Pour faciliter... 目的状语前置，译为”为了……”，符合汉语习惯；② le projet de la monnaie unique commence 使用历史现在时，翻译时转为过去时态，并增译”由此”以显化逻辑关系，属于增译手法；③ imaginé par la Commission européenne 为过去分词插入语，翻译时前置为定语”由欧盟委员会设计的”，再转化为独立分句”由欧盟委员会设计”，属于拆句+语序调整；④ veiller avant tout à la stabilité des prix 中 avant tout 译为”首要职责是”，将副词短语转化为名词谓语结构，属于词性转换；⑤ pour éviter l'inflation 目的不定式短语译为”以防止通货膨胀”，用”以”引导，更符合书面汉语表达习惯。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "为了稳定各国之间的汇率，欧盟推行了一项统一货币政策。",
+                "frenchTranslation": "Pour stabiliser le taux de change entre les pays membres, l'Union européenne a mené une politique de monnaie unique.",
+                "cn2frStrategy": "① “为了……”译为 Pour + 不定式，置于句首；② “推行政策”用 mener une politique；③ “统一货币政策”译为 politique de monnaie unique，名词短语结构，de 连接；④ 动词用复合过去时（a mené），表示已完成的历史行为。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "欧元符号的两条平行线象征着欧元区内部的稳定。",
+                "frenchTranslation": "Les deux lignes parallèles du symbole de l'euro représentent la stabilité à l'intérieur de la zone euro.",
+                "cn2frStrategy": "① “两条平行线”译为 les deux lignes parallèles，注意形容词后置；② “象征”译为 représenter，比 symboliser 更贴近课文原词；③ “欧元区内部的稳定”译为 la stabilité à l'intérieur de la zone euro，抽象名词结构保留，用 à l'intérieur de 表示”在……内部”。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "欧洲投资银行负责为欧盟内部发展较落后的地区提供贷款。",
+                "frenchTranslation": "La Banque européenne d'investissement est chargée de fournir des prêts aux régions moins développées à l'intérieur de l'Union européenne.",
+                "cn2frStrategy": "① “负责……”译为 être chargé de + inf.，为固定搭配；② “提供贷款”译为 fournir des prêts；③ “发展较落后的地区”译为 régions moins développées，用副词 moins + 形容词表示比较；④ “欧盟内部”译为 à l'intérieur de l'Union européenne。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "由于该银行隶属于成员国政府，因此能以优惠条件筹集资本。",
+                "frenchTranslation": "Comme elle relève des gouvernements des Etats membres, elle peut réunir des capitaux à des conditions avantageuses.",
+                "cn2frStrategy": "① “由于”用 Comme 引导原因从句，置于句首；② “隶属于”译为 relever de，注意 relever des 为 relever de + les 的缩合；③ “筹集资本”译为 réunir des capitaux；④ “以优惠条件”译为 à des conditions avantageuses，用 à 引导方式状语。"
+            }
+        ]
+    }
+}
