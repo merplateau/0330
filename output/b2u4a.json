@@ -1,0 +1,1596 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Que faire, quand on a fini son bac et qu'on désire poursuivre ses études en France?",
+            "translatedSentence": "当你完成高中会考、想要在法国继续深造时，该何去何从？",
+            "sentenceStructure": "主句为省略主语的疑问句 Que faire，后接由 quand 引导的时间状语从句，从句内部由 et 连接两个并列分句：on a fini son bac 和 on désire poursuivre ses études en France。",
+            "grammarAnalysis": "① Que faire 为不定式疑问句，省略主语，常用于标题或修辞性提问。② quand 引导时间状语从句，此处使用陈述式现在时，表示一般性情境。③ qu'on 为 que + on 的缩合形式，避免两个元音相邻。④ poursuivre ses études 为固定搭配，意为“继续学业”。",
+            "commonMistakes": "学生易将 Que faire 误解为有主语的疑问句，实际上这是无人称不定式疑问句，相当于 Que doit-on faire。注意 qu'on 是 que + on 的合并，不可写成 que on。"
+        },
+        {
+            "index": "2",
+            "sentence": "Ils seront contents, s'ils peuvent entrer dans une école supérieure idéale.",
+            "translatedSentence": "如果能进入理想的高等院校，他们将会十分满意。",
+            "sentenceStructure": "主句为 Ils seront contents，后接 si 引导的条件状语从句 s'ils peuvent entrer dans une école supérieure idéale。",
+            "grammarAnalysis": "① 条件句第一类型：主句用简单将来时（seront），条件从句用现在时（peuvent），表示可实现的条件。② contents 为形容词，与主语 ils 保持性数一致，用阳性复数形式。③ entrer dans 为固定搭配，意为“进入”。",
+            "commonMistakes": "学生常将条件从句误用将来时，即误写成 s'ils pourront entrer，但法语条件句第一类型规定 si 从句必须用现在时，主句才用将来时。"
+        },
+        {
+            "index": "3",
+            "sentence": "Les études à l'université sont divisées en trois cycles: le premier, de trois ans, est un cycle de formation fondamentale qui conduit à obtenir la licence.",
+            "translatedSentence": "大学学业分为三个阶段：第一阶段为期三年，是旨在取得学士学位的基础培养阶段。",
+            "sentenceStructure": "主句为 Les études à l'université sont divisées en trois cycles，冒号后接解释性分句，主语为 le premier，谓语为 est，表语为 un cycle de formation fondamentale，后跟关系从句 qui conduit à obtenir la licence。",
+            "grammarAnalysis": "① sont divisées 为被动语态，由 être + 过去分词构成，过去分词与主语 les études（阴性复数）保持一致，加 -es。② 插入成分 de trois ans 作同位语，说明时长。③ conduit à + 不定式为固定结构，意为“使……得以，导向……”。④ obtenir la licence 意为“获得学士学位”。",
+            "commonMistakes": "① 被动语态中过去分词需与主语性数一致，divisées 的 -es 不可省略。② conduit à 后接动词不定式，不可接名词（不能写成 conduit à la licence）。"
+        },
+        {
+            "index": "4",
+            "sentence": "Le deuxième est un cycle d'approfondissement qui permet, après deux ans d'études, d'obtenir un master.",
+            "translatedSentence": "第二阶段是深化提高阶段，经过两年学习后可获得硕士学位。",
+            "sentenceStructure": "主句为 Le deuxième est un cycle d'approfondissement，后跟关系从句 qui permet...d'obtenir un master，关系从句中插入状语 après deux ans d'études。",
+            "grammarAnalysis": "① permettre de + 不定式为固定结构，意为“允许……，使……得以”；关系代词 qui 替代先行词 cycle，在关系从句中作主语。② 状语 après deux ans d'études 插入 permettre 与其宾语 d'obtenir 之间，需注意逗号的使用。",
+            "commonMistakes": "permettre de 后须接不定式，不可直接接名词。学生易漏掉 permettre 后的 de，误写成 permet obtenir。"
+        },
+        {
+            "index": "5",
+            "sentence": "Pour entrer dans une «grande école», les étudiants doivent passer un concours assez difficile.",
+            "translatedSentence": "要进入“大学校”，学生必须通过一场颇具难度的竞争性考试。",
+            "sentenceStructure": "目的状语由 Pour + 不定式引导（Pour entrer dans une «grande école»），主句为 les étudiants doivent passer un concours assez difficile。",
+            "grammarAnalysis": "① Pour + 不定式表目的，主句主语与不定式动作的执行者一致（les étudiants）。② devoir + 不定式表示义务或必要性，意为“必须”。③ passer un concours 为固定搭配，意为“参加竞争性考试”，注意不用 faire。",
+            "commonMistakes": "① passer un concours 是固定说法，不可说 faire un concours 或 prendre un concours。② 注意 assez + 形容词表程度，此处 assez difficile 意为“相当困难”，并非“足够困难”。"
+        },
+        {
+            "index": "6",
+            "sentence": "En général, après le bac, ils doivent suivre pendant deux ou trois ans de cours selon leur choix (littéraire, économique, commerciale ou scientifique) dans une classe préparatoire.",
+            "translatedSentence": "一般来说，高中毕业后，他们须根据自己的选择（文学、经济、商业或理科），在预科班学习两到三年。",
+            "sentenceStructure": "主句为 ils doivent suivre...de cours...dans une classe préparatoire，其中包含时间状语 pendant deux ou trois ans、方式状语 selon leur choix 及插入的括号补充说明。",
+            "grammarAnalysis": "① doivent suivre 表必要性义务。② pendant + 时间段表示动作的持续时长。③ selon 为介词，意为“根据，按照”。④ 括号内四个形容词均为形容 choix 的形容词，commerciale 为阴性形式（修饰隐含的 formation 或 voie）。",
+            "commonMistakes": "pendant 与 pour 易混淆：pendant 表示动作实际持续的时间（已发生或正在发生），pour 表示预计将要持续的时间。此处 pendant deux ou trois ans 表明实际学习时长，应用 pendant。"
+        },
+        {
+            "index": "7",
+            "sentence": "Les grandes écoles constituent toujours une voie royale.",
+            "translatedSentence": "“大学校”始终是一条通往成功的康庄大道。",
+            "sentenceStructure": "简单句，主语 Les grandes écoles，谓语 constituent，宾语 une voie royale，副词 toujours 修饰谓语。",
+            "grammarAnalysis": "① constituer 意为“构成，形成”，此处为直接及物动词。② une voie royale 为固定表达，字面义为“王者之路”，引申义为“通往成功的捷径/康庄大道”。③ toujours 置于谓语动词之后（在复合时态中位于助动词和过去分词之间）。",
+            "commonMistakes": "une voie royale 是惯用表达，翻译时应意译为“康庄大道”或“最佳途径”，而非字面直译“皇家之路”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "poursuivre ses études",
+            "meaning": "继续学业，继续深造",
+            "usage": "固定搭配，poursuivre 直接及物，宾语常为 ses études 或 sa formation。书面语与口语均可使用。",
+            "exampleSentence": "quand on a fini son bac et qu'on désire poursuivre ses études en France"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "finir son bac / obtenir le bac",
+            "meaning": "完成高中会考 / 取得高中会考文凭",
+            "usage": "finir son bac 强调完成考试过程；obtenir le bac 强调取得文凭结果。两者均为口语常用表达。",
+            "exampleSentence": "Après avoir obtenu le bac, les lycéens ont un grand choix."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "entrer dans + lieu/établissement",
+            "meaning": "进入（某场所/机构）",
+            "usage": "entrer dans 后接具体地点或机构名称。注意区分 entrer dans（进入）与 entrer à（进入，后接城市或某类机构，如 entrer à l'université）。",
+            "exampleSentence": "s'ils peuvent entrer dans une école supérieure idéale"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "être divisé en + nombre + parties/cycles",
+            "meaning": "被分为……（部分/阶段）",
+            "usage": "被动结构，diviser en 后接数量词+名词。常用于描述分类或阶段划分。",
+            "exampleSentence": "Les études à l'université sont divisées en trois cycles."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "conduire à + infinitif / nom",
+            "meaning": "通向，使得以，导致",
+            "usage": "conduire à + 不定式表示“导向某结果”；conduire à + 名词表示“通向某地/某状态”。注意区分 conduire à（导向结果）与 mener à（引导至）。",
+            "exampleSentence": "un cycle de formation fondamentale qui conduit à obtenir la licence"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "permettre de + infinitif",
+            "meaning": "使得以……，允许……",
+            "usage": "permettre de + 不定式为固定结构，de 不可省略。主语可以是人或事物。与 permettre à qn de faire qch 区分：后者有明确对象。",
+            "exampleSentence": "un cycle d'approfondissement qui permet, après deux ans d'études, d'obtenir un master"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "passer un concours",
+            "meaning": "参加竞争性考试",
+            "usage": "固定搭配，不可用 faire 替代。区分：passer un concours（参加竞争性选拔考试）/ passer un examen（参加一般性考试）/ réussir un concours（通过竞争性考试）。",
+            "exampleSentence": "les étudiants doivent passer un concours assez difficile"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "selon + nom / pronom",
+            "meaning": "根据，按照",
+            "usage": "介词，后接名词或代词，表示依据或标准。书面语常用。近义词 d'après 用法相近但更口语化；suivant 与 selon 基本同义，可替换。",
+            "exampleSentence": "ils doivent suivre pendant deux ou trois ans de cours selon leur choix"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "constituer une voie royale",
+            "meaning": "构成一条康庄大道，是通向成功的最佳途径",
+            "usage": "voie royale 为固定惯用语，意为“最佳路径”。constituer 此处为及物动词，意为“构成”。",
+            "exampleSentence": "Les grandes écoles constituent toujours une voie royale."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "former les cadres de + nom",
+            "meaning": "培养……的干部/管理人才",
+            "usage": "former 作“培养，造就”义时为及物动词，直接接宾语。cadres 在此为复数名词，指管理层或骨干人才。",
+            "exampleSentence": "Elles forment principalement les cadres de l'Etat et des entreprises."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "obtenir un diplôme",
+            "meaning": "获得文凭，取得学位",
+            "usage": "固定搭配，obtenir 后可接 diplôme、licence、master、doctorat 等。注意 obtenir 为不规则动词，与 tenir 变位类似。",
+            "exampleSentence": "On peut obtenir en deux ans un diplôme qui lui permet d'entrer dans la vie professionnelle."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "entrer dans la vie professionnelle",
+            "meaning": "进入职业生涯，踏入职场",
+            "usage": "固定表达，la vie professionnelle 意为“职业生活”。类似表达：entrer dans le monde du travail。",
+            "exampleSentence": "un diplôme qui lui permet d'entrer dans la vie professionnelle"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "il y a encore + nom",
+            "meaning": "还有，此外还有",
+            "usage": "il y a + 名词为存在句；encore 在此表示“另外，除此之外”，起补充列举作用。",
+            "exampleSentence": "Il y a encore d'autres formations supérieures: STS, écoles de commerce, d'ingénieurs, d'architecture..."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "supérieur",
+            "partOfSpeech": "adj.",
+            "definition": "①高等的，高级的 ②上部的，较高的 ③优越的，卓越的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enseignement supérieur",
+                    "vocabularyCollocationMeaning": "高等教育"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "école supérieure",
+                    "vocabularyCollocationMeaning": "高等院校"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "qualité supérieure",
+                    "vocabularyCollocationMeaning": "优等质量"
+                }
+            ],
+            "synonymAnalysis": "supérieur vs élevé：supérieur 强调等级或地位上的“高”；élevé 强调数量或程度上的“高”（如 un prix élevé 高价）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "supériorité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "优越性，优势"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "supérieurement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "卓越地，极好地"
+                }
+            ],
+            "genderNumberVariation": "阴性 supérieure，复数 supérieurs / supérieures",
+            "position": "通常置于名词之后；前置时有时表示等级（如 un supérieur hiérarchique 上级）"
+        },
+        {
+            "index": "2",
+            "vocabulary": "bac",
+            "partOfSpeech": "n.m.",
+            "definition": "①中学毕业会考（baccalauréat 的缩写） ②业士学位",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passer le bac",
+                    "vocabularyCollocationMeaning": "参加高中毕业会考"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "obtenir le bac",
+                    "vocabularyCollocationMeaning": "取得高中毕业会考文凭"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "après le bac",
+                    "vocabularyCollocationMeaning": "高中毕业后"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "baccalauréat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "高中毕业会考（正式说法）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bachelier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "已通过高中毕业会考者"
+                }
+            ],
+            "pluralForm": "bacs"
+        },
+        {
+            "index": "3",
+            "vocabulary": "poursuivre",
+            "partOfSpeech": "vt.",
+            "definition": "①继续，坚持（某事） ②追赶，追逐 ③追求（目标）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "poursuivre ses études",
+                    "vocabularyCollocationMeaning": "继续学业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poursuivre un objectif",
+                    "vocabularyCollocationMeaning": "追求目标"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "poursuivre qn en justice",
+                    "vocabularyCollocationMeaning": "对某人提起诉讼"
+                }
+            ],
+            "synonymAnalysis": "poursuivre vs continuer：两者均可表示“继续”，但 poursuivre 更强调坚持不懈地推进，常用于正式语体；continuer 更口语，用法更广泛。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "poursuite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "追逐；继续；（复数）司法追诉"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je poursuis, tu poursuis, il poursuit, nous poursuivons, vous poursuivez, ils poursuivent",
+                "compoundPast": "j'ai poursuivi",
+                "simpleFuture": "je poursuivrai",
+                "memoryAids": "属于 -uivre 类不规则动词，与 suivre 变位完全相同，在词干前加 pour-。"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "lycéen",
+            "partOfSpeech": "n.m.",
+            "definition": "①中学生，高中生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les lycéens et les étudiants",
+                    "vocabularyCollocationMeaning": "高中生与大学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lycéen de terminale",
+                    "vocabularyCollocationMeaning": "高三学生"
+                }
+            ],
+            "synonymAnalysis": "lycéen 特指就读于 lycée（高中）的学生；élève 泛指所有在校学生（小学至高中）；étudiant 专指大学生。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lycée",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "高中"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lycéenne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女中学生"
+                }
+            ],
+            "pluralForm": "lycéens"
+        },
+        {
+            "index": "5",
+            "vocabulary": "choix",
+            "partOfSpeech": "n.m.",
+            "definition": "①选择，挑选 ②所选之物，选项",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le choix",
+                    "vocabularyCollocationMeaning": "有得选，有选择余地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un choix",
+                    "vocabularyCollocationMeaning": "做出选择"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "selon son choix",
+                    "vocabularyCollocationMeaning": "根据自己的选择"
+                }
+            ],
+            "synonymAnalysis": "choix vs sélection：choix 强调主观的选择行为；sélection 强调依据标准进行筛选的过程，更客观。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "choisir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "选择"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "choisi",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "精选的，精心挑选的"
+                }
+            ],
+            "pluralForm": "choix（单复数同形）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "possibilité",
+            "partOfSpeech": "n.f.",
+            "definition": "①可能性 ②机会，选择项",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir la possibilité de faire qch.",
+                    "vocabularyCollocationMeaning": "有机会做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "première possibilité",
+                    "vocabularyCollocationMeaning": "第一种可能/选项"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "envisager toutes les possibilités",
+                    "vocabularyCollocationMeaning": "考虑所有可能性"
+                }
+            ],
+            "synonymAnalysis": "possibilité vs probabilité：possibilité 指事物在逻辑上可能发生；probabilité 指根据已知条件推断某事发生的概率。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "possible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可能的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "possiblement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "可能地（较少用）"
+                }
+            ],
+            "pluralForm": "possibilités"
+        },
+        {
+            "index": "7",
+            "vocabulary": "accueillir",
+            "partOfSpeech": "vt.",
+            "definition": "①迎接，接待 ②容纳，接收",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "accueillir des étudiants",
+                    "vocabularyCollocationMeaning": "接收学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "accueillir chaleureusement qn.",
+                    "vocabularyCollocationMeaning": "热情接待某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être bien accueilli",
+                    "vocabularyCollocationMeaning": "受到热情款待"
+                }
+            ],
+            "synonymAnalysis": "accueillir vs recevoir：两者均有“接待”之义，accueillir 更强调主动迎接的姿态；recevoir 更中性，仅指接收或接待。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "accueil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "接待；欢迎；迎宾处"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "accueillant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "热情好客的，宾至如归的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'accueille, tu accueilles, il accueille, nous accueillons, vous accueillez, ils accueillent",
+                "compoundPast": "j'ai accueilli",
+                "simpleFuture": "j'accueillerai",
+                "memoryAids": "属于 -eillir 类不规则动词，与 cueillir 变位相同；词干 accueil- 在各人称保持稳定，注意不要漏写 -e。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "varié",
+            "partOfSpeech": "adj.",
+            "definition": "①多样化的，各种各样的 ②多变的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "formations variées",
+                    "vocabularyCollocationMeaning": "多样化的培养方向"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "repas varié",
+                    "vocabularyCollocationMeaning": "花样繁多的饮食"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "activités variées",
+                    "vocabularyCollocationMeaning": "丰富多彩的活动"
+                }
+            ],
+            "synonymAnalysis": "varié vs divers：varié 强调内部多样性，常指同一类事物中有多种形式；divers 强调种类的差异性，含“各不相同”的意思。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "varier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使多样化，变化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "variété",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "多样性；品种"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "variation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "变化，变动"
+                }
+            ],
+            "genderNumberVariation": "阴性 variée，复数 variés / variées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "9",
+            "vocabulary": "diviser",
+            "partOfSpeech": "vt.",
+            "definition": "①划分，分开 ②（数学）除，做除法",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "diviser en + nombre + parties",
+                    "vocabularyCollocationMeaning": "分为……个部分"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "diviser par",
+                    "vocabularyCollocationMeaning": "除以（数学）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être divisé en",
+                    "vocabularyCollocationMeaning": "被分为"
+                }
+            ],
+            "synonymAnalysis": "diviser vs séparer：diviser 强调将整体切分为若干部分；séparer 强调将原本相连的事物分开，更强调分离状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "division",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "划分；除法；部门"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "divisible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可分的；可整除的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "cycle",
+            "partOfSpeech": "n.m.",
+            "definition": "①学习阶段，学制周期 ②周期，循环",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "premier / deuxième / troisième cycle",
+                    "vocabularyCollocationMeaning": "第一/二/三学习阶段"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cycle de formation",
+                    "vocabularyCollocationMeaning": "培训周期"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cycle économique",
+                    "vocabularyCollocationMeaning": "经济周期"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cyclique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "周期性的，循环的"
+                }
+            ],
+            "pluralForm": "cycles"
+        },
+        {
+            "index": "11",
+            "vocabulary": "fondamental",
+            "partOfSpeech": "adj.",
+            "definition": "①基础的，基本的 ②本质的，根本的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "formation fondamentale",
+                    "vocabularyCollocationMeaning": "基础培养"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "recherche fondamentale",
+                    "vocabularyCollocationMeaning": "基础研究"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "droit fondamental",
+                    "vocabularyCollocationMeaning": "基本权利"
+                }
+            ],
+            "synonymAnalysis": "fondamental vs essentiel：fondamental 更强调作为基础的根本性；essentiel 更强调不可缺少的必要性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fondement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "基础，根基"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fonder",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建立，创建"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "fondamentalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "从根本上，基本上"
+                }
+            ],
+            "genderNumberVariation": "阴性 fondamentale，复数 fondamentaux（阳性）/ fondamentales（阴性）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "12",
+            "vocabulary": "licence",
+            "partOfSpeech": "n.f.",
+            "definition": "①学士学位 ②执照，许可证 ③（文学）过度的自由",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir la licence",
+                    "vocabularyCollocationMeaning": "取得学士学位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "licence de droit / de lettres",
+                    "vocabularyCollocationMeaning": "法学/文学学士"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "licence professionnelle",
+                    "vocabularyCollocationMeaning": "职业学士"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "licencié",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "学士；持证人"
+                }
+            ],
+            "pluralForm": "licences"
+        },
+        {
+            "index": "13",
+            "vocabulary": "approfondissement",
+            "partOfSpeech": "n.m.",
+            "definition": "①加深，深化 ②深入研究",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cycle d'approfondissement",
+                    "vocabularyCollocationMeaning": "深化提高阶段"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "approfondissement des connaissances",
+                    "vocabularyCollocationMeaning": "深化知识"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "approfondir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加深，深入研究"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "approfondi",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "深入的，透彻的"
+                }
+            ],
+            "pluralForm": "approfondissements"
+        },
+        {
+            "index": "14",
+            "vocabulary": "master",
+            "partOfSpeech": "n.m.",
+            "definition": "①硕士学位",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir un master",
+                    "vocabularyCollocationMeaning": "取得硕士学位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "master 1 / master 2",
+                    "vocabularyCollocationMeaning": "硕士一年级/二年级"
+                }
+            ],
+            "synonymAnalysis": "master 为英语借词，是法国教育体制中硕士学位的正式称谓，对应旧制中的 maîtrise（硕士）和 DEA（深入研究文凭）。",
+            "derivedWords": [],
+            "pluralForm": "masters"
+        },
+        {
+            "index": "15",
+            "vocabulary": "doctorat",
+            "partOfSpeech": "n.m.",
+            "definition": "①博士学位",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préparer un doctorat",
+                    "vocabularyCollocationMeaning": "攻读博士学位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "soutenir un doctorat",
+                    "vocabularyCollocationMeaning": "答辩博士论文"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "doctorat d'État",
+                    "vocabularyCollocationMeaning": "国家博士学位"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "docteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "博士；医生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "doctoral",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "博士的，博士阶段的"
+                }
+            ],
+            "pluralForm": "doctorats"
+        },
+        {
+            "index": "16",
+            "vocabulary": "également",
+            "partOfSpeech": "adv.",
+            "definition": "①同样地，也 ②相等地，均等地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "peut également faire qch.",
+                    "vocabularyCollocationMeaning": "也可以做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "répartir également",
+                    "vocabularyCollocationMeaning": "均等分配"
+                }
+            ],
+            "synonymAnalysis": "également vs aussi：两者均可表示“也”；également 更正式，常用于书面语；aussi 更口语，且在句子中位置更灵活（也可置于句尾）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "égal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "相等的，平等的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "égalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "平等，相等"
+                }
+            ],
+            "useExplanation": "通常置于动词之后（在复合时态中位于助动词和过去分词之间）。不可置于句首（与 aussi 不同，aussi 可置于句首但需倒装）。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "court",
+            "partOfSpeech": "adj.",
+            "definition": "①短的，短暂的 ②（身材）矮小的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "études supérieures courtes",
+                    "vocabularyCollocationMeaning": "短期高等学业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à court terme",
+                    "vocabularyCollocationMeaning": "短期内"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "couper court à qch.",
+                    "vocabularyCollocationMeaning": "断然终止某事"
+                }
+            ],
+            "synonymAnalysis": "court vs bref：court 指时间或空间上的“短”；bref 更常用于时间，且多用于口语，bref 也可作副词意为“总之”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "raccourcir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "缩短"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "raccourci",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "捷径"
+                }
+            ],
+            "genderNumberVariation": "阴性 courte，复数 courts / courtes",
+            "position": "可置于名词前或后；前置较常见（un court séjour 短暂停留）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "technologie",
+            "partOfSpeech": "n.f.",
+            "definition": "①工艺，技术学 ②技术（泛指）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "institut universitaire de technologie",
+                    "vocabularyCollocationMeaning": "大学技术学院（IUT）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nouvelles technologies",
+                    "vocabularyCollocationMeaning": "新技术"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "technologie de pointe",
+                    "vocabularyCollocationMeaning": "尖端技术"
+                }
+            ],
+            "synonymAnalysis": "technologie vs technique：technologie 更偏向学科或系统性的技术知识；technique 更指具体操作方法或技能。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "technologique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "技术的，工艺的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "technologue",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "技术专家"
+                }
+            ],
+            "pluralForm": "technologies"
+        },
+        {
+            "index": "19",
+            "vocabulary": "institut",
+            "partOfSpeech": "n.m.",
+            "definition": "①学院，研究所 ②机构，协会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "institut universitaire de technologie",
+                    "vocabularyCollocationMeaning": "大学技术学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "institut de recherche",
+                    "vocabularyCollocationMeaning": "研究所"
+                }
+            ],
+            "synonymAnalysis": "institut vs école vs faculté：institut 指专业性机构或研究机构；école 指各类学校（从小学到高等院校）；faculté 特指大学中的某个学院（如 faculté de droit 法学院）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "institution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "机构，制度"
+                }
+            ],
+            "pluralForm": "instituts"
+        },
+        {
+            "index": "20",
+            "vocabulary": "diplôme",
+            "partOfSpeech": "n.m.",
+            "definition": "①文凭，学位证书 ②资格证书",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir un diplôme",
+                    "vocabularyCollocationMeaning": "获得文凭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passer un diplôme",
+                    "vocabularyCollocationMeaning": "参加取得文凭的考试"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "diplôme universitaire",
+                    "vocabularyCollocationMeaning": "大学文凭"
+                }
+            ],
+            "synonymAnalysis": "diplôme vs certificat：diplôme 通常指正式学历证书（学士、硕士等）；certificat 更指某种技能或培训的结业证明，层次相对较低。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "diplômé",
+                    "derivedWordPartOfSpeech": "adj./n.m.",
+                    "derivedWordMeaning": "有文凭的；毕业生，持证人"
+                }
+            ],
+            "pluralForm": "diplômes"
+        },
+        {
+            "index": "21",
+            "vocabulary": "professionnel",
+            "partOfSpeech": "adj.",
+            "definition": "①职业的，行业的 ②专业的，内行的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vie professionnelle",
+                    "vocabularyCollocationMeaning": "职业生涯"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "formation professionnelle",
+                    "vocabularyCollocationMeaning": "职业培训"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "secret professionnel",
+                    "vocabularyCollocationMeaning": "职业保密"
+                }
+            ],
+            "synonymAnalysis": "professionnel vs métier（名词）：professionnel 作形容词修饰职业性质；métier 是名词，指具体职业或手艺。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "profession",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "职业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "professionnellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "职业地，专业地"
+                }
+            ],
+            "genderNumberVariation": "阴性 professionnelle，复数 professionnels / professionnelles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "22",
+            "vocabulary": "concours",
+            "partOfSpeech": "n.m.",
+            "definition": "①竞争性考试，会考 ②竞赛，比赛 ③协助，配合",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passer un concours",
+                    "vocabularyCollocationMeaning": "参加竞争性考试"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réussir un concours",
+                    "vocabularyCollocationMeaning": "通过竞争性考试"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "concours d'entrée",
+                    "vocabularyCollocationMeaning": "入学考试"
+                }
+            ],
+            "synonymAnalysis": "concours vs examen：concours 是竞争性考试，名额有限，录取人数固定；examen 是一般性考试，只要达标即可通过，无名额限制。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concourir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "参加竞争；共同促成"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concurrent",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "竞争者；参赛者"
+                }
+            ],
+            "pluralForm": "concours（单复数同形）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "littéraire",
+            "partOfSpeech": "adj.",
+            "definition": "①文学的，文科的 ②偏重文学的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classe littéraire",
+                    "vocabularyCollocationMeaning": "文科班"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "œuvre littéraire",
+                    "vocabularyCollocationMeaning": "文学作品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prix littéraire",
+                    "vocabularyCollocationMeaning": "文学奖"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "littérature",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "文学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "littérateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "文学家（略带贬义）"
+                }
+            ],
+            "genderNumberVariation": "复数 littéraires（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "24",
+            "vocabulary": "économique",
+            "partOfSpeech": "adj.",
+            "definition": "①经济的，经济学的 ②经济实惠的，节约的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classe économique",
+                    "vocabularyCollocationMeaning": "经济班（预科类型）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "crise économique",
+                    "vocabularyCollocationMeaning": "经济危机"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "croissance économique",
+                    "vocabularyCollocationMeaning": "经济增长"
+                }
+            ],
+            "synonymAnalysis": "économique（经济的）vs économe（节俭的）：économique 更多指经济领域，也可指“实惠”；économe 专指人的节俭习惯。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "économie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "经济；节约"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "économiste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "经济学家"
+                }
+            ],
+            "genderNumberVariation": "复数 économiques（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "25",
+            "vocabulary": "commercial",
+            "partOfSpeech": "adj.",
+            "definition": "①贸易的，商业的 ②商务的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "école commerciale",
+                    "vocabularyCollocationMeaning": "商学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "relation commerciale",
+                    "vocabularyCollocationMeaning": "商业关系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "centre commercial",
+                    "vocabularyCollocationMeaning": "购物中心"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commerce",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "商业，贸易"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "commercialiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "商业化，推向市场"
+                }
+            ],
+            "genderNumberVariation": "阴性 commerciale，复数 commerciaux（阳性）/ commerciales（阴性）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "26",
+            "vocabulary": "scientifique",
+            "partOfSpeech": "adj.",
+            "definition": "①科学的，理科的 ②符合科学方法的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classe scientifique",
+                    "vocabularyCollocationMeaning": "理科班"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "recherche scientifique",
+                    "vocabularyCollocationMeaning": "科学研究"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "méthode scientifique",
+                    "vocabularyCollocationMeaning": "科学方法"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "science",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "科学；学科"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "scientifiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "科学地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "scientifique",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "科学家"
+                }
+            ],
+            "genderNumberVariation": "复数 scientifiques（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "27",
+            "vocabulary": "préparatoire",
+            "partOfSpeech": "adj.",
+            "definition": "①预备的，准备的 ②预科的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classe préparatoire",
+                    "vocabularyCollocationMeaning": "预科班（CPGE）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travail préparatoire",
+                    "vocabularyCollocationMeaning": "准备工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "préparer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "准备"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "préparation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "准备，备考"
+                }
+            ],
+            "genderNumberVariation": "复数 préparatoires（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "28",
+            "vocabulary": "constituer",
+            "partOfSpeech": "vt.",
+            "definition": "①组成，构成 ②建立，设立",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "constituer une voie royale",
+                    "vocabularyCollocationMeaning": "构成康庄大道"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "constituer un dossier",
+                    "vocabularyCollocationMeaning": "建立档案"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se constituer en",
+                    "vocabularyCollocationMeaning": "自组成……，成立为……"
+                }
+            ],
+            "synonymAnalysis": "constituer vs composer：constituer 强调整体由若干部分形成（外视角）；composer 强调各部分共同组成整体（内视角）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "constitution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "构成；宪法"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "constitutionnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "宪法的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "29",
+            "vocabulary": "royal",
+            "partOfSpeech": "adj.",
+            "definition": "①皇家的，王室的 ②（口语）极好的，非凡的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voie royale",
+                    "vocabularyCollocationMeaning": "康庄大道，最佳路径（惯用语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "famille royale",
+                    "vocabularyCollocationMeaning": "王室"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "palais royal",
+                    "vocabularyCollocationMeaning": "王宫"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "royauté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "王权，王位"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "royalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "王者般地；（口语）完全地"
+                }
+            ],
+            "genderNumberVariation": "阴性 royale，复数 royaux（阳性）/ royales（阴性）",
+            "position": "通常置于名词之后；在 voie royale 等固定表达中置后"
+        },
+        {
+            "index": "30",
+            "vocabulary": "polytechnique",
+            "partOfSpeech": "adj.",
+            "definition": "①综合工科的，理工的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "École Polytechnique",
+                    "vocabularyCollocationMeaning": "综合理工学院（法国顶尖大学校之一）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "technique",
+                    "derivedWordPartOfSpeech": "adj./n.f.",
+                    "derivedWordMeaning": "技术的；技术"
+                }
+            ],
+            "genderNumberVariation": "复数 polytechniques（阴阳性同形）",
+            "position": "通常置于名词之后，或作专有名词的组成部分"
+        },
+        {
+            "index": "31",
+            "vocabulary": "administration",
+            "partOfSpeech": "n.f.",
+            "definition": "①行政管理，行政机关 ②管理，经营",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "École nationale d'administration",
+                    "vocabularyCollocationMeaning": "国家行政学院（ENA）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "administration publique",
+                    "vocabularyCollocationMeaning": "公共行政"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "administration des affaires",
+                    "vocabularyCollocationMeaning": "工商管理"
+                }
+            ],
+            "synonymAnalysis": "administration vs gestion：administration 更偏向政府/公共机构的行政管理；gestion 更偏向企业或项目的经营管理。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "administrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "管理，行政"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "administrateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "管理者，行政人员"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "administratif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "行政的"
+                }
+            ],
+            "pluralForm": "administrations"
+        },
+        {
+            "index": "32",
+            "vocabulary": "normal",
+            "partOfSpeech": "adj.",
+            "definition": "①正常的，常规的 ②师范的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "École normale supérieure",
+                    "vocabularyCollocationMeaning": "高等师范学院（ENS）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est normal",
+                    "vocabularyCollocationMeaning": "这是正常的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "conditions normales",
+                    "vocabularyCollocationMeaning": "正常条件下"
+                }
+            ],
+            "synonymAnalysis": "normal vs ordinaire：normal 强调符合规律或标准；ordinaire 更强调“普通、平常”，有时带轻微贬义（如 vin ordinaire 普通餐酒）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "normalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "正常状态"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "normalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "正常地，通常"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "normaliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使正常化，标准化"
+                }
+            ],
+            "genderNumberVariation": "阴性 normale，复数 normaux（阳性）/ normales（阴性）",
+            "position": "通常置于名词之后；在固定表达如 École normale 中前置"
+        },
+        {
+            "index": "33",
+            "vocabulary": "former",
+            "partOfSpeech": "vt.",
+            "definition": "①培养，形成 ②组建，建立 ③使成形",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "former des cadres",
+                    "vocabularyCollocationMeaning": "培养干部/管理人才"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "former une équipe",
+                    "vocabularyCollocationMeaning": "组建一支团队"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se former",
+                    "vocabularyCollocationMeaning": "接受培训；形成"
+                }
+            ],
+            "synonymAnalysis": "former vs éduquer vs entraîner：former 强调系统性培养使具备某种能力；éduquer 强调道德品质的教育；entraîner 更多指体育或实操训练。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "formation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "培训，培养；学业课程"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "formateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "培训师，培训者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "34",
+            "vocabulary": "principalement",
+            "partOfSpeech": "adv.",
+            "definition": "①主要地，首要地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "former principalement les cadres",
+                    "vocabularyCollocationMeaning": "主要培养管理人才"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "principalement composé de",
+                    "vocabularyCollocationMeaning": "主要由……组成"
+                }
+            ],
+            "synonymAnalysis": "principalement vs surtout vs essentiellement：principalement 表示“主要地”，较中性；surtout 口语色彩更强，意为“尤其，最主要是”；essentiellement 强调“从本质上，根本上”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "principal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "主要的，首要的"
+                }
+            ],
+            "useExplanation": "通常置于动词之后，或置于过去分词之前（在复合时态中位于助动词和过去分词之间）。"
+        },
+        {
+            "index": "35",
+            "vocabulary": "cadre",
+            "partOfSpeech": "n.m.",
+            "definition": "①干部，管理人员 ②框架，边框 ③范围，背景",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cadres de l'État",
+                    "vocabularyCollocationMeaning": "国家干部，政府管理人员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cadre supérieur",
+                    "vocabularyCollocationMeaning": "高级管理人员"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans le cadre de",
+                    "vocabularyCollocationMeaning": "在……框架/范围内"
+                }
+            ],
+            "synonymAnalysis": "cadre vs dirigeant：cadre 泛指各级管理人员和骨干；dirigeant 特指高层决策者、领导者，层级更高。",
+            "derivedWords": [],
+            "pluralForm": "cadres"
+        },
+        {
+            "index": "36",
+            "vocabulary": "section",
+            "partOfSpeech": "n.f.",
+            "definition": "①科室，部门 ②部分，段落 ③（法律）条款",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "section de techniciens supérieurs",
+                    "vocabularyCollocationMeaning": "高级技师班（STS）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "section littéraire",
+                    "vocabularyCollocationMeaning": "文科班"
+                }
+            ],
+            "synonymAnalysis": "section vs département vs service：三者均可指机构内的部门；section 更小，département 居中，service 更接近中文“处室”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sectionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "切断，截断"
+                }
+            ],
+            "pluralForm": "sections"
+        },
+        {
+            "index": "37",
+            "vocabulary": "architecture",
+            "partOfSpeech": "n.f.",
+            "definition": "①建筑学 ②建筑风格，建筑结构",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "école d'architecture",
+                    "vocabularyCollocationMeaning": "建筑学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "architecture moderne",
+                    "vocabularyCollocationMeaning": "现代建筑"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "architecte",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "建筑师"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "architectural",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "建筑的，建筑学的"
+                }
+            ],
+            "pluralForm": "architectures"
+        },
+        {
+            "index": "38",
+            "vocabulary": "rentrée",
+            "partOfSpeech": "n.f.",
+            "definition": "①开学；回来，返回 ②（秋季）开学季，各种活动重新开始的时节",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la rentrée",
+                    "vocabularyCollocationMeaning": "开学时；新学年开始时"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rentrée scolaire",
+                    "vocabularyCollocationMeaning": "新学年开学"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rentrée 2010",
+                    "vocabularyCollocationMeaning": "2010学年开学季"
+                }
+            ],
+            "synonymAnalysis": "rentrée 在法语文化中有特殊含义，专指每年九月初的全面“重启”（学校、议会、文化演出等同时回归），不仅仅是“开学”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rentrer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "回来，返回；重新开始"
+                }
+            ],
+            "pluralForm": "rentrées"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Que faire, quand on a fini son bac et qu'on désire poursuivre ses études en France? Les études à l'université sont divisées en trois cycles: le premier conduit à obtenir la licence, le deuxième permet d'obtenir un master après deux ans d'approfondissement. Pour entrer dans une «grande école», les étudiants doivent passer un concours assez difficile. Ces établissements constituent toujours une voie royale, car ils forment principalement les cadres de l'État et des entreprises.",
+            "chineseTranslation": "在法国，高中毕业后想要继续深造，该何去何从？大学学业分为三个阶段：第一阶段通向学士学位，第二阶段经过两年深化学习可取得硕士学位。要进入“大学校”，学生必须通过一场颇具难度的竞争性考试。这些院校始终是一条通往成功的康庄大道，因为它们主要肩负着为国家和企业培养管理人才的使命。",
+            "fr2cnStrategy": "① «grande école» 加引号且为专有表达，译为“大学校”并保留引号，属于音译加文化补充。② voie royale 为惯用语，不可直译，需意译为“康庄大道”或“最佳路径”，属于惯用语意译。③ les cadres de l'État et des entreprises 中的 cadres 译为“管理人才”，比“干部”更贴合现代语境，属于词义选择。④ 末句 car ils forment...译为“因为它们……肩负着……使命”，将“培养”名物化后再转回动词结构，并增译“使命”以使中文更自然，属于增译与词性转换。⑤ 疑问句 Que faire 译为“该何去何从”，以地道的中文惯用表达替代直译“做什么”，属于语序调整与习语替换。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "完成高中毕业会考后，他想继续攻读大学，但不确定该选哪个方向。",
+                "frenchTranslation": "Après avoir obtenu le bac, il veut poursuivre ses études à l'université, mais il ne sait pas encore quelle filière choisir.",
+                "cn2frStrategy": "① “完成高中毕业会考后”用 après avoir obtenu le bac，属于不定式完成时，主语与主句一致，无需重复主语。② “攻读大学”译为 poursuivre ses études à l'université，固定搭配。③ “不确定该选哪个方向”用 ne sait pas encore quelle filière choisir，以间接疑问句处理，疑问词 quelle 置于从句首，动词用不定式。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "大学校始终是法国最优秀毕业生的首选，因为它们培养的是未来的国家管理人才。",
+                "frenchTranslation": "Les grandes écoles constituent toujours le premier choix des meilleurs lycéens français, car elles forment les futurs cadres de l'État.",
+                "cn2frStrategy": "① “始终是……首选”用 constituer toujours le premier choix，固定动词 constituer 配合副词 toujours。② “最优秀的毕业生”译为 les meilleurs lycéens，使用形容词最高级前置。③ “未来的”用 futurs 前置于名词，属于形容词前置表时间含义。④ car 引导原因从句，比 parce que 更正式，适合书面语。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "法国的高等教育被分为三个阶段，分别通向学士、硕士和博士学位。",
+                "frenchTranslation": "L'enseignement supérieur en France est divisé en trois cycles, qui conduisent respectivement à la licence, au master et au doctorat.",
+                "cn2frStrategy": "① “被分为”用 être divisé en，被动语态，过去分词与主语性数一致。② “分别”译为 respectivement，副词置于动词后。③ “通向……学位”用 conduire à + 名词，介词 à 与阴性名词 la licence 连用，与阳性名词 le master / le doctorat 缩合为 au。④ 后半句处理为关系从句 qui conduisent...，使句子结构更紧凑。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "要进入预科班，学生一般需要根据自己的兴趣选择文学、经济或理科方向。",
+                "frenchTranslation": "Pour entrer dans une classe préparatoire, les étudiants doivent généralement choisir une filière selon leurs intérêts: littéraire, économique ou scientifique.",
+                "cn2frStrategy": "① “要进入……”用 Pour + 不定式表目的，置于句首。② “一般需要”用 doivent généralement，情态动词 devoir + 副词 généralement，副词置于动词后。③ “根据自己的兴趣”用 selon leurs intérêts，介词 selon 表依据。④ 三个方向以冒号列举，末尾使用 ou 表示选择关系。"
+            }
+        ]
+    }
+}

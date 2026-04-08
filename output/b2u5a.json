@@ -1,0 +1,1500 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Après la Seconde Guerre mondiale, des centaines de milliers de logements ont été construits dans la région parisienne: HLM, bâtiments de luxe...Cela faisait partie du développement de la ville.",
+            "translatedSentence": "二战结束后，巴黎地区建起了数十万套住宅：廉租房、豪华楼盘……这是城市发展的组成部分。",
+            "sentenceStructure": "主句为 des centaines de milliers de logements ont été construits dans la région parisienne，冒号后列举具体类型，最后以 Cela faisait partie du développement de la ville 作补充说明句。",
+            "grammarAnalysis": "① ont été construits 为复合过去时被动语态（avoir + été + 过去分词），主语为 des centaines de milliers de logements，注意过去分词需与主语保持性数一致：construits（阳性复数）。② faisait 为未完成过去时，描述过去持续的状态。③ faire partie de 为固定搭配，意为「是……的组成部分」。",
+            "commonMistakes": "① 被动语态中 avoir + été + p.p. 与 être + p.p. 易混淆：前者为复合过去时被动，后者为现在时被动，时态含义不同。② centaines de milliers de 为固定数量表达，注意 centaine 和 millier 均需加复数 -s，其后名词也用复数。"
+        },
+        {
+            "index": "2",
+            "sentence": "Pourtant, des problèmes apparaissaient aussi: chacun était enfermé dans son appartement, personne ne connaissait personne, personne ne parlait à personne, le voisinage n'existait plus ...",
+            "translatedSentence": "然而，问题也随之而来：每个人都把自己关在公寓里，谁都不认识谁，谁都不和谁说话，邻里关系荡然无存……",
+            "sentenceStructure": "主句为 des problèmes apparaissaient，冒号后以四个并列分句展开说明，形成排比结构：chacun était enfermé.../ personne ne connaissait.../ personne ne parlait.../ le voisinage n'existait plus。",
+            "grammarAnalysis": "① 四个分句均使用未完成过去时（imparfait），描述过去持续存在的状态，与前文呼应。② personne ne... 为否定结构，personne 作主语时，谓语动词仍需加 ne（ne...personne 也可作宾语否定）。③ ne...plus 表示「不再……」，否定的是动作的持续性。④ chacun 作主语时，配套的物主代词用 son/sa/ses（与 chacun 的单数呼应）。",
+            "commonMistakes": "① personne 作主语时易忘记保留 ne，写成 personne connaissait，这是错误的。② ne...plus 中 plus 的位置：简单时态中 ne + 动词 + plus；复合时态中 ne + 助动词 + plus + 过去分词。"
+        },
+        {
+            "index": "3",
+            "sentence": "En 1990, dans le 17e arrondissement de Paris, est née l'Association «Paris d'amis», qui avait pour objectif d'améliorer le voisinage, de mettre fin aux conflits entre les voisins et de favoriser la solidarité du quartier.",
+            "translatedSentence": "1990年，在巴黎第十七区，「巴黎之友」协会正式成立，其宗旨是改善邻里关系、消除邻里纠纷、促进街区团结。",
+            "sentenceStructure": "主句采用倒装结构：est née l'Association «Paris d'amis»（谓语提前，主语后置）；其后由关系代词 qui 引导定语从句，从句内三个不定式短语（d'améliorer.../ de mettre fin.../ de favoriser...）并列，共同充当 objectif 的内容补充。",
+            "grammarAnalysis": "① est née 为复合过去时，助动词用 être，说明 naître 属于以 être 为助动词的不及物动词；过去分词 née 与主语 l'Association（阴性）一致，加 -e。② 句首状语（地点 + 时间）引发主谓倒装，是法语书面语的常见修辞手法。③ avoir pour objectif de + inf. 为固定结构，意为「以……为目标」。④ mettre fin à qch. 为固定搭配，意为「终结某事」，注意 à + les = aux。",
+            "commonMistakes": "① naître 的复合过去时助动词为 être，而非 avoir，初学者容易混淆。② 倒装句中过去分词需与后置主语保持性数一致：主语为阴性单数 l'Association，故为 née。③ mettre fin aux conflits 中 aux 是 à + les 的缩合，不可省略介词 à。"
+        },
+        {
+            "index": "4",
+            "sentence": "Véritable fête de voisins, il permet aux habitants de se retrouver, un soir dans l'année, autour d'un apéritif ou d'un buffet: quelques tables et même seulement des chaises au pied d'un immeuble, dans une cour ou sur une place... chaque famille apporte un plat, et la fête commence !",
+            "translatedSentence": "作为一场真正的邻里节日，它让居民们得以在一年中的某个夜晚相聚，共享开胃酒或自助餐：或许只是楼下的几张桌子，甚至只有几把椅子，摆在院子里或广场上……每家各带一道菜，节日就这样开始了！",
+            "sentenceStructure": "Véritable fête de voisins 为名词短语，作同位语修饰主句主语 il（指代 cet événement）；主句为 il permet aux habitants de se retrouver，其后状语和补充说明层层叠加；冒号后为场景描写，最后以 et 连接并列分句收尾。",
+            "grammarAnalysis": "① permettre à qn. de faire qch. 为固定结构：permettre + à + 人 + de + 不定式。② se retrouver 为代词式动词，此处意为「相聚，重逢」。③ autour de 表示「围绕，在……周围」，此处引申为「以……为中心（聚在一起）」。④ au pied de 为固定介词短语，意为「在……脚下，在……底部」。",
+            "commonMistakes": "① permettre 的结构易误用为 permettre à qn. faire qch.（漏掉 de），正确结构必须有 de + 不定式。② se retrouver 与 retrouver 含义不同：retrouver 为及物动词，意为「重新找到」；se retrouver 为代词式动词，意为「相聚」或「发现自己处于某种状态」。"
+        },
+        {
+            "index": "5",
+            "sentence": "Au-delà des gestes de convivialité, les gens participent aux activités du quartier: ici le soutien des voisins en difficulté, là encore des locataires qui fêtent ensemble les événements heureux de la vie comme les mariages ou les naissances...",
+            "translatedSentence": "除了这些融洽的互动姿态，居民们还积极参与街区活动：这边是对陷入困境的邻居施以援手，那边又有租客们共同庆祝生活中的喜事——婚礼或新生儿的降临……",
+            "sentenceStructure": "主句为 les gens participent aux activités du quartier，冒号后用 ici...là encore... 的对比并列结构展开具体描述；qui fêtent ensemble... 为修饰 locataires 的定语从句。",
+            "grammarAnalysis": "① participer à qch. 为固定搭配，à + les = aux，不可省略。② ici...là... 呼应使用，构成空间对比，在叙述中起列举和对比的修辞作用。③ en difficulté 为形容词性介词短语，作后置定语，修饰 voisins。④ comme 此处作介词，引导举例，意为「例如，如」。",
+            "commonMistakes": "① participer 后必须接介词 à，不可直接接宾语（participer les activités 为错误用法）。② ici/là 在此不表示具体方位，而是叙事性的「这里……那里……」，属于修辞用法，翻译时应意译为「一方面……另一方面……」或「这边……那边……」。"
+        },
+        {
+            "index": "6",
+            "sentence": "À l'heure où l'on préfère rester chez soi, la fête des voisins peut être l'occasion de changer les images négatives et de découvrir que finalement les voisins sont sympa.",
+            "translatedSentence": "在人们更倾向于宅在家中的当下，邻居节或许正是一个改变负面印象、重新发现邻居其实挺友善的契机。",
+            "sentenceStructure": "À l'heure où... 引导时间状语从句（où 为关系副词，先行词为 l'heure）；主句为 la fête des voisins peut être l'occasion de...，occasion 后接两个并列的 de + 不定式短语（de changer... et de découvrir...）；que 引导 découvrir 的宾语从句。",
+            "grammarAnalysis": "① à l'heure où 为固定时间表达，意为「在……的时代/时刻」，où 在此作关系副词。② l'on 是 on 在元音前的书写变体，避免音节重复，属于书面语风格。③ être l'occasion de + inf. 固定结构，意为「是……的机会/契机」。④ préférer + inf. 表示「更倾向于做某事」，此处后接 rester chez soi。",
+            "commonMistakes": "① à l'heure où 中的 où 是关系副词，不可替换为 que 或省略。② l'on 中的 l' 不是冠词，是为避免与前一个词音节叠加而插入的，属于书面语特征，口语中直接用 on 即可。③ chez soi 为固定表达，soi 对应主语 on，不可误用为 chez lui 等。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "faire partie de qch.",
+            "meaning": "是……的组成部分，属于……",
+            "usage": "固定搭配，后接名词短语。faire 不随主语变化含义，partie 固定为单数。",
+            "exampleSentence": "Cela faisait partie du développement de la ville."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "mettre fin à qch.",
+            "meaning": "终结某事，结束某事",
+            "usage": "固定搭配，fin 不加冠词；à 后若接复数名词须缩合为 aux。书面语和口语均常用。",
+            "exampleSentence": "...qui avait pour objectif d'améliorer le voisinage, de mettre fin aux conflits entre les voisins..."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "avoir pour objectif de + inf.",
+            "meaning": "以……为目标/宗旨",
+            "usage": "书面语正式表达，objectif 前不加冠词；de 后接动词不定式。同义结构：avoir comme objectif de，avoir pour but de。",
+            "exampleSentence": "...qui avait pour objectif d'améliorer le voisinage, de mettre fin aux conflits..."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "favoriser qch.",
+            "meaning": "促进，有利于，有助于……",
+            "usage": "及物动词，直接接名词，不加介词。常用于正式书面语，主语多为事物或政策。",
+            "exampleSentence": "...et de favoriser la solidarité du quartier."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "lancer un programme / une campagne",
+            "meaning": "发起一项计划/运动",
+            "usage": "lancer 本义「投掷，发射」，引申为「推出，发起」；后可接 programme, campagne, projet, produit 等名词。",
+            "exampleSentence": "En 1999, cette association a lancé un nouveau programme..."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "s'étendre à + lieu",
+            "meaning": "扩展到，延伸至（某地）",
+            "usage": "代词式动词，固定接介词 à；主语为事物。注意区分及物用法 étendre qch.（展开某物）与代词式 s'étendre à（扩展至）。",
+            "exampleSentence": "...il s'est étendu à toute la France et a gagné plusieurs villes d'Europe."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "permettre à qn. de faire qch.",
+            "meaning": "允许某人做某事；使某人得以做某事",
+            "usage": "固定结构：permettre + à + 人 + de + 不定式。de 不可省略。若主语为物，则表示「使……成为可能」。",
+            "exampleSentence": "...il permet aux habitants de se retrouver, un soir dans l'année, autour d'un apéritif ou d'un buffet..."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "se retrouver",
+            "meaning": "相聚，重逢；发现自己处于某种状态",
+            "usage": "代词式动词，不接宾语。与及物动词 retrouver（重新找到）区分：se retrouver 强调相互重逢或自身所处情境。",
+            "exampleSentence": "...il permet aux habitants de se retrouver, un soir dans l'année..."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "au pied de qch.",
+            "meaning": "在……脚下，在……底部",
+            "usage": "固定介词短语，常接建筑物、山丘等名词。pied 固定为单数。",
+            "exampleSentence": "...quelques tables et même seulement des chaises au pied d'un immeuble..."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "participer à qch.",
+            "meaning": "参与，参加……",
+            "usage": "固定接介词 à，不可省略；à + les = aux。主语为人，宾语为活动、事件等名词。",
+            "exampleSentence": "...les gens participent aux activités du quartier..."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "en difficulté",
+            "meaning": "处于困境中，有困难",
+            "usage": "固定介词短语，作后置定语修饰名词，difficulté 用单数。常用表达：être en difficulté（处于困境），aider qn. en difficulté（帮助有困难的人）。",
+            "exampleSentence": "...ici le soutien des voisins en difficulté..."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être l'occasion de + inf.",
+            "meaning": "是……的契机/机会",
+            "usage": "固定结构，occasion 前需加冠词 l'；de 后接动词不定式。同义表达：être l'occasion pour qn. de faire qch.（对某人而言是做某事的机会）。",
+            "exampleSentence": "...la fête des voisins peut être l'occasion de changer les images négatives..."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "au-delà de qch.",
+            "meaning": "超越……，在……之外，除……之外",
+            "usage": "复合介词（loc.prép.），后接名词短语。既可表空间（在……那边），也可表程度（超出，超越）。此处为抽象用法。",
+            "exampleSentence": "Au-delà des gestes de convivialité, les gens participent aux activités du quartier..."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "immeuble",
+            "partOfSpeech": "n.m.",
+            "definition": "①大楼，大厦（尤指多层公寓楼）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au pied d'un immeuble",
+                    "vocabularyCollocationMeaning": "在楼下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "immeuble de bureaux",
+                    "vocabularyCollocationMeaning": "办公楼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "immeuble résidentiel",
+                    "vocabularyCollocationMeaning": "住宅楼"
+                }
+            ],
+            "synonymAnalysis": "immeuble 泛指多层建筑，尤指城市公寓楼；bâtiment 泛指任何建筑物，更中性；édifice 多指大型、正式或公共建筑，语体较正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "immobilier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不动产的，房地产的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "immobile",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "静止的，不动的"
+                }
+            ],
+            "pluralForm": "immeubles"
+        },
+        {
+            "index": "2",
+            "vocabulary": "mondial",
+            "partOfSpeech": "adj.m.",
+            "definition": "①世界的，全球的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la Seconde Guerre mondiale",
+                    "vocabularyCollocationMeaning": "第二次世界大战"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'échelle mondiale",
+                    "vocabularyCollocationMeaning": "在全球范围内"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le marché mondial",
+                    "vocabularyCollocationMeaning": "世界市场"
+                }
+            ],
+            "synonymAnalysis": "mondial 指范围涉及全世界；global 强调整体性和综合性，可指全球范围，也可指整体；international 指国家之间，范围不一定覆盖全世界。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mondialisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "全球化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "mondialement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "在全世界范围内"
+                }
+            ],
+            "genderNumberVariation": "阴性 mondiale，阳性复数 mondiaux，阴性复数 mondiales",
+            "position": "通常置于名词之后，如 la guerre mondiale；固定搭配 la Seconde Guerre mondiale 中后置。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "centaine",
+            "partOfSpeech": "n.f.",
+            "definition": "①约百个，百来个；②（复数）数百",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "des centaines de milliers de",
+                    "vocabularyCollocationMeaning": "数十万……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une centaine de personnes",
+                    "vocabularyCollocationMeaning": "约百人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "des centaines de fois",
+                    "vocabularyCollocationMeaning": "数百次"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "centaines",
+            "useExplanation": "centaine 为近似数词，une centaine de 表示「约一百个」，后接名词复数，de 不可省略。与 cent（整数100）区别：cent hommes（整整一百人）vs une centaine d'hommes（约百人）。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "logement",
+            "partOfSpeech": "n.m.",
+            "definition": "①住宅，住房 ②住所，居所",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "logement social",
+                    "vocabularyCollocationMeaning": "廉租房，社会性住房"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chercher un logement",
+                    "vocabularyCollocationMeaning": "找房子"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "crise du logement",
+                    "vocabularyCollocationMeaning": "住房危机"
+                }
+            ],
+            "synonymAnalysis": "logement 泛指住房（尤其强调居住功能）；appartement 特指公寓套间；domicile 强调法律意义上的住所（户籍地）；résidence 语体较正式，指居住地或住宅区。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "loger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "为……提供住所；居住"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "logeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "房东（提供住宿者）"
+                }
+            ],
+            "pluralForm": "logements"
+        },
+        {
+            "index": "5",
+            "vocabulary": "luxe",
+            "partOfSpeech": "n.m.",
+            "definition": "①奢华，豪华 ②（转义）奢侈品；难得之事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de luxe",
+                    "vocabularyCollocationMeaning": "豪华的，奢华的（作后置定语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vivre dans le luxe",
+                    "vocabularyCollocationMeaning": "过着奢华的生活"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se payer le luxe de + inf.",
+                    "vocabularyCollocationMeaning": "奢侈地……，难得地……"
+                }
+            ],
+            "synonymAnalysis": "luxe 强调奢华的状态或事物；opulence 强调财富的富足和丰盛；faste 多用于书面语，强调排场与盛况。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "luxueux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "奢华的，豪华的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "luxueusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "奢华地"
+                }
+            ],
+            "pluralForm": "luxes（较少使用复数）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "partie",
+            "partOfSpeech": "n.f.",
+            "definition": "①部分 ②比赛，局（游戏）③一方，当事人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire partie de qch.",
+                    "vocabularyCollocationMeaning": "是……的一部分，属于……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en partie",
+                    "vocabularyCollocationMeaning": "部分地，在某种程度上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une partie de qch.",
+                    "vocabularyCollocationMeaning": "……的一部分"
+                }
+            ],
+            "synonymAnalysis": "partie 泛指部分，也可指比赛局数；part 强调份额或比例，如 une part de gâteau（一块蛋糕）；fraction 强调更小的片段。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "partiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "部分的，局部的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "partiellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "部分地"
+                }
+            ],
+            "pluralForm": "parties"
+        },
+        {
+            "index": "7",
+            "vocabulary": "enfermer",
+            "partOfSpeech": "vt.",
+            "definition": "①关闭，关押 ②（引申）把……隔绝于，使封闭",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enfermer qn. dans qch.",
+                    "vocabularyCollocationMeaning": "把某人关在……里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'enfermer chez soi",
+                    "vocabularyCollocationMeaning": "把自己关在家里"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être enfermé dans son appartement",
+                    "vocabularyCollocationMeaning": "被关在公寓里（孤立）"
+                }
+            ],
+            "synonymAnalysis": "enfermer 强调关闭使其无法离开；emprisonner 强调监禁，法律语境；confiner 强调限制在某一空间内，较正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enfermement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "关押，封闭"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "voisinage",
+            "partOfSpeech": "n.m.",
+            "definition": "①邻里，周边地区 ②邻里关系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "améliorer le voisinage",
+                    "vocabularyCollocationMeaning": "改善邻里关系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans le voisinage",
+                    "vocabularyCollocationMeaning": "在附近，在周边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "relations de voisinage",
+                    "vocabularyCollocationMeaning": "邻里关系"
+                }
+            ],
+            "synonymAnalysis": "voisinage 既指地理上的邻近区域，也指邻里关系；quartier 专指街区、社区；environnement 更广泛地指环境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "voisin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "邻居"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "voisine",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女邻居"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "voisin",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "邻近的，相邻的"
+                }
+            ],
+            "pluralForm": "voisinages（较少使用）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "exister",
+            "partOfSpeech": "vi.",
+            "definition": "①存在 ②生存，活着",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "exister encore",
+                    "vocabularyCollocationMeaning": "仍然存在"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ne plus exister",
+                    "vocabularyCollocationMeaning": "不再存在"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire exister qch.",
+                    "vocabularyCollocationMeaning": "使某事物存在"
+                }
+            ],
+            "synonymAnalysis": "exister 强调客观存在；être 更广泛，可指状态或身份；vivre 强调有生命的存在（活着）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "existence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "存在；生活，生涯"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "existentiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "存在的，存在主义的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "arrondissement",
+            "partOfSpeech": "n.m.",
+            "definition": "①（法国城市行政）区 ②（法国行政）县辖区",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le 17e arrondissement de Paris",
+                    "vocabularyCollocationMeaning": "巴黎第十七区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans l'arrondissement",
+                    "vocabularyCollocationMeaning": "在该区内"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "arrondir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变圆；凑整（数字）"
+                }
+            ],
+            "pluralForm": "arrondissements",
+            "useExplanation": "专指法国城市（巴黎、里昂、马赛）的行政分区，巴黎共20个 arrondissement，序数词后置。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "association",
+            "partOfSpeech": "n.f.",
+            "definition": "①协会，联合会，社团 ②联合，结合",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "créer une association",
+                    "vocabularyCollocationMeaning": "成立协会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adhérer à une association",
+                    "vocabularyCollocationMeaning": "加入协会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "association caritative",
+                    "vocabularyCollocationMeaning": "慈善协会"
+                }
+            ],
+            "synonymAnalysis": "association 强调共同目标的非营利组织；club 多指兴趣性社团；organisation 更广泛，包括营利和非营利机构。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "associer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "联合，结合；使联系起来"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "associé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "合伙人，伙伴"
+                }
+            ],
+            "pluralForm": "associations"
+        },
+        {
+            "index": "12",
+            "vocabulary": "conflit",
+            "partOfSpeech": "n.m.",
+            "definition": "①纠纷，冲突 ②争议，矛盾",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conflit entre...et...",
+                    "vocabularyCollocationMeaning": "……与……之间的冲突"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "résoudre un conflit",
+                    "vocabularyCollocationMeaning": "解决冲突"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entrer en conflit avec qn.",
+                    "vocabularyCollocationMeaning": "与某人发生冲突"
+                }
+            ],
+            "synonymAnalysis": "conflit 泛指冲突，可用于人际、社会、武装等各类语境；dispute 更强调口头争论；affrontement 强调对抗性的正面冲突。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conflictuel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "冲突性的，充满矛盾的"
+                }
+            ],
+            "pluralForm": "conflits"
+        },
+        {
+            "index": "13",
+            "vocabulary": "favoriser",
+            "partOfSpeech": "vt.",
+            "definition": "①促进，有助于 ②偏爱，给予优惠",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "favoriser la solidarité",
+                    "vocabularyCollocationMeaning": "促进团结"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "favoriser le développement",
+                    "vocabularyCollocationMeaning": "促进发展"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "favoriser qn.",
+                    "vocabularyCollocationMeaning": "偏袒某人，给某人优惠"
+                }
+            ],
+            "synonymAnalysis": "favoriser 含有「有意识地推动」之意；encourager 强调鼓励行为主体去行动；promouvoir 更正式，常用于政策或制度层面的促进。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "faveur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "好意，恩惠；青睐"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "favorable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有利的，赞成的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "favori",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "最喜爱的，最受青睐的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "lancer",
+            "partOfSpeech": "vt.",
+            "definition": "①大力推广，发起 ②投掷，抛 ③发射（火箭等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lancer un programme",
+                    "vocabularyCollocationMeaning": "发起一项计划"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lancer une campagne",
+                    "vocabularyCollocationMeaning": "发起一场运动"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "lancer une balle",
+                    "vocabularyCollocationMeaning": "投掷球"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "se lancer dans qch.",
+                    "vocabularyCollocationMeaning": "投入到……中，开始做……"
+                }
+            ],
+            "synonymAnalysis": "lancer（推出/发起）vs démarrer（启动，侧重实际开始运作）vs initier（发起，更正式，常用于项目）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lancement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发射；发起；推出"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je lance, tu lances, il lance, nous lançons, vous lancez, ils lancent",
+                "compoundPast": "j'ai lancé",
+                "simpleFuture": "je lancerai",
+                "memoryAids": "lancer 属于以 -cer 结尾的动词：在 nous 人称（以 -ons 结尾）时，c 变为 ç，以保持 [s] 音：nous lançons。其余人称正常变位。"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "événement",
+            "partOfSpeech": "n.m.",
+            "definition": "①事件，大事 ②（重要）活动，庆典",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "événement heureux",
+                    "vocabularyCollocationMeaning": "喜事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grand événement",
+                    "vocabularyCollocationMeaning": "重大事件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "événement sportif",
+                    "vocabularyCollocationMeaning": "体育赛事"
+                }
+            ],
+            "synonymAnalysis": "événement 泛指重要事件或大事；incident 指小事故或不愉快的突发事件；fait 更中性，泛指事实、事件（包括日常小事）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "événementiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "事件性的；（名词化）活动策划（行业）"
+                }
+            ],
+            "pluralForm": "événements",
+            "useExplanation": "注意发音：[evɛnmɑ̃]，词中 é 实际发音为 [ɛ]。现代法语拼写改革允许写作 évènement（重音符号统一）。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "étendre",
+            "partOfSpeech": "vt.",
+            "definition": "①展开，伸开 ②扩大，延伸",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "étendre les bras",
+                    "vocabularyCollocationMeaning": "伸展双臂"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étendre son influence",
+                    "vocabularyCollocationMeaning": "扩大影响力"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'étendre à + lieu",
+                    "vocabularyCollocationMeaning": "扩展到（某地）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "s'étendre sur + surface",
+                    "vocabularyCollocationMeaning": "延伸在（某地面积上）"
+                }
+            ],
+            "synonymAnalysis": "étendre 强调物理或抽象意义上的延伸与展开；élargir 强调变宽或扩大范围；développer 侧重发展、展开（过程）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étendue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "广度，范围；延伸"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "étendu",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "宽广的，延伸的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'étends, tu étends, il étend, nous étendons, vous étendez, ils étendent",
+                "compoundPast": "j'ai étendu",
+                "simpleFuture": "j'étendrai",
+                "memoryAids": "属于 -dre 类动词（第三组），第三人称单数不加 -t（il étend），过去分词为 étendu。类似动词：attendre, entendre, vendre。"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "gagner",
+            "partOfSpeech": "vt.",
+            "definition": "①赢得，获胜 ②挣得，赚得 ③达到，抵达",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "gagner un match",
+                    "vocabularyCollocationMeaning": "赢得比赛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gagner de l'argent",
+                    "vocabularyCollocationMeaning": "赚钱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "gagner du temps",
+                    "vocabularyCollocationMeaning": "节省时间"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "gagner plusieurs villes",
+                    "vocabularyCollocationMeaning": "扩展到多个城市（席卷）"
+                }
+            ],
+            "synonymAnalysis": "gagner（赢/达到）vs obtenir（获得，强调结果）vs acquérir（取得，较正式，强调过程）。gagner 在课文中有「扩展到/蔓延至」的引申义，是考研常考点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gain",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "收益，赢利；所得"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gagnant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "获胜者，赢家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "véritable",
+            "partOfSpeech": "adj.m.",
+            "definition": "①真正的，真实的 ②确切的，名副其实的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "véritable fête",
+                    "vocabularyCollocationMeaning": "真正的节日"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un véritable ami",
+                    "vocabularyCollocationMeaning": "真正的朋友"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est un véritable désastre",
+                    "vocabularyCollocationMeaning": "这真是一场灾难（强调语气）"
+                }
+            ],
+            "synonymAnalysis": "véritable 强调真实性与名副其实；authentique 强调原版、未经改动的真实性；réel 强调客观存在的现实性，与想象相对。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vérité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "真理，真相"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "véritablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "真正地，确实地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "vérifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "核实，验证"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 véritables",
+            "position": "通常置于名词之前，起强调和评价作用，如 un véritable problème。置于名词后则失去强调色彩，较少见。"
+        },
+        {
+            "index": "19",
+            "vocabulary": "retrouver",
+            "partOfSpeech": "vt.",
+            "definition": "①重新找到，找回 ②重新见到，与……重逢",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "retrouver ses clés",
+                    "vocabularyCollocationMeaning": "找到钥匙"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "retrouver qn.",
+                    "vocabularyCollocationMeaning": "重逢某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se retrouver",
+                    "vocabularyCollocationMeaning": "相聚；发现自己处于……"
+                }
+            ],
+            "synonymAnalysis": "retrouver 强调「重新找到」，有「曾经失去」的前提；trouver 泛指找到（无需曾经失去的前提）；récupérer 强调取回或恢复。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "trouver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "找到；认为"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "apéritif",
+            "partOfSpeech": "n.m.",
+            "definition": "①开胃酒 ②餐前小酌（场合）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre un apéritif",
+                    "vocabularyCollocationMeaning": "喝开胃酒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "autour d'un apéritif",
+                    "vocabularyCollocationMeaning": "在开胃酒的场合，在餐前小酌时"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "apéritifs",
+            "useExplanation": "法国餐饮文化词汇，指正餐前饮用的酒精饮料（如 kir, pastis, champagne 等），也泛指餐前聚饮的场合。口语中常缩略为 apéro。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "buffet",
+            "partOfSpeech": "n.m.",
+            "definition": "①自助餐 ②（车站等处的）餐厅，小卖部 ③餐具柜",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "buffet froid",
+                    "vocabularyCollocationMeaning": "冷盘自助餐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "autour d'un buffet",
+                    "vocabularyCollocationMeaning": "围绕自助餐（聚在一起）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "buffets"
+        },
+        {
+            "index": "22",
+            "vocabulary": "rire",
+            "partOfSpeech": "vi.",
+            "definition": "①笑，发笑 ②开玩笑",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rire aux éclats",
+                    "vocabularyCollocationMeaning": "开怀大笑"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire rire qn.",
+                    "vocabularyCollocationMeaning": "逗某人笑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rire de qch./qn.",
+                    "vocabularyCollocationMeaning": "嘲笑……"
+                }
+            ],
+            "synonymAnalysis": "rire 泛指笑；sourire 指微笑（程度更轻）；se moquer de 指嘲笑，带有贬义色彩。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "笑声（名词用法）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rieur",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "爱笑的，爱开玩笑的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je ris, tu ris, il rit, nous rions, vous riez, ils rient",
+                "compoundPast": "j'ai ri",
+                "simpleFuture": "je rirai",
+                "memoryAids": "rire 属于第三组不规则动词，过去分词为 ri（不加任何后缀）。注意 nous rions / vous riez 形式，与 sourire 变位类似。"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "passé",
+            "partOfSpeech": "n.m.",
+            "definition": "①过去，往事 ②（语法）过去时",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "oublier le passé",
+                    "vocabularyCollocationMeaning": "忘记过去"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans le passé",
+                    "vocabularyCollocationMeaning": "在过去"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "passé composé",
+                    "vocabularyCollocationMeaning": "复合过去时（语法术语）"
+                }
+            ],
+            "synonymAnalysis": "passé 泛指过去；histoire 指历史（书面或集体记忆）；antécédents 指（个人）经历、前科，偏贬义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "经过，度过"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "passager",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "短暂的，过路的"
+                }
+            ],
+            "pluralForm": "passés（较少使用）"
+        },
+        {
+            "index": "24",
+            "vocabulary": "au-delà de",
+            "partOfSpeech": "loc.prép.",
+            "definition": "①在……之外，超越 ②（空间）在……那边，更远处",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au-delà de qch.",
+                    "vocabularyCollocationMeaning": "在……之外，超越……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller au-delà de ses forces",
+                    "vocabularyCollocationMeaning": "超出自己的能力"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "au-delà de 为复合介词，后接名词。注意与 en dehors de（在……之外，不包括在内）区分：au-delà de 强调超越某界限或范围，en dehors de 强调不包含在某范围内。"
+        },
+        {
+            "index": "25",
+            "vocabulary": "geste",
+            "partOfSpeech": "n.m.",
+            "definition": "①动作，姿势 ②（象征性的）举动，行为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "geste de convivialité",
+                    "vocabularyCollocationMeaning": "友善的举动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un geste",
+                    "vocabularyCollocationMeaning": "做出一个动作；（引申）表示姿态"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "beau geste",
+                    "vocabularyCollocationMeaning": "高尚的举动"
+                }
+            ],
+            "synonymAnalysis": "geste 既指具体的肢体动作，也指象征意义的举动或姿态；mouvement 泛指任何移动动作；acte 更强调有意识的行为（常较正式）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gestuel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "手势的，动作的"
+                }
+            ],
+            "pluralForm": "gestes"
+        },
+        {
+            "index": "26",
+            "vocabulary": "convivialité",
+            "partOfSpeech": "n.f.",
+            "definition": "①爱社交；和谐相处；友好气氛 ②（计算机）用户友好性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "gestes de convivialité",
+                    "vocabularyCollocationMeaning": "友善互动的举动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans un esprit de convivialité",
+                    "vocabularyCollocationMeaning": "在友好的氛围下"
+                }
+            ],
+            "synonymAnalysis": "convivialité 强调人与人之间温暖、友好的相处氛围；solidarité 强调团结互助；fraternité 强调兄弟情谊（法国国训之一）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "convivial",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "友好的，善于交际的；（计算机）用户友好的"
+                }
+            ],
+            "pluralForm": "convivialités（较少使用）"
+        },
+        {
+            "index": "27",
+            "vocabulary": "soutien",
+            "partOfSpeech": "n.m.",
+            "definition": "①支持，援助 ②支撑，支柱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "soutien de qn. en difficulté",
+                    "vocabularyCollocationMeaning": "对处于困境中的人的援助"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "apporter son soutien à qn.",
+                    "vocabularyCollocationMeaning": "给予某人支持"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cours de soutien",
+                    "vocabularyCollocationMeaning": "补习课"
+                }
+            ],
+            "synonymAnalysis": "soutien 泛指支持或援助（可为精神、物质或实际帮助）；aide 更口语，泛指帮助；appui 强调依靠与支撑（有时带政治语境）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "soutenir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "支持，支撑，维持"
+                }
+            ],
+            "pluralForm": "soutiens"
+        },
+        {
+            "index": "28",
+            "vocabulary": "locataire",
+            "partOfSpeech": "n.",
+            "definition": "①房客，租客 ②（引申）居住者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "locataire d'un appartement",
+                    "vocabularyCollocationMeaning": "公寓租客"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rapport locataire-propriétaire",
+                    "vocabularyCollocationMeaning": "房客与房东的关系"
+                }
+            ],
+            "synonymAnalysis": "locataire 指租房居住者；propriétaire 指房东，与 locataire 相对；colocataire 指合租者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "location",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "租用，租借；出租"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "louer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "租用，出租"
+                }
+            ],
+            "pluralForm": "locataires",
+            "useExplanation": "阴阳同形（男女通用），区分语境：un locataire（男房客），une locataire（女房客）。"
+        },
+        {
+            "index": "29",
+            "vocabulary": "naissance",
+            "partOfSpeech": "n.f.",
+            "definition": "①出生，诞生 ②起源，产生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "date de naissance",
+                    "vocabularyCollocationMeaning": "出生日期"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lieu de naissance",
+                    "vocabularyCollocationMeaning": "出生地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "donner naissance à qch.",
+                    "vocabularyCollocationMeaning": "产生，引发（某事物）"
+                }
+            ],
+            "synonymAnalysis": "naissance 指出生或诞生；origine 强调来源与起点；commencement 指开始（可用于非生命事物）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "naître",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "出生，诞生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "né",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "出生的，天生的"
+                }
+            ],
+            "pluralForm": "naissances"
+        },
+        {
+            "index": "30",
+            "vocabulary": "fait",
+            "partOfSpeech": "n.m.",
+            "definition": "①事实，现实 ②事件，现象 ③行为，举动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le fait de + inf.",
+                    "vocabularyCollocationMeaning": "做……这件事本身"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en fait",
+                    "vocabularyCollocationMeaning": "实际上，事实上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au fait",
+                    "vocabularyCollocationMeaning": "顺便问一下；说到正题"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "fait divers",
+                    "vocabularyCollocationMeaning": "社会新闻（小事件报道）"
+                }
+            ],
+            "synonymAnalysis": "fait 泛指事实或事件；événement 强调重要性；réalité 强调现实与真实性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "faire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "做，制作"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "factuel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "事实性的，基于事实的"
+                }
+            ],
+            "pluralForm": "faits",
+            "useExplanation": "le fait de + inf. 是重要结构，相当于「……这件事」，可作主语或宾语，例：le fait de se dire bonjour transforme l'ambiance（互相问好这件事本身改变了氛围）。"
+        },
+        {
+            "index": "31",
+            "vocabulary": "hall",
+            "partOfSpeech": "n.m.",
+            "definition": "①大厅，门厅 ②（公共建筑的）大堂",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans le hall",
+                    "vocabularyCollocationMeaning": "在大厅里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "hall d'entrée",
+                    "vocabularyCollocationMeaning": "入口大厅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hall d'immeuble",
+                    "vocabularyCollocationMeaning": "楼道大厅"
+                }
+            ],
+            "synonymAnalysis": "hall 指建筑入口或公共大厅；vestibule 指私人住宅的门厅（较正式）；couloir 指走廊（不同于大厅）。",
+            "derivedWords": [],
+            "pluralForm": "halls",
+            "useExplanation": "英语借词，发音为 [ɔl]，词典标注 [ol]，注意 h 不发音，hall 中 ll 发 [l]，与英语发音不同。"
+        },
+        {
+            "index": "32",
+            "vocabulary": "ascenseur",
+            "partOfSpeech": "n.m.",
+            "definition": "①电梯，升降机",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans l'ascenseur",
+                    "vocabularyCollocationMeaning": "在电梯里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre l'ascenseur",
+                    "vocabularyCollocationMeaning": "乘电梯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ascenseur social",
+                    "vocabularyCollocationMeaning": "（比喻）社会流动通道，阶层上升渠道"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ascension",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "上升，攀登；晋升"
+                }
+            ],
+            "pluralForm": "ascenseurs"
+        },
+        {
+            "index": "33",
+            "vocabulary": "ambiance",
+            "partOfSpeech": "n.f.",
+            "definition": "①气氛，氛围 ②环境，周围环境",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ambiance de l'immeuble",
+                    "vocabularyCollocationMeaning": "楼内的气氛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "créer une ambiance",
+                    "vocabularyCollocationMeaning": "营造气氛"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bonne ambiance",
+                    "vocabularyCollocationMeaning": "良好的氛围"
+                }
+            ],
+            "synonymAnalysis": "ambiance 强调人感受到的整体气氛；atmosphère 可指物理意义上的大气，也指气氛，语体略正式；atmosphère 更常用于书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ambiant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "周围的，环境的（如 air ambiant 周围空气）"
+                }
+            ],
+            "pluralForm": "ambiances"
+        },
+        {
+            "index": "34",
+            "vocabulary": "image",
+            "partOfSpeech": "n.f.",
+            "definition": "①图像，图片 ②形象，印象 ③（比喻）比喻，意象",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "image négative",
+                    "vocabularyCollocationMeaning": "负面形象"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "image de marque",
+                    "vocabularyCollocationMeaning": "品牌形象"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "donner une bonne image",
+                    "vocabularyCollocationMeaning": "给人留下好印象"
+                }
+            ],
+            "synonymAnalysis": "image 泛指图像或形象；photo 特指照片；portrait 特指肖像；représentation 指抽象意义上的表现形式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "imaginer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "想象"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "imaginaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "想象的，虚构的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "imagination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "想象力"
+                }
+            ],
+            "pluralForm": "images"
+        },
+        {
+            "index": "35",
+            "vocabulary": "négatif",
+            "partOfSpeech": "adj.m.",
+            "definition": "①消极的，负面的 ②否定的 ③（摄影）负片的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "image négative",
+                    "vocabularyCollocationMeaning": "负面形象"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réponse négative",
+                    "vocabularyCollocationMeaning": "否定的回答"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "effet négatif",
+                    "vocabularyCollocationMeaning": "负面影响"
+                }
+            ],
+            "synonymAnalysis": "négatif 泛指消极或否定；pessimiste 强调悲观态度；défavorable 强调不利条件（客观状况）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "négativement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "消极地，否定地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "négation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "否定；（语法）否定式"
+                }
+            ],
+            "genderNumberVariation": "阴性 négative，阳性复数 négatifs，阴性复数 négatives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "36",
+            "vocabulary": "finalement",
+            "partOfSpeech": "adv.",
+            "definition": "①最终，终于 ②总的来说，归根结底",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "découvrir que finalement...",
+                    "vocabularyCollocationMeaning": "最终发现……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "finalement, il a réussi",
+                    "vocabularyCollocationMeaning": "最终他成功了"
+                }
+            ],
+            "synonymAnalysis": "finalement 强调经过过程后的结果（终于）；enfin 语气更强，常含有期待已久或不耐烦的语气；en fin de compte 更书面，意为「归根结底，总的来说」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "final",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "最终的，最后的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "finale",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "决赛；（音乐）终曲"
+                }
+            ],
+            "useExplanation": "副词，可置于句首（作句子状语）或句中（修饰动词/形容词）。句首时后常加逗号。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Après la Seconde Guerre mondiale, des centaines de milliers de logements ont été construits dans la région parisienne. Pourtant, des problèmes apparaissaient: personne ne connaissait personne, le voisinage n'existait plus. En 1990, est née l'Association «Paris d'amis», qui avait pour objectif de mettre fin aux conflits et de favoriser la solidarité du quartier. Véritable fête de voisins, l'événement permet aux habitants de se retrouver autour d'un apéritif ou d'un buffet. Au-delà des gestes de convivialité, la fête peut être l'occasion de changer les images négatives et de découvrir que finalement les voisins sont sympa.",
+            "chineseTranslation": "二战结束后，巴黎地区建起了数十万套住宅。然而问题随之而来：谁都不认识谁，邻里关系荡然无存。1990年，「巴黎之友」协会应运而生，其宗旨是消除邻里冲突、促进街区团结。作为一场名副其实的邻里节日，这项活动让居民们得以在开胃酒或自助餐的场合中重新相聚。超越日常友善互动，这场节日或许正是一个改变负面印象的契机——让人们发现，邻居们其实挺友善的。",
+            "fr2cnStrategy": "① ont été construits 为被动语态，译为「建起了……」，将被动转换为主动表达，更符合中文习惯；② le voisinage n'existait plus 译为「邻里关系荡然无存」，用四字格增强节奏感（增译）；③ est née l'Association 的主谓倒装译为「协会应运而生」，补充「应运」体现语境逻辑（增译）；④ Véritable fête de voisins 作句首同位语，译为「作为一场名副其实的邻里节日」，转换为汉语介宾短语（词性转换+语序调整）；⑤ au-delà des gestes de convivialité 抽象表达，意译为「超越日常友善互动」，避免直译「在友善举动之外」的生硬感；⑥ que finalement les voisins sont sympa 拆分为破折号补充说明，符合中文口语化表达习惯（拆句）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "二战后，这个协会的目标是促进邻里团结，消除居民之间的纠纷。",
+                "frenchTranslation": "Après la Seconde Guerre mondiale, cette association avait pour objectif de favoriser la solidarité du quartier et de mettre fin aux conflits entre les habitants.",
+                "cn2frStrategy": "① 「目标是……」用固定结构 avoir pour objectif de + inf.，objectif 前不加冠词；② 「促进」用 favoriser，直接接名词，不需介词；③ 「消除……纠纷」用 mettre fin à，注意 à + les = aux；④ 两个不定式并列用 et 连接，第二个 de 不省略。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "这项活动已经从法国扩展到了欧洲多个城市。",
+                "frenchTranslation": "Cet événement s'est étendu de la France à plusieurs villes d'Europe.",
+                "cn2frStrategy": "① 「扩展到」用代词式动词 s'étendre à，复合过去时助动词为 être：s'est étendu；② 「从……到……」用 de...à... 结构；③ 「多个城市」用 plusieurs villes，plusieurs 后不加冠词。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "仅仅在电梯里互相问一声好，就能改变整栋楼的气氛。",
+                "frenchTranslation": "Le simple fait de se dire bonjour dans l'ascenseur transforme l'ambiance de l'immeuble.",
+                "cn2frStrategy": "① 「仅仅……这件事」用 le simple fait de + inf. 结构，simple 前置加强「仅仅」之意；② 「互相问好」译为 se dire bonjour，代词式动词体现互动性；③ 中文「就能」含推断语气，法语直接用现在时 transforme 表达普遍规律即可，无需情态动词；④ 「整栋楼的气氛」译为 l'ambiance de l'immeuble，注意冠词使用。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在大家更愿意宅在家里的今天，邻居节让人们有机会相聚，忘记过去的不愉快。",
+                "frenchTranslation": "À l'heure où l'on préfère rester chez soi, la fête des voisins permet aux habitants de se retrouver et d'oublier les mauvais souvenirs du passé.",
+                "cn2frStrategy": "① 「在……的今天」用 à l'heure où 引导时间从句，où 为关系副词，不可替换为 que；② 「宅在家里」译为 rester chez soi，chez soi 对应主语 on；③ 「让人们有机会」用 permettre à qn. de + inf.，注意 permettre + à + 人 + de 的固定结构；④ 「不愉快」意译为 les mauvais souvenirs du passé（过去的不好记忆），避免 les malheurs（灾祸）等过于强烈的词；⑤ 两个不定式并列：de se retrouver et d'oublier，第二个 de 保留。"
+            }
+        ]
+    }
+}

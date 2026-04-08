@@ -1,0 +1,1025 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Suivre la mode, c'est d'acheter, deux fois par an, des vêtements neufs, des vêtements à la mode: une fois au printemps et une fois en automne.",
+            "translatedSentence": "所谓追随时尚，就是每年两次购买新衣、时髦衣服：一次在春天，一次在秋天。",
+            "sentenceStructure": "主句结构为 Suivre la mode（主语，不定式短语）+ c'est（系动词）+ d'acheter...（表语，不定式短语）；冒号后为对“deux fois par an”的具体说明。",
+            "grammarAnalysis": "① c'est de + infinitif 为表语结构，用于定义或解释主语所指的行为。② deux fois par an 为频率状语，par 表示“每……”。③ à la mode 为固定介词短语，意为“时髦的、流行的”，作后置定语。",
+            "commonMistakes": "注意 c'est + de + infinitif（表定义）与 c'est + adj. 的区别。另外，à la mode 作定语时不变化，勿与 à la mode de（按照……方式）混淆。"
+        },
+        {
+            "index": "2",
+            "sentence": "Les jeunes français suivent-ils la mode ? Comment s'habillent-ils pour aller à l'école ? Et qu'en pensent leurs parents ?",
+            "translatedSentence": "法国年轻人追随时尚吗？他们去上学时怎么穿衣服？他们的父母又怎么看呢？",
+            "sentenceStructure": "三个并列疑问句：① 主谓倒装的一般疑问句；② comment 引导的特殊疑问句；③ qu'en pensent leurs parents 为特殊疑问句，en 为代词，指代上文提到的情况。",
+            "grammarAnalysis": "① 疑问句中主语代词后置（倒装）：suivent-ils / s'habillent-ils / pensent...leurs parents。② s'habiller pour + infinitif：穿衣（为了某目的）。③ qu'en penser：en 指代前文所述整体情况，“对此有何看法”。",
+            "commonMistakes": "qu'en pensent-ils 中，en 是中性代词，指代上文整体情况，不可省略，也不能替换为 y。"
+        },
+        {
+            "index": "3",
+            "sentence": "Un jean au début de l'hiver, c'est-à-dire à la fin du mois d'octobre et au début du mois de novembre, un autre au début de l'été (par exemple, au mois de juillet), un pull et un blouson tous les ans, voilà les vêtements que la plupart des jeunes achètent chaque année.",
+            "translatedSentence": "冬初（即十月底至十一月初）一条牛仔裤，夏初（比如七月）再买一条，每年还要买一件套头衫和一件夹克衫——这就是大多数年轻人每年购置的衣物。",
+            "sentenceStructure": "这是一个以 voilà 为核心的提前表语结构：主语为后接的关系从句 les vêtements que...，前面的名词短语列举为提前说明的内容；que 引导的限定性关系从句修饰 les vêtements。",
+            "grammarAnalysis": "① voilà + 名词 为强调结构，将宾语前置，起总结作用。② c'est-à-dire 为连词短语，意为“也就是说、即”，用于解释说明。③ la plupart de + 名词复数，谓语用复数。④ chaque année 与 tous les ans 同义，均表示“每年”。",
+            "commonMistakes": "la plupart des jeunes 后动词须用复数（achètent），勿误用单数。另注意 au début de l'hiver（冬初）与 au début du mois（月初）的介词用法一致，均为 au début de。"
+        },
+        {
+            "index": "4",
+            "sentence": "Ils portent toujours des vêtements qui sont extraordinaires et, en même temps, de bonne qualité.",
+            "translatedSentence": "他们总是穿着既特别又品质上乘的衣服。",
+            "sentenceStructure": "主句 Ils portent toujours des vêtements，由 qui 引导的关系从句 qui sont extraordinaires et de bonne qualité 修饰 vêtements，en même temps 为插入语。",
+            "grammarAnalysis": "① qui 引导限定性关系从句，先行词为 vêtements。② en même temps 为固定副词短语，意为“同时”，作插入语。③ de bonne qualité 为介词短语作表语，注意不加冠词。",
+            "commonMistakes": "de bonne qualité 中名词前不加冠词，不可写成 d'une bonne qualité（该写法亦可接受，但 de + adj. + n. 更地道）。"
+        },
+        {
+            "index": "5",
+            "sentence": "Les vêtements d'occasion permettent en effet d'être extraordinaires sans se distinguer du groupe.",
+            "translatedSentence": "旧货衣物确实能让人与众不同，同时又不至于脱离群体。",
+            "sentenceStructure": "主句为 Les vêtements d'occasion permettent d'être extraordinaires，en effet 为插入副词，sans se distinguer du groupe 为否定状语短语，表示伴随条件。",
+            "grammarAnalysis": "① permettre de + infinitif：允许/使得……成为可能。② en effet：副词短语，表示确认或加强语气，意为“确实、事实上”。③ sans + infinitif：不……地，否定的伴随状语，注意 sans 后接不定式时主语须与主句主语一致（代词式动词 se distinguer）。④ se distinguer de：区别于，与……不同（代词式动词）。",
+            "commonMistakes": "sans se distinguer 中，代词式动词的反身代词随主语变化，此处主语为 vêtements（逻辑主语为使用者），须结合语境理解。另注意 distinguer qch. de qch.（区分）与 se distinguer de（区别于）的用法差异。"
+        },
+        {
+            "index": "6",
+            "sentence": "L'important, c'est d'être à la mode sans être comme les autres.",
+            "translatedSentence": "重要的是，既要赶上时尚，又不要和别人一个样。",
+            "sentenceStructure": "主语为 L'important（名词化形容词），c'est 为强调系动词，d'être à la mode sans être comme les autres 为表语不定式短语。",
+            "grammarAnalysis": "① l'important 为形容词名词化，加定冠词表示抽象概念。② c'est de + infinitif 表示定义、强调。③ sans être 引导否定伴随状语，与前文 d'être 形成对照。",
+            "commonMistakes": "L'important c'est de...（重要的是……）为固定表达结构，不可将 de 省略；类似结构还有 l'essentiel, c'est de...；le difficile, c'est de..."
+        },
+        {
+            "index": "7",
+            "sentence": "Moi, je préfère créer mes vêtements: la mode n'est pas toujours jolie; et puis elle est chère. Suivre la mode, je ne m'y intéresse pas.",
+            "translatedSentence": "我更喜欢自己做衣服：时尚未必好看，而且价格昂贵。追流行嘛，我对这个不感兴趣。",
+            "sentenceStructure": "第一句：moi 为强调主语，主干为 je préfère créer mes vêtements，冒号后为两个并列的原因句。第二句：Suivre la mode 为话题前置（主题化），je ne m'y intéresse pas 为主句，y 指代前置的话题。",
+            "grammarAnalysis": "① préférer + infinitif：更喜欢做……。② et puis：口语中表示递进，意为“而且、再说”。③ s'intéresser à qch.：对……感兴趣；y 为代词，代替 à + 事物，此处代替 à suivre la mode。④ ne...pas 否定句的正常语序。",
+            "commonMistakes": "s'intéresser à 后接事物时，在句中用 y 代替（y = à + chose），不可用 lui；接人时才用 lui（s'intéresser à lui）。"
+        },
+        {
+            "index": "8",
+            "sentence": "Moi, avec ma moto, je mets les vêtements que je peux porter plus longtemps et qui sont faciles à laver.",
+            "translatedSentence": "我嘛，骑着摩托车，当然穿那种能多穿几年、又容易清洗的衣服。",
+            "sentenceStructure": "主语 je，avec ma moto 为伴随状语，谓语 mets，宾语 les vêtements，后接两个并列关系从句 que je peux porter plus longtemps 和 qui sont faciles à laver，均修饰 vêtements。",
+            "grammarAnalysis": "① que 引导宾语关系从句（先行词为 vêtements，在从句中作宾语）。② qui 引导主语关系从句（先行词为 vêtements，在从句中作主语）。③ facile à + infinitif：容易……（形容词 + à + 不定式，不定式的逻辑宾语为主语）。④ porter 此处意为“穿（持续穿戴）”。",
+            "commonMistakes": "facile à laver 中，à 后接不定式，且不定式的宾语即为主语（les vêtements），不可误写为 facile de laver。注意与 il est facile de + inf.（形式主语结构）区分。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "suivre la mode",
+            "meaning": "追随时尚，赶时髦",
+            "usage": "固定搭配，suivre 直接及物，宾语为 la mode；口语书面均可用。反义：aller à l'encontre de la mode（反潮流）。",
+            "exampleSentence": "Suivre la mode, c'est d'acheter, deux fois par an, des vêtements neufs."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "être à la mode",
+            "meaning": "流行的，时髦的",
+            "usage": "être à la mode 作谓语；à la mode 作定语后置于名词后，如 des vêtements à la mode。注意与 à la mode de（按照……的方式）区分。",
+            "exampleSentence": "des vêtements neufs, des vêtements à la mode"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "deux fois par an / par jour / par semaine",
+            "meaning": "每年/每天/每周两次",
+            "usage": "par + 时间名词（不加冠词），表示频率。可替换数词：une fois, trois fois 等。",
+            "exampleSentence": "Suivre la mode, c'est d'acheter, deux fois par an, des vêtements neufs."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "au début de + 时间名词",
+            "meaning": "在……初，在……开始时",
+            "usage": "固定介词短语；对应 à la fin de（在……末）。注意：au début de l'hiver / au début du mois，冠词与名词性数保持缩合。",
+            "exampleSentence": "Un jean au début de l'hiver, c'est-à-dire à la fin du mois d'octobre et au début du mois de novembre."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "la plupart de + 名词复数",
+            "meaning": "大多数……",
+            "usage": "la plupart 后接 de + 名词，谓语动词用复数。la plupart 单独使用时也接复数动词。注意与 la plupart du temps（大多数时候）区分。",
+            "exampleSentence": "voilà les vêtements que la plupart des jeunes achètent chaque année."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se ressembler de plus en plus",
+            "meaning": "越来越相像",
+            "usage": "de plus en plus + adj./adv. 表示程度递增；se ressembler 为代词式动词，表示互相相像，无需宾语。",
+            "exampleSentence": "Chez les jeunes, les vêtements se ressemblent de plus en plus."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "en même temps",
+            "meaning": "同时，与此同时",
+            "usage": "副词短语，可作插入语或状语；书面口语均可。注意与 à la fois（同时兼具）区分：en même temps 强调时间上同时，à la fois 强调性质上兼而有之。",
+            "exampleSentence": "Ils portent toujours des vêtements qui sont extraordinaires et, en même temps, de bonne qualité."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "permettre de + infinitif",
+            "meaning": "使……成为可能；允许……",
+            "usage": "permettre à qn. de faire qch.（允许某人做某事）；permettre de faire qch.（使得……成为可能）。注意当主语为物时，不带间接宾语。",
+            "exampleSentence": "Les vêtements d'occasion permettent en effet d'être extraordinaires sans se distinguer du groupe."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "se distinguer de + 名词",
+            "meaning": "区别于……，与……不同",
+            "usage": "代词式动词，固定搭配 de；注意与及物动词 distinguer qch. de qch.（区分……与……）区别：se distinguer de 强调“（自身）区别于”，是主动凸显差异。",
+            "exampleSentence": "Les vêtements d'occasion permettent en effet d'être extraordinaires sans se distinguer du groupe."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "attirer l'attention de qn.",
+            "meaning": "吸引某人的注意",
+            "usage": "attirer 直接及物，宾语为 l'attention；de qn. 表示对象。也可用 attirer qn.（吸引某人）。",
+            "exampleSentence": "La mode de l'occasion attire aussi l'attention des jeunes."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "en effet",
+            "meaning": "确实，事实上；（用于解释）因为",
+            "usage": "副词短语，有两种用法：① 表示确认加强（确实）；② 口语中引出解释原因（因为，相当于 car）。置于句中或句首均可。",
+            "exampleSentence": "Les vêtements d'occasion permettent en effet d'être extraordinaires sans se distinguer du groupe."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "s'intéresser à qch./qn.",
+            "meaning": "对……感兴趣",
+            "usage": "代词式动词，固定搭配 à；接事物时句中用 y 代替（y = à + chose），接人时用 lui/elle/eux 等重读代词。注意与及物动词 intéresser qn.（使某人感兴趣）区分。",
+            "exampleSentence": "Suivre la mode, je ne m'y intéresse pas."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "plaire à qn.",
+            "meaning": "使某人喜欢，令某人满意",
+            "usage": "vt.ind.，固定搭配 à，注意主语是令人喜欢的事物，而非喜欢的人。与 aimer 方向相反：ça me plaît = j'aime ça。间接宾语代词：lui, leur 等。",
+            "exampleSentence": "Mais ces vêtements modernes ne plaisent pas toujours aux parents."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "de bonne / mauvaise qualité",
+            "meaning": "质量好的/质量差的",
+            "usage": "固定介词短语，名词前不加冠词。作后置表语或定语使用。",
+            "exampleSentence": "Ils portent toujours des vêtements qui sont extraordinaires et, en même temps, de bonne qualité."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "point de vue",
+            "meaning": "观点，看法",
+            "usage": "固定名词短语，复数为 points de vue；常见搭配：du point de vue de（从……角度）；avoir des points de vue différents（持不同观点）。",
+            "exampleSentence": "on n'a pas toujours les mêmes points de vue."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "mode",
+            "partOfSpeech": "n.f.",
+            "definition": "①时髦，流行款式；②时尚界，时装业",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la mode",
+                    "vocabularyCollocationMeaning": "流行的，时髦的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre la mode",
+                    "vocabularyCollocationMeaning": "追随时尚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la mode de l'occasion",
+                    "vocabularyCollocationMeaning": "二手时尚"
+                }
+            ],
+            "synonymAnalysis": "mode (n.f.) 指时尚、流行趋势；注意 mode 还有 n.m. 词性，意为“方式、模式”（如 mode de vie 生活方式），二者词性不同，含义完全不同，需区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "modiste",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女帽商，时装设计师"
+                }
+            ],
+            "pluralForm": "modes"
+        },
+        {
+            "index": "2",
+            "vocabulary": "neuf",
+            "partOfSpeech": "adj.",
+            "definition": "①新的，没有用过的；②（思想、观点）新颖的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "des vêtements neufs",
+                    "vocabularyCollocationMeaning": "新衣服"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'état neuf",
+                    "vocabularyCollocationMeaning": "全新状态"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "quoi de neuf ?",
+                    "vocabularyCollocationMeaning": "有什么新鲜事？（口语）"
+                }
+            ],
+            "synonymAnalysis": "neuf 强调未使用过、崭新的（与 d'occasion 相对）；nouveau 强调新出现的、最新的（与 ancien 相对）。如：un livre neuf（一本没读过的书）vs un nouveau livre（一本新出版的书）。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 neuve，阳性复数 neufs，阴性复数 neuves",
+            "position": "通常置于名词之后，但 quoi de neuf 为固定用法"
+        },
+        {
+            "index": "3",
+            "vocabulary": "changer",
+            "partOfSpeech": "vt.",
+            "definition": "①变更，改变；②更换，换掉；③（v.i.）发生变化",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "changer de vêtements",
+                    "vocabularyCollocationMeaning": "换衣服"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "changer d'avis",
+                    "vocabularyCollocationMeaning": "改变主意"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "changer qch. en qch.",
+                    "vocabularyCollocationMeaning": "将……变成……"
+                }
+            ],
+            "synonymAnalysis": "changer（变化、更换）是通用词；modifier 更正式，指局部修改；transformer 指根本性转变。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "changement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "变化，变更"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "échange",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "交换，交流"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "jean",
+            "partOfSpeech": "n.m.",
+            "definition": "牛仔裤",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un jean",
+                    "vocabularyCollocationMeaning": "一条牛仔裤"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "porter un jean",
+                    "vocabularyCollocationMeaning": "穿一条牛仔裤"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "jeans"
+        },
+        {
+            "index": "5",
+            "vocabulary": "c'est-à-dire",
+            "partOfSpeech": "conj.",
+            "definition": "即，也就是说",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est-à-dire que + 句子",
+                    "vocabularyCollocationMeaning": "也就是说……（引出解释性分句）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est-à-dire + 名词/短语",
+                    "vocabularyCollocationMeaning": "即……（引出同位说明）"
+                }
+            ],
+            "synonymAnalysis": "c'est-à-dire 与 à savoir 均可表示“即”，但 c'est-à-dire 更口语化，à savoir 较书面正式。",
+            "derivedWords": [],
+            "useExplanation": "连接词，用于引出对前文的解释或具体说明；后可接名词短语或 que 引导的从句。书面口语均常用。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "pull",
+            "partOfSpeech": "n.m.",
+            "definition": "套头毛衣，套头衫",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un pull en laine",
+                    "vocabularyCollocationMeaning": "一件羊毛套头衫"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre un pull",
+                    "vocabularyCollocationMeaning": "穿上套头衫"
+                }
+            ],
+            "synonymAnalysis": "pull 与 pull-over 同义，均指套头毛衣；chandail 也指毛衣，较旧式说法。",
+            "derivedWords": [],
+            "pluralForm": "pulls"
+        },
+        {
+            "index": "7",
+            "vocabulary": "blouson",
+            "partOfSpeech": "n.m.",
+            "definition": "夹克衫，短外套",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un blouson en cuir",
+                    "vocabularyCollocationMeaning": "一件皮夹克"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "porter un blouson",
+                    "vocabularyCollocationMeaning": "穿一件夹克"
+                }
+            ],
+            "synonymAnalysis": "blouson 指腰部收紧的短外套；veste 指西装上衣或普通上衣；manteau 指长款大衣。",
+            "derivedWords": [],
+            "pluralForm": "blousons"
+        },
+        {
+            "index": "8",
+            "vocabulary": "plupart",
+            "partOfSpeech": "n.f.",
+            "definition": "大部分，大多数",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la plupart des + 名词复数",
+                    "vocabularyCollocationMeaning": "大多数……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la plupart du temps",
+                    "vocabularyCollocationMeaning": "大多数时候，通常"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pour la plupart",
+                    "vocabularyCollocationMeaning": "大多数情况下，大部分（副词短语）"
+                }
+            ],
+            "synonymAnalysis": "la plupart de 表示数量上的大多数；la majorité de 更正式，常用于书面语或统计语境；la plupart 更口语化。",
+            "derivedWords": [],
+            "useExplanation": "plupart 仅用于固定短语 la plupart（de），单独使用无意义。谓语动词通常用复数。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "commode",
+            "partOfSpeech": "adj.",
+            "definition": "①方便的，舒适的；②（性格）随和的，好相处的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est commode",
+                    "vocabularyCollocationMeaning": "这很方便"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "peu commode",
+                    "vocabularyCollocationMeaning": "不太好相处的；不太方便的"
+                }
+            ],
+            "synonymAnalysis": "commode（方便的）与 pratique（实用的）近义，但 commode 更强调使用上的便利舒适，pratique 更强调功能性和实用性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commodité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "便利，舒适"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 commodes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "ressembler",
+            "partOfSpeech": "vt.",
+            "definition": "①（ressembler à）和……相像，类似；②（se ressembler）互相相像",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ressembler à qn./qch.",
+                    "vocabularyCollocationMeaning": "与某人/某物相像"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se ressembler",
+                    "vocabularyCollocationMeaning": "（彼此）相像"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ne ressembler à rien",
+                    "vocabularyCollocationMeaning": "毫无章法，乱糟糟的（口语）"
+                }
+            ],
+            "synonymAnalysis": "ressembler à 指外貌或性质上与某人/物相似；être semblable à 更正式，强调程度上的相似；avoir l'air de 强调外表印象。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ressemblance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "相似，相像"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "extraordinaire",
+            "partOfSpeech": "adj.",
+            "definition": "①特别的，与众不同的；②非凡的，出众的；③离奇的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un homme extraordinaire",
+                    "vocabularyCollocationMeaning": "一个非凡的人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelque chose d'extraordinaire",
+                    "vocabularyCollocationMeaning": "非同寻常的事"
+                }
+            ],
+            "synonymAnalysis": "extraordinaire（与众不同、出众的）与 exceptionnel（例外的、杰出的）近义，但 extraordinaire 更口语化，exceptionnel 更书面正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "extraordinairement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "格外地，出奇地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 extraordinaires",
+            "position": "通常置于名词之后；少数情况前置时带有强调色彩"
+        },
+        {
+            "index": "12",
+            "vocabulary": "temps",
+            "partOfSpeech": "n.m.",
+            "definition": "①时间；②天气；③时态（语法）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en même temps",
+                    "vocabularyCollocationMeaning": "同时"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir le temps de faire qch.",
+                    "vocabularyCollocationMeaning": "有时间做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de temps en temps",
+                    "vocabularyCollocationMeaning": "不时，偶尔"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "tout le temps",
+                    "vocabularyCollocationMeaning": "一直，总是"
+                }
+            ],
+            "synonymAnalysis": "temps（时间，通用）vs heure（小时，钟点）：temps 指抽象的时间概念，heure 指具体的点或段。temps 还可表示天气（le temps est beau），而 heure 无此义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "temporaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "临时的，暂时的"
+                }
+            ],
+            "pluralForm": "temps（不变）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "qualité",
+            "partOfSpeech": "n.f.",
+            "definition": "①质量；②优点，品质；③（人的）品格，才能",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de bonne / mauvaise qualité",
+                    "vocabularyCollocationMeaning": "质量好的/差的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contrôle de qualité",
+                    "vocabularyCollocationMeaning": "质量控制"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir des qualités",
+                    "vocabularyCollocationMeaning": "有优点，有才能"
+                }
+            ],
+            "synonymAnalysis": "qualité（质量、品质）是通用词；valeur 侧重价值和重要性；mérite 强调值得称赞之处（多指人的品质）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "qualitatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "质量上的，定性的"
+                }
+            ],
+            "pluralForm": "qualités"
+        },
+        {
+            "index": "14",
+            "vocabulary": "occasion",
+            "partOfSpeech": "n.f.",
+            "definition": "①机会，时机；②旧货，二手物品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "d'occasion",
+                    "vocabularyCollocationMeaning": "二手的，旧货的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'occasion de",
+                    "vocabularyCollocationMeaning": "在……之际，借……机会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "saisir une occasion",
+                    "vocabularyCollocationMeaning": "抓住机会"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "dans les grandes occasions",
+                    "vocabularyCollocationMeaning": "在重大场合"
+                }
+            ],
+            "synonymAnalysis": "occasion（机会）与 chance 的区别：occasion 指具体的可利用时机，chance 更强调运气。d'occasion（二手的）是固定用法，不可替换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "occasionnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "偶然的，偶尔的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "occasionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "引起，造成"
+                }
+            ],
+            "pluralForm": "occasions"
+        },
+        {
+            "index": "15",
+            "vocabulary": "attirer",
+            "partOfSpeech": "vt.",
+            "definition": "①吸引，引起（注意、兴趣等）；②招致，引起（后果）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "attirer l'attention de qn.",
+                    "vocabularyCollocationMeaning": "吸引某人的注意"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attirer qn. vers qch.",
+                    "vocabularyCollocationMeaning": "吸引某人趋向某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "attirer des ennuis",
+                    "vocabularyCollocationMeaning": "招来麻烦"
+                }
+            ],
+            "synonymAnalysis": "attirer（吸引）与 intéresser（使感兴趣）有交叉：attirer 侧重于吸引靠近或引起关注，intéresser 侧重于引发内在兴趣。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "attrait",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "吸引力，魅力"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "attirant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有吸引力的，迷人的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "effet",
+            "partOfSpeech": "n.m.",
+            "definition": "①作用，效果；②效力；③印象，感觉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en effet",
+                    "vocabularyCollocationMeaning": "确实，事实上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir un effet sur qch.",
+                    "vocabularyCollocationMeaning": "对……产生效果"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire de l'effet",
+                    "vocabularyCollocationMeaning": "有效果；引人注目"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à cet effet",
+                    "vocabularyCollocationMeaning": "为此目的"
+                }
+            ],
+            "synonymAnalysis": "effet（效果）与 résultat（结果）区别：effet 强调影响、印象或作用，résultat 强调具体的最终结果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "effectif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "实际的，有实效的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "effectivement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "确实，实际上"
+                }
+            ],
+            "pluralForm": "effets"
+        },
+        {
+            "index": "17",
+            "vocabulary": "distinguer",
+            "partOfSpeech": "vt.",
+            "definition": "①区别，辨别；②（se distinguer）与众不同，脱颖而出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "distinguer qch. de qch.",
+                    "vocabularyCollocationMeaning": "把……与……区分开"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se distinguer de qn./qch.",
+                    "vocabularyCollocationMeaning": "区别于……，与……不同"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se distinguer par qch.",
+                    "vocabularyCollocationMeaning": "因某点而出众"
+                }
+            ],
+            "synonymAnalysis": "distinguer（区分/辨别）与 différencier 近义，但 distinguer 更常用，也可用于感官上的辨别（distinguer deux couleurs 区分两种颜色）；différencier 更强调主动划分差异。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "distinction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "区别；高雅，风度"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "distingué",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "高雅的，出众的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "groupe",
+            "partOfSpeech": "n.m.",
+            "definition": "①组，群体；②团队；③（音乐）乐队",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en groupe",
+                    "vocabularyCollocationMeaning": "成群地，以小组形式"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le groupe social",
+                    "vocabularyCollocationMeaning": "社会群体"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "former un groupe",
+                    "vocabularyCollocationMeaning": "组成一个小组"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "grouper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "把……归组，集中"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "groupement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "组合，集团"
+                }
+            ],
+            "pluralForm": "groupes"
+        },
+        {
+            "index": "19",
+            "vocabulary": "goût",
+            "partOfSpeech": "n.m.",
+            "definition": "①味道，口味；②品味，审美；③爱好，兴趣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir du goût",
+                    "vocabularyCollocationMeaning": "有品位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au goût de qn.",
+                    "vocabularyCollocationMeaning": "按某人的口味/喜好"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chacun son goût",
+                    "vocabularyCollocationMeaning": "各有所好（谚语）"
+                }
+            ],
+            "synonymAnalysis": "goût（味道/品味）与 saveur（滋味，侧重味觉感受）区别：goût 更通用，既可指生理上的味道，也可指审美上的品味；saveur 专指食物的滋味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "goûter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "品尝；（n.m.）下午茶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dégoûter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使厌恶，使反感"
+                }
+            ],
+            "pluralForm": "goûts"
+        },
+        {
+            "index": "20",
+            "vocabulary": "point de vue",
+            "partOfSpeech": "n.m.",
+            "definition": "①观点，看法；②角度，立场",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "du point de vue de",
+                    "vocabularyCollocationMeaning": "从……角度来看"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir des points de vue différents",
+                    "vocabularyCollocationMeaning": "持不同观点"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exprimer son point de vue",
+                    "vocabularyCollocationMeaning": "表达自己的观点"
+                }
+            ],
+            "synonymAnalysis": "point de vue 与 opinion（意见，主观判断）近义，但 point de vue 更强调看问题的角度和立场；avis 则更口语化，常见于 à mon avis（依我看）。",
+            "derivedWords": [],
+            "pluralForm": "points de vue"
+        },
+        {
+            "index": "21",
+            "vocabulary": "intéresser",
+            "partOfSpeech": "vt.",
+            "definition": "①使感兴趣，引起……的兴趣；②涉及，与……有关；（s'intéresser à）对……感兴趣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "intéresser qn. à qch.",
+                    "vocabularyCollocationMeaning": "使某人对某事感兴趣"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'intéresser à qch./qn.",
+                    "vocabularyCollocationMeaning": "对……感兴趣"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ça m'intéresse",
+                    "vocabularyCollocationMeaning": "这让我感兴趣"
+                }
+            ],
+            "synonymAnalysis": "intéresser qn.（使某人感兴趣，主语是事物）与 s'intéresser à qch.（某人对某事感兴趣，主语是人）是同一词根的两种主动/反身用法，考试中常考其人称代词替换：s'intéresser à qch. → y；s'intéresser à qn. → s'intéresser à lui/elle 等。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "intérêt",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "兴趣；利益；利息"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "intéressant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有趣的，有价值的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "désintéresser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使失去兴趣"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "manteau",
+            "partOfSpeech": "n.m.",
+            "definition": "大衣，外套",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un manteau d'hiver",
+                    "vocabularyCollocationMeaning": "冬季大衣"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre / enlever son manteau",
+                    "vocabularyCollocationMeaning": "穿上/脱下大衣"
+                }
+            ],
+            "synonymAnalysis": "manteau（长款大衣）vs blouson（短夹克）vs veste（西装/便装上衣）：三者均指外套类，按长度和款式区分。",
+            "derivedWords": [],
+            "pluralForm": "manteaux"
+        },
+        {
+            "index": "23",
+            "vocabulary": "plaire",
+            "partOfSpeech": "vt.",
+            "definition": "①（plaire à qn.）使某人喜欢，令某人满意；②（se plaire）感到自在，喜欢（某地或某种状态）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plaire à qn.",
+                    "vocabularyCollocationMeaning": "使某人喜欢（主语为物或事）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ça me plaît",
+                    "vocabularyCollocationMeaning": "我喜欢这个"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'il vous plaît / s'il te plaît",
+                    "vocabularyCollocationMeaning": "请（礼貌用语）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "se plaire à + infinitif",
+                    "vocabularyCollocationMeaning": "乐于……"
+                }
+            ],
+            "synonymAnalysis": "plaire à qn. 与 aimer 的区别在于主语：plaire 以令人喜欢的事物为主语（这本书令我喜欢），aimer 以喜欢者为主语（我喜欢这本书）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plaisir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "乐趣，快乐"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "plaisant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人愉快的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "déplaire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使不满意，令……不喜欢"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je plais, tu plais, il plaît, nous plaisons, vous plaisez, ils plaisent",
+                "compoundPast": "j'ai plu（过去分词 plu 不变化）",
+                "simpleFuture": "je plairai, tu plairas, il plaira, nous plairons, vous plairez, ils plairont",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -aire/-aire 类不规则动词，类似 taire（沉默）、se taire。注意第三人称单数 il plaît 有帽音符。"
+            }
+        },
+        {
+            "index": "24",
+            "vocabulary": "classique",
+            "partOfSpeech": "adj.",
+            "definition": "①传统的，经典的；②古典的；③（口语）典型的，不出奇的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "musique classique",
+                    "vocabularyCollocationMeaning": "古典音乐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vêtements classiques",
+                    "vocabularyCollocationMeaning": "传统款式服装"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un auteur classique",
+                    "vocabularyCollocationMeaning": "古典作家"
+                }
+            ],
+            "synonymAnalysis": "classique（经典/传统的）与 traditionnel（传统的）：classique 更强调历经时间检验的品质感；traditionnel 更强调沿袭传统、习俗的特点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "classiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "经典地，典型地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "classicisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "古典主义"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 classiques",
+            "position": "通常置于名词之后；前置时偶有强调色彩"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Suivre la mode, c'est d'acheter, deux fois par an, des vêtements neufs. Pourtant, chez les jeunes, les vêtements se ressemblent de plus en plus. Ils portent toujours des vêtements qui sont extraordinaires et, en même temps, de bonne qualité. L'important, c'est d'être à la mode sans être comme les autres. Mais ces vêtements modernes ne plaisent pas toujours aux parents, qui préfèrent les vêtements classiques.",
+            "chineseTranslation": "追随时尚，就是每年两次购买新衣。然而，年轻人之间的穿着却越来越趋同。他们总是追求既特别又品质上乘的服装。重要的是，既要赶时髦，又不能和别人一个样。但这些时髦的现代装束，父母却未必都欣赏——他们更钟情于传统款式。",
+            "fr2cnStrategy": "① Suivre la mode, c'est de + infinitif 为定义结构，译为“……就是……”，体现汉语的判断句式；② de plus en plus 译为“越来越”，词序与汉语一致，无需调整；③ qui sont extraordinaires et de bonne qualité 为关系从句，整合为“既……又……”的并列结构，避免生硬的定语叠加；④ L'important, c'est de 名词化结构，译为“重要的是”，属于词性转换（形容词名词化→汉语判断句）；⑤ ne plaisent pas aux parents 主语为事物，汉语转换为“父母不欣赏”，完成主谓方向的调整；⑥ qui préfèrent 为限定性关系从句，拆分为破折号后的独立分句，体现汉语的短句化倾向。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "大多数年轻人每年春秋各买一次衣服，追求既特别又耐穿的款式。",
+                "frenchTranslation": "La plupart des jeunes achètent des vêtements deux fois par an, au printemps et en automne, en cherchant des styles qui sont à la fois extraordinaires et faciles à porter longtemps.",
+                "cn2frStrategy": "① “大多数年轻人”→ la plupart des jeunes，谓语用复数 achètent；② “春秋各买一次”→ deux fois par an, au printemps et en automne，用 par + 时间名词表频率；③ “既……又……”→ à la fois...et...，比 et, en même temps 更简洁；④ “耐穿”→ faciles à porter longtemps，用 facile à + infinitif 结构，避免直译。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "我对追流行没有兴趣，更喜欢自己设计、制作服装。",
+                "frenchTranslation": "Je ne m'intéresse pas à suivre la mode ; je préfère créer et faire mes propres vêtements.",
+                "cn2frStrategy": "① “对……没有兴趣”→ ne pas s'intéresser à + infinitif，代词式动词；② “追流行”→ suivre la mode，直接用不定式；③ “自己设计制作”→ créer et faire mes propres vêtements，用 propres 强调“自己的”；④ 注意法语代词式动词 s'intéresser 的变位及否定位置。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这种现代服装并不总是令父母满意，他们更偏爱传统款式。",
+                "frenchTranslation": "Ces vêtements modernes ne plaisent pas toujours aux parents, qui préfèrent les styles classiques.",
+                "cn2frStrategy": "① “令……满意”→ plaire à qn.，主语须为事物（vêtements），注意主语方向与汉语相反；② ne...pas toujours 为部分否定，位置固定：ne 在助动词前，pas toujours 在动词后；③ “他们更偏爱”→ 用限定性关系从句 qui préfèrent，使句子更紧凑；④ “传统款式”→ les styles classiques，形容词后置。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "二手服装确实能让人与众不同，同时又不至于脱离群体。",
+                "frenchTranslation": "Les vêtements d'occasion permettent en effet d'être extraordinaires sans se distinguer du groupe.",
+                "cn2frStrategy": "① “确实”→ en effet，置于动词后作插入语；② “让人……”→ permettre de + infinitif，主语为事物；③ “与众不同”→ être extraordinaires；④ “不至于脱离”→ sans se distinguer du groupe，sans + infinitif 构成否定伴随状语；⑤ se distinguer de 为代词式动词，固定搭配 de，不可用 avec 或 à。"
+            }
+        ]
+    }
+}
