@@ -1,0 +1,1968 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Créée en 1952 à partir de six États, l'Union européenne s'est élargie à neuf, à quinze puis à 25 et, depuis 2007, l'UE regroupe 27 États, soit plus de 492 millions d'habitants avec une superficie de 4 280 000 km².",
+            "translatedSentence": "欧盟于1952年由六个国家创立，后扩大至九国、十五国，再至二十五国；自2007年起，欧盟共有27个成员国，覆盖人口超过4.92亿，国土面积达428万平方公里。",
+            "sentenceStructure": "主句为 l'Union européenne s'est élargie à...，开头用过去分词短语 Créée en 1952 à partir de six États 作状语修饰主语；逗号后 depuis 2007, l'UE regroupe... 为并列补充说明分句；soit 引导同位解释。",
+            "grammarAnalysis": "① Créée 是动词 créer 的过去分词，作分词短语修饰主语 l'Union européenne，表被动意义，须与主语性数一致（阴性单数加 -e）。② s'est élargie 是代词式动词 s'élargir 的复合过去时，助动词用 être，过去分词与主语性数一致。③ soit 此处作连词，相当于 c'est-à-dire，意为「即、也就是」，引导数量的进一步说明。",
+            "commonMistakes": "① Créée 末尾双 e 易漏写，需注意过去分词与阴性主语的配合。② s'est élargie 中助动词用 être 而非 avoir，代词式动词复合过去时均用 être。③ soit 在此处是连词用法，学生常误认为是 être 的虚拟式。"
+        },
+        {
+            "index": "2",
+            "sentence": "Différents de taille, de culture et de conditions de vie, les États membres partagent cependant des valeurs communes.",
+            "translatedSentence": "尽管各成员国在规模、文化和生活条件上各有差异，但它们共享共同的价值观。",
+            "sentenceStructure": "句首 Différents de taille, de culture et de conditions de vie 为形容词短语作状语，修饰主语 les États membres；主干为 les États membres partagent des valeurs communes；cependant 作让步转折副词。",
+            "grammarAnalysis": "① 形容词 Différents 置于句首作状语（表让步），需与主语 les États membres 性数一致（阳性复数）。② cependant 为副词，意为「然而、可是」，常置于动词前或句中，语气较 mais 更书面正式。③ partager 此处为第一组规则动词，及物用法，意为「共同拥有/分享」。",
+            "commonMistakes": "① 形容词短语作状语时，形容词须与主语性数配合，易误写为阴性或单数形式。② cependant 是副词，不能像 mais 那样连接两个独立句，不可置于句首替换 mais 起连词功能。"
+        },
+        {
+            "index": "3",
+            "sentence": "L'Union cherche à s'agrandir, à développer ses richesses, à renforcer la démocratie et à maintenir la paix.",
+            "translatedSentence": "欧盟致力于扩大规模、发展财富、巩固民主并维护和平。",
+            "sentenceStructure": "主句 L'Union cherche 后接四个并列的 à + 不定式结构，构成宾语补足语：à s'agrandir、à développer ses richesses、à renforcer la démocratie、à maintenir la paix。",
+            "grammarAnalysis": "① chercher à faire qch. 是固定搭配，意为「力求/致力于做某事」，后接动词不定式，介词为 à。② 四个并列不定式短语共享同一个 chercher，形成排比结构，末尾两项用 et 连接。③ s'agrandir 为代词式动词，意为「扩大、增长」。",
+            "commonMistakes": "① chercher 后介词须用 à，不可用 de。② 并列不定式结构中，à 须在每个不定式前重复出现，不可省略。"
+        },
+        {
+            "index": "4",
+            "sentence": "L'utilisation d'une monnaie unique parmi les membres de l'Union européenne permet d'améliorer la situation de l'emploi, de réduire les écarts de niveau de vie et de renforcer la force de l'Europe dans le monde.",
+            "translatedSentence": "在欧盟成员国之间使用统一货币，有助于改善就业形势、缩小生活水平差距，并增强欧洲在世界上的影响力。",
+            "sentenceStructure": "主语为 L'utilisation d'une monnaie unique parmi les membres de l'Union européenne（名词短语，中心词为 utilisation）；谓语为 permet；宾语为三个并列的 de + 不定式结构。",
+            "grammarAnalysis": "① permettre de faire qch. 是固定搭配，意为「允许/使得……得以……」，后接 de + 不定式。② 三个并列的 de + 不定式共享同一个 permet，de 须在每项前重复。③ 主语为抽象名词结构，L'utilisation de... 相当于汉语中「……的使用/使用……」。",
+            "commonMistakes": "① permettre 后介词用 de，不可用 à。② 并列结构中 de 须逐一重复，不可只写一次。③ écart de niveau de vie 是固定名词搭配，意为「生活水平差距」，翻译时注意不要漏译 de niveau de vie。"
+        },
+        {
+            "index": "5",
+            "sentence": "Quand on aura réalisé une union totale de l'Europe, on pourra voir un continent où régneront la paix, la tranquillité et la solidarité.",
+            "translatedSentence": "当整个欧洲实现完全统一之时，人们将看到一片和平、安宁与团结的大陆。",
+            "sentenceStructure": "由 Quand 引导时间状语从句 on aura réalisé une union totale de l'Europe；主句为 on pourra voir un continent；on pourra voir 后接关系从句 où régneront la paix, la tranquillité et la solidarité，où 代指 un continent。",
+            "grammarAnalysis": "① 时间从句中使用先将来时 aura réalisé，表示主句动作（将来时 pourra）发生之前已完成的将来动作，体现时态的相对性。② 主句用简单将来时 pourra。③ 关系从句中动词 régneront 用将来时，与主句保持时态一致；主语 la paix, la tranquillité et la solidarité 后置于谓语（倒装），构成修辞性倒装。",
+            "commonMistakes": "① 先将来时（futur antérieur）在时间从句中的使用是考研高频考点，学生常误用简单将来时或复合过去时。② régneront 主语后置，属于法语修辞倒装，学生易误判主语。"
+        },
+        {
+            "index": "6",
+            "sentence": "Grâce à cette union, les citoyens des États membres auront plus de chance de se déplacer, de choisir le lieu de travail où ils se sentent à l'aise, d'établir leurs entreprises dans les régions de leur choix...",
+            "translatedSentence": "借助这一联盟，成员国公民将有更多机会自由流动，选择自己感到自在的工作地点，并在他们所选择的地区创办企业……",
+            "sentenceStructure": "主句 les citoyens des États membres auront plus de chance，后接三个并列的 de + 不定式作 chance 的补语：de se déplacer、de choisir le lieu de travail...、d'établir leurs entreprises...；où 引导关系从句修饰 le lieu de travail。",
+            "grammarAnalysis": "① avoir (plus de) chance de faire qch. 固定结构，意为「有机会做某事」。② se déplacer 为代词式动词，意为「移动、出行」。③ se sentir à l'aise 固定表达，意为「感到自在/舒适」。④ 关系代词 où 指代地点先行词 le lieu de travail。⑤ 主句用简单将来时 auront，表将来。",
+            "commonMistakes": "① avoir chance de 后须用 de + 不定式，不可直接加名词。② où 作关系代词指代地点，学生易误用 que 或 dont。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "à partir de + n./date",
+            "meaning": "从……开始，以……为基础",
+            "usage": "固定介词短语，后接名词或时间表达。表示起点，既可指时间起点，也可指来源或基础。",
+            "exampleSentence": "Créée en 1952 à partir de six États, l'Union européenne s'est élargie à neuf..."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "s'élargir à + nombre/groupe",
+            "meaning": "扩大到……，扩展至……",
+            "usage": "代词式动词，表示规模或范围的扩大，后接 à + 数量或群体。注意与及物用法 élargir qch. 区分。",
+            "exampleSentence": "l'Union européenne s'est élargie à neuf, à quinze puis à 25"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "partager des valeurs communes",
+            "meaning": "共享共同的价值观",
+            "usage": "partager 及物动词，后直接接宾语，不加介词。commun(e) 通常后置于名词。",
+            "exampleSentence": "les États membres partagent cependant des valeurs communes"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "chercher à faire qch.",
+            "meaning": "力求做某事，致力于……",
+            "usage": "固定搭配，chercher 后介词必须用 à，后接动词不定式。语义上表示主动的努力和追求。注意区分 chercher à（力求）与 chercher de（无此搭配）。",
+            "exampleSentence": "L'Union cherche à s'agrandir, à développer ses richesses..."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "avoir pour objectif de faire qch.",
+            "meaning": "以……为目标，旨在……",
+            "usage": "书面语固定结构，avoir pour + 名词 + de + 不定式。常见类似结构：avoir pour but de, avoir pour mission de。",
+            "exampleSentence": "les États membres ont pour objectif de développer ensemble l'économie..."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "permettre de faire qch.",
+            "meaning": "使……得以……，有助于……",
+            "usage": "固定搭配，permettre 后接 de + 不定式，主语常为事物。注意区分 permettre de（允许做）与 permettre à qn. de faire（允许某人做）两种结构。",
+            "exampleSentence": "L'utilisation d'une monnaie unique...permet d'améliorer la situation de l'emploi..."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "réduire les écarts de niveau de vie",
+            "meaning": "缩小生活水平差距",
+            "usage": "réduire vt. 缩小、减少，后直接接宾语。écart de + 名词 表示「……方面的差距」，为固定名词搭配。",
+            "exampleSentence": "de réduire les écarts de niveau de vie et de renforcer la force de l'Europe dans le monde"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "non seulement... mais aussi...",
+            "meaning": "不但……而且……",
+            "usage": "固定关联连词，用于递进关系。non seulement 修饰动词或名词，须注意两部分的语法对称性。书面语和口语均常用。",
+            "exampleSentence": "L'Union européenne veut développer non seulement une force politique et économique de sa zone, mais aussi ses cultures et ses habitudes."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "C'est ainsi que...",
+            "meaning": "就这样……，正因如此……",
+            "usage": "强调句式变体，C'est ainsi que 引导从句，强调方式或结果。注意与 c'est...qui/que 强调句的区别。",
+            "exampleSentence": "C'est ainsi que chaque année ont lieu, sans frontières, des activités artistiques et culturelles..."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "se sentir à l'aise",
+            "meaning": "感到自在，感到舒适",
+            "usage": "固定表达，à l'aise 为名词短语作表语补足语。类似表达：mettre qn. à l'aise（让某人感到自在）。",
+            "exampleSentence": "de choisir le lieu de travail où ils se sentent à l'aise"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "tendre vers + n.",
+            "meaning": "趋向……，朝……方向发展",
+            "usage": "固定搭配，tendre vi. + vers，后接名词，表示方向性的努力或趋势。书面语色彩较强。",
+            "exampleSentence": "elle tend vers un avenir encore meilleur"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "avoir plus de chance de faire qch.",
+            "meaning": "有更多机会做某事",
+            "usage": "avoir chance de 后须接 de + 不定式，chance 前可加 plus de / moins de / beaucoup de 等修饰。",
+            "exampleSentence": "les citoyens des États membres auront plus de chance de se déplacer..."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "union",
+            "partOfSpeech": "n.f.",
+            "definition": "①联盟，联合 ②结合，团结",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'union européenne",
+                    "vocabularyCollocationMeaning": "欧盟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "union sans frontières",
+                    "vocabularyCollocationMeaning": "无边界联盟"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "union totale",
+                    "vocabularyCollocationMeaning": "全面联合"
+                }
+            ],
+            "synonymAnalysis": "union vs alliance：union 强调内部融合与共同体，alliance 更强调双方协议性的结盟，常用于军事或政治外交语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "unir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "联合，统一"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "uni",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "联合的；单色的"
+                }
+            ],
+            "pluralForm": "unions"
+        },
+        {
+            "index": "2",
+            "vocabulary": "créer",
+            "partOfSpeech": "vt.",
+            "definition": "①建立，创立 ②创造，创作",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "créer une entreprise",
+                    "vocabularyCollocationMeaning": "创建一家企业"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "créer des emplois",
+                    "vocabularyCollocationMeaning": "创造就业岗位"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "créer une union",
+                    "vocabularyCollocationMeaning": "建立联盟"
+                }
+            ],
+            "synonymAnalysis": "créer vs fonder：créer 更通用，强调从无到有的创造；fonder 更正式，多用于机构、组织、城市的创立，强调奠基意义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "création",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "创立，创造；创作品"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "créateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "创造者，创始人"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "créatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有创造力的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "état",
+            "partOfSpeech": "n.m.",
+            "definition": "①状态，状况 ②（大写 É）国家，政府",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "États membres",
+                    "vocabularyCollocationMeaning": "成员国"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en bon état",
+                    "vocabularyCollocationMeaning": "状况良好"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "état de santé",
+                    "vocabularyCollocationMeaning": "健康状况"
+                }
+            ],
+            "synonymAnalysis": "état（小写）指「状态」；État（大写）指「国家」，两者拼写相同，须根据语境和大写区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étatique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "国家的，国有的"
+                }
+            ],
+            "pluralForm": "états / États"
+        },
+        {
+            "index": "4",
+            "vocabulary": "élargir",
+            "partOfSpeech": "vt.",
+            "definition": "①扩大，拓宽 ②（s'~）变大，扩展",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "élargir une route",
+                    "vocabularyCollocationMeaning": "拓宽道路"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'élargir à + nombre",
+                    "vocabularyCollocationMeaning": "扩大到……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "élargir ses connaissances",
+                    "vocabularyCollocationMeaning": "拓展知识"
+                }
+            ],
+            "synonymAnalysis": "élargir vs agrandir：élargir 侧重横向宽度的拓宽或范围扩大；agrandir 更强调整体规模或面积的增大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "élargissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "扩大，扩展"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "regrouper",
+            "partOfSpeech": "vt.",
+            "definition": "①集中，合并 ②使重新聚集",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "regrouper 27 États",
+                    "vocabularyCollocationMeaning": "集合27个国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se regrouper",
+                    "vocabularyCollocationMeaning": "重新聚集，集结"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "soit",
+            "partOfSpeech": "conj.",
+            "definition": "①即，也就是说 ②（虚拟式）假设，设若",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "soit... soit...",
+                    "vocabularyCollocationMeaning": "或者……或者……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "soit + 数量",
+                    "vocabularyCollocationMeaning": "即……，共计……"
+                }
+            ],
+            "synonymAnalysis": "作「即」讲时，相当于 c'est-à-dire；作「或者」讲时，构成 soit...soit... 选择关系。",
+            "derivedWords": [],
+            "useExplanation": "① 用于数量说明时，置于数字前，意为「即、共计」，常见于书面语。② soit...soit... 引导两个并列的选择性从句。③ 作为 être 的现在虚拟式第三人称单数，也可出现在假设语境中。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "million",
+            "partOfSpeech": "n.m.",
+            "definition": "①百万",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "des millions de + n.",
+                    "vocabularyCollocationMeaning": "数百万……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "492 millions d'habitants",
+                    "vocabularyCollocationMeaning": "4.92亿居民"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "milliard",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "十亿"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "millionnaire",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "百万富翁"
+                }
+            ],
+            "pluralForm": "millions",
+            "useExplanation": "million 后接名词时，须加介词 de（而非 des）：un million d'habitants。当 million 前有具体数字时，仍加 de：492 millions d'habitants。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "commission",
+            "partOfSpeech": "n.f.",
+            "definition": "①委员会 ②佣金；手续费",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la Commission européenne",
+                    "vocabularyCollocationMeaning": "欧盟委员会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "commission d'enquête",
+                    "vocabularyCollocationMeaning": "调查委员会"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commissaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "委员；专员"
+                }
+            ],
+            "pluralForm": "commissions"
+        },
+        {
+            "index": "9",
+            "vocabulary": "conseil",
+            "partOfSpeech": "n.m.",
+            "definition": "①理事会，委员会 ②建议，忠告",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le Conseil de l'Union européenne",
+                    "vocabularyCollocationMeaning": "欧盟理事会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner un conseil",
+                    "vocabularyCollocationMeaning": "给予建议"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "suivre le conseil de qn.",
+                    "vocabularyCollocationMeaning": "听从某人的建议"
+                }
+            ],
+            "synonymAnalysis": "conseil（建议）vs avis：conseil 侧重具体指导意见；avis 更侧重个人看法或意见，如 à mon avis（依我看）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建议，劝告"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "顾问，参事"
+                }
+            ],
+            "pluralForm": "conseils"
+        },
+        {
+            "index": "10",
+            "vocabulary": "situé",
+            "partOfSpeech": "adj.",
+            "definition": "①坐落的，位于的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être situé à/en + lieu",
+                    "vocabularyCollocationMeaning": "位于……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "situé au centre de",
+                    "vocabularyCollocationMeaning": "位于……中心"
+                }
+            ],
+            "synonymAnalysis": "situé vs se trouver：être situé 更强调固定位置，语气较正式；se trouver 更口语化，也可用于临时位置。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "situer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使位于，定位"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "situation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "情况，位置"
+                }
+            ],
+            "genderNumberVariation": "阴性 située，阳性复数 situés，阴性复数 situées",
+            "position": "通常置于名词后，或作表语"
+        },
+        {
+            "index": "11",
+            "vocabulary": "membre",
+            "partOfSpeech": "n.",
+            "definition": "①成员，会员 ②（身体）肢体",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "États membres",
+                    "vocabularyCollocationMeaning": "成员国"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pays membres",
+                    "vocabularyCollocationMeaning": "成员国"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "membre d'une association",
+                    "vocabularyCollocationMeaning": "协会成员"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "membres"
+        },
+        {
+            "index": "12",
+            "vocabulary": "partager",
+            "partOfSpeech": "vt.",
+            "definition": "①分享，共享 ②瓜分，分配 ③（se ~）被分成",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "partager des valeurs communes",
+                    "vocabularyCollocationMeaning": "共享共同的价值观"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partager un repas",
+                    "vocabularyCollocationMeaning": "共享一顿饭"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "partager qch. avec qn.",
+                    "vocabularyCollocationMeaning": "与某人分享某物"
+                }
+            ],
+            "synonymAnalysis": "partager vs diviser：partager 强调共同享有或按份分配；diviser 更强调分割、切分，有时含对立意味（如 diviser pour régner）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "partage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "分享，分配"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "cependant",
+            "partOfSpeech": "adv.",
+            "definition": "①然而，可是 ②（古）与此同时",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "... partagent cependant des valeurs...",
+                    "vocabularyCollocationMeaning": "然而……仍共享……"
+                }
+            ],
+            "synonymAnalysis": "cependant vs pourtant vs mais：三者均表转折。cependant 书面语色彩最强，常置于句中；pourtant 语气最强烈，表示「尽管如此」；mais 最口语化，作连词连接两个分句。",
+            "derivedWords": [],
+            "useExplanation": "副词，通常置于动词之前或句中，不能直接用于句首连接两个独立句（这一功能由 mais 承担）。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "valeur",
+            "partOfSpeech": "n.f.",
+            "definition": "①价值 ②（复数）价值观 ③证券，有价证券",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "valeurs communes",
+                    "vocabularyCollocationMeaning": "共同的价值观"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la valeur de qch.",
+                    "vocabularyCollocationMeaning": "某物的价值"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre en valeur",
+                    "vocabularyCollocationMeaning": "突显，充分利用"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "valoriser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "提升……的价值，开发"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "valuable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有价值的（较少用，更多用 précieux）"
+                }
+            ],
+            "pluralForm": "valeurs"
+        },
+        {
+            "index": "15",
+            "vocabulary": "commun",
+            "partOfSpeech": "adj.",
+            "definition": "①共同的，公共的 ②普通的，平凡的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "valeurs communes",
+                    "vocabularyCollocationMeaning": "共同的价值观"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en commun",
+                    "vocabularyCollocationMeaning": "共同地，共有地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir qch. en commun",
+                    "vocabularyCollocationMeaning": "有共同之处"
+                }
+            ],
+            "synonymAnalysis": "commun（共同的）vs ordinaire（普通的）：commun 后置于名词时可表「共同的」或「普通的」，前置时常表「普通、平庸」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "communauté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "共同体，社区"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "communément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "通常，普遍地"
+                }
+            ],
+            "genderNumberVariation": "阴性 commune，阳性复数 communs，阴性复数 communes",
+            "position": "通常置于名词后，表「共同的」；前置时表「普通的、平庸的」"
+        },
+        {
+            "index": "16",
+            "vocabulary": "agrandir",
+            "partOfSpeech": "vt.",
+            "definition": "①增大，扩大 ②（s'~）扩展，增长",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "agrandir un pays",
+                    "vocabularyCollocationMeaning": "扩大一个国家的版图"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'agrandir",
+                    "vocabularyCollocationMeaning": "（规模）增大，扩展"
+                }
+            ],
+            "synonymAnalysis": "agrandir vs élargir：agrandir 更强调整体规模或面积增大；élargir 侧重横向宽度或范围的拓展。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "agrandissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "扩大，扩建"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "développer",
+            "partOfSpeech": "vt.",
+            "definition": "①发展，开发 ②展开，阐述",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "développer l'économie",
+                    "vocabularyCollocationMeaning": "发展经济"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "développer ses richesses",
+                    "vocabularyCollocationMeaning": "发展财富"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se développer",
+                    "vocabularyCollocationMeaning": "发展，成长"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "développement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发展，开发"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "développeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "开发者（尤指软件）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "richesse",
+            "partOfSpeech": "n.f.",
+            "definition": "①财富 ②（复数）资源，宝藏",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "richesse nationale",
+                    "vocabularyCollocationMeaning": "国家财富"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les richesses naturelles",
+                    "vocabularyCollocationMeaning": "自然资源"
+                }
+            ],
+            "synonymAnalysis": "richesse vs fortune：richesse 更抽象，泛指财富或丰富程度；fortune 更具体，指个人积累的财产。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "riche",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富裕的，丰富的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enrichir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使富裕，丰富"
+                }
+            ],
+            "pluralForm": "richesses"
+        },
+        {
+            "index": "19",
+            "vocabulary": "renforcer",
+            "partOfSpeech": "vt.",
+            "definition": "①加强，巩固 ②增强，强化",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "renforcer la démocratie",
+                    "vocabularyCollocationMeaning": "巩固民主"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "renforcer la coopération",
+                    "vocabularyCollocationMeaning": "加强合作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "renforcer la force de",
+                    "vocabularyCollocationMeaning": "增强……的力量"
+                }
+            ],
+            "synonymAnalysis": "renforcer vs consolider：renforcer 强调力度的增强；consolider 更强调稳固和巩固已有基础。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "renforcement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "加强，强化"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "démocratie",
+            "partOfSpeech": "n.f.",
+            "definition": "①民主 ②民主国家",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "renforcer la démocratie",
+                    "vocabularyCollocationMeaning": "巩固民主"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "démocratie libérale",
+                    "vocabularyCollocationMeaning": "自由民主"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "démocratique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "民主的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "démocrate",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "民主人士，民主党人"
+                }
+            ],
+            "pluralForm": "démocraties"
+        },
+        {
+            "index": "21",
+            "vocabulary": "maintenir",
+            "partOfSpeech": "vt.",
+            "definition": "①维持，保持 ②维护，捍卫",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maintenir la paix",
+                    "vocabularyCollocationMeaning": "维护和平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maintenir l'ordre",
+                    "vocabularyCollocationMeaning": "维持秩序"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "maintenir sa position",
+                    "vocabularyCollocationMeaning": "坚守立场"
+                }
+            ],
+            "synonymAnalysis": "maintenir vs garder：maintenir 更正式，常用于抽象概念的维护；garder 更口语，侧重保留或看守。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "maintien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "维持，保持"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je maintiens, tu maintiens, il maintient, nous maintenons, vous maintenez, ils maintiennent",
+                "compoundPast": "j'ai maintenu",
+                "simpleFuture": "je maintiendrai",
+                "memoryAids": "属于 tenir 类动词，变位规律与 tenir、obtenir、retenir 完全相同"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "paix",
+            "partOfSpeech": "n.f.",
+            "definition": "①和平 ②宁静，安宁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maintenir la paix",
+                    "vocabularyCollocationMeaning": "维护和平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire la paix",
+                    "vocabularyCollocationMeaning": "讲和，和解"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vivre en paix",
+                    "vocabularyCollocationMeaning": "和平地生活"
+                }
+            ],
+            "synonymAnalysis": "paix vs tranquillité：paix 侧重政治意义上的和平或心理上的平静；tranquillité 更强调环境或内心的安宁与平静。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pacifique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "和平的，太平洋的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pacifiste",
+                    "derivedWordPartOfSpeech": "n./adj.",
+                    "derivedWordMeaning": "和平主义者；和平主义的"
+                }
+            ],
+            "pluralForm": "paix（复数同形）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "création",
+            "partOfSpeech": "n.f.",
+            "definition": "①建立，创立 ②创造，创作 ③创作品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la création de cette union",
+                    "vocabularyCollocationMeaning": "这一联盟的建立"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "création d'emplois",
+                    "vocabularyCollocationMeaning": "就业岗位的创造"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "créer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "创立，创造"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "créateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "创造者"
+                }
+            ],
+            "pluralForm": "créations"
+        },
+        {
+            "index": "24",
+            "vocabulary": "objectif",
+            "partOfSpeech": "n.m.",
+            "definition": "①目的，目标 ②（摄影/光学）镜头",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir pour objectif de faire qch.",
+                    "vocabularyCollocationMeaning": "以……为目标，旨在做……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "atteindre un objectif",
+                    "vocabularyCollocationMeaning": "达到目标"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fixer un objectif",
+                    "vocabularyCollocationMeaning": "确定目标"
+                }
+            ],
+            "synonymAnalysis": "objectif vs but：两者均表「目标」，but 更常见口语化；objectif 更正式，常用于职业或政治语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "objectif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "客观的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "objectivement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "客观地"
+                }
+            ],
+            "pluralForm": "objectifs"
+        },
+        {
+            "index": "25",
+            "vocabulary": "économie",
+            "partOfSpeech": "n.f.",
+            "definition": "①经济 ②节约，节省 ③（复数）储蓄",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "développer l'économie",
+                    "vocabularyCollocationMeaning": "发展经济"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire des économies",
+                    "vocabularyCollocationMeaning": "省钱，储蓄"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "économie de marché",
+                    "vocabularyCollocationMeaning": "市场经济"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "économique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "经济的；经济实惠的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "économiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "节省，节约"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "économiste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "经济学家"
+                }
+            ],
+            "pluralForm": "économies"
+        },
+        {
+            "index": "26",
+            "vocabulary": "résoudre",
+            "partOfSpeech": "vt.",
+            "definition": "①解决（问题）②分解",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "résoudre des problèmes",
+                    "vocabularyCollocationMeaning": "解决问题"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "résoudre un conflit",
+                    "vocabularyCollocationMeaning": "解决冲突"
+                }
+            ],
+            "synonymAnalysis": "résoudre vs régler：résoudre 更强调彻底解决、找到根本方案；régler 更侧重处理、解决具体事务，语义范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "résolution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "解决；决心；决议"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je résous, tu résous, il résout, nous résolvons, vous résolvez, ils résolvent",
+                "compoundPast": "j'ai résolu",
+                "simpleFuture": "je résoudrai",
+                "memoryAids": "现在时第三人称单数 il résout 无 -d；过去分词 résolu 须记忆；词干在 nous/vous/ils 中变为 résolv-。"
+            }
+        },
+        {
+            "index": "27",
+            "vocabulary": "faciliter",
+            "partOfSpeech": "vt.",
+            "definition": "①使便利，使容易 ②促进",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faciliter les échanges",
+                    "vocabularyCollocationMeaning": "促进交流"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faciliter l'accès à",
+                    "vocabularyCollocationMeaning": "便于进入/获取……"
+                }
+            ],
+            "synonymAnalysis": "faciliter vs simplifier：faciliter 使某事变得更容易实现；simplifier 使某事变得更简单，减少复杂度。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "facile",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "容易的，简单的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "facilement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "容易地，轻松地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "facilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "容易；便利条件"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "échange",
+            "partOfSpeech": "n.m.",
+            "definition": "①交流，交换 ②（复数）往来，贸易",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faciliter les échanges",
+                    "vocabularyCollocationMeaning": "促进交流/往来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "échange de vues",
+                    "vocabularyCollocationMeaning": "交换意见"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en échange de",
+                    "vocabularyCollocationMeaning": "作为……的交换，以……为代价"
+                }
+            ],
+            "synonymAnalysis": "échange vs communication：échange 更强调双向互动和交换；communication 更侧重信息传递。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "échanger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "交换，交流"
+                }
+            ],
+            "pluralForm": "échanges"
+        },
+        {
+            "index": "29",
+            "vocabulary": "situation",
+            "partOfSpeech": "n.f.",
+            "definition": "①状况，形势 ②地理位置",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la situation de l'emploi",
+                    "vocabularyCollocationMeaning": "就业形势"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "situation économique",
+                    "vocabularyCollocationMeaning": "经济状况"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être en situation de + inf.",
+                    "vocabularyCollocationMeaning": "处于能……的状态"
+                }
+            ],
+            "synonymAnalysis": "situation vs état：deux mots peuvent traduire «状况»，但 état 更强调某一时刻的客观状态；situation 更强调综合因素构成的局面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "situer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "定位，描述……所处环境"
+                }
+            ],
+            "pluralForm": "situations"
+        },
+        {
+            "index": "30",
+            "vocabulary": "réduire",
+            "partOfSpeech": "vt.",
+            "definition": "①缩小，减少 ②降低 ③（se ~）被减少，缩减为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réduire les écarts",
+                    "vocabularyCollocationMeaning": "缩小差距"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réduire les coûts",
+                    "vocabularyCollocationMeaning": "降低成本"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se réduire à",
+                    "vocabularyCollocationMeaning": "归结为，缩减至"
+                }
+            ],
+            "synonymAnalysis": "réduire vs diminuer：réduire 更强调主动采取措施缩减；diminuer 更强调数量或程度的自然减少。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réduction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "减少；折扣"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je réduis, tu réduis, il réduit, nous réduisons, vous réduisez, ils réduisent",
+                "compoundPast": "j'ai réduit",
+                "simpleFuture": "je réduirai",
+                "memoryAids": "属于 -uire 类不规则动词，变位规律与 conduire、produire、traduire 相同。"
+            }
+        },
+        {
+            "index": "31",
+            "vocabulary": "écart",
+            "partOfSpeech": "n.m.",
+            "definition": "①差别，差距 ②偏差，偏离",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écart de niveau de vie",
+                    "vocabularyCollocationMeaning": "生活水平差距"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'écart de",
+                    "vocabularyCollocationMeaning": "远离，与……隔绝"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "réduire les écarts",
+                    "vocabularyCollocationMeaning": "缩小差距"
+                }
+            ],
+            "synonymAnalysis": "écart vs différence：écart 更强调可测量的数量差；différence 更泛指一般意义上的不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écarter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使分开，排除"
+                }
+            ],
+            "pluralForm": "écarts"
+        },
+        {
+            "index": "32",
+            "vocabulary": "niveau",
+            "partOfSpeech": "n.m.",
+            "definition": "①水平，程度 ②（建筑）层，楼层 ③水准仪",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "niveau de vie",
+                    "vocabularyCollocationMeaning": "生活水平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "niveau scolaire",
+                    "vocabularyCollocationMeaning": "学习成绩，学业水平"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au niveau de",
+                    "vocabularyCollocationMeaning": "在……层面上，在……水平上"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "niveaux"
+        },
+        {
+            "index": "33",
+            "vocabulary": "force",
+            "partOfSpeech": "n.f.",
+            "definition": "①力量，力气 ②（复数）武装力量 ③（物理）力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "renforcer la force de",
+                    "vocabularyCollocationMeaning": "增强……的力量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "force politique",
+                    "vocabularyCollocationMeaning": "政治力量"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à force de + n./inf.",
+                    "vocabularyCollocationMeaning": "由于不断地……，凭借……"
+                }
+            ],
+            "synonymAnalysis": "force vs puissance：force 强调实际力量或体力；puissance 更强调潜在能力或国家/政治权力。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fort",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "强壮的，强大的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fortement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "强烈地，大力地"
+                }
+            ],
+            "pluralForm": "forces"
+        },
+        {
+            "index": "34",
+            "vocabulary": "politique",
+            "partOfSpeech": "adj.",
+            "definition": "①政治的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "force politique",
+                    "vocabularyCollocationMeaning": "政治力量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parti politique",
+                    "vocabularyCollocationMeaning": "政党"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "politique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "政治；政策"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "politiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "政治上地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "politicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "政客"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 politique，复数 politiques",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "35",
+            "vocabulary": "zone",
+            "partOfSpeech": "n.f.",
+            "definition": "①地区，地带 ②区域",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "zone euro",
+                    "vocabularyCollocationMeaning": "欧元区"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "zone industrielle",
+                    "vocabularyCollocationMeaning": "工业区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "zone de libre-échange",
+                    "vocabularyCollocationMeaning": "自由贸易区"
+                }
+            ],
+            "synonymAnalysis": "zone vs région：zone 多指功能性划定的区域；région 更侧重地理或行政意义上的地区。",
+            "derivedWords": [],
+            "pluralForm": "zones"
+        },
+        {
+            "index": "36",
+            "vocabulary": "culture",
+            "partOfSpeech": "n.f.",
+            "definition": "①文化 ②种植，栽培 ③（生物）培养",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "culture commune",
+                    "vocabularyCollocationMeaning": "共同文化"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "culture physique",
+                    "vocabularyCollocationMeaning": "体育锻炼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "culture générale",
+                    "vocabularyCollocationMeaning": "综合素养，通识"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "culturel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "文化的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cultiver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "种植；培养"
+                }
+            ],
+            "pluralForm": "cultures"
+        },
+        {
+            "index": "37",
+            "vocabulary": "artistique",
+            "partOfSpeech": "adj.",
+            "definition": "①艺术的，美术的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "activités artistiques",
+                    "vocabularyCollocationMeaning": "艺术活动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "création artistique",
+                    "vocabularyCollocationMeaning": "艺术创作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "art",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "艺术；技艺"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "artiste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "艺术家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "artistiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "艺术地，从艺术角度"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 artistique，复数 artistiques",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "38",
+            "vocabulary": "culturel",
+            "partOfSpeech": "adj.",
+            "definition": "①文化的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "activités culturelles",
+                    "vocabularyCollocationMeaning": "文化活动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "patrimoine culturel",
+                    "vocabularyCollocationMeaning": "文化遗产"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "culture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "文化"
+                }
+            ],
+            "genderNumberVariation": "阴性 culturelle，阳性复数 culturels，阴性复数 culturelles",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "39",
+            "vocabulary": "exposition",
+            "partOfSpeech": "n.f.",
+            "definition": "①展览，展览会 ②暴露，曝光",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "visiter une exposition",
+                    "vocabularyCollocationMeaning": "参观展览"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "exposition universelle",
+                    "vocabularyCollocationMeaning": "世界博览会"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exposer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "展示；暴露；阐述"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "exposant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "参展商"
+                }
+            ],
+            "pluralForm": "expositions"
+        },
+        {
+            "index": "40",
+            "vocabulary": "festival",
+            "partOfSpeech": "n.m.",
+            "definition": "①节日，联欢节 ②艺术节，电影节",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "festival de théâtre",
+                    "vocabularyCollocationMeaning": "戏剧节"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "festival de musique",
+                    "vocabularyCollocationMeaning": "音乐节"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "festival international du film",
+                    "vocabularyCollocationMeaning": "国际电影节"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "festivals（或 festivaux，但 festivals 更常用）"
+        },
+        {
+            "index": "41",
+            "vocabulary": "théâtre",
+            "partOfSpeech": "n.m.",
+            "definition": "①剧院，戏院 ②戏剧，话剧 ③（比喻）舞台，场所",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au théâtre",
+                    "vocabularyCollocationMeaning": "去看戏，去剧院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "festival de théâtre",
+                    "vocabularyCollocationMeaning": "戏剧节"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pièce de théâtre",
+                    "vocabularyCollocationMeaning": "戏剧作品，话剧"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "théâtral",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "戏剧的；戏剧化的"
+                }
+            ],
+            "pluralForm": "théâtres"
+        },
+        {
+            "index": "42",
+            "vocabulary": "citoyen",
+            "partOfSpeech": "n.",
+            "definition": "①公民",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les citoyens des États membres",
+                    "vocabularyCollocationMeaning": "成员国公民"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "droits du citoyen",
+                    "vocabularyCollocationMeaning": "公民权利"
+                }
+            ],
+            "synonymAnalysis": "citoyen vs habitant：citoyen 强调法律意义上的公民身份；habitant 仅指居住在某地的人，不涉及国籍或公民权利。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "citoyenneté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "公民身份，公民权"
+                }
+            ],
+            "pluralForm": "citoyens（阴性 citoyenne / citoyennes）"
+        },
+        {
+            "index": "43",
+            "vocabulary": "déplacer",
+            "partOfSpeech": "vt.",
+            "definition": "①挪动，移动 ②（se ~）走动，出行，移居",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se déplacer librement",
+                    "vocabularyCollocationMeaning": "自由流动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "déplacer un meuble",
+                    "vocabularyCollocationMeaning": "移动家具"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se déplacer en train",
+                    "vocabularyCollocationMeaning": "乘火车出行"
+                }
+            ],
+            "synonymAnalysis": "se déplacer vs bouger：se déplacer 更正式，常指有目的地移动或出行；bouger 更口语，泛指移动或活动。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "déplacement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "移动，出行，位移"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "44",
+            "vocabulary": "aise",
+            "partOfSpeech": "n.f.",
+            "definition": "①舒适，自在 ②（à l'aise）舒适地，自在地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'aise",
+                    "vocabularyCollocationMeaning": "舒适，自在"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se sentir à l'aise",
+                    "vocabularyCollocationMeaning": "感到自在"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre qn. à l'aise",
+                    "vocabularyCollocationMeaning": "让某人感到放松"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "aisé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富裕的；容易的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "aisément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "轻松地，容易地"
+                }
+            ],
+            "pluralForm": "aises（常用单数 à l'aise）"
+        },
+        {
+            "index": "45",
+            "vocabulary": "obtenir",
+            "partOfSpeech": "vt.",
+            "definition": "①获得，取得 ②得到（结果）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir du succès",
+                    "vocabularyCollocationMeaning": "取得成功"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "obtenir un résultat",
+                    "vocabularyCollocationMeaning": "获得结果"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "obtenir qch. de qn.",
+                    "vocabularyCollocationMeaning": "从某人处得到某物"
+                }
+            ],
+            "synonymAnalysis": "obtenir vs recevoir：obtenir 强调通过努力或申请而获得；recevoir 侧重被动接收。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "obtention",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "获得，取得"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'obtiens, tu obtiens, il obtient, nous obtenons, vous obtenez, ils obtiennent",
+                "compoundPast": "j'ai obtenu",
+                "simpleFuture": "j'obtiendrai",
+                "memoryAids": "属于 tenir 类动词，变位规律与 maintenir、retenir 完全相同。"
+            }
+        },
+        {
+            "index": "46",
+            "vocabulary": "succès",
+            "partOfSpeech": "n.m.",
+            "definition": "①成功，成就 ②成果",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir du succès",
+                    "vocabularyCollocationMeaning": "取得成功"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir du succès",
+                    "vocabularyCollocationMeaning": "成功；受欢迎"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avec succès",
+                    "vocabularyCollocationMeaning": "成功地"
+                }
+            ],
+            "synonymAnalysis": "succès vs réussite：succès 更侧重客观上取得的成功（尤指社会认可）；réussite 更强调主观努力后成功的结果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "succéder",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "继承；接连发生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "successif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "连续的，相继的"
+                }
+            ],
+            "pluralForm": "succès（复数同形）"
+        },
+        {
+            "index": "47",
+            "vocabulary": "tendre",
+            "partOfSpeech": "vt.",
+            "definition": "①张开，伸出 ②（tendre vers）趋向，朝……发展",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tendre vers un avenir meilleur",
+                    "vocabularyCollocationMeaning": "朝更美好的未来努力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tendre la main",
+                    "vocabularyCollocationMeaning": "伸出手；伸出援手"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tendre un piège",
+                    "vocabularyCollocationMeaning": "设置陷阱"
+                }
+            ],
+            "synonymAnalysis": "tendre vers vs aspirer à：tendre vers 更侧重方向性的趋势；aspirer à 更强调主观渴望。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tendance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "趋势，倾向"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tendre",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "温柔的；嫩的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je tends, tu tends, il tend, nous tendons, vous tendez, ils tendent",
+                "compoundPast": "j'ai tendu",
+                "simpleFuture": "je tendrai",
+                "memoryAids": "属于 -endre 类动词，变位与 attendre、descendre、vendre 相同。"
+            }
+        },
+        {
+            "index": "48",
+            "vocabulary": "avenir",
+            "partOfSpeech": "n.m.",
+            "definition": "①未来，前景 ②前途",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avenir meilleur",
+                    "vocabularyCollocationMeaning": "更美好的未来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'avenir",
+                    "vocabularyCollocationMeaning": "今后，将来"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir de l'avenir",
+                    "vocabularyCollocationMeaning": "有前途"
+                }
+            ],
+            "synonymAnalysis": "avenir vs futur：avenir 强调「前途、未来的可能性」，带有希望或不确定的色彩；futur 更中性，也可作形容词使用。",
+            "derivedWords": [],
+            "pluralForm": "avenirs（较少用）"
+        },
+        {
+            "index": "49",
+            "vocabulary": "continent",
+            "partOfSpeech": "n.m.",
+            "definition": "①洲，大陆",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les cinq continents",
+                    "vocabularyCollocationMeaning": "五大洲"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "continent européen",
+                    "vocabularyCollocationMeaning": "欧洲大陆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "continental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "大陆的，洲的"
+                }
+            ],
+            "pluralForm": "continents"
+        },
+        {
+            "index": "50",
+            "vocabulary": "régner",
+            "partOfSpeech": "vi.",
+            "definition": "①统治，执政 ②占优势，盛行",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "régner sur un pays",
+                    "vocabularyCollocationMeaning": "统治一个国家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la paix règne",
+                    "vocabularyCollocationMeaning": "和平盛行"
+                }
+            ],
+            "synonymAnalysis": "régner vs gouverner：régner 侧重君主式统治或某种状态的盛行；gouverner 更侧重实际政治管理。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "règne",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "统治，在位时期；（生物）界"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je règne, tu règnes, il règne, nous régnons, vous régnez, ils règnent",
+                "compoundPast": "j'ai régné",
+                "simpleFuture": "je régnerai",
+                "memoryAids": "属于词干含 é → è 变化的 -er 动词，类似 espérer、préférer；现在时单数及第三人称复数中 é 变 è。"
+            }
+        },
+        {
+            "index": "51",
+            "vocabulary": "tranquillité",
+            "partOfSpeech": "n.f.",
+            "definition": "①平静，安宁 ②宁静",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en toute tranquillité",
+                    "vocabularyCollocationMeaning": "安心地，放心地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tranquillité d'esprit",
+                    "vocabularyCollocationMeaning": "内心的平静"
+                }
+            ],
+            "synonymAnalysis": "tranquillité vs calme：tranquillité 更强调长久的安宁与平静状态；calme 范围更广，也可指临时的平静或镇定。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tranquille",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "平静的，安静的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tranquillement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "安静地，平静地"
+                }
+            ],
+            "pluralForm": "tranquillités（较少用）"
+        },
+        {
+            "index": "52",
+            "vocabulary": "solidarité",
+            "partOfSpeech": "n.f.",
+            "definition": "①团结，互助 ②（法律）连带责任",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "solidarité internationale",
+                    "vocabularyCollocationMeaning": "国际团结"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "montrer de la solidarité",
+                    "vocabularyCollocationMeaning": "表现出团结精神"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par solidarité",
+                    "vocabularyCollocationMeaning": "出于团结"
+                }
+            ],
+            "synonymAnalysis": "solidarité vs unité：solidarité 更强调相互支持与帮助；unité 更强调整体上的统一与一致。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "solidaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "团结一致的，连带的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "solidairement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "团结地，连带地"
+                }
+            ],
+            "pluralForm": "solidarités（较少用）"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Créée à partir de six États, l'Union européenne cherche à s'agrandir et à développer ses richesses. Grâce à l'utilisation d'une monnaie unique, elle permet de réduire les écarts de niveau de vie entre les pays membres. C'est ainsi que chaque année ont lieu des activités culturelles et artistiques sans frontières. Quand on aura réalisé une union totale, on pourra voir un continent où régneront la paix, la tranquillité et la solidarité.",
+            "chineseTranslation": "欧盟由六个国家创立，始终致力于扩大规模、发展财富。借助统一货币的使用，它有助于缩小成员国之间的生活水平差距。正因如此，各类无国界的文化艺术活动年年举行。当实现欧洲全面统一之时，人们将看到一片和平、安宁与团结的大陆。",
+            "fr2cnStrategy": "① Créée à partir de six États 为分词短语作状语，翻译时前置处理为定语，转化为「由六个国家创立」，属于语序调整。② cherche à s'agrandir et à développer 两个并列不定式，译为「致力于扩大……、发展……」，保留并列结构。③ Grâce à 转化为「借助……」，属于增译（添加介词逻辑关系）。④ C'est ainsi que 强调句译为「正因如此」，属于词性转换（从强调句转为因果副词）。⑤ où régneront la paix... 关系从句中主语后置（倒装），翻译时恢复正常语序「和平、安宁与团结盛行」，转化为修饰语「一片和平……的大陆」。⑥ Quand on aura réalisé... 先将来时从句，译为「当……之时」，体现时态的相对性含义。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "欧盟致力于维护和平，缩小各国之间的生活水平差距。",
+                "frenchTranslation": "L'Union européenne cherche à maintenir la paix et à réduire les écarts de niveau de vie entre les pays.",
+                "cn2frStrategy": "① 「致力于……」用固定搭配 chercher à + inf.，后接两个并列不定式，注意 à 须在每项前重复。② 「缩小……差距」用 réduire les écarts de...。③ 「各国之间」用 entre les pays。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "借助这一联盟，成员国公民将有更多机会自由出行，在他们所选择的地方工作。",
+                "frenchTranslation": "Grâce à cette union, les citoyens des États membres auront plus de chance de se déplacer librement et de travailler dans les régions de leur choix.",
+                "cn2frStrategy": "① 「借助……」用 Grâce à + n.，置于句首作状语。② 「有机会做某事」用 avoir chance de + inf.，「更多」用 plus de。③ 「在他们所选择的地方」译为 dans les régions de leur choix，避免直译「他们选择的」为从句，用名词短语更简洁。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "尽管各国在文化和生活条件上各有不同，但它们共享共同的价值观。",
+                "frenchTranslation": "Différents de culture et de conditions de vie, les pays partagent cependant des valeurs communes.",
+                "cn2frStrategy": "① 让步关系用形容词短语 Différents de... 前置作状语，避免使用从句，更符合法语书面表达习惯。② 「但是」用副词 cependant 置于谓语前，而非连词 mais。③ 「共享共同的价值观」直接用 partager des valeurs communes。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "当欧洲实现完全联合之时，人们将看到一个和平与团结繁荣的大陆。",
+                "frenchTranslation": "Quand on aura réalisé une union totale de l'Europe, on pourra voir un continent où régneront la paix et la solidarité.",
+                "cn2frStrategy": "① 时间从句用先将来时 aura réalisé，主句用简单将来时 pourra，体现时态的相对性，是考研核心语法点。② 「和平与团结繁荣」转化为关系从句 où régneront la paix et la solidarité，régner 意为「盛行」，主语后置构成修辞倒装。③ 「当……之时」用 Quand + 先将来时，而非直接用 quand + 现在时（那是口语用法）。"
+            }
+        ]
+    }
+}
