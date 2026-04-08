@@ -1,0 +1,1158 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "A l'heure actuelle, le foyer occupe encore dans les modes de vie une place essentielle.",
+            "translatedSentence": "在当下，家庭住所在人们的生活方式中依然占据着举足轻重的地位。",
+            "sentenceStructure": "主语为 le foyer，谓语为 occupe，宾语为 une place essentielle，状语 dans les modes de vie 插入主谓之间作修饰，时间状语 A l'heure actuelle 置于句首。",
+            "grammarAnalysis": "① A l'heure actuelle 为固定表达，意为“在当下、目前”，作时间状语置于句首。② 状语 dans les modes de vie 前置于宾语，属于语序调整，起强调作用。③ essentielle 为形容词修饰 place，因 place 为阴性名词故用阴性形式。",
+            "commonMistakes": "essentiel/essentielle 易拼写错误；注意 place 是阴性名词，修饰它的形容词须用阴性形式 essentielle，而非 essentiel。"
+        },
+        {
+            "index": "2",
+            "sentence": "Avec la diminution du temps de travail, l'allongement de la durée des études et de celui de la vie, les Français y passent en effet de plus en plus de temps.",
+            "translatedSentence": "随着工作时间的缩短、学习年限的延长以及寿命的延长，法国人在家中度过的时间实际上越来越多。",
+            "sentenceStructure": "主句为 les Français y passent en effet de plus en plus de temps，句首 Avec 引导的名词短语作原因/伴随状语，列举三项变化。",
+            "grammarAnalysis": "① Avec + 名词结构表伴随原因，相当于“随着……”。② 代词 y 替代上文提到的 le foyer（家）。③ de plus en plus de + 名词，表示“越来越多的”，为固定结构。④ celui de la vie 中 celui 是指示代词，替代前文 la durée，避免重复，即 la durée de la vie。",
+            "commonMistakes": "容易忽略 celui 的指代对象：celui = la durée，即 l'allongement de la durée de la vie（寿命延长）。另外，y 的指代对象是 le foyer，而非 le temps，需结合上下文判断。"
+        },
+        {
+            "index": "3",
+            "sentence": "Depuis plus de 50 ans, les conditions de logement en France ont connu d'importantes améliorations.",
+            "translatedSentence": "五十多年来，法国的住房条件经历了重大改善。",
+            "sentenceStructure": "主语为 les conditions de logement en France，谓语为复合过去时 ont connu，宾语为 d'importantes améliorations，句首时间状语 Depuis plus de 50 ans。",
+            "grammarAnalysis": "① Depuis + 时间段与复合过去时连用，表示“从……以来一直到现在”，强调结果延续至今。② connaître 此处作及物动词，意为“经历”，非“认识”，是常见的多义词用法。③ d'importantes améliorations 中形容词 importantes 前置于名词，且因不定冠词复数 des 在形容词前须变为 de，这是重要语法规则。",
+            "commonMistakes": "① des + 形容词 + 名词 → de + 形容词 + 名词，即 des importantes → d'importantes，此规则常被遗忘。② connaître 在此不表示“认识某人”，而是“经历、遭遇”，需注意语境判断。"
+        },
+        {
+            "index": "4",
+            "sentence": "Le crédit immobilier permet à un nombre croissant de ménages de devenir propriétaires: 57% étaient propriétaires de leur résidence principale en 2004 contre 35% en 1954.",
+            "translatedSentence": "房贷使越来越多的家庭得以成为房产所有者：2004年有57%的家庭拥有主要住宅产权，而1954年这一比例仅为35%。",
+            "sentenceStructure": "主句为 Le crédit immobilier permet à un nombre croissant de ménages de devenir propriétaires，冒号后为解释性分句，说明具体数据。",
+            "grammarAnalysis": "① permettre à qn. de faire qch. 为固定结构，意为“允许/使某人做某事”，介词 à 和 de 均不可省略。② nombre croissant 为名词+形容词后置搭配，表示“不断增加的数量”。③ contre 此处作介词，表示对比，意为“而……则”，是书面语中的常见对比结构。",
+            "commonMistakes": "permittre 结构中 permettre à qn. de faire 的两个介词（à 和 de）容易混淆或漏写；contre 在此表对比，不可译为“对抗”。"
+        },
+        {
+            "index": "5",
+            "sentence": "Malgré une offre de plus en plus importante, 400 000 logements en 2005, la France est plongée actuellement dans une crise immobilière sans précédent depuis 1945.",
+            "translatedSentence": "尽管供应量日益增加——2005年新增住房多达40万套——法国目前仍深陷1945年以来前所未有的房地产危机之中。",
+            "sentenceStructure": "主句为 la France est plongée actuellement dans une crise immobilière sans précédent depuis 1945，句首 Malgré 引导让步状语，插入语 400 000 logements en 2005 补充说明供应量数据。",
+            "grammarAnalysis": "① Malgré + 名词，表示让步，意为“尽管”，后不加动词，区别于 bien que（后接虚拟式从句）。② est plongée 为被动语态（être + 过去分词），主语 la France 承受动作。③ sans précédent 为固定形容词短语，意为“前所未有的”，后置修饰 crise。④ depuis 1945 表示从1945年持续至今的状态。",
+            "commonMistakes": "① Malgré 后只接名词/名词短语，不可接从句；要接从句须用 bien que + 虚拟式。② plongée 是 plonger 的过去分词，被动结构中需与主语性数配合，la France 为阴性故加 e。"
+        },
+        {
+            "index": "6",
+            "sentence": "Les nouveaux modes de vie, les nouvelles façons d'habitation, l'accroissement de divorces, la volonté de vivre seul… ce qui aggrave la situation du logement : 500 000 demandes de logements par an.",
+            "translatedSentence": "新的生活方式、新的居住习惯、离婚率上升、独居意愿增强……这一切都加剧了住房形势：每年产生50万套住房需求。",
+            "sentenceStructure": "句子以四个名词短语构成主语列举，省略号后 ce qui 作关系代词引导从句，作为总结性主语，谓语为 aggrave，宾语为 la situation du logement，冒号后补充具体数据。",
+            "grammarAnalysis": "① ce qui 为关系代词，指代前文所有列举内容（相当于英语 which），在从句中作主语。② aggrave 为动词 aggraver 的第三人称单数现在时变位。③ par an 为固定介词短语，意为“每年”，类似 par jour、par semaine 等。",
+            "commonMistakes": "ce qui 与 ce que 易混淆：ce qui 在从句中作主语，ce que 在从句中作宾语。此处 ce qui aggrave 中，ce qui 作 aggrave 的主语，故用 ce qui。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "à l'heure actuelle",
+            "meaning": "目前，在当下",
+            "usage": "固定时间状语短语，通常置于句首或句末，书面语和口语均可使用，等同于 actuellement 或 en ce moment。",
+            "exampleSentence": "A l'heure actuelle, le foyer occupe encore dans les modes de vie une place essentielle."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "de plus en plus de + n.",
+            "meaning": "越来越多的……",
+            "usage": "固定结构，后接名词（不加冠词），与动词连用时为 de plus en plus + adj./adv.。注意区分：de plus en plus de + 名词 vs de plus en plus + 形容词/副词。",
+            "exampleSentence": "les Français y passent en effet de plus en plus de temps."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "passer du temps à / dans qch.",
+            "meaning": "花时间在……上",
+            "usage": "passer + 时间量 + à + 不定式（做某事）；passer du temps dans + 地点（在某地度过时间）。注意介词选择：做某事用 à，在某地用 dans/à。",
+            "exampleSentence": "les Français y passent en effet de plus en plus de temps."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "connaître d'importantes améliorations",
+            "meaning": "经历重大改善",
+            "usage": "connaître 用作及物动词，意为“经历、遭遇”，常与 amélioration, difficulté, crise, succès 等名词搭配，是书面语中的高频表达。",
+            "exampleSentence": "les conditions de logement en France ont connu d'importantes améliorations."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "disposer de qch.",
+            "meaning": "拥有，配备（某物）",
+            "usage": "间接及物动词，固定搭配 de，表示拥有或可以使用某资源/设施。注意：不可用 disposer qch.（缺介词为错误用法）。",
+            "exampleSentence": "seulement 5% des logements disposent de toilettes à l'intérieur."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "permettre à qn. de faire qch.",
+            "meaning": "使某人得以做某事，允许某人做某事",
+            "usage": "固定结构，两个介词不可省略：à 引导人，de 引导不定式动词。被动结构为 être permis à qn. de faire qch.。",
+            "exampleSentence": "Le crédit immobilier permet à un nombre croissant de ménages de devenir propriétaires."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "être plongé(e) dans qch.",
+            "meaning": "深陷于……之中，沉浸于……",
+            "usage": "被动结构，表示“处于某种（通常是困难或负面的）状态中”。plonger 本义为“跳入、潜入”，引申为“陷入”。可用于 crise、tristesse、confusion 等。",
+            "exampleSentence": "la France est plongée actuellement dans une crise immobilière sans précédent depuis 1945."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "sans précédent",
+            "meaning": "前所未有的，空前的",
+            "usage": "固定形容词短语，后置修饰名词，书面语常用。近义表达：inédit（未曾有过的）、sans pareil（无与伦比的）。",
+            "exampleSentence": "une crise immobilière sans précédent depuis 1945."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "aggraver la situation",
+            "meaning": "加剧形势，使情况恶化",
+            "usage": "aggraver 为及物动词，常与 situation, problème, crise, état 等名词搭配，表示使某事变得更糟。注意双写 g：aggraver（非 agraver）。",
+            "exampleSentence": "ce qui aggrave la situation du logement : 500 000 demandes de logements par an."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "par an / par jour / par mois",
+            "meaning": "每年 / 每天 / 每月",
+            "usage": "par + 时间名词（无冠词）构成固定表达，表示频率或周期。注意不加冠词，如 par an（非 par l'an）。",
+            "exampleSentence": "500 000 demandes de logements par an."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "au début des années + 年代",
+            "meaning": "在……年代初",
+            "usage": "固定表达，années 后接年代数词，如 au début des années 1950（20世纪50年代初）。类似表达：à la fin des années（年代末），dans les années（在……年代）。",
+            "exampleSentence": "Au début des années 1950, un ménage sur trois vivait dans une situation assez difficile."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "un ... sur + 数词",
+            "meaning": "每……中有一……",
+            "usage": "表示比例的固定结构，如 un ménage sur trois（每三户中有一户），un élève sur dix（每十名学生中有一名）。",
+            "exampleSentence": "un ménage sur trois vivait dans une situation assez difficile."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "malgré + n.",
+            "meaning": "尽管……（让步）",
+            "usage": "介词，后接名词或名词短语，表示让步。区别于 bien que + 虚拟式从句（连词）。书面语和口语均常用。",
+            "exampleSentence": "Malgré une offre de plus en plus importante, 400 000 logements en 2005, la France est plongée dans une crise immobilière."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "évolution",
+            "partOfSpeech": "n.f.",
+            "definition": "①变化，演变 ②发展，进化",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'évolution de la société",
+                    "vocabularyCollocationMeaning": "社会的演变"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre l'évolution",
+                    "vocabularyCollocationMeaning": "跟上发展趋势"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'évolution des besoins",
+                    "vocabularyCollocationMeaning": "需求的变化"
+                }
+            ],
+            "synonymAnalysis": "évolution vs changement：évolution 强调渐进式、有方向性的演变过程；changement 泛指任何变化，不一定有方向性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "évoluer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "演变，发展，进化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "évolutif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "进化的，可演变的"
+                }
+            ],
+            "pluralForm": "évolutions"
+        },
+        {
+            "index": "2",
+            "vocabulary": "actuel",
+            "partOfSpeech": "adj.",
+            "definition": "①目前的，当前的 ②现实的，实际的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la situation actuelle",
+                    "vocabularyCollocationMeaning": "当前形势"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'heure actuelle",
+                    "vocabularyCollocationMeaning": "目前，当下"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le monde actuel",
+                    "vocabularyCollocationMeaning": "当今世界"
+                }
+            ],
+            "synonymAnalysis": "actuel vs réel：actuel 强调“当下存在的、现时的”，与 futur/passé 相对；réel 强调“真实存在的”，与 fictif/imaginaire 相对。注意：actuel 是假朋友词，不等于英语 actual（实际的），英语 actual 对应法语 réel/véritable。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "actuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "目前，现在"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "actualité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "时事，当前事件；现实性"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "actualiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "更新，使现代化"
+                }
+            ],
+            "genderNumberVariation": "阴性 actuelle，阳性复数 actuels，阴性复数 actuelles",
+            "position": "通常置于名词之后；但 à l'heure actuelle 为固定短语中前置用法。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "foyer",
+            "partOfSpeech": "n.m.",
+            "definition": "①家，家庭 ②住所，居所 ③火炉，壁炉 ④（机构的）休息室、活动室",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fonder un foyer",
+                    "vocabularyCollocationMeaning": "成家，组建家庭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rentrer au foyer",
+                    "vocabularyCollocationMeaning": "回家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "foyer d'étudiants",
+                    "vocabularyCollocationMeaning": "学生宿舍（公寓）"
+                }
+            ],
+            "synonymAnalysis": "foyer vs maison vs domicile：foyer 强调“家”作为情感归属和生活中心的概念；maison 指具体的房屋建筑；domicile 偏正式/法律语言，指“住所、户籍地”。",
+            "derivedWords": [],
+            "pluralForm": "foyers"
+        },
+        {
+            "index": "4",
+            "vocabulary": "essentiel",
+            "partOfSpeech": "adj.",
+            "definition": "①本质的，根本的 ②主要的，最重要的 ③必不可少的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jouer un rôle essentiel",
+                    "vocabularyCollocationMeaning": "发挥关键作用"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il est essentiel de faire qch.",
+                    "vocabularyCollocationMeaning": "做某事是至关重要的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'essentiel",
+                    "vocabularyCollocationMeaning": "最重要的事；要点（名词化用法）"
+                }
+            ],
+            "synonymAnalysis": "essentiel vs important vs indispensable：essentiel 强调“本质上不可或缺”；important 强调“分量重、影响大”；indispensable 强调“缺少则不能运转”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "essentiellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "本质上；主要地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "essence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "本质；汽油；精华"
+                }
+            ],
+            "genderNumberVariation": "阴性 essentielle，阳性复数 essentiels，阴性复数 essentielles",
+            "position": "通常后置于名词；但作表语时无位置限制。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "allongement",
+            "partOfSpeech": "n.m.",
+            "definition": "①延长，拉长 ②增加（时间、长度）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'allongement de la durée de vie",
+                    "vocabularyCollocationMeaning": "寿命的延长"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'allongement des études",
+                    "vocabularyCollocationMeaning": "学习年限的延长"
+                }
+            ],
+            "synonymAnalysis": "allongement vs prolongation：allongement 指物理或时间上的延伸；prolongation 多指期限、合同等的正式延续。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "allonger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "延长；拉长"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "allongé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "被拉长的；细长的"
+                }
+            ],
+            "pluralForm": "allongements"
+        },
+        {
+            "index": "6",
+            "vocabulary": "vivre",
+            "partOfSpeech": "vi.",
+            "definition": "①生活；居住 ②活着，存在",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vivre seul",
+                    "vocabularyCollocationMeaning": "独居"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vivre à / dans + 地点",
+                    "vocabularyCollocationMeaning": "住在某地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vivre de qch.",
+                    "vocabularyCollocationMeaning": "靠……为生"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "façon de vivre",
+                    "vocabularyCollocationMeaning": "生活方式"
+                }
+            ],
+            "synonymAnalysis": "vivre vs habiter vs résider：vivre 泛指生活，强调生命状态；habiter 侧重“居住在某地”；résider 更正式，常用于行政或法律语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生活；生命"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vivant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "活着的；生动的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "survie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生存；幸存"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vis, tu vis, il vit, nous vivons, vous vivez, ils vivent",
+                "compoundPast": "j'ai vécu",
+                "simpleFuture": "je vivrai",
+                "imperfect": "je vivais（词干规则，无特殊变化）",
+                "presentSubjunctive": "que je vive, que tu vives, qu'il vive, que nous vivions, que vous viviez, qu'ils vivent",
+                "memoryAids": "过去分词 vécu 需特别记忆；现在时词干为 vi-/viv-，类似 suivre（je suis/nous suivons）的词干变化模式。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "confort",
+            "partOfSpeech": "n.m.",
+            "definition": "①舒适性，舒适感 ②起居设备，生活便利设施",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le confort de vie",
+                    "vocabularyCollocationMeaning": "生活舒适度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec tout le confort",
+                    "vocabularyCollocationMeaning": "设施齐全"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "améliorer le confort",
+                    "vocabularyCollocationMeaning": "提升舒适度"
+                }
+            ],
+            "synonymAnalysis": "confort vs aise：confort 侧重物质设施的舒适；aise 更侧重主观感受上的轻松自在。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "confortable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "舒适的，宽敞的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "confortablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "舒适地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "inconfort",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "不舒适，简陋"
+                }
+            ],
+            "pluralForm": "conforts（少用，通常不可数）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "limité",
+            "partOfSpeech": "adj.",
+            "definition": "①有限的 ②受限制的，局限的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ressources limitées",
+                    "vocabularyCollocationMeaning": "有限的资源"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "temps limité",
+                    "vocabularyCollocationMeaning": "有限的时间"
+                }
+            ],
+            "synonymAnalysis": "limité vs restreint：limité 指数量或程度上受限；restreint 强调被压缩、缩减的结果，语气更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "limiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "限制，限定"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "limite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "限制；界限；期限"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "illimité",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无限的，无限制的"
+                }
+            ],
+            "genderNumberVariation": "阴性 limitée，阳性复数 limités，阴性复数 limitées",
+            "position": "通常后置于名词。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "disposer (de)",
+            "partOfSpeech": "vt.ind.",
+            "definition": "①拥有，配备（某物）②支配，使用（某物）③处置，安排",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "disposer de ressources",
+                    "vocabularyCollocationMeaning": "拥有资源"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "disposer de son temps",
+                    "vocabularyCollocationMeaning": "支配自己的时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "disposer les meubles",
+                    "vocabularyCollocationMeaning": "摆放家具（及物用法）"
+                }
+            ],
+            "synonymAnalysis": "disposer de vs avoir vs posséder：disposer de 强调有权使用或调配；avoir 最通用；posséder 强调实际拥有所有权。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "disposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安排；处置；倾向"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "disponible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可用的；有空的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "disponibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "可用性；空闲"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "toilettes",
+            "partOfSpeech": "n.f.pl.",
+            "definition": "①卫生间，厕所 ②（单数 toilette）梳妆，打扮",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller aux toilettes",
+                    "vocabularyCollocationMeaning": "去卫生间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "toilettes à l'intérieur",
+                    "vocabularyCollocationMeaning": "室内卫生间"
+                }
+            ],
+            "synonymAnalysis": "toilettes vs salle de bains vs WC：toilettes 专指如厕设施；salle de bains 指浴室（含浴缸/淋浴）；WC（water-closet）为通俗说法，与 toilettes 近似但更口语化。",
+            "derivedWords": [],
+            "useExplanation": "toilettes 表示卫生间时通常用复数形式；单数 toilette 指梳妆打扮行为，如 faire sa toilette（洗漱打扮）。两义需注意区分。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "posséder",
+            "partOfSpeech": "vt.",
+            "definition": "①拥有，占有 ②掌握（知识、技能）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "posséder une maison",
+                    "vocabularyCollocationMeaning": "拥有一栋房子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "posséder une langue",
+                    "vocabularyCollocationMeaning": "掌握一门语言"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "posséder des qualités",
+                    "vocabularyCollocationMeaning": "具备某些品质"
+                }
+            ],
+            "synonymAnalysis": "posséder vs avoir vs disposer de：posséder 强调实际所有权；avoir 最通用，不强调所有权；disposer de 强调有权使用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "possession",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "拥有；财产；占有"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "possesseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "拥有者，持有人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je possède, tu possèdes, il possède, nous possédons, vous possédez, ils possèdent",
+                "compoundPast": "j'ai possédé",
+                "simpleFuture": "je posséderai",
+                "imperfect": "je possédais（词干无特殊变化）",
+                "memoryAids": "属于 é → è 变音型动词：单数及第三人称复数现在时 é 变为 è（重读音节），nous/vous 保留 é。类似 céder, espérer, répéter 等。"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "chauffage",
+            "partOfSpeech": "n.m.",
+            "definition": "①供暖，取暖 ②供暖设备，暖气",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chauffage central",
+                    "vocabularyCollocationMeaning": "集中供暖，中央暖气"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "système de chauffage",
+                    "vocabularyCollocationMeaning": "供暖系统"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "allumer le chauffage",
+                    "vocabularyCollocationMeaning": "开暖气"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chauffer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加热，使温暖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chaud",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "热的，温暖的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "chaudière",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "锅炉"
+                }
+            ],
+            "pluralForm": "chauffages"
+        },
+        {
+            "index": "13",
+            "vocabulary": "ensemble",
+            "partOfSpeech": "n.m.",
+            "definition": "①全部，整体 ②建筑群，居民区 ③（副词用法）一起，共同",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans l'ensemble",
+                    "vocabularyCollocationMeaning": "总体上，大体上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grand ensemble",
+                    "vocabularyCollocationMeaning": "大型住宅区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "travailler ensemble",
+                    "vocabularyCollocationMeaning": "一起工作（副词用法）"
+                }
+            ],
+            "synonymAnalysis": "ensemble（名词）vs totalité vs tout：ensemble 强调整体的统一性；totalité 更正式，强调全部无遗漏；tout 通用且口语化。",
+            "derivedWords": [],
+            "pluralForm": "ensembles",
+            "useExplanation": "ensemble 作副词时不变化，直接修饰动词，如 vivre ensemble（一起生活）；作名词时可数，需冠词。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "durant",
+            "partOfSpeech": "prép.",
+            "definition": "在……期间，在……过程中",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "durant les années 1960",
+                    "vocabularyCollocationMeaning": "在20世纪60年代期间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "durant toute sa vie",
+                    "vocabularyCollocationMeaning": "在他整个生命中"
+                }
+            ],
+            "synonymAnalysis": "durant vs pendant：两者均表示“在……期间”，基本可互换；durant 更文学化、书面化；pendant 更口语常用。区别：durant 可置于名词后（如 sa vie durant，整整一生），pendant 不可。",
+            "derivedWords": [],
+            "useExplanation": "介词，后接名词短语（表示时间段）。可前置或后置于所修饰的名词（sa vie durant 为文学体后置用法）。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "espace",
+            "partOfSpeech": "n.f.",
+            "definition": "①空间，空地 ②太空，宇宙 ③间距，间隔",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "espace de vie",
+                    "vocabularyCollocationMeaning": "生活空间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "espace vert",
+                    "vocabularyCollocationMeaning": "绿地，公共绿化区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "manquer d'espace",
+                    "vocabularyCollocationMeaning": "缺少空间"
+                }
+            ],
+            "synonymAnalysis": "espace vs place：espace 强调三维空间或抽象空间概念；place 侧重具体位置或座位。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "espacer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使间隔；拉开距离"
+                }
+            ],
+            "pluralForm": "espaces"
+        },
+        {
+            "index": "16",
+            "vocabulary": "taille",
+            "partOfSpeech": "n.f.",
+            "definition": "①尺寸，大小，规模 ②（人的）身高，身材 ③腰部",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la taille moyenne",
+                    "vocabularyCollocationMeaning": "平均尺寸/规模"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de grande taille",
+                    "vocabularyCollocationMeaning": "体型高大的；大型的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "taille de l'entreprise",
+                    "vocabularyCollocationMeaning": "企业规模"
+                }
+            ],
+            "synonymAnalysis": "taille vs dimension vs format：taille 通用，可指人或物；dimension 更技术性，指具体的长宽高；format 指规格、版式（如纸张格式）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tailler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "修剪，裁剪，削"
+                }
+            ],
+            "pluralForm": "tailles"
+        },
+        {
+            "index": "17",
+            "vocabulary": "immobilier",
+            "partOfSpeech": "adj.",
+            "definition": "①不动产的，房地产的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "crédit immobilier",
+                    "vocabularyCollocationMeaning": "房贷，住房贷款"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marché immobilier",
+                    "vocabularyCollocationMeaning": "房地产市场"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "agence immobilière",
+                    "vocabularyCollocationMeaning": "房地产中介"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "crise immobilière",
+                    "vocabularyCollocationMeaning": "房地产危机"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "immobilier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "房地产（名词化用法）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "immobile",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不动的，静止的"
+                }
+            ],
+            "genderNumberVariation": "阴性 immobilière，阳性复数 immobiliers，阴性复数 immobilières",
+            "position": "通常后置于名词，如 crise immobilière, marché immobilier。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "croissant",
+            "partOfSpeech": "adj.",
+            "definition": "①增长的，增加的 ②越来越多的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un nombre croissant de",
+                    "vocabularyCollocationMeaning": "越来越多的……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demande croissante",
+                    "vocabularyCollocationMeaning": "不断增长的需求"
+                }
+            ],
+            "synonymAnalysis": "croissant vs grandissant vs augmentant：均为现在分词形容词化用法；croissant 最常用于表示数量递增；grandissant 多用于重要性或影响的增长；augmentant 较少作形容词独立使用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "croître",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "增长，增大，成长"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "croissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "增长，成长"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "décroissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "递减的，减少的"
+                }
+            ],
+            "genderNumberVariation": "阴性 croissante，阳性复数 croissants，阴性复数 croissantes",
+            "position": "通常后置于名词。"
+        },
+        {
+            "index": "19",
+            "vocabulary": "propriétaire",
+            "partOfSpeech": "n.",
+            "definition": "①业主，房产所有者 ②所有人，拥有者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "devenir propriétaire",
+                    "vocabularyCollocationMeaning": "成为业主"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "propriétaire de sa résidence",
+                    "vocabularyCollocationMeaning": "拥有自住房产"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "propriétaire foncier",
+                    "vocabularyCollocationMeaning": "土地所有者"
+                }
+            ],
+            "synonymAnalysis": "propriétaire vs possesseur vs détenteur：propriétaire 最常用，侧重法律意义上的所有权；possesseur 强调实际占有；détenteur 偏向持有人、保管人，多见于正式语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "propriété",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "所有权；房产；财产；特性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "propre",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "自己的；干净的"
+                }
+            ],
+            "pluralForm": "propriétaires"
+        },
+        {
+            "index": "20",
+            "vocabulary": "individuel",
+            "partOfSpeech": "adj.",
+            "definition": "①个人的，个体的 ②单独的，独立的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maison individuelle",
+                    "vocabularyCollocationMeaning": "独栋住宅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "liberté individuelle",
+                    "vocabularyCollocationMeaning": "个人自由"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cas individuel",
+                    "vocabularyCollocationMeaning": "个案"
+                }
+            ],
+            "synonymAnalysis": "individuel vs personnel vs privé：individuel 强调“单独个体的”，与群体相对；personnel 强调“属于本人的”；privé 强调“私人的、非公开的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "individu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "个人，个体"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "individuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "个别地，单独地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "individualisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "个人主义"
+                }
+            ],
+            "genderNumberVariation": "阴性 individuelle，阳性复数 individuels，阴性复数 individuelles",
+            "position": "通常后置于名词。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "résidence",
+            "partOfSpeech": "n.f.",
+            "definition": "①住宅，住所 ②居所，定居地 ③（官方）官邸",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "résidence principale",
+                    "vocabularyCollocationMeaning": "主要住所，常住住宅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "résidence secondaire",
+                    "vocabularyCollocationMeaning": "第二住所，度假屋"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "résidence universitaire",
+                    "vocabularyCollocationMeaning": "大学宿舍"
+                }
+            ],
+            "synonymAnalysis": "résidence vs domicile vs logement：résidence 较正式，强调居住场所本身；domicile 偏法律/行政语言，指“户籍地、居住地”；logement 最通用，泛指住房。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "résider",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "居住，定居"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "résident",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "居民，住户"
+                }
+            ],
+            "pluralForm": "résidences"
+        },
+        {
+            "index": "22",
+            "vocabulary": "plonger",
+            "partOfSpeech": "vt.",
+            "definition": "①浸入，使陷入 ②（不及物）跳入，潜入",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plonger qn./qch. dans qch.",
+                    "vocabularyCollocationMeaning": "使某人/某物陷入……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être plongé dans une crise",
+                    "vocabularyCollocationMeaning": "深陷危机之中"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "plonger dans la lecture",
+                    "vocabularyCollocationMeaning": "沉浸于阅读"
+                }
+            ],
+            "synonymAnalysis": "plonger vs immerger vs enfoncer：plonger 最通用；immerger 更强调完全淹没（如水中）；enfoncer 强调向深处压入。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plongée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "潜水；俯冲"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "plongeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "潜水员；洗碗工"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "précédent",
+            "partOfSpeech": "n.m.",
+            "definition": "①先例，前例 ②（形容词）前面的，前一个的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans précédent",
+                    "vocabularyCollocationMeaning": "前所未有的，空前的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "créer un précédent",
+                    "vocabularyCollocationMeaning": "开创先例"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le jour précédent",
+                    "vocabularyCollocationMeaning": "前一天（形容词用法）"
+                }
+            ],
+            "synonymAnalysis": "sans précédent vs inédit vs sans pareil：sans précédent 最常用，强调历史上从未有过；inédit 强调从未发表/展示过；sans pareil 强调无与伦比的独特性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "précéder",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "先于，在……之前"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "précédent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "前面的，前一个的"
+                }
+            ],
+            "pluralForm": "précédents"
+        },
+        {
+            "index": "24",
+            "vocabulary": "divorce",
+            "partOfSpeech": "n.m.",
+            "definition": "①离婚 ②分歧，决裂（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "demander le divorce",
+                    "vocabularyCollocationMeaning": "提出离婚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "taux de divorce",
+                    "vocabularyCollocationMeaning": "离婚率"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "accroissement de divorces",
+                    "vocabularyCollocationMeaning": "离婚数量增加"
+                }
+            ],
+            "synonymAnalysis": "divorce vs séparation：divorce 指正式法律意义上的离婚；séparation 指分居或非正式的分开，不一定经历法律程序。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "divorcer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "离婚"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "divorcé",
+                    "derivedWordPartOfSpeech": "adj./n.",
+                    "derivedWordMeaning": "离婚的；离婚者"
+                }
+            ],
+            "pluralForm": "divorces"
+        },
+        {
+            "index": "25",
+            "vocabulary": "aggraver",
+            "partOfSpeech": "vt.",
+            "definition": "①加重，使恶化 ②加剧（局势、问题等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aggraver la situation",
+                    "vocabularyCollocationMeaning": "使形势恶化"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aggraver une crise",
+                    "vocabularyCollocationMeaning": "加剧危机"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'aggraver",
+                    "vocabularyCollocationMeaning": "（自身）恶化，加重"
+                }
+            ],
+            "synonymAnalysis": "aggraver vs empirer vs détériorer：aggraver 最通用，可用于病情、局势等；empirer 近义，但更口语；détériorer 多指物质条件或关系的恶化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "aggravation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "恶化，加剧"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "grave",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "严重的，重大的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "gravement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "严重地"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "A l'heure actuelle, le foyer occupe une place essentielle dans les modes de vie des Français. Depuis plus de 50 ans, les conditions de logement ont connu d'importantes améliorations : aujourd'hui, huit logements sur dix possèdent à la fois les toilettes et le chauffage central. Le crédit immobilier permet à un nombre croissant de ménages de devenir propriétaires. Malgré ces progrès, la France est plongée dans une crise immobilière sans précédent, car les nouveaux modes de vie et l'accroissement de divorces aggravent la situation.",
+            "chineseTranslation": "在当下，住所在法国人的生活方式中占据着举足轻重的地位。五十多年来，住房条件经历了重大改善：如今，十套住房中有八套同时具备卫生间和集中供暖设施。住房贷款使越来越多的家庭得以成为业主。尽管取得了这些进步，法国仍深陷前所未有的房地产危机，因为新的生活方式和离婚率的上升正在进一步加剧这一局面。",
+            "fr2cnStrategy": "① huit logements sur dix 译为“十套住房中有八套”，保留比例结构，体现语序调整；② permettre à un nombre croissant de ménages de devenir propriétaires 处理为“使越来越多的家庭得以成为业主”，将 un nombre croissant de 转化为副词性短语，避免“一个不断增加的数量的家庭”这类翻译腔；③ Malgré ces progrès 译为“尽管取得了这些进步”，补充了“取得”这一动词，属于增译；④ sans précédent 译为“前所未有的”，是固定短语的对等翻译；⑤ aggravent la situation 原为主动语态，译文同样保留主动语态“正在进一步加剧这一局面”，并增译“进一步”体现语气。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "目前，越来越多的法国家庭选择独居，这加剧了住房短缺问题。",
+                "frenchTranslation": "A l'heure actuelle, de plus en plus de ménages français choisissent de vivre seuls, ce qui aggrave la pénurie de logements.",
+                "cn2frStrategy": "① “目前”用固定短语 à l'heure actuelle；② “越来越多的”用 de plus en plus de + 名词；③ “选择独居”用 choisir de + inf. 结构；④ “这加剧了……”用 ce qui aggrave，以关系代词 ce qui 指代前文整个情况。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "五十年来，法国住房的平均面积从每套2.7间增加到了4间。",
+                "frenchTranslation": "Depuis cinquante ans, la taille moyenne des logements en France est passée de 2,7 pièces à 4 pièces.",
+                "cn2frStrategy": "① “五十年来”用 depuis + 时间段，搭配复合过去时；② “从……增加到……”用 passer de... à... 结构；③ 注意法语小数点用逗号（2,7），不用句点。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "尽管新建住房供应量不断增加，法国依然面临严峻的住房危机。",
+                "frenchTranslation": "Malgré une offre croissante de nouveaux logements, la France fait face à une grave crise du logement.",
+                "cn2frStrategy": "① “尽管……”用 malgré + 名词（让步介词短语），区别于 bien que + 虚拟式；② “供应量不断增加”转化为名词短语 une offre croissante，属于词性转换（动词→形容词）；③ “面临”用 faire face à，比 avoir 更生动。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在20世纪60年代建造的大型住宅区，让许多家庭拥有了更好的居住条件和更大的空间。",
+                "frenchTranslation": "Les grands ensembles construits durant les années 1960 ont permis à de nombreux ménages d'avoir de meilleures conditions de logement et plus d'espace.",
+                "cn2frStrategy": "① “在……建造的”用过去分词后置定语 construits durant les années 1960，体现法语定语后置规律；② “让……拥有了”用 permettre à qn. de faire qch. 固定结构；③ “更好的”用比较级 de meilleures（注意 des → de 规则）；④ “更大的空间”译为 plus d'espace，副词 plus 修饰不可数名词用 de。"
+            }
+        ]
+    }
+}

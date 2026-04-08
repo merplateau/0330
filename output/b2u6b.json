@@ -1,0 +1,1000 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il écrivit un Traité de la Volonté qui fut découvert par un de ses professeurs et vendu dans une boutique de l'endroit comme de vieux papiers.",
+            "translatedSentence": "他写了一部《意志论》，却被他的一位老师发现，并被当作废纸卖给了当地的一家铺子。",
+            "sentenceStructure": "主句为 Il écrivit un Traité de la Volonté，后接由 qui 引导的关系从句 qui fut découvert par un de ses professeurs et vendu dans une boutique de l'endroit comme de vieux papiers，关系从句内含两个并列谓语 fut découvert 和 (fut) vendu。",
+            "grammarAnalysis": "① 主句动词 écrivit 为简单过去时（passé simple），用于书面叙述。② 关系从句中 fut découvert 和 fut vendu 为被动语态简单过去时（passé simple du passif），由 être + 过去分词构成。③ comme de vieux papiers 作方式状语，表示“被当作废纸”。④ par un de ses professeurs 为被动句的施动者补语，由 par 引出。",
+            "commonMistakes": "① 被动语态中施动者用 par 而非 de，此处须注意；② 关系从句中第二个谓语 vendu 省略了助动词 fut，学生易漏掉被动语态的判断；③ comme de vieux papiers 中 de 不可换成 des，因为 comme 后面接名词时用 de + 复数名词。"
+        },
+        {
+            "index": "2",
+            "sentence": "En 1815, la famille Balzac vint s'établir à Paris où, par bonheur, Balzac fit la connaissance d'une équipe d'écrivains populaires.",
+            "translatedSentence": "1815年，巴尔扎克一家迁居巴黎，在那里，他幸运地结识了一批颇受大众欢迎的作家。",
+            "sentenceStructure": "主句为 la famille Balzac vint s'établir à Paris，后接由 où 引导的关系从句 où, par bonheur, Balzac fit la connaissance d'une équipe d'écrivains populaires，où 在此充当地点关系副词。",
+            "grammarAnalysis": "① vint s'établir 为简单过去时，venir + 不定式表示“来……”的动作。② s'établir 为代词式动词，意为“定居，安家”。③ par bonheur 为固定短语，意为“幸运地”，作插入语。④ faire la connaissance de qn. 为固定搭配，意为“结识某人”，此处用简单过去时 fit。",
+            "commonMistakes": "① venir + 不定式在此表位移目的，不可与 venir de + 不定式（刚刚做某事）混淆。② faire la connaissance de 是固定搭配，不可说 faire connaissance avec，两者含义略有不同（前者更正式）。③ où 在关系从句中作地点状语，不可替换为 que。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il avait l'habitude de s'enfermer dans sa chambre et d'écrire dix-huit heures sans arrêt, pendant plusieurs semaines.",
+            "translatedSentence": "他习惯于把自己关在房间里，一连数周，不间断地写作长达十八小时。",
+            "sentenceStructure": "主句为 Il avait l'habitude de...，后接两个由 de 引导的不定式短语 s'enfermer dans sa chambre 和 écrire dix-huit heures sans arrêt，二者并列，共同作 l'habitude 的补语；时间状语 pendant plusieurs semaines 修饰整个句子。",
+            "grammarAnalysis": "① avait 为未完成过去时，表示过去的习惯性动作。② avoir l'habitude de + inf. 为固定搭配，意为“习惯于做……”。③ sans arrêt 为固定短语，意为“不间断地，不停地”。④ pendant + 时间段表示动作持续的时长。",
+            "commonMistakes": "① avoir l'habitude de 后须接动词不定式，不可接名词（与 avoir l'habitude + 名词 区分）。② sans arrêt 中 arrêt 不加冠词，为固定用法。③ pendant 与 pour 均可表时间，但 pendant 强调已发生或正在发生的持续，pour 强调预期时长，此处须用 pendant。"
+        },
+        {
+            "index": "4",
+            "sentence": "Quand on venait lui demander la dette, il lui arrivait même de sortir de chez lui par la fenêtre, au moyen d'une échelle.",
+            "translatedSentence": "每当有人上门讨债，他甚至会借助梯子从窗户逃出家门。",
+            "sentenceStructure": "由 Quand 引导的时间状语从句 Quand on venait lui demander la dette，主句为 il lui arrivait même de sortir de chez lui par la fenêtre, au moyen d'une échelle；主句中 il arrivait à qn. de + inf. 为固定句型。",
+            "grammarAnalysis": "① venait 为未完成过去时，表示过去的重复性动作，与 quand 搭配表示“每当”。② il arrivait à qn. de + inf. 为非人称句型，意为“某人有时会……”；此处 lui 为间接宾语代词，指代主语 il（巴尔扎克）。③ au moyen de 为固定介词短语，意为“用，借助”。④ même 作副词，加强语气，意为“甚至”。",
+            "commonMistakes": "① il arrive à qn. de + inf. 是非人称结构，学生易误将其分析为普通主谓结构；② lui 在此处并非指“对他人”，而是指巴尔扎克本人，需结合语境判断；③ par la fenêtre 与 à la fenêtre 不同：par 表示“经由（通过）”，à 表示“在……旁边”。"
+        },
+        {
+            "index": "5",
+            "sentence": "Sur son lit de mort, il fit appeler le Docteur Bianchon; or Bianchon était un des personnages qu'il imagina dans ses romans.",
+            "translatedSentence": "在临终的病榻上，他叫人去请比昂雄医生；然而比昂雄不过是他在小说中虚构出来的一个人物。",
+            "sentenceStructure": "两个主句由分号连接：第一句 il fit appeler le Docteur Bianchon，第二句 Bianchon était un des personnages qu'il imagina dans ses romans，第二句含由 que 引导的关系从句修饰 personnages。",
+            "grammarAnalysis": "① faire + inf. 为使役结构，faire appeler 意为“叫人去叫/请”，宾语 le Docteur Bianchon 为被叫的对象。② or 为并列连词，表转折或对比，意为“然而，可是”，常用于书面语，引出与前文矛盾或出人意料的信息。③ un des personnages qu'il imagina 中，关系从句用简单过去时 imagina，与全文叙述时态一致。",
+            "commonMistakes": "① faire appeler qn. 与 appeler qn. 不同：前者是使役（叫别人去叫），后者是直接叫；② or 作连词时表转折，不可与副词 or（现在）混淆，也不可替换为 mais（mais 语气更直接）；③ un des personnages 后的关系从句，关系代词 que 作从句的直接宾语，不可省略。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être mis à la campagne",
+            "meaning": "被送到乡下",
+            "usage": "被动结构，mettre qn. à la campagne 意为“把某人送到乡下”；常用于描述孩子被送离城市的情形。",
+            "exampleSentence": "il fut mis à la campagne"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "faire la connaissance de qn.",
+            "meaning": "结识某人，认识某人",
+            "usage": "固定搭配，de 后接人；较正式，多用于书面语或初次见面的场合。与 connaître qn. 相比，faire la connaissance de 更强调“结识”这一动作的发生。",
+            "exampleSentence": "Balzac fit la connaissance d'une équipe d'écrivains populaires."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "s'établir à + lieu",
+            "meaning": "定居于，在……安家落户",
+            "usage": "代词式动词，固定搭配介词 à 接地点；强调长期定居，与 habiter（居住）相比更强调迁居落脚的动作。",
+            "exampleSentence": "la famille Balzac vint s'établir à Paris"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "sous son influence",
+            "meaning": "在其影响下",
+            "usage": "固定介词短语，sous + influence 表示“在……影响下”；注意须用 sous 而非 par 或 avec。",
+            "exampleSentence": "Sous son influence, il écrivit son premier roman à succès, Les Chouans."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "avoir l'habitude de + inf.",
+            "meaning": "习惯于做某事",
+            "usage": "固定搭配，de 后接动词不定式；表示过去或现在的习惯性行为。与 être habitué à + inf. 同义，但 avoir l'habitude de 更口语化。",
+            "exampleSentence": "Il avait l'habitude de s'enfermer dans sa chambre et d'écrire dix-huit heures sans arrêt."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "sans arrêt",
+            "meaning": "不间断地，不停地",
+            "usage": "固定副词短语，arrêt 不加冠词；常作方式状语修饰动词，等同于 continuellement 或 sans interruption。",
+            "exampleSentence": "écrire dix-huit heures sans arrêt"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "tout au long de",
+            "meaning": "在整个……期间，贯穿……始终",
+            "usage": "固定介词短语，后接时间或空间名词；强调贯穿全程，与 pendant toute la durée de 近义。",
+            "exampleSentence": "Il buvait des tasses de café noir tout au long de la nuit."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "chasser la fatigue",
+            "meaning": "驱除疲劳",
+            "usage": "固定搭配，chasser 本义为“驱赶，追逐”，此处引申为“消除，驱除”，后接抽象名词。",
+            "exampleSentence": "Il buvait des tasses de café noir tout au long de la nuit, pour chasser la fatigue."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "prendre soin de + qn./qch.",
+            "meaning": "关心，照料；留心，注意",
+            "usage": "固定搭配，de 后可接名词或不定式；接名词时意为“照料”，接不定式时意为“留心做某事”。注意区分 prendre soin de qn.（照顾某人）与 prendre soin de faire qch.（注意做某事）。",
+            "exampleSentence": "Il prenait peu de soin de sa personne."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "au moyen de",
+            "meaning": "用，借助，通过",
+            "usage": "固定介词短语，后接名词，表示手段或工具；书面语色彩较强，与 avec 或 à l'aide de 近义，但更正式。",
+            "exampleSentence": "il lui arrivait même de sortir de chez lui par la fenêtre, au moyen d'une échelle."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "au cours de",
+            "meaning": "在……期间，在……过程中",
+            "usage": "固定介词短语，后接时间名词；强调某一时间段内发生的事，与 pendant 近义，但 au cours de 更强调过程性。",
+            "exampleSentence": "On dit qu'il eut 600 adresses différentes au cours de sa vie!"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "se prendre comme modèle",
+            "meaning": "以……为原型，把……当作模型",
+            "usage": "固定表达，prendre qn./qch. comme modèle 意为“以……为范本/原型”；在文学语境中常指作者以真实人物或自己为小说人物原型。",
+            "exampleSentence": "Balzac se prit comme modèle dans plus d'un roman."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "faire appeler qn.",
+            "meaning": "叫人去请某人，派人去叫某人",
+            "usage": "使役结构 faire + inf.，此处 appeler 的逻辑宾语为被叫来的人；注意与 appeler qn. 直接叫人 的区别，faire appeler 强调通过第三方传达。",
+            "exampleSentence": "il fit appeler le Docteur Bianchon"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "empêcher qn. de + inf.",
+            "meaning": "阻止某人做某事",
+            "usage": "固定搭配，empêcher 后接直接宾语（人），再接 de + 不定式；不可省略 de。",
+            "exampleSentence": "Ce médecin qu'il imagina ne put l'empêcher de mourir."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "rendre + adj. + qn./qch.",
+            "meaning": "使……变得……",
+            "usage": "使役结构，rendre + 形容词作表语补语；形容词须与主语的性数保持一致。常见于书面语。",
+            "exampleSentence": "il rendit célèbre le nom de ce grand écrivain."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "époque",
+            "partOfSpeech": "n.f.",
+            "definition": "①时期，时代 ②（历史上的）时代，年代",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à cette époque",
+                    "vocabularyCollocationMeaning": "在那个时期，那时"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'époque de",
+                    "vocabularyCollocationMeaning": "在……时代"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une époque difficile",
+                    "vocabularyCollocationMeaning": "一段艰难的时期"
+                }
+            ],
+            "synonymAnalysis": "époque 强调历史时期或人生阶段；période 侧重时间段的延续；ère 多指地质或重大历史纪元（如 l'ère industrielle）；siècle 专指“世纪”。",
+            "derivedWords": [],
+            "pluralForm": "époques"
+        },
+        {
+            "index": "2",
+            "vocabulary": "page",
+            "partOfSpeech": "n.f.",
+            "definition": "①页，页面 ②（比喻）一页，一段（历史、人生等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tourner la page",
+                    "vocabularyCollocationMeaning": "翻篇，翻过这一页（比喻放下过去）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la page",
+                    "vocabularyCollocationMeaning": "赶时髦的，跟上潮流的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les premières pages",
+                    "vocabularyCollocationMeaning": "前几页"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pagination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "页码编排，分页"
+                }
+            ],
+            "pluralForm": "pages"
+        },
+        {
+            "index": "3",
+            "vocabulary": "endroit",
+            "partOfSpeech": "n.m.",
+            "definition": "①地方，场所 ②（布料等的）正面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'endroit de",
+                    "vocabularyCollocationMeaning": "对于，关于（某人/某事）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à cet endroit",
+                    "vocabularyCollocationMeaning": "在这个地方"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans un endroit calme",
+                    "vocabularyCollocationMeaning": "在一个安静的地方"
+                }
+            ],
+            "synonymAnalysis": "endroit 与 lieu 均表“地方”：endroit 更口语化，指具体的某处；lieu 更正式、抽象，常用于固定搭配（如 avoir lieu 发生，sur les lieux 在现场）。",
+            "derivedWords": [],
+            "pluralForm": "endroits"
+        },
+        {
+            "index": "4",
+            "vocabulary": "bonheur",
+            "partOfSpeech": "n.m.",
+            "definition": "①幸福，快乐 ②幸运，运气",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par bonheur",
+                    "vocabularyCollocationMeaning": "幸运地，幸亏"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au petit bonheur",
+                    "vocabularyCollocationMeaning": "凑合地，随随便便地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire le bonheur de qn.",
+                    "vocabularyCollocationMeaning": "使某人幸福"
+                }
+            ],
+            "synonymAnalysis": "bonheur 表持续的幸福感或偶然的好运；chance 更侧重机缘、运气；joie 强调短暂的喜悦情绪。par bonheur 与 heureusement 近义，但 par bonheur 更文学化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "heureux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "幸福的，快乐的；幸运的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "heureusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "幸运地，幸好"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "malheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "不幸，灾难"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "malheureux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不幸的，痛苦的"
+                }
+            ],
+            "pluralForm": "bonheurs"
+        },
+        {
+            "index": "5",
+            "vocabulary": "connaissance",
+            "partOfSpeech": "n.f.",
+            "definition": "①知道，认识，了解 ②（复数）知识，学识 ③相识者，熟人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire la connaissance de qn.",
+                    "vocabularyCollocationMeaning": "结识某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir connaissance de qch.",
+                    "vocabularyCollocationMeaning": "知道某事，了解某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en connaissance de cause",
+                    "vocabularyCollocationMeaning": "有根据地，知情地"
+                }
+            ],
+            "synonymAnalysis": "connaissance 侧重“认识/了解”的状态或结果；savoir 强调掌握知识或技能；information 指具体信息。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "connaître",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "认识，了解，知道"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "connaisseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "行家，鉴赏家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "inconnu",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "未知的，陌生的"
+                }
+            ],
+            "pluralForm": "connaissances"
+        },
+        {
+            "index": "6",
+            "vocabulary": "écrivain",
+            "partOfSpeech": "n.m.",
+            "definition": "①作家，作者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un écrivain célèbre",
+                    "vocabularyCollocationMeaning": "著名作家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un grand écrivain",
+                    "vocabularyCollocationMeaning": "伟大的作家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "écrivain public",
+                    "vocabularyCollocationMeaning": "代书人（为他人代写文书的人）"
+                }
+            ],
+            "synonymAnalysis": "écrivain 泛指从事文学创作的作家；auteur 更广，泛指“作者”（含非文学性写作）；romancier 专指小说家；poète 专指诗人。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écrire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "写，书写"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "écrit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "作品；写出来的东西"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "écriture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "书写，笔迹；写作风格"
+                }
+            ],
+            "pluralForm": "écrivains"
+        },
+        {
+            "index": "7",
+            "vocabulary": "populaire",
+            "partOfSpeech": "adj.",
+            "definition": "①通俗的，大众的 ②受欢迎的，流行的 ③人民的，平民的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un roman populaire",
+                    "vocabularyCollocationMeaning": "通俗小说，大众小说"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une chanson populaire",
+                    "vocabularyCollocationMeaning": "流行歌曲；民歌"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les classes populaires",
+                    "vocabularyCollocationMeaning": "平民阶层"
+                }
+            ],
+            "synonymAnalysis": "populaire 强调受大众喜爱或属于平民阶层；célèbre 强调知名度；à la mode 强调时髦流行（时效性强）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "popularité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "受欢迎，声望"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "populariser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "普及，推广"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "peuple",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "人民，民众"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 populaires",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "8",
+            "vocabulary": "affaire",
+            "partOfSpeech": "n.f.",
+            "definition": "①买卖，交易 ②事务，事情，事件 ③（复数）生意，业务 ④（复数）事务，麻烦",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "homme d'affaires",
+                    "vocabularyCollocationMeaning": "实业家，工商业家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire des affaires",
+                    "vocabularyCollocationMeaning": "做生意"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une affaire à perdre",
+                    "vocabularyCollocationMeaning": "亏本的买卖；会让人倒霉的事"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "c'est mon affaire",
+                    "vocabularyCollocationMeaning": "这是我的事"
+                }
+            ],
+            "synonymAnalysis": "affaire 含义广泛；business（外来词）专指商业；problème 专指“问题、麻烦”；question 专指“问题（待讨论的）”。",
+            "derivedWords": [],
+            "pluralForm": "affaires"
+        },
+        {
+            "index": "9",
+            "vocabulary": "dette",
+            "partOfSpeech": "n.f.",
+            "definition": "①债务，欠款 ②（比喻）恩情，亏欠",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir des dettes",
+                    "vocabularyCollocationMeaning": "负债，欠债"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "payer ses dettes",
+                    "vocabularyCollocationMeaning": "还债"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être couvert de dettes",
+                    "vocabularyCollocationMeaning": "债台高筑"
+                }
+            ],
+            "synonymAnalysis": "dette 指具体的债务；obligation 更广，指义务或债券（金融）；emprunt 专指借款行为。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "débiteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "债务人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "endettement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "负债状态，债务"
+                }
+            ],
+            "pluralForm": "dettes"
+        },
+        {
+            "index": "10",
+            "vocabulary": "corriger",
+            "partOfSpeech": "vt.",
+            "definition": "①改正，纠正 ②修改，修订 ③批改（作业、试卷）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "corriger une erreur",
+                    "vocabularyCollocationMeaning": "纠正错误"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "corriger des copies",
+                    "vocabularyCollocationMeaning": "批改试卷/作业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "corriger les écrits de qn.",
+                    "vocabularyCollocationMeaning": "修改某人的文稿"
+                }
+            ],
+            "synonymAnalysis": "corriger 侧重改正错误或修订文本；rectifier 更正式，强调精确纠错；amender 常用于法律或政策的修订。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "correction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "改正，纠正；批改"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "correcteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "校对者，改正者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je corrige, tu corriges, il corrige, nous corrigeons, vous corrigez, ils corrigent",
+                "compoundPast": "j'ai corrigé",
+                "simpleFuture": "je corrigerai",
+                "memoryAids": "属于 -ger 类动词，在 nous 人称现在时及未完成过去时 nous 形式中，g 后加 e 以保持软音：nous corrigeons，nous corrigions。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "écrit",
+            "partOfSpeech": "n.m.",
+            "definition": "①作品，著作 ②写出来的东西，文字材料",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les écrits de qn.",
+                    "vocabularyCollocationMeaning": "某人的著作，某人的文章"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par écrit",
+                    "vocabularyCollocationMeaning": "以书面形式"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à l'écrit",
+                    "vocabularyCollocationMeaning": "在笔试中，书面上"
+                }
+            ],
+            "synonymAnalysis": "écrit（n.m.）指写出来的文字材料或著作；œuvre 更宏观，指整体创作成就；texte 专指文本内容本身。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écrire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "书写，写作"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "écrivain",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "作家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "écriture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "书写，笔迹；写作"
+                }
+            ],
+            "pluralForm": "écrits"
+        },
+        {
+            "index": "12",
+            "vocabulary": "influence",
+            "partOfSpeech": "n.f.",
+            "definition": "①影响，影响力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous l'influence de",
+                    "vocabularyCollocationMeaning": "在……的影响下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir de l'influence sur qn.",
+                    "vocabularyCollocationMeaning": "对某人有影响"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exercer une influence sur",
+                    "vocabularyCollocationMeaning": "对……施加影响"
+                }
+            ],
+            "synonymAnalysis": "influence 强调潜移默化的影响；impact 更强调直接冲击；effet 侧重结果和效应。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "influencer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "影响"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "influent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有影响力的"
+                }
+            ],
+            "pluralForm": "influences"
+        },
+        {
+            "index": "13",
+            "vocabulary": "roman",
+            "partOfSpeech": "n.m.",
+            "definition": "①长篇小说 ②（形容词）罗曼式的，罗马语族的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire un roman",
+                    "vocabularyCollocationMeaning": "写一部小说"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "roman à succès",
+                    "vocabularyCollocationMeaning": "畅销小说"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "roman policier",
+                    "vocabularyCollocationMeaning": "侦探小说"
+                }
+            ],
+            "synonymAnalysis": "roman 专指长篇小说；nouvelle 指中短篇小说；conte 指故事、童话；récit 泛指叙述性文本。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "romancier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "小说家"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "romanesque",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富有浪漫色彩的；小说式的"
+                }
+            ],
+            "pluralForm": "romans"
+        },
+        {
+            "index": "14",
+            "vocabulary": "arrêt",
+            "partOfSpeech": "n.m.",
+            "definition": "①停止，中断 ②（公交车的）站 ③裁决，判决（法律）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans arrêt",
+                    "vocabularyCollocationMeaning": "不停地，不间断地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "arrêt de bus",
+                    "vocabularyCollocationMeaning": "公共汽车站"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans arrêt",
+                    "vocabularyCollocationMeaning": "不停地"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à l'arrêt",
+                    "vocabularyCollocationMeaning": "停止状态，停着"
+                }
+            ],
+            "synonymAnalysis": "arrêt 侧重停止的状态或动作；pause 指暂时休息；interruption 强调被打断；halte 多指短暂停留。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "arrêter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "停止；逮捕"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'arrêter",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "停下来，停止"
+                }
+            ],
+            "pluralForm": "arrêts"
+        },
+        {
+            "index": "15",
+            "vocabulary": "point",
+            "partOfSpeech": "n.m.",
+            "definition": "①点；小点 ②点，得分 ③要点，关键",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ne...point",
+                    "vocabularyCollocationMeaning": "不，并不（否定副词，较古旧/文学）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à point",
+                    "vocabularyCollocationMeaning": "恰好，正好（烹饪中指七八成熟）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre les points sur les i",
+                    "vocabularyCollocationMeaning": "说清楚，把话说明白"
+                }
+            ],
+            "synonymAnalysis": "ne...point 与 ne...pas 均表否定，但 ne...point 为古典/书面用法，现代法语中 ne...pas 更常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pointer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "指向；登记"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pointu",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "尖的；尖锐的"
+                }
+            ],
+            "pluralForm": "points",
+            "useExplanation": "作副词用于否定结构 ne...point，语义相当于 ne...pas，但更具文学色彩，常见于古典文学或书面语，口语中罕用。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "soin",
+            "partOfSpeech": "n.m.",
+            "definition": "①关心，照料，护理 ②（复数）护理，治疗",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre soin de qn./qch.",
+                    "vocabularyCollocationMeaning": "照顾某人/某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec soin",
+                    "vocabularyCollocationMeaning": "精心地，认真地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans soin",
+                    "vocabularyCollocationMeaning": "粗心地，马马虎虎地"
+                }
+            ],
+            "synonymAnalysis": "soin 着重“照料、关心”的行为；attention 更宽泛，还指“注意力”；soin 的复数 soins 专指医疗护理。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "soigné",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "整洁的，精心打理的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "soigner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "护理，治疗；精心做"
+                }
+            ],
+            "pluralForm": "soins"
+        },
+        {
+            "index": "17",
+            "vocabulary": "échelle",
+            "partOfSpeech": "n.f.",
+            "definition": "①梯子 ②比例尺，尺度 ③规模，等级",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "monter à l'échelle",
+                    "vocabularyCollocationMeaning": "爬梯子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à grande échelle",
+                    "vocabularyCollocationMeaning": "大规模地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sur une échelle de 1 à 10",
+                    "vocabularyCollocationMeaning": "在1到10的等级上"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "échelles"
+        },
+        {
+            "index": "18",
+            "vocabulary": "plein",
+            "partOfSpeech": "adj.",
+            "definition": "①满的，装满的 ②完全的，全部的 ③（比喻）充满……的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plein de",
+                    "vocabularyCollocationMeaning": "充满……的，满是……的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en plein air",
+                    "vocabularyCollocationMeaning": "在露天，在户外"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à plein temps",
+                    "vocabularyCollocationMeaning": "全职地"
+                }
+            ],
+            "synonymAnalysis": "plein 侧重“充满，满载”；rempli de 与 plein de 近义，但 rempli de 更强调“被填满”的动作结果；complet 强调完整无缺。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pleinement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "完全地，充分地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "remplir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "填满，装满"
+                }
+            ],
+            "genderNumberVariation": "阴性 pleine，阳性复数 pleins，阴性复数 pleines",
+            "position": "通常置于名词之后（表字面意义）；前置时可强调程度（如 en plein soleil 在烈日下）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "sauver",
+            "partOfSpeech": "vt.",
+            "definition": "①救，拯救 ②挽救，保全",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sauver qn. de qch.",
+                    "vocabularyCollocationMeaning": "把某人从……中救出"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sauver la vie à qn.",
+                    "vocabularyCollocationMeaning": "救某人的命"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se sauver",
+                    "vocabularyCollocationMeaning": "逃跑；（口语）溜走"
+                }
+            ],
+            "synonymAnalysis": "sauver 强调从危险中解救；secourir 侧重紧急援助；libérer 侧重解放、释放。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sauveur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "救世主，救助者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sauvage",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "野生的，野蛮的（与 sauver 同词根）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "salut",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "救赎；问候（词源相关）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "empêcher",
+            "partOfSpeech": "vt.",
+            "definition": "①阻止，妨碍，防止",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "empêcher qn. de + inf.",
+                    "vocabularyCollocationMeaning": "阻止某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "empêcher qch.",
+                    "vocabularyCollocationMeaning": "阻止某事（发生）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ne pas pouvoir s'empêcher de + inf.",
+                    "vocabularyCollocationMeaning": "忍不住做某事"
+                }
+            ],
+            "synonymAnalysis": "empêcher 强调阻止行为或动作的发生；interdire 强调以权威禁止；éviter 强调主动避免。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "empêchement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "阻碍，障碍；有事，无法前来的理由"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "plume",
+            "partOfSpeech": "n.f.",
+            "definition": "①笔；羽毛笔 ②羽毛 ③（比喻）笔法，文风",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous la plume de qn.",
+                    "vocabularyCollocationMeaning": "在某人的笔下，出自某人之手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre la plume",
+                    "vocabularyCollocationMeaning": "提笔，开始写作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir la plume facile",
+                    "vocabularyCollocationMeaning": "下笔流畅，文思泉涌"
+                }
+            ],
+            "synonymAnalysis": "plume 在文学语境中常指“笔，文笔”；stylo 指现代钢笔/圆珠笔；crayon 指铅笔。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plumage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "羽毛（总称），羽衣"
+                }
+            ],
+            "pluralForm": "plumes"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Malgré sa triste enfance, Balzac aimait beaucoup la vie. Il avait l'habitude de s'enfermer dans sa chambre et d'écrire dix-huit heures sans arrêt, buvant du café noir tout au long de la nuit pour chasser la fatigue. De toute sa vie, il était couvert de dettes; quand on venait lui demander la dette, il lui arrivait même de sortir par la fenêtre au moyen d'une échelle. Cependant, sous la plume de ce grand écrivain, des personnages pleins de vie voient le jour, et son nom reste célèbre dans le monde entier.",
+            "chineseTranslation": "尽管童年悲苦，巴尔扎克对生活却充满热爱。他习惯于把自己关在房间里，彻夜喝着黑咖啡驱除疲劳，一口气写上十八个小时。他一生债台高筑，每当有人上门讨债，他甚至会借助梯子从窗户溜走。然而，在这位伟大作家的笔下，一个个栩栩如生的人物跃然纸上，他的名字也因此永载文学史册。",
+            "fr2cnStrategy": "① “Malgré sa triste enfance”前置让步状语，译为“尽管童年悲苦”，语序调整至句首，符合汉语习惯；② “avoir l'habitude de s'enfermer...et d'écrire”两个并列不定式译为“把自己关在……一口气写上……”，用逗号断开，避免翻译腔；③ “buvant du café noir”现在分词短语转换为独立分句“彻夜喝着黑咖啡”，词性转换（分词→动宾结构）；④ “il lui arrivait même de sortir par la fenêtre”非人称结构译为“他甚至会借助梯子从窗户溜走”，增译逻辑主语并将结构显化；⑤ “sous la plume de ce grand écrivain”固定短语译为“在这位伟大作家的笔下”，保留文学意象；⑥ “voir le jour”固定表达（字面：见到天日）意译为“跃然纸上”，属文化转换。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他幸运地结识了一位著名作家，后者对他的写作生涯产生了深远影响。",
+                "frenchTranslation": "Par bonheur, il fit la connaissance d'un écrivain célèbre, qui eut une grande influence sur sa carrière littéraire.",
+                "cn2frStrategy": "① “幸运地”用固定短语 par bonheur，置于句首；② “结识”用固定搭配 faire la connaissance de，动词用简单过去时；③ “后者”用关系代词 qui 引导从句，避免重复主语；④ “产生深远影响”用 avoir une grande influence sur，比 influencer beaucoup 更地道。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "他债台高筑，不得不借钱度日。",
+                "frenchTranslation": "Il était couvert de dettes et était obligé d'emprunter de l'argent pour vivre.",
+                "cn2frStrategy": "① “债台高筑”用习语 être couvert de dettes；② “不得不”用 être obligé de + inf.，比 devoir 更强调外部压力；③ “借钱”用 emprunter de l'argent，注意 emprunter 指借入，与 prêter（借出）区分；④ “度日”用 pour vivre，简洁表达目的。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这部小说写于1835年，被认为是他最重要的作品之一。",
+                "frenchTranslation": "Ce roman fut écrit en 1835 et est considéré comme l'une de ses œuvres les plus importantes.",
+                "cn2frStrategy": "① “写于1835年”用被动语态简单过去时 fut écrit，与叙述文风一致；② “被认为是”用 être considéré comme，注意介词用 comme 而非 pour；③ “最重要的作品之一”用 l'une de ses œuvres les plus importantes，最高级结构须加定冠词 les。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "尽管他极不注意个人仪表，但他笔下的人物却个个栩栩如生。",
+                "frenchTranslation": "Bien qu'il prît peu de soin de sa personne, les personnages de ses romans étaient pourtant pleins de vie.",
+                "cn2frStrategy": "① “尽管”用 bien que 引导让步从句，从句动词须用虚拟式 prît（prendre 虚拟式）；② “不注意个人仪表”用课文原句结构 prendre peu de soin de sa personne；③ “笔下的人物”用 les personnages de ses romans，“他的小说中的人物”；④ “栩栩如生”用 pleins de vie，保留课文表达；⑤ pourtant 表转折，与 mais 相比更强调对比的意外性。"
+            }
+        ]
+    }
+}

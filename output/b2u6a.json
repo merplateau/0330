@@ -1,0 +1,1126 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il portait des vêtements très modestes et on le reconnaissait de loin à ses épais cheveux.",
+            "translatedSentence": "他穿着十分朴素，而他那浓密的头发老远就能让人认出他来。",
+            "sentenceStructure": "并列句：① Il portait des vêtements très modestes（主句一：主语 Il + 谓语 portait + 宾语 des vêtements très modestes）② on le reconnaissait de loin à ses épais cheveux（主句二：主语 on + 宾语 le + 谓语 reconnaissait + 状语 de loin + 介词短语 à ses épais cheveux）",
+            "grammarAnalysis": "① 时态为未完成过去时（imparfait），描述过去某一时刻的持续状态。② on 作泛指主语，相当于“人们”。③ reconnaître qn à qch. 为固定搭配，表示“凭借某特征认出某人”。④ épais 作前置定语修饰 cheveux，强调头发的浓密程度。",
+            "commonMistakes": "① reconnaître à 后接身体特征，介词固定用 à，不可换成 par。② épais 置于名词前属于文学性用法，日常更多后置；考生注意此处是强调性前置。③ imparfait 在此表描述性过去，切勿误译为一次性动作。"
+        },
+        {
+            "index": "2",
+            "sentence": "Il s'approcha d'un guichet et donna à l'employé une enveloppe jaune adressée à la revue scientifique de Leipzig, Annalen der Physik.",
+            "translatedSentence": "他走近一个窗口，将一封寄往莱比锡科学期刊《物理年鉴》的黄色信封交给了工作人员。",
+            "sentenceStructure": "并列句：① Il s'approcha d'un guichet（主语 Il + 谓语 s'approcha + 介词短语 d'un guichet）② donna à l'employé une enveloppe jaune adressée à la revue scientifique de Leipzig（谓语 donna + 间接宾语 à l'employé + 直接宾语 une enveloppe jaune，后接过去分词短语 adressée à... 作后置定语）",
+            "grammarAnalysis": "① 时态为简单过去时（passé simple），叙述过去一次性的动作，属书面语。② s'approcher de 为代词式动词，固定搭配介词 de。③ adressée à... 为过去分词短语作后置定语，修饰 enveloppe，表示“寄往……的”。④ donna à qn qch. 为双宾结构：间接宾语 à l'employé + 直接宾语 une enveloppe。",
+            "commonMistakes": "① s'approcher 后固定接 de，不可写成 s'approcher à。② 双宾语语序：直接宾语为名词时，置于间接宾语之后；若直接宾语为代词，须前置动词。③ 过去分词 adressée 与 enveloppe（阴性）性数一致，注意词尾变化。"
+        },
+        {
+            "index": "3",
+            "sentence": "Dans cette enveloppe, il y avait trente feuilles de papier, fruit d'un énorme travail qui durait plusieurs années.",
+            "translatedSentence": "信封里装着三十张纸，那是多年艰辛工作的结晶。",
+            "sentenceStructure": "主句为 il y avait trente feuilles de papier（存现句），fruit d'un énorme travail qui durait plusieurs années 为同位语，进一步说明 trente feuilles de papier 的性质；其中 qui durait plusieurs années 为限制性定语从句，修饰 travail。",
+            "grammarAnalysis": "① il y avait 为 il y a 的未完成过去时，表示过去某一时刻“存在”的状态。② fruit d'un énorme travail 作同位语，fruit 在此为比喻义，意为“结晶、成果”。③ qui durait plusieurs années 中 durait 用未完成过去时，强调工作持续数年的过程性。",
+            "commonMistakes": "① fruit 此处为比喻用法，切勿直译为“水果”。② 定语从句中 durait 用 imparfait 而非 passé simple，因为强调持续时间而非一次性动作。③ plusieurs 后接复数名词，不加冠词，不可写成 plusieurs des années。"
+        },
+        {
+            "index": "4",
+            "sentence": "En classe, il ne se distingua pas comme un élève actif: il parlait peu et, pour être sûr de ne pas se tromper, réfléchissait longtemps avant de répondre à une question.",
+            "translatedSentence": "在课堂上，他并不像一个活跃的学生那样表现突出：他话不多，为了确保不出错，每次回答问题前都要思考很长时间。",
+            "sentenceStructure": "主句为 il ne se distingua pas comme un élève actif，冒号后为解释性并列结构：① il parlait peu ② pour être sûr de ne pas se tromper, réfléchissait longtemps avant de répondre à une question。其中 pour être sûr de ne pas se tromper 为目的状语不定式短语。",
+            "grammarAnalysis": "① se distinguer 为代词式动词，此处表示“表现出色、脱颖而出”，用 passé simple 强调过去的事实判断。② comme 引导比较状语，意为“像……一样”。③ pour + 不定式 表示目的，pour être sûr de ne pas se tromper 即“为了确保不出错”。④ ne pas se tromper 为否定不定式，ne pas 均置于不定式前。⑤ avant de + 不定式 表示“在……之前”。",
+            "commonMistakes": "① 否定不定式结构 ne pas + 动词原形，两个否定词均须置于不定式之前，不可分开。② pour + 不定式 表目的，主语须与主句主语一致，此处均为 il，合法。③ se distinguer 与 se distinguer de 含义不同：前者“表现突出”，后者“与……有所不同”。"
+        },
+        {
+            "index": "5",
+            "sentence": "Pour Einstein, l'école fut toujours une charge fatigante: maîtres et professeurs demandaient aux élèves d'apprendre par cœur règles, dates, noms et prénoms; lui, il pensait qu'il n'était pas utile de perdre son temps à étudier ce que l'on pouvait trouver dans les livres et les dictionnaires; il cherchait plutôt à connaître le pourquoi des choses.",
+            "translatedSentence": "对爱因斯坦来说，学校始终是一种令人疲惫的负担：老师和教授们要求学生死记硬背各种规则、日期、姓名和名字；而他却认为，花时间去学那些在书本和词典里就能查到的东西毫无意义；他宁愿去探究事物背后的原因。",
+            "sentenceStructure": "主句为 l'école fut toujours une charge fatigante，冒号后依次展开三个并列分句：① maîtres et professeurs demandaient aux élèves d'apprendre par cœur...（描述学校要求）② lui, il pensait qu'il n'était pas utile de perdre son temps à...（lui 为强调人称代词，引出转折）③ il cherchait plutôt à connaître le pourquoi des choses（表达爱因斯坦的主动追求）。",
+            "grammarAnalysis": "① fut 为 être 的 passé simple，表过去一次性或持续状态的判断。② demander à qn de faire qch. 为固定结构：间接宾语接 à，不定式前接 de。③ apprendre par cœur 为固定搭配，意为“背诵、记住”。④ il n'était pas utile de + 不定式：非人称结构，de 引出真正主语（不定式短语）。⑤ perdre son temps à faire qch. 固定搭配，意为“把时间浪费在……上”。⑥ plutôt 表转折，意为“宁愿、倒不如”。⑦ le pourquoi 名词化用法，意为“原因、缘由”。",
+            "commonMistakes": "① demander à qn de faire 结构中，不可省略 de，也不可将 à 换成其他介词。② apprendre par cœur 是固定搭配，par 不可换成 avec。③ le pourquoi 中 pourquoi 被名词化，须加定冠词 le，不可不加。"
+        },
+        {
+            "index": "6",
+            "sentence": "Depuis, le nom du grand savant fut connu, même de ceux qui ne savaient rien de la science.",
+            "translatedSentence": "从那以后，这位伟大科学家的名字广为人知，就连对科学一无所知的人也听闻了他的大名。",
+            "sentenceStructure": "主句为 le nom du grand savant fut connu（主语 le nom + 谓语 fut connu，被动语态），même de ceux qui ne savaient rien de la science 为介词短语作补语，其中 qui ne savaient rien de la science 为定语从句修饰 ceux。",
+            "grammarAnalysis": "① fut connu 为被动语态（passé simple of être + 过去分词），过去分词 connu 与主语 le nom 性数一致（阳性单数，词尾不变）。② même de 表示“甚至连……也”，强调范围之广。③ ceux qui... 为泛指代词结构，ceux 指代前文隐含的“人们”，由关系从句 qui... 限定。④ ne... rien de 为否定结构，意为“对……一无所知”。",
+            "commonMistakes": "① 被动语态中 être 须与主语性数一致，过去分词也须与主语配合变化。② ceux qui 不可与 ceux que 混淆：qui 作从句主语，que 作从句宾语。③ ne rien savoir de qch. 中介词固定用 de，不可换成 sur 或 à。"
+        },
+        {
+            "index": "7",
+            "sentence": "En 1945, il arrêta l'enseignement, mais continua jusqu'à sa mort (le 18 avril 1955) les recherches qui lui étaient chères.",
+            "translatedSentence": "1945年，他停止了教学工作，但直到1955年4月18日辞世，他始终坚持着自己所珍视的研究。",
+            "sentenceStructure": "并列句，以 mais 连接转折：① il arrêta l'enseignement（主语 il + 谓语 arrêta + 宾语 l'enseignement）② continua jusqu'à sa mort les recherches qui lui étaient chères（谓语 continua + 时间状语 jusqu'à sa mort + 宾语 les recherches，后接定语从句 qui lui étaient chères）。",
+            "grammarAnalysis": "① arrêta 与 continua 均为 passé simple，叙述过去发生的两件事。② jusqu'à 为介词，表示时间终点，意为“直到”。③ les recherches qui lui étaient chères：定语从句 qui lui étaient chères 中，être cher à qn 为固定结构，意为“对某人来说珍贵”，lui 为间接宾语代词指代 il（爱因斯坦）。④ 宾语 les recherches 因后接较长定语从句而后置，continua 后先接状语再接宾语，属于语序调整。",
+            "commonMistakes": "① être cher à qn 中 cher 作表语形容词，须与主语 les recherches（阴性复数）一致，变为 chères。② jusqu'à 后接名词，接从句须用 jusqu'à ce que + 虚拟式。③ lui 在此为间接宾语，指人，不可与直接宾语代词混淆。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "reconnaître qn à qch.",
+            "meaning": "凭……认出某人",
+            "usage": "固定搭配，介词用 à 引出识别特征（外貌、声音等），不可换成 par 或 avec。",
+            "exampleSentence": "on le reconnaissait de loin à ses épais cheveux"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "s'approcher de qn/qch.",
+            "meaning": "走近，靠近",
+            "usage": "代词式动词，固定接介词 de；注意区分 approcher（及物）与 s'approcher de（代词式，不及物）。",
+            "exampleSentence": "Il s'approcha d'un guichet"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "adresser qch. à qn",
+            "meaning": "将……寄给/投递给某人",
+            "usage": "及物动词结构，直接宾语为信件、文件等，间接宾语为接收方，介词固定用 à。",
+            "exampleSentence": "une enveloppe jaune adressée à la revue scientifique de Leipzig"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "fruit de qch.",
+            "meaning": "……的成果，……的结晶",
+            "usage": "名词性固定表达，fruit 此处为比喻用法，后接 de + 名词，表示某种劳动或过程的产物。",
+            "exampleSentence": "fruit d'un énorme travail qui durait plusieurs années"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se distinguer (comme qn)",
+            "meaning": "表现出色，脱颖而出",
+            "usage": "代词式动词，可单独使用或后接 comme + 名词，表示“以……身份表现突出”；否定式 ne pas se distinguer 表示“默默无闻”。",
+            "exampleSentence": "il ne se distingua pas comme un élève actif"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être sûr de ne pas faire qch.",
+            "meaning": "确保不做某事",
+            "usage": "être sûr de + 不定式，否定不定式结构为 ne pas + 动词原形，ne 与 pas 须均置于动词前。",
+            "exampleSentence": "pour être sûr de ne pas se tromper"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "réfléchir avant de faire qch.",
+            "meaning": "在做某事之前思考",
+            "usage": "avant de + 不定式，表示先后顺序；主句与不定式主语须一致。常与 longtemps、bien 等副词搭配。",
+            "exampleSentence": "réfléchissait longtemps avant de répondre à une question"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "demander à qn de faire qch.",
+            "meaning": "要求某人做某事",
+            "usage": "固定结构：demander + à + 人 + de + 不定式，不可省略 de；区别于 demander qch. à qn（向某人索取某物）。",
+            "exampleSentence": "maîtres et professeurs demandaient aux élèves d'apprendre par cœur règles, dates, noms et prénoms"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "apprendre qch. par cœur",
+            "meaning": "背诵，死记硬背",
+            "usage": "固定搭配，par cœur 为固定介词短语，不可换为 par mémoire 或 avec le cœur。",
+            "exampleSentence": "demandaient aux élèves d'apprendre par cœur règles, dates, noms et prénoms"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "perdre son temps à faire qch.",
+            "meaning": "把时间浪费在……上",
+            "usage": "固定结构，à 后接动词不定式；近义表达为 gaspiller son temps à faire qch.。",
+            "exampleSentence": "qu'il n'était pas utile de perdre son temps à étudier ce que l'on pouvait trouver dans les livres"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "chercher à faire qch.",
+            "meaning": "设法做某事，力图做某事",
+            "usage": "固定结构，chercher 后接 à + 不定式；注意区分 chercher qch.（寻找某物，直接及物）与 chercher à faire（力图做某事）。",
+            "exampleSentence": "il cherchait plutôt à connaître le pourquoi des choses"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "tant bien que mal",
+            "meaning": "勉强，马马虎虎，凑合",
+            "usage": "固定副词短语，修饰动词，表示以不太理想但可接受的方式完成某事；属于口语与书面语均可用的固定表达。",
+            "exampleSentence": "Il termina tant bien que mal ses études au lycée."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "connaître son avenir",
+            "meaning": "了解自己的前途/未来",
+            "usage": "connaître + 抽象名词，表示“明确知晓、心中有数”；区别于 savoir（知道某一具体事实）。",
+            "exampleSentence": "il connaissait son avenir: la physique"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "être cher à qn",
+            "meaning": "对某人来说珍贵，为某人所珍视",
+            "usage": "形容词 cher 作表语，后接 à + 人，须与主语性数一致；注意与 cher（昂贵的）区分——置于名词后多为“昂贵的”，此结构中为“珍贵的”。",
+            "exampleSentence": "les recherches qui lui étaient chères"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "se rendre en/à + lieu",
+            "meaning": "前往（某地）",
+            "usage": "代词式动词，地名前接 en（国家/大洲/女性地名）或 à（城市），不可用 aller à 混淆（两者近义但 se rendre 更正式）。",
+            "exampleSentence": "il se rendit en France, en Hollande, en Espagne, au Japon, en Russie, aux Etats-Unis"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "modeste",
+            "partOfSpeech": "adj.",
+            "definition": "①朴素的，简朴的 ②谦虚的，谦逊的 ③微薄的，不高的（指收入、条件等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vêtements modestes",
+                    "vocabularyCollocationMeaning": "朴素的衣着"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "revenus modestes",
+                    "vocabularyCollocationMeaning": "微薄的收入"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être modeste",
+                    "vocabularyCollocationMeaning": "为人谦逊"
+                }
+            ],
+            "synonymAnalysis": "modeste vs humble：两者均可表“谦虚”，modeste 侧重外在表现上的低调朴素，humble 更强调内心深处的谦卑态度，语气更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "modestie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "朴素；谦虚"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "modestement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "朴素地；谦虚地"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 modestes（规则变化：+s）",
+            "position": "通常置于名词之后；前置时有文学性或强调色彩"
+        },
+        {
+            "index": "2",
+            "vocabulary": "reconnaître",
+            "partOfSpeech": "vt.",
+            "definition": "①认出，辨认 ②承认，认可",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "reconnaître qn à qch.",
+                    "vocabularyCollocationMeaning": "凭某特征认出某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "reconnaître une erreur",
+                    "vocabularyCollocationMeaning": "承认错误"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "reconnaître que + 陈述句",
+                    "vocabularyCollocationMeaning": "承认……"
+                }
+            ],
+            "synonymAnalysis": "reconnaître vs admettre：reconnaître 侧重“辨认出”或“客观承认某事实”；admettre 更强调“勉强接受或认可”，带有让步意味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reconnaissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "①辨认，识别 ②感激，感谢"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "reconnu",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "公认的，被承认的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je reconnais, tu reconnais, il reconnaît, nous reconnaissons, vous reconnaissez, ils reconnaissent",
+                "compoundPast": "助动词 avoir + reconnu；j'ai reconnu",
+                "simpleFuture": "je reconnaîtrai, tu reconnaîtras, il reconnaîtra, nous reconnaîtrons, vous reconnaîtrez, ils reconnaîtront",
+                "memoryAids": "属于 -aître 类动词，变位规律与 connaître 完全相同，前缀 re- 表重复，掌握 connaître 即可类推。"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "épais",
+            "partOfSpeech": "adj.",
+            "definition": "①厚的 ②浓密的，浓的 ③粗壮的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cheveux épais",
+                    "vocabularyCollocationMeaning": "浓密的头发"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un mur épais",
+                    "vocabularyCollocationMeaning": "厚厚的墙"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une forêt épaisse",
+                    "vocabularyCollocationMeaning": "茂密的森林"
+                }
+            ],
+            "synonymAnalysis": "épais vs dense：épais 强调厚度或浓密程度（可见、可触）；dense 更强调密度、紧凑性，常用于抽象场合（如 une prose dense 文风紧凑）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "épaisseur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "厚度；浓度"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "épaissir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变厚；使变浓"
+                }
+            ],
+            "genderNumberVariation": "阴性 épaisse，阳性复数 épais（词尾不变），阴性复数 épaisses",
+            "position": "通常置于名词之后；文学性前置时有强调色彩（如课文中 épais cheveux）"
+        },
+        {
+            "index": "4",
+            "vocabulary": "cheveu",
+            "partOfSpeech": "n.m.",
+            "definition": "头发（单根）；复数 cheveux 泛指头发",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cheveux épais",
+                    "vocabularyCollocationMeaning": "浓密的头发"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "couper les cheveux",
+                    "vocabularyCollocationMeaning": "剪头发"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir les cheveux noirs",
+                    "vocabularyCollocationMeaning": "留着黑色头发"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cheveux（-eu 结尾名词复数加 -x）"
+        },
+        {
+            "index": "5",
+            "vocabulary": "approcher",
+            "partOfSpeech": "vt.",
+            "definition": "①使靠近，使接近 ②（s'approcher de）走近，靠近",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "approcher qch. de qch.",
+                    "vocabularyCollocationMeaning": "把……移近……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'approcher de qn/qch.",
+                    "vocabularyCollocationMeaning": "向某人/某物走近"
+                }
+            ],
+            "synonymAnalysis": "approcher（及物）vs s'approcher de（代词式，不及物）：approcher qch. 表示“使某物靠近”；s'approcher de 表示“（人主动）走近某处/某人”，考研常考后者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "approche",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "接近；方法，途径"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "guichet",
+            "partOfSpeech": "n.m.",
+            "definition": "①营业窗口，售票口 ②小窗口",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "guichet automatique",
+                    "vocabularyCollocationMeaning": "自动取款机（ATM）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "guichet de la gare",
+                    "vocabularyCollocationMeaning": "火车站售票窗口"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "guichets"
+        },
+        {
+            "index": "7",
+            "vocabulary": "enveloppe",
+            "partOfSpeech": "n.f.",
+            "definition": "①信封 ②外壳，包装",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre une lettre dans une enveloppe",
+                    "vocabularyCollocationMeaning": "将信放入信封"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enveloppe adressée à qn",
+                    "vocabularyCollocationMeaning": "寄给某人的信封"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "envelopper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "包裹，包封"
+                }
+            ],
+            "pluralForm": "enveloppes"
+        },
+        {
+            "index": "8",
+            "vocabulary": "adresser",
+            "partOfSpeech": "vt.",
+            "definition": "①投寄，寄送（信件等） ②致（词、问候）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "adresser qch. à qn",
+                    "vocabularyCollocationMeaning": "将某物寄给/致给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adresser la parole à qn",
+                    "vocabularyCollocationMeaning": "向某人搭话"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'adresser à qn",
+                    "vocabularyCollocationMeaning": "向某人咨询；面向某人"
+                }
+            ],
+            "synonymAnalysis": "adresser vs envoyer：adresser 更强调“投递、寄送至特定对象”，含有正式或定向的意味；envoyer 为通用词，使用范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adresse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "地址；技巧，灵活性"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "papier",
+            "partOfSpeech": "n.m.",
+            "definition": "①纸 ②文件，证件（常用复数 papiers）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "feuille de papier",
+                    "vocabularyCollocationMeaning": "一张纸"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "papiers d'identité",
+                    "vocabularyCollocationMeaning": "身份证件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "papier brouillon",
+                    "vocabularyCollocationMeaning": "草稿纸"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "papiers"
+        },
+        {
+            "index": "10",
+            "vocabulary": "énorme",
+            "partOfSpeech": "adj.",
+            "definition": "①巨大的，庞大的 ②异乎寻常的，惊人的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un énorme travail",
+                    "vocabularyCollocationMeaning": "巨大的工作量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une quantité énorme",
+                    "vocabularyCollocationMeaning": "巨大的数量"
+                }
+            ],
+            "synonymAnalysis": "énorme vs immense：énorme 强调体积、程度的“巨大、惊人”，带有主观色彩；immense 更客观，侧重空间或范围上的广大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "énormément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "非常，极其"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "énormité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "巨大；严重错误"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 énormes（规则变化：+s）",
+            "position": "通常置于名词之前（体积/程度类形容词多前置）"
+        },
+        {
+            "index": "11",
+            "vocabulary": "durer",
+            "partOfSpeech": "vi.",
+            "definition": "①持续，延续 ②持久，经久",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "durer plusieurs années",
+                    "vocabularyCollocationMeaning": "持续数年"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "durer longtemps",
+                    "vocabularyCollocationMeaning": "持续很长时间"
+                }
+            ],
+            "synonymAnalysis": "durer vs continuer：durer 强调时间上的延续，主语通常是事件或状态；continuer 更强调动作的继续进行，可接不定式 continuer à/de faire。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "durée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "持续时间，时长"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "durable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "持久的，耐久的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "trembler",
+            "partOfSpeech": "vi.",
+            "definition": "①发抖，颤抖 ②震惊，震动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "trembler de peur",
+                    "vocabularyCollocationMeaning": "因恐惧而颤抖"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "trembler de froid",
+                    "vocabularyCollocationMeaning": "冷得发抖"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire trembler qn",
+                    "vocabularyCollocationMeaning": "使某人震惊/颤抖"
+                }
+            ],
+            "synonymAnalysis": "trembler vs frissonner：trembler 指明显的颤抖（寒冷、恐惧等）；frissonner 指轻微的颤栗或打寒颤，程度较轻。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tremblement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "颤抖；震动（tremblement de terre：地震）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "savant",
+            "partOfSpeech": "n.m.",
+            "definition": "①学者，科学家 ②（作形容词）博学的，渊博的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "grand savant",
+                    "vocabularyCollocationMeaning": "伟大的科学家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "savant en physique",
+                    "vocabularyCollocationMeaning": "物理学家"
+                }
+            ],
+            "synonymAnalysis": "savant vs scientifique：savant 偏文学性，多用于书面，强调博学；scientifique 更为通用，指从事科学研究的人，口语书面均可。",
+            "derivedWords": [],
+            "pluralForm": "savants"
+        },
+        {
+            "index": "14",
+            "vocabulary": "actif",
+            "partOfSpeech": "adj.",
+            "definition": "①活跃的，积极的 ②勤奋的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "élève actif",
+                    "vocabularyCollocationMeaning": "活跃的学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vie active",
+                    "vocabularyCollocationMeaning": "职业生涯；活跃的生活"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "population active",
+                    "vocabularyCollocationMeaning": "劳动人口"
+                }
+            ],
+            "synonymAnalysis": "actif vs dynamique：actif 强调积极参与、勤奋行动；dynamique 更强调充满活力、富有朝气，偏向性格特质。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "activité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "活动；积极性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "activement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "积极地，活跃地"
+                }
+            ],
+            "genderNumberVariation": "阴性 active，阳性复数 actifs，阴性复数 actives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "15",
+            "vocabulary": "tromper",
+            "partOfSpeech": "vt.",
+            "definition": "①欺骗，使上当 ②（se tromper）弄错，搞错",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tromper qn",
+                    "vocabularyCollocationMeaning": "欺骗某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se tromper de + 名词",
+                    "vocabularyCollocationMeaning": "搞错……（如 se tromper de chemin 走错路）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se tromper dans qch.",
+                    "vocabularyCollocationMeaning": "在某事上出错"
+                }
+            ],
+            "synonymAnalysis": "se tromper vs faire une erreur：se tromper 更口语化，侧重“不小心出错”；faire une erreur 更正式，可指主动或被动的错误。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tromperie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "欺骗，欺诈"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "trompeur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "欺骗性的，迷惑人的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "réfléchir",
+            "partOfSpeech": "vi.",
+            "definition": "①思考，考虑 ②（光等）反射",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réfléchir à/sur qch.",
+                    "vocabularyCollocationMeaning": "思考某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réfléchir longtemps",
+                    "vocabularyCollocationMeaning": "长时间思考"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "réfléchir avant d'agir",
+                    "vocabularyCollocationMeaning": "三思而后行"
+                }
+            ],
+            "synonymAnalysis": "réfléchir vs penser：réfléchir 强调深思熟虑的过程；penser 更泛泛，泛指“想、认为”，不一定经过深思。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réflexion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "思考，反思；反射"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "charge",
+            "partOfSpeech": "n.f.",
+            "definition": "①负担，负荷 ②职责，任务 ③费用（常用复数 charges）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "charge fatigante",
+                    "vocabularyCollocationMeaning": "令人疲惫的负担"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre en charge",
+                    "vocabularyCollocationMeaning": "承担，负责"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être à la charge de qn",
+                    "vocabularyCollocationMeaning": "由某人负担（经济上）"
+                }
+            ],
+            "synonymAnalysis": "charge vs fardeau：charge 通用词，指负担或职责；fardeau 更具文学色彩，专指沉重的精神或肉体负担。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "charger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "装载；委以任务；充电"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chargé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "繁忙的；满载的"
+                }
+            ],
+            "pluralForm": "charges"
+        },
+        {
+            "index": "18",
+            "vocabulary": "fatigant",
+            "partOfSpeech": "adj.",
+            "definition": "①令人疲劳的，费力的 ②讨厌的，烦人的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travail fatigant",
+                    "vocabularyCollocationMeaning": "费力的工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voyage fatigant",
+                    "vocabularyCollocationMeaning": "令人疲惫的旅途"
+                }
+            ],
+            "synonymAnalysis": "fatigant vs épuisant：fatigant 表示“令人疲劳的”，程度较轻；épuisant 表示“令人精疲力竭的”，程度更深。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fatiguer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使疲劳；使厌烦"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fatigue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "疲劳，疲惫"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "fatigué",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "疲劳的，疲惫的"
+                }
+            ],
+            "genderNumberVariation": "阴性 fatigante，复数 fatigants / fatigantes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "19",
+            "vocabulary": "règle",
+            "partOfSpeech": "n.f.",
+            "definition": "①规则，规律 ②直尺",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apprendre les règles par cœur",
+                    "vocabularyCollocationMeaning": "死记规则"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en règle",
+                    "vocabularyCollocationMeaning": "合乎规定的；符合规则的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "règle générale",
+                    "vocabularyCollocationMeaning": "一般规律"
+                }
+            ],
+            "synonymAnalysis": "règle vs loi：règle 指具体的规则、规范（语法规则、游戏规则等）；loi 更宏观，指法律或自然规律。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "régler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "调节，解决，结账"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "règlement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "规章制度；结算"
+                }
+            ],
+            "pluralForm": "règles"
+        },
+        {
+            "index": "20",
+            "vocabulary": "tant",
+            "partOfSpeech": "adv.",
+            "definition": "①如此，那么多（程度副词） ②tanto（用于固定表达）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tant bien que mal",
+                    "vocabularyCollocationMeaning": "勉勉强强，马马虎虎"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tant que + 从句",
+                    "vocabularyCollocationMeaning": "只要……；当……的时候"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tant de + 名词",
+                    "vocabularyCollocationMeaning": "如此多的……"
+                }
+            ],
+            "synonymAnalysis": "tant vs tellement：在表示程度时，tant 较文学性，tellement 更口语化，二者可互换，但 tant 常出现在固定搭配中。",
+            "derivedWords": [],
+            "useExplanation": "tant 作程度副词时修饰形容词或副词；tant que 引导时间/条件从句；tant bien que mal 为固定副词短语，不可拆分。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "lycée",
+            "partOfSpeech": "n.m.",
+            "definition": "（法国）公立中学（高中），相当于中国的高中阶段（通常为15至18岁）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire ses études au lycée",
+                    "vocabularyCollocationMeaning": "在中学念书"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lycée professionnel",
+                    "vocabularyCollocationMeaning": "职业高中"
+                }
+            ],
+            "synonymAnalysis": "lycée vs collège：lycée 对应高中（大约15-18岁）；collège 对应初中（大约11-15岁），两者不可混淆。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lycéen",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "高中生（男）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lycéenne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "高中生（女）"
+                }
+            ],
+            "pluralForm": "lycées"
+        },
+        {
+            "index": "22",
+            "vocabulary": "physique",
+            "partOfSpeech": "n.f.",
+            "definition": "①物理学",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prix Nobel de physique",
+                    "vocabularyCollocationMeaning": "诺贝尔物理学奖"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étudier la physique",
+                    "vocabularyCollocationMeaning": "学习物理"
+                }
+            ],
+            "synonymAnalysis": "physique (n.f.) 物理学 vs physique (adj.) 物理的；身体的：同形词，须根据句法判断词性。作名词时为阴性（la physique），作形容词时修饰名词（exercice physique 体育锻炼）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "physicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "物理学家"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "physiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "从身体上，在体格上"
+                }
+            ],
+            "pluralForm": "physiques（作名词时通常不用复数）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "théorie",
+            "partOfSpeech": "n.f.",
+            "definition": "①理论，学说 ②（en théorie）理论上",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "théorie de la relativité",
+                    "vocabularyCollocationMeaning": "相对论"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en théorie",
+                    "vocabularyCollocationMeaning": "理论上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "théorie scientifique",
+                    "vocabularyCollocationMeaning": "科学理论"
+                }
+            ],
+            "synonymAnalysis": "théorie vs hypothèse：théorie 指经过系统论证的学说；hypothèse 指尚未证实的假设、假说，二者层级不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "théorique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "理论的，理论上的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "théoriquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "理论上地"
+                }
+            ],
+            "pluralForm": "théories"
+        },
+        {
+            "index": "24",
+            "vocabulary": "relativité",
+            "partOfSpeech": "n.f.",
+            "definition": "相对性；相对论（特指 théorie de la relativité）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "théorie de la relativité",
+                    "vocabularyCollocationMeaning": "相对论"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "relativité restreinte/générale",
+                    "vocabularyCollocationMeaning": "狭义/广义相对论"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "relatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "相对的；有关的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "relativement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "相对地；比较"
+                }
+            ],
+            "pluralForm": "relativités（通常不用复数）"
+        },
+        {
+            "index": "25",
+            "vocabulary": "prix",
+            "partOfSpeech": "n.m.",
+            "definition": "①奖项，奖品 ②价格，价钱 ③代价",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prix Nobel",
+                    "vocabularyCollocationMeaning": "诺贝尔奖"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prix de vente",
+                    "vocabularyCollocationMeaning": "销售价格"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à tout prix",
+                    "vocabularyCollocationMeaning": "不惜一切代价"
+                }
+            ],
+            "synonymAnalysis": "prix（奖项义）vs récompense：prix 指正式奖项（如诺贝尔奖）；récompense 更通用，泛指酬谢、回报。",
+            "derivedWords": [],
+            "pluralForm": "prix（单复数同形）"
+        },
+        {
+            "index": "26",
+            "vocabulary": "enseignement",
+            "partOfSpeech": "n.m.",
+            "definition": "①教学，教育 ②教训，启示",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "arrêter l'enseignement",
+                    "vocabularyCollocationMeaning": "停止教学"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enseignement supérieur",
+                    "vocabularyCollocationMeaning": "高等教育"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "enseignement public/privé",
+                    "vocabularyCollocationMeaning": "公立/私立教育"
+                }
+            ],
+            "synonymAnalysis": "enseignement vs éducation：enseignement 侧重“教学活动、授课过程”；éducation 更宏观，涵盖家庭、社会对人的全面培养。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enseigner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "教授，讲授"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enseignant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "教师，教育工作者"
+                }
+            ],
+            "pluralForm": "enseignements"
+        },
+        {
+            "index": "27",
+            "vocabulary": "recherche",
+            "partOfSpeech": "n.f.",
+            "definition": "①寻找，搜寻 ②研究，科研（常用复数 recherches）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire des recherches",
+                    "vocabularyCollocationMeaning": "进行研究"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "recherche scientifique",
+                    "vocabularyCollocationMeaning": "科学研究"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être à la recherche de qch.",
+                    "vocabularyCollocationMeaning": "寻找某物"
+                }
+            ],
+            "synonymAnalysis": "recherche vs étude：recherche（尤其复数 recherches）侧重“原创性科研探索”；étude 更泛泛，指“学习、研究”任何内容，不一定具有探索性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rechercher",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "寻找；追求"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chercheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "研究员，科研人员"
+                }
+            ],
+            "pluralForm": "recherches"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Einstein portait des vêtements très modestes, et on le reconnaissait de loin à ses épais cheveux. Pour lui, l'école fut toujours une charge fatigante: il pensait qu'il n'était pas utile de perdre son temps à apprendre par cœur ce que l'on pouvait trouver dans les livres. Il cherchait plutôt à connaître le pourquoi des choses. En 1905, il publia ses premiers travaux sur la célèbre théorie de la relativité, fruit d'un énorme travail qui avait duré plusieurs années. Depuis, le nom du grand savant fut connu, même de ceux qui ne savaient rien de la science.",
+            "chineseTranslation": "爱因斯坦穿着极为朴素，而那一头浓密的头发却让人从远处便能认出他。对他来说，学校始终是一种令人疲惫的负担：他认为，把时间花在死记书本和词典里能查到的东西上，毫无意义。他宁可去探究事物背后的原因。1905年，他发表了关于著名相对论的首批研究成果——那是多年艰辛工作的结晶。从那以后，这位伟大科学家的名字广为人知，就连对科学一无所知的人也不例外。",
+            "fr2cnStrategy": "① on le reconnaissait de loin à ses épais cheveux：on 译为泛指的“人们”或不出现；à ses épais cheveux 转化为凭借特征的“凭借”结构，改写为“让人从远处便能认出他”，属于语序调整与增译。② charge fatigante：抽象名词转化，译为“令人疲惫的负担”，直译即可但须保留情感色彩。③ perdre son temps à apprendre par cœur：固定搭配处理，“把时间花在死记……上”，中文增加“死记”强化语义。④ fruit d'un énorme travail：比喻义“成果/结晶”，译为“多年艰辛工作的结晶”，fruit 不按字面译为“水果”。⑤ même de ceux qui ne savaient rien de la science：even 结构译为“就连……也不例外”，简洁自然。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他穿着十分朴素，人们老远就能凭他的浓密头发认出他来。",
+                "frenchTranslation": "Il portait des vêtements très modestes et on le reconnaissait de loin à ses épais cheveux.",
+                "cn2frStrategy": "① “老远就能认出”用 reconnaître de loin 表达，de loin 为距离副词短语，置于动词之后。② “凭他的浓密头发”用 reconnaître qn à qch. 结构，介词固定用 à。③ “他的浓密头发”：épais 作定语前置修饰 cheveux，体现法语文学性用法。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "对他来说，学校始终是一种负担，因为老师总是要求学生死记硬背各种规则。",
+                "frenchTranslation": "Pour lui, l'école fut toujours une charge, car les maîtres demandaient aux élèves d'apprendre par cœur toutes les règles.",
+                "cn2frStrategy": "① “对他来说”用介词短语 pour lui 置于句首。② “要求某人做某事”固定结构为 demander à qn de faire qch.，注意介词不可省略。③ “死记硬背”固定译为 apprendre par cœur，par 不可换为其他介词。④ 用 passé simple（fut, demandaient imparfait）区分历史陈述与持续状态。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他花了好几年时间研究相对论，那是他毕生最珍视的事业。",
+                "frenchTranslation": "Il passa plusieurs années à étudier la théorie de la relativité, qui lui était la plus chère de toute sa vie.",
+                "cn2frStrategy": "① “花时间做某事”用 passer du temps à faire qch. 结构，时间名词直接作宾语（passer plusieurs années à...）。② “相对论”固定译法为 la théorie de la relativité，冠词和介词不可省。③ “最珍视的”用 être cher à qn 结构，cher 作形容词须与主语性数一致；“最”用最高级 la plus chère。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "1945年他停止了教学，但此后始终坚持自己所珍视的科学研究，直至去世。",
+                "frenchTranslation": "En 1945, il arrêta l'enseignement, mais continua jusqu'à sa mort les recherches scientifiques qui lui étaient chères.",
+                "cn2frStrategy": "① “停止”用 arrêter + 名词，l'enseignement 加定冠词表特指。② 转折用 mais 连接，与前分句构成对比。③ “直至去世”译为 jusqu'à sa mort，jusqu'à 后接名词。④ “所珍视的研究”用定语从句 qui lui étaient chères，être cher à qn 结构，chères 与 recherches（阴性复数）一致。"
+            }
+        ]
+    }
+}

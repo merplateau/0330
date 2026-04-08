@@ -1,0 +1,1388 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Notre société évolue très largement vers les loisirs, et le sport y trouve une place de plus en plus importante, car les Français se sont rendu compte que le corps était aussi une machine et qu'il était nécessaire de l'entretenir.",
+            "translatedSentence": "我们的社会正在大幅度地向休闲方向演变，体育运动在其中占据着越来越重要的位置，因为法国人已经意识到身体也是一台机器，需要对其加以维护。",
+            "sentenceStructure": "主句为并列结构：① Notre société évolue vers les loisirs；② le sport y trouve une place importante。car 引导原因状语从句，从句内部含 que 引导的宾语从句（les Français se sont rendu compte que...），宾语从句中又有 que 引导的并列宾语从句（le corps était... et qu'il était nécessaire de...）。",
+            "grammarAnalysis": "① se rendre compte que 为固定短语，意为“意识到”，后接直陈式从句。② que 引导的宾语从句中时态为条件句背景下的未完成过去时（était），表示过去的持续状态。③ il était nécessaire de + inf. 为非人称句型，表示“有必要做……”。④ y 为地点代词，指代前文的 les loisirs（休闲领域）。",
+            "commonMistakes": "① 易将 se rendre compte que 误写为 *se rendre compte de que，注意后接从句时不加 de。② y 的指代对象容易混淆，此处指代 les loisirs 所代表的领域，不可省略。③ 未完成过去时 était 不可替换为复合过去时，因为表达的是持续状态而非已完成动作。"
+        },
+        {
+            "index": 2,
+            "sentence": "La pratique diminue avec l'âge, mais les plus de 60 ans sont de plus en plus concernés par les activités sportives.",
+            "translatedSentence": "（体育）锻炼的频率随年龄增长而下降，但六十岁以上的人对体育活动的关注度却越来越高。",
+            "sentenceStructure": "并列复合句：① La pratique diminue avec l'âge（主句一）；② mais les plus de 60 ans sont de plus en plus concernés par les activités sportives（主句二，转折关系）。",
+            "grammarAnalysis": "① être concerné par qch. 为被动结构，意为“对……感兴趣/关注”。② de plus en plus + 形容词，表示程度递进，意为“越来越……”。③ les plus de 60 ans 为名词短语，指“六十岁以上的人”，les 为定冠词，修饰整体。",
+            "commonMistakes": "① concerné par 为被动语态，易误用主动结构 *s'intéresser à 替换时需注意句式变换。② de plus en plus 后跟形容词时，形容词需与主语性数一致（concernés 为复数形式）。"
+        },
+        {
+            "index": 3,
+            "sentence": "En effet, les activités sportives de type compétitif perdent de plus en plus leur place, parce que les Français préfèrent les activités sportives plus intéressantes, et moins pénibles.",
+            "translatedSentence": "事实上，竞技类体育活动正逐渐失去其地位，因为法国人更偏爱那些趣味性更强、辛苦程度更低的运动项目。",
+            "sentenceStructure": "主从复合句：主句为 les activités sportives de type compétitif perdent de plus en plus leur place；parce que 引导原因状语从句。",
+            "grammarAnalysis": "① perdre sa place 为固定搭配，意为“失去地位/席位”。② parce que 引导原因从句，语气较 car 更口语化，且 parce que 从句可置于句首，car 不行。③ préférer + 直接宾语，意为“更偏爱……”。④ 形容词 intéressantes 和 pénibles 均与 activités sportives（阴性复数）性数一致。",
+            "commonMistakes": "① car 与 parce que 均表原因，但 car 不可置于句首，parce que 可以，需区分用法。② perdre leur place 中 leur 为复数属格代词，指代 les activités sportives，不可用 sa。"
+        },
+        {
+            "index": 4,
+            "sentence": "Si c'était possible de faire du ski en été, les Français y iraient aussi.",
+            "translatedSentence": "如果夏天也能滑雪，法国人也会去的。",
+            "sentenceStructure": "条件句（与现实相反的假设）：si 引导条件从句（Si c'était possible de faire du ski en été），主句为 les Français y iraient aussi。",
+            "grammarAnalysis": "① 第二类条件句（虚拟条件句）：si 从句用未完成过去时（c'était），主句用条件式现在时（iraient），表示与现实相反或不可能实现的假设。② il est possible de + inf. 为非人称句型，表示“……是可能的”；此处 c'était 为 il était 的口语形式。③ y 为地点代词，指代滑雪场所。",
+            "commonMistakes": "① 第二类条件句时态搭配是考研高频考点：si 从句必须用未完成过去时，不可用条件式；主句用条件式现在时，不可用将来时。② faire du ski 为固定搭配，faire + du/de la + 运动项目，不可用 jouer。"
+        },
+        {
+            "index": 5,
+            "sentence": "Les ménages français consacrent en moyenne chaque année 360 euros à leur équipement sportif.",
+            "translatedSentence": "法国家庭平均每年在体育装备上花费360欧元。",
+            "sentenceStructure": "简单句：主语 Les ménages français，谓语 consacrent，宾语 360 euros，介词短语 à leur équipement sportif 作宾语补足语，状语 en moyenne chaque année 修饰谓语。",
+            "grammarAnalysis": "① consacrer qch. à qch. 为固定搭配，意为“将……用于……，把……奉献给……”。② en moyenne 为副词短语，意为“平均”，修饰动词或整个句子。③ chaque année 为时间状语，意为“每年”，与 en moyenne 连用表习惯性行为。",
+            "commonMistakes": "① consacrer à 后接名词，注意介词不可替换为 pour。② ménage 意为“家庭/家户”，与 famille 有区别：ménage 更强调共同生活的经济单元，多用于统计语境。"
+        },
+        {
+            "index": 6,
+            "sentence": "La France est le 4e pays au monde et le premier marché d'Europe pour la consommation d'articles de sports et de loisirs, avec un marché de plus de 9 milliards d'euros (autant que le marché du mobilier).",
+            "translatedSentence": "在体育和休闲用品消费方面，法国是全球第四大国、欧洲第一大市场，其市场规模超过90亿欧元（与家具市场规模相当）。",
+            "sentenceStructure": "简单句扩展结构：主语 La France，系动词 est，并列表语 le 4e pays au monde et le premier marché d'Europe，后接介词短语 pour la consommation d'articles... 说明范围，with 结构 avec un marché de plus de 9 milliards d'euros 作附加说明，括号内为同位补充。",
+            "grammarAnalysis": "① le + 序数词 + 名词 表示排名，如 le 4e pays。② pour 在此表示“在……方面/就……而言”，引出适用范围。③ autant que 为比较结构，意为“与……一样多/同等”，此处作括号内的插入说明。④ marché 在此用作“市场（规模）”，为经济术语。",
+            "commonMistakes": "① 序数词 4e 的发音和书写：quatrième，缩写为 4e，不可写成 *4ème（口语可接受但书面正式用 4e）。② autant que 与 aussi...que 的区别：autant que 修饰名词或动词（数量），aussi...que 修饰形容词或副词（程度）。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "évoluer vers qch.",
+            "meaning": "向……演变，朝……发展",
+            "usage": "不及物动词搭配，固定用介词 vers，强调方向性的变化趋势，常用于描述社会、科技等领域的发展走向。",
+            "exampleSentence": "Notre société évolue très largement vers les loisirs."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "trouver une place de plus en plus importante",
+            "meaning": "占据越来越重要的位置",
+            "usage": "trouver une place 为固定表达，意为“找到/占据一席之地”；de plus en plus + 形容词表程度递进。可替换为 occuper une place de plus en plus importante。",
+            "exampleSentence": "le sport y trouve une place de plus en plus importante"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "se rendre compte que / de qch.",
+            "meaning": "意识到，认识到",
+            "usage": "固定短语，后接 que + 陈述从句，或 de + 名词/不定式。注意：后接从句时不加 de，直接用 que。为考研高频短语。",
+            "exampleSentence": "les Français se sont rendu compte que le corps était aussi une machine"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "il est nécessaire de faire qch.",
+            "meaning": "有必要做某事",
+            "usage": "非人称句型，de 后接动词不定式。同类句型：il est important/utile/possible de + inf. 考研写作常用句式。",
+            "exampleSentence": "il était nécessaire de l'entretenir"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "pratiquer un sport / une activité",
+            "meaning": "从事某项运动/活动",
+            "usage": "pratiquer 为及物动词，直接接运动名词，不加介词，是法语中表达“参与体育运动”的标准用法，比 faire de + 运动更正式。",
+            "exampleSentence": "68% des Français déclarent pratiquer au moins un sport"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "participer à des compétitions",
+            "meaning": "参加比赛",
+            "usage": "participer à 为固定搭配，固定用介词 à，不可替换为 *participer dans。后接运动、活动、比赛等名词。",
+            "exampleSentence": "ils ne sont que 8 millions à participer à des compétitions"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "perdre de plus en plus sa/leur place",
+            "meaning": "逐渐失去地位",
+            "usage": "perdre sa place 意为“失去席位/地位”，为固定搭配；与 de plus en plus 连用表示渐进式的失去，属书面语。反义表达：gagner sa place / prendre de la place。",
+            "exampleSentence": "les activités sportives de type compétitif perdent de plus en plus leur place"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "faire partie de qch.",
+            "meaning": "成为……的一部分，属于……",
+            "usage": "固定短语，de 后接名词，不可加冠词变体 *faire une partie de。是表达“归属、组成”关系的常用句式。",
+            "exampleSentence": "Il fait partie, avec la musique, le cinéma ou les jeux vidéo, des sujets de conversation de la plupart des Français."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "consacrer qch. à qch./qn.",
+            "meaning": "将……用于……；把……奉献给……",
+            "usage": "及物动词，结构为 consacrer + 宾语 + à + 名词。介词固定用 à，不可替换为 pour。常用于表达时间、金钱、精力的投入。",
+            "exampleSentence": "Les ménages français consacrent en moyenne chaque année 360 euros à leur équipement sportif."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "en moyenne",
+            "meaning": "平均，平均而言",
+            "usage": "副词短语，可置于动词前后，修饰动词或整个句子。书面语中常用，尤其在统计、数据类语境中。",
+            "exampleSentence": "Les ménages français consacrent en moyenne chaque année 360 euros à leur équipement sportif."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "avoir un point commun",
+            "meaning": "有一个共同点",
+            "usage": "固定表达，commun 为形容词，需与 point 性数一致（阳性单数）。复数形式：avoir des points communs（有共同点）。",
+            "exampleSentence": "Ils ont un point commun: la recherche de sensations extrêmes, le plaisir du mouvement et du vertige, la créativité, la liberté."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être fanatique de qch.",
+            "meaning": "对……狂热，是……的狂热爱好者",
+            "usage": "形容词 fanatique + de + 名词，de 后不加冠词（泛指）。口语中也可用名词形式：un fanatique de sport。",
+            "exampleSentence": "Les Français sont fanatiques du sport."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "à côté de qch.",
+            "meaning": "在……旁边；除……之外",
+            "usage": "介词短语，基本义为空间上的“旁边”；在比较或补充语境中表示“除……之外，与……相比”。注意区分 à côté de（旁边）和 en dehors de（除……之外）。",
+            "exampleSentence": "À côté des sports traditionnels comme le foot et le tennis, de nouvelles pratiques se sont développées."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "en particulier",
+            "meaning": "尤其，特别是",
+            "usage": "副词短语，用于强调列举中的某一项，相当于 surtout 或 notamment，但语体更正式。通常置于句中或句末。",
+            "exampleSentence": "de nouvelles pratiques se sont développées, en particulier chez les jeunes"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "largement",
+            "partOfSpeech": "adv.",
+            "definition": "①宽广地，大幅度地 ②完全地，充分地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "largement suffisant",
+                    "vocabularyCollocationMeaning": "完全足够"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "évoluer largement vers",
+                    "vocabularyCollocationMeaning": "大幅度地向……演变"
+                }
+            ],
+            "synonymAnalysis": "largement vs beaucoup：largement 强调程度宽泛或充分（largement assez = 完全足够）；beaucoup 单纯表数量或程度大。largement vs grandement：含义相近，grandement 更书面、更强调宏大程度。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "large",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "宽阔的，大的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "largeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "宽度"
+                }
+            ],
+            "useExplanation": "副词，修饰动词、形容词或其他副词。在句中灵活置于动词前后，书面语和口语均适用。"
+        },
+        {
+            "index": "2",
+            "vocabulary": "loisir",
+            "partOfSpeech": "n.m.",
+            "definition": "①（单数）空闲，闲暇 ②（复数 loisirs）消遣，娱乐活动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir du loisir",
+                    "vocabularyCollocationMeaning": "有空闲时间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les activités de loisir",
+                    "vocabularyCollocationMeaning": "休闲活动"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à loisir",
+                    "vocabularyCollocationMeaning": "从容地，尽情地"
+                }
+            ],
+            "synonymAnalysis": "loisir（复数）vs temps libre：含义相近，loisirs 更强调具体的休闲活动，temps libre 更强调可自由支配的时间本身。",
+            "derivedWords": [],
+            "pluralForm": "loisirs（复数时义为“消遣活动”）"
+        },
+        {
+            "index": "3",
+            "vocabulary": "corps",
+            "partOfSpeech": "n.m.",
+            "definition": "①躯体，身体 ②物体，实体 ③团体，团队",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "corps humain",
+                    "vocabularyCollocationMeaning": "人体"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "garder la forme du corps",
+                    "vocabularyCollocationMeaning": "保持体形"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "corps diplomatique",
+                    "vocabularyCollocationMeaning": "外交使团"
+                }
+            ],
+            "synonymAnalysis": "corps vs physique：corps 指整个身体（含义更广）；physique 作名词指体格、外貌。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "corporel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "身体的，肉体的"
+                }
+            ],
+            "pluralForm": "corps（单复数同形）"
+        },
+        {
+            "index": "4",
+            "vocabulary": "entretenir",
+            "partOfSpeech": "vt.",
+            "definition": "①维护，保养 ②维持，保持 ③养活，供养 ④与……交谈",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entretenir le corps",
+                    "vocabularyCollocationMeaning": "保养身体"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "entretenir des relations",
+                    "vocabularyCollocationMeaning": "维持关系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entretenir qn. de qch.",
+                    "vocabularyCollocationMeaning": "与某人谈某事"
+                }
+            ],
+            "synonymAnalysis": "entretenir vs maintenir：两者均可表示“维持”，entretenir 更强调持续投入的保养维护；maintenir 更强调保持某种状态不变。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "entretien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "维护；面试；交谈"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'entretiens, tu entretiens, il entretient, nous entretenons, vous entretenez, ils entretiennent",
+                "compoundPast": "j'ai entretenu",
+                "simpleFuture": "j'entretiendrai",
+                "memoryAids": "与 tenir 变位完全一致，前缀 entre- 不影响变位规律；类似动词：maintenir, obtenir, retenir。"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "déclarer",
+            "partOfSpeech": "vt.",
+            "definition": "①声明，宣布 ②申报（税务等） ③表白",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "déclarer la guerre",
+                    "vocabularyCollocationMeaning": "宣战"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "déclarer ses revenus",
+                    "vocabularyCollocationMeaning": "申报收入"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "déclarer que + ind.",
+                    "vocabularyCollocationMeaning": "声明……"
+                }
+            ],
+            "synonymAnalysis": "déclarer vs annoncer：déclarer 更正式，强调官方声明或庄重表态；annoncer 更侧重传达消息或预告。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "déclaration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "声明；申报"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "pratiquer",
+            "partOfSpeech": "vt.",
+            "definition": "①从事，参与（运动/职业） ②实践，运用 ③开（口、洞等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pratiquer un sport",
+                    "vocabularyCollocationMeaning": "从事某项运动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pratiquer une langue",
+                    "vocabularyCollocationMeaning": "练习（使用）一门语言"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pratiquer la médecine",
+                    "vocabularyCollocationMeaning": "行医"
+                }
+            ],
+            "synonymAnalysis": "pratiquer un sport vs faire du sport：pratiquer 更正式书面，强调规律性参与；faire du sport 更口语，泛指运动。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pratique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "实践；做法；惯例"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pratiquant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "从事某活动者；教徒"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "pratique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "实用的，方便的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "régulièrement",
+            "partOfSpeech": "adv.",
+            "definition": "①经常地，定期地 ②有规律地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pratiquer régulièrement",
+                    "vocabularyCollocationMeaning": "定期参与"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se réunir régulièrement",
+                    "vocabularyCollocationMeaning": "定期开会"
+                }
+            ],
+            "synonymAnalysis": "régulièrement vs souvent：régulièrement 强调有规律、定期性；souvent 仅表频率高，不强调规律性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "régulier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "规律的，定期的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "régularité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "规律性，定期性"
+                }
+            ],
+            "useExplanation": "副词，修饰动词，通常置于动词之后或句末。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "occasionnellement",
+            "partOfSpeech": "adv.",
+            "definition": "①偶然地，偶尔地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pratiquer occasionnellement",
+                    "vocabularyCollocationMeaning": "偶尔参与"
+                }
+            ],
+            "synonymAnalysis": "occasionnellement vs parfois vs de temps en temps：三者均表“偶尔”，occasionnellement 语体最正式，de temps en temps 最口语，parfois 居中。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "occasionnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "偶尔的，临时的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "occasion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "机会；场合"
+                }
+            ],
+            "useExplanation": "副词，书面语色彩较强，修饰动词，置于动词后。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "diminuer",
+            "partOfSpeech": "vi., vt.",
+            "definition": "①（vi.）减少，降低，下降 ②（vt.）使减少，减小",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "diminuer avec l'âge",
+                    "vocabularyCollocationMeaning": "随年龄增长而减少"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "diminuer le risque",
+                    "vocabularyCollocationMeaning": "降低风险"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les prix diminuent",
+                    "vocabularyCollocationMeaning": "价格下降"
+                }
+            ],
+            "synonymAnalysis": "diminuer vs réduire：diminuer 常用作不及物动词，自然减少；réduire 通常为及物动词，强调主动削减。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "diminution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "减少，降低"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "concerné",
+            "partOfSpeech": "adj.m.",
+            "definition": "①有关的，涉及的 ②关心的，感兴趣的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être concerné par qch.",
+                    "vocabularyCollocationMeaning": "对……感兴趣；与……有关"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les personnes concernées",
+                    "vocabularyCollocationMeaning": "相关人员"
+                }
+            ],
+            "synonymAnalysis": "être concerné par vs s'intéresser à：être concerné par 可表示被动“受到影响/关注”；s'intéresser à 更强调主动“对……感兴趣”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concerner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "涉及，关系到"
+                }
+            ],
+            "genderNumberVariation": "阴性 concernée，阳性复数 concernés，阴性复数 concernées",
+            "position": "通常置于名词之后，或作表语"
+        },
+        {
+            "index": "11",
+            "vocabulary": "club",
+            "partOfSpeech": "n.m.",
+            "definition": "①俱乐部，协会 ②（高尔夫）球杆",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "membre d'un club",
+                    "vocabularyCollocationMeaning": "俱乐部成员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "club sportif",
+                    "vocabularyCollocationMeaning": "体育俱乐部"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "clubs"
+        },
+        {
+            "index": "12",
+            "vocabulary": "compétition",
+            "partOfSpeech": "n.f.",
+            "definition": "①竞赛，比赛 ②竞争",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "participer à une compétition",
+                    "vocabularyCollocationMeaning": "参加比赛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "compétition sportive",
+                    "vocabularyCollocationMeaning": "体育竞赛"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être en compétition avec",
+                    "vocabularyCollocationMeaning": "与……竞争"
+                }
+            ],
+            "synonymAnalysis": "compétition vs concours vs match：compétition 泛指竞技性活动；concours 指通过考试或选拔的竞争（如入学考试）；match 特指球类等对抗性赛事。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compétitif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "竞争性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "compétiteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "竞争者，参赛者"
+                }
+            ],
+            "pluralForm": "compétitions"
+        },
+        {
+            "index": "13",
+            "vocabulary": "compétitif",
+            "partOfSpeech": "adj.m.",
+            "definition": "①竞争的，竞技性的 ②有竞争力的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sport compétitif",
+                    "vocabularyCollocationMeaning": "竞技运动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prix compétitif",
+                    "vocabularyCollocationMeaning": "有竞争力的价格"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 compétitive，阳性复数 compétitifs，阴性复数 compétitives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "14",
+            "vocabulary": "perdre",
+            "partOfSpeech": "vt.",
+            "definition": "①失去，丢失 ②输（比赛） ③浪费（时间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "perdre sa place",
+                    "vocabularyCollocationMeaning": "失去地位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "perdre du temps",
+                    "vocabularyCollocationMeaning": "浪费时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "perdre un match",
+                    "vocabularyCollocationMeaning": "输掉一场比赛"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "perdre patience",
+                    "vocabularyCollocationMeaning": "失去耐心"
+                }
+            ],
+            "synonymAnalysis": "perdre vs manquer：perdre 强调“失去拥有的东西”；manquer 强调“错过/缺失”（manquer un train = 错过火车）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "perte",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "损失；丢失"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "perdant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "失败者，输家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je perds, tu perds, il perd, nous perdons, vous perdez, ils perdent",
+                "compoundPast": "j'ai perdu",
+                "simpleFuture": "je perdrai",
+                "memoryAids": "属于 -dre 结尾不规则动词，第三人称单数不加 -t（il perd，非 *il perdt），与 vendre、rendre 类似。"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "pénible",
+            "partOfSpeech": "adj.",
+            "definition": "①艰难的，繁重的 ②令人痛苦的 ③（口语）令人讨厌的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travail pénible",
+                    "vocabularyCollocationMeaning": "繁重的工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "situation pénible",
+                    "vocabularyCollocationMeaning": "艰难的处境"
+                }
+            ],
+            "synonymAnalysis": "pénible vs difficile vs dur：pénible 更强调令人身心疲惫或痛苦；difficile 强调客观难度；dur 强调艰苦程度，三者有时可互换但侧重不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "péniblement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "费力地，艰难地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "peine",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "痛苦；惩罚；努力"
+                }
+            ],
+            "genderNumberVariation": "复数 pénibles（阴阳性同形，复数加 s）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "16",
+            "vocabulary": "patinage",
+            "partOfSpeech": "n.m.",
+            "definition": "①滑冰（运动）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "patinage artistique",
+                    "vocabularyCollocationMeaning": "花样滑冰"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "patinage de vitesse",
+                    "vocabularyCollocationMeaning": "速度滑冰"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "patiner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "滑冰"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "patineur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "滑冰者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "patinoire",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "溜冰场"
+                }
+            ],
+            "pluralForm": "patinages"
+        },
+        {
+            "index": "17",
+            "vocabulary": "ski",
+            "partOfSpeech": "n.m.",
+            "definition": "①滑雪（运动） ②滑雪板",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du ski",
+                    "vocabularyCollocationMeaning": "去滑雪"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ski de fond",
+                    "vocabularyCollocationMeaning": "越野滑雪"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "station de ski",
+                    "vocabularyCollocationMeaning": "滑雪胜地"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "skier",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "滑雪"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "skieur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "滑雪者"
+                }
+            ],
+            "pluralForm": "skis"
+        },
+        {
+            "index": "18",
+            "vocabulary": "marche",
+            "partOfSpeech": "n.f.",
+            "definition": "①走路，步行 ②行进，行走 ③台阶 ④运转，运行",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire de la marche",
+                    "vocabularyCollocationMeaning": "散步，徒步"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marche à pied",
+                    "vocabularyCollocationMeaning": "步行"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en marche",
+                    "vocabularyCollocationMeaning": "运转中，行进中"
+                }
+            ],
+            "synonymAnalysis": "marche vs promenade：marche 更强调步行本身（运动意义）；promenade 更强调散步的休闲性质。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marcher",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "走路；运转；（口语）行得通"
+                }
+            ],
+            "pluralForm": "marches"
+        },
+        {
+            "index": "19",
+            "vocabulary": "natation",
+            "partOfSpeech": "n.f.",
+            "definition": "①游泳（运动）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire de la natation",
+                    "vocabularyCollocationMeaning": "游泳"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cours de natation",
+                    "vocabularyCollocationMeaning": "游泳课"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nager",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "游泳"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "nageur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "游泳者"
+                }
+            ],
+            "pluralForm": "natations（少用，运动名词多不用复数）"
+        },
+        {
+            "index": "20",
+            "vocabulary": "raquette",
+            "partOfSpeech": "n.f.",
+            "definition": "①球拍 ②雪鞋（雪地行走用）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sports de raquette",
+                    "vocabularyCollocationMeaning": "球拍运动（网球、羽毛球等）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "raquette de tennis",
+                    "vocabularyCollocationMeaning": "网球拍"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "raquettes"
+        },
+        {
+            "index": "21",
+            "vocabulary": "fanatique",
+            "partOfSpeech": "n.",
+            "definition": "①狂热者，崇拜狂 ②（作形容词）狂热的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être fanatique de qch.",
+                    "vocabularyCollocationMeaning": "对……狂热"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fanatique du sport",
+                    "vocabularyCollocationMeaning": "体育狂热者"
+                }
+            ],
+            "synonymAnalysis": "fanatique vs passionné：fanatique 程度更极端，带有盲目崇拜色彩；passionné 指热情、热爱，较为积极中性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fanatisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "狂热，盲信"
+                }
+            ],
+            "pluralForm": "fanatiques"
+        },
+        {
+            "index": "22",
+            "vocabulary": "tennis",
+            "partOfSpeech": "n.m.",
+            "definition": "①网球（运动） ②网球鞋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jouer au tennis",
+                    "vocabularyCollocationMeaning": "打网球"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "court de tennis",
+                    "vocabularyCollocationMeaning": "网球场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "tennis（单复数同形）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "glisse",
+            "partOfSpeech": "n.f.",
+            "definition": "①滑行（运动类别，指所有滑行类运动）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sports de glisse",
+                    "vocabularyCollocationMeaning": "滑行类运动（滑雪、滑板、冲浪等）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "glisser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "滑行；滑倒"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "glissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "光滑的，易滑的"
+                }
+            ],
+            "pluralForm": "glisses"
+        },
+        {
+            "index": "24",
+            "vocabulary": "VTT",
+            "partOfSpeech": "n.m.",
+            "definition": "①山地车（vélo tout terrain 的缩写）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du VTT",
+                    "vocabularyCollocationMeaning": "骑山地车"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "VTT（缩写词单复数同形）"
+        },
+        {
+            "index": "25",
+            "vocabulary": "roller",
+            "partOfSpeech": "n.m.",
+            "definition": "①旱冰鞋，溜冰鞋（直排轮式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du roller",
+                    "vocabularyCollocationMeaning": "溜旱冰"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "rollers"
+        },
+        {
+            "index": "26",
+            "vocabulary": "skate-board",
+            "partOfSpeech": "n.m.",
+            "definition": "①滑板运动 ②滑板",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du skate-board",
+                    "vocabularyCollocationMeaning": "玩滑板"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "skate-boards"
+        },
+        {
+            "index": "27",
+            "vocabulary": "rassembler",
+            "partOfSpeech": "vt.",
+            "definition": "①聚集，集合 ②收集，汇集 ③统一，团结",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rassembler des pratiquants",
+                    "vocabularyCollocationMeaning": "聚集参与者"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rassembler des données",
+                    "vocabularyCollocationMeaning": "汇集数据"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se rassembler",
+                    "vocabularyCollocationMeaning": "聚集（代词式）"
+                }
+            ],
+            "synonymAnalysis": "rassembler vs réunir：两者均可表示“聚集”，rassembler 更强调将分散的人/物汇聚；réunir 更强调将相关人员召集在一起（如开会）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rassemblement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "集会，聚集"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "pratiquant",
+            "partOfSpeech": "n.m.",
+            "definition": "①从事某项活动者，参与者 ②（宗教）教徒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pratiquant de sport",
+                    "vocabularyCollocationMeaning": "体育运动参与者"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pratiquer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "从事，实践"
+                }
+            ],
+            "pluralForm": "pratiquants"
+        },
+        {
+            "index": "29",
+            "vocabulary": "sensation",
+            "partOfSpeech": "n.f.",
+            "definition": "①感觉，感受 ②（强烈的）刺激，震撼 ③轰动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "recherche de sensations",
+                    "vocabularyCollocationMeaning": "追求刺激感"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sensation forte",
+                    "vocabularyCollocationMeaning": "强烈感受"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire sensation",
+                    "vocabularyCollocationMeaning": "引起轰动"
+                }
+            ],
+            "synonymAnalysis": "sensation vs sentiment vs émotion：sensation 指身体或直接的感官感受；sentiment 指持续性的情感（爱、恨等）；émotion 指短暂强烈的情绪反应。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sensationnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "轰动的，极好的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sensible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "敏感的；可感知的"
+                }
+            ],
+            "pluralForm": "sensations"
+        },
+        {
+            "index": "30",
+            "vocabulary": "extrême",
+            "partOfSpeech": "adj.m.",
+            "definition": "①极端的，极度的 ②最远的，末端的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sensations extrêmes",
+                    "vocabularyCollocationMeaning": "极限刺激"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sports extrêmes",
+                    "vocabularyCollocationMeaning": "极限运动"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à l'extrême",
+                    "vocabularyCollocationMeaning": "到极点"
+                }
+            ],
+            "synonymAnalysis": "extrême vs intense：extrême 强调程度达到极限（量的概念）；intense 强调强度高（质的概念）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "extrêmement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "极其，非常"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "extrémité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "末端；极端"
+                }
+            ],
+            "genderNumberVariation": "复数 extrêmes（阴阳性同形）",
+            "position": "可前置也可后置，后置更常见；前置时多为修辞效果"
+        },
+        {
+            "index": "31",
+            "vocabulary": "vertige",
+            "partOfSpeech": "n.m.",
+            "definition": "①眩晕，头晕 ②（比喻）令人眩晕的高度或速度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le vertige",
+                    "vocabularyCollocationMeaning": "感到头晕；恐高"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le plaisir du vertige",
+                    "vocabularyCollocationMeaning": "眩晕感带来的快感"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vertigineux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人眩晕的；极高的"
+                }
+            ],
+            "pluralForm": "vertiges"
+        },
+        {
+            "index": "32",
+            "vocabulary": "créativité",
+            "partOfSpeech": "n.f.",
+            "definition": "①创造性，创造力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire preuve de créativité",
+                    "vocabularyCollocationMeaning": "展现创造力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "stimuler la créativité",
+                    "vocabularyCollocationMeaning": "激发创造力"
+                }
+            ],
+            "synonymAnalysis": "créativité vs imagination：créativité 强调将创意转化为实际成果的能力；imagination 更强调内在的想象力本身。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "créatif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有创造力的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "créer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "创造，创建"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "création",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "创造，创作；作品"
+                }
+            ],
+            "pluralForm": "créativités（少用）"
+        },
+        {
+            "index": "33",
+            "vocabulary": "sujet",
+            "partOfSpeech": "n.m.",
+            "definition": "①主题，话题，课题 ②（语法）主语 ③原因，理由",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sujet de conversation",
+                    "vocabularyCollocationMeaning": "谈话话题"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au sujet de",
+                    "vocabularyCollocationMeaning": "关于，就……而言"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sujet d'examen",
+                    "vocabularyCollocationMeaning": "考题"
+                }
+            ],
+            "synonymAnalysis": "sujet vs thème vs topic：sujet 最通用；thème 更强调中心思想或写作主题；topic（英语借词）偶见于口语。au sujet de 与 à propos de 均表“关于”，可互换。",
+            "derivedWords": [],
+            "pluralForm": "sujets"
+        },
+        {
+            "index": "34",
+            "vocabulary": "conversation",
+            "partOfSpeech": "n.f.",
+            "definition": "①交谈，会话 ②谈话能力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir une conversation",
+                    "vocabularyCollocationMeaning": "进行一次谈话"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sujet de conversation",
+                    "vocabularyCollocationMeaning": "谈话话题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "engager la conversation",
+                    "vocabularyCollocationMeaning": "开始交谈"
+                }
+            ],
+            "synonymAnalysis": "conversation vs discussion vs dialogue：conversation 泛指日常闲谈；discussion 带有争论、商议性质；dialogue 强调双向交流，也用于文学、外交语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "converser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "交谈，闲聊"
+                }
+            ],
+            "pluralForm": "conversations"
+        },
+        {
+            "index": "35",
+            "vocabulary": "consacrer",
+            "partOfSpeech": "vt.",
+            "definition": "①把……用于，将……奉献给 ②使神圣化，祝圣 ③（被动）被确认，被公认",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consacrer du temps à qch.",
+                    "vocabularyCollocationMeaning": "把时间用于某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "consacrer sa vie à",
+                    "vocabularyCollocationMeaning": "将一生奉献给……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "consacrer de l'argent à",
+                    "vocabularyCollocationMeaning": "把钱花在……上"
+                }
+            ],
+            "synonymAnalysis": "consacrer vs dédier vs destiner：consacrer 最常用，可用于时间/金钱/精力；dédier 更正式，多用于作品题献；destiner 强调“注定用于”某目的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "consécration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "奉献；祝圣；（成就的）最终认可"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "36",
+            "vocabulary": "équipement",
+            "partOfSpeech": "n.m.",
+            "definition": "①设备，装备 ②设施（常用复数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "équipement sportif",
+                    "vocabularyCollocationMeaning": "体育装备"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "équipements publics",
+                    "vocabularyCollocationMeaning": "公共设施"
+                }
+            ],
+            "synonymAnalysis": "équipement vs matériel：équipement 更广泛，指各类配备；matériel 更具体，强调物质器材。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "équiper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "装备，配备"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "équipé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "配备好的，装备齐全的"
+                }
+            ],
+            "pluralForm": "équipements"
+        },
+        {
+            "index": "37",
+            "vocabulary": "consommation",
+            "partOfSpeech": "n.f.",
+            "definition": "①消费，消耗 ②（咖啡馆等处点的）饮料",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consommation d'énergie",
+                    "vocabularyCollocationMeaning": "能源消耗"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "société de consommation",
+                    "vocabularyCollocationMeaning": "消费社会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre une consommation",
+                    "vocabularyCollocationMeaning": "点一杯饮料"
+                }
+            ],
+            "synonymAnalysis": "consommation vs dépense：consommation 强调消耗/使用过程；dépense 强调金钱支出。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "consommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "消费，消耗；食用"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "consommateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "消费者"
+                }
+            ],
+            "pluralForm": "consommations"
+        },
+        {
+            "index": "38",
+            "vocabulary": "mobilier",
+            "partOfSpeech": "n.m.",
+            "definition": "①家具（总称） ②动产（法律术语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "marché du mobilier",
+                    "vocabularyCollocationMeaning": "家具市场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mobilier de bureau",
+                    "vocabularyCollocationMeaning": "办公家具"
+                }
+            ],
+            "synonymAnalysis": "mobilier vs meubles：mobilier 为总称（集合名词，不可数）；meubles 指具体的家具件（可数复数）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "meuble",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（一件）家具"
+                }
+            ],
+            "pluralForm": "mobiliers（少用，多为不可数）"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Notre société évolue très largement vers les loisirs, et le sport y trouve une place de plus en plus importante. Les Français se sont rendu compte que le corps était aussi une machine et qu'il était nécessaire de l'entretenir. Ainsi, 68% des Français déclarent pratiquer au moins un sport. Les activités sportives de type compétitif perdent de plus en plus leur place, parce que les Français préfèrent des activités moins pénibles. Les ménages français consacrent en moyenne 360 euros par an à leur équipement sportif.",
+            "chineseTranslation": "我们的社会正大幅度地向休闲方向演变，体育运动在其中占据着越来越重要的位置。法国人已经意识到，身体也是一台机器，需要加以保养。因此，68%的法国人表示至少参与一项体育运动。竞技类体育活动正逐渐失去其地位，因为法国人更偏爱那些不那么辛苦的活动。法国家庭平均每年在体育装备上花费360欧元。",
+            "fr2cnStrategy": "① évolue vers les loisirs 直译为“向休闲演变”，为避免生硬，调整为“向休闲方向演变”，属语序微调；② se sont rendu compte que 固定短语译为“已经意识到”，后接宾语从句；③ il était nécessaire de l'entretenir 非人称结构转译为主动语态“需要加以保养”，属词性/句式转换；④ Ainsi 作逻辑衔接词，译为“因此”，属增译（显化逻辑关系）；⑤ perdent de plus en plus leur place 译为“逐渐失去其地位”，以“逐渐”替代“越来越”，更符合中文搭配；⑥ consacrent... à 译为“花费……在……上”，将法语 consacrer 的“奉献”义转换为中文更自然的“花费”，属词性/语义转换。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "越来越多的法国人意识到保持身体健康的必要性。",
+                "frenchTranslation": "De plus en plus de Français se rendent compte de la nécessité de maintenir une bonne santé.",
+                "cn2frStrategy": "① “越来越多的”译为 de plus en plus de + 名词，注意 de plus en plus de 后直接接名词，不加冠词；② “意识到……的必要性”用 se rendre compte de + 名词（la nécessité de...），注意后接名词时用 de，接从句时用 que；③ “保持身体健康”译为 maintenir une bonne santé，maintenir 比 garder 更正式。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "竞技运动越来越不受法国人欢迎，他们更喜欢滑冰、游泳等娱乐性运动。",
+                "frenchTranslation": "Les sports compétitifs perdent de plus en plus leur popularité en France. Les Français préfèrent des activités de loisir comme le patinage ou la natation.",
+                "cn2frStrategy": "① “越来越不受欢迎”译为 perdre de plus en plus leur popularité，避免直译为 *de moins en moins populaires（虽可用，但此处用动词短语更地道）；② “更喜欢”用 préférer + 名词，直接接宾语，无介词；③ “如……等”用 comme + 名词列举；④ 中文长句拆分为两个法语短句，符合拆句翻译策略。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "如果能在城市里骑山地车，法国年轻人也会很感兴趣的。",
+                "frenchTranslation": "Si c'était possible de faire du VTT en ville, les jeunes Français y seraient aussi intéressés.",
+                "cn2frStrategy": "① “如果……的话”为与现实相反的假设，使用第二类条件句：si 从句用未完成过去时（c'était），主句用条件式现在时（seraient）；② “骑山地车”译为 faire du VTT，faire de + 交通/运动工具为固定结构；③ “也会感兴趣”用 être intéressé par，此处 y 代替 par le VTT en ville，避免重复；④ “年轻人”加定冠词 les jeunes Français，明确指法国年轻人群体。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "法国家庭平均每年将一大笔钱用于购置体育和休闲用品。",
+                "frenchTranslation": "Les ménages français consacrent en moyenne chaque année une somme importante à l'achat d'articles de sport et de loisir.",
+                "cn2frStrategy": "① “将……用于”用 consacrer qch. à qch. 固定结构，介词固定为 à；② “平均每年”译为 en moyenne chaque année，副词短语 en moyenne 修饰动词；③ “一大笔钱”译为 une somme importante，somme 为阴性名词，形容词后置；④ “购置”转译为 à l'achat de，将中文动词转换为法语名词短语，属词性转换；⑤ “体育和休闲用品”译为 articles de sport et de loisir，与课文原文保持一致。"
+            }
+        ]
+    }
+}
