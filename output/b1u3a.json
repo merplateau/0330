@@ -1,0 +1,825 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "La place de la Bastille, s'il vous plaît?",
+            "translatedSentence": "请问去巴士底广场怎么走？",
+            "sentenceStructure": "省略句。完整形式为 Pouvez-vous m'indiquer la place de la Bastille, s'il vous plaît? 这里省略了动词，直接用名词短语 La place de la Bastille 提出询问，s'il vous plaît 为礼貌附加语。",
+            "grammarAnalysis": "① 省略疑问句：法语口语中常省略动词，直接说出问询对象。② s'il vous plaît 是固定礼貌用语，字面义为「如果您愿意的话」，实用为「请」；用 vous 表示正式/尊称。③ 名词性问路表达：[地名], s'il vous plaît? 是问路的最简洁句型。",
+            "commonMistakes": "① 易将 s'il vous plaît 误写为 s'il te plaît（后者为 tu 的非正式形式，向陌生人问路应用 vous）。② 注意 place 是阴性名词，前面冠词用 la。"
+        },
+        {
+            "index": "2",
+            "sentence": "Vous allez tout droit.",
+            "translatedSentence": "您一直向前走。",
+            "sentenceStructure": "主语 Vous — 谓语 allez — 方式状语 tout droit。",
+            "grammarAnalysis": "① aller + 方向副词：用现在时表示当下的指路指令，口语中比命令式更常见、更礼貌。② tout droit：tout 此处修饰副词 droit，表「笔直地，一直向前」，tout 作副词用，不变性数。",
+            "commonMistakes": "① tout droit 中的 tout 是副词修饰 droit，不是形容词，因此不做性数变化。② 区分 droit (adv. 笔直地) 与 droite (n.f./adj. 右边/右的)，两者形态相近，含义不同。"
+        },
+        {
+            "index": "3",
+            "sentence": "Oui, puis vous prenez la première rue à gauche.",
+            "translatedSentence": "是的，然后您走第一条向左的街道。",
+            "sentenceStructure": "主语 vous — 谓语 prenez — 宾语 la première rue — 后置修饰语 à gauche；puis 为连接副词，位于句首表顺序。",
+            "grammarAnalysis": "① puis 连接两个连续动作，语义为「然后」，与 ensuite 近义，但 puis 更口语化。② prendre + rue/avenue：固定搭配，意为「走某条路」。③ premier/première 作序数形容词，前置修饰名词，此处 rue 为阴性，故用 première。④ à gauche / à droite：方位介词短语，固定用法。",
+            "commonMistakes": "① premier 的阴性形式 première 易被遗忘，需注意性数配合。② 区分 puis（然后，副词）与 puits（水井，名词），发音相同但拼写不同。"
+        },
+        {
+            "index": "4",
+            "sentence": "Vous allez tout droit et puis vous tournez à droite.",
+            "translatedSentence": "您一直向前走，然后右转。",
+            "sentenceStructure": "两个并列分句由 et puis 连接：① Vous allez tout droit ② vous tournez à droite。",
+            "grammarAnalysis": "① et puis 为加强语气的并列连接词组，比单独的 puis 更口语化、更自然。② tourner à droite/à gauche：固定搭配「右转/左转」，是指路场景高频表达。③ 两个动词均用现在时（allez, tournez），在口语指路中以现在时替代命令式，语气更友好。",
+            "commonMistakes": "① tourner à droite（右转）vs aller à droite（往右走）：两者意思相近，但 tourner 强调「转弯」这一动作。② 勿混淆 droite（右边）与 droit（笔直），虽然字形相近但词性和用法不同。"
+        },
+        {
+            "index": "5",
+            "sentence": "En voiture ou à pied?",
+            "translatedSentence": "乘车还是步行？",
+            "sentenceStructure": "省略疑问句，完整形式为 Vous y allez en voiture ou à pied? 省略了主语和谓语，保留两个方式状语短语。",
+            "grammarAnalysis": "① en voiture：交通方式介词短语，用 en 表示「乘坐（交通工具）」，后接交通工具名词（不加冠词）。② à pied：固定短语「步行」，用介词 à，注意不用 en。③ ou 为选择连词，连接两个并列选项。",
+            "commonMistakes": "① 交通方式的介词：乘坐有引擎的交通工具用 en（en voiture, en bus, en avion），步行、骑自行车用 à（à pied, à vélo）。② à pied 是固定短语，不可加冠词，不可说 *à le pied。"
+        },
+        {
+            "index": "6",
+            "sentence": "Quinze minutes à pied.",
+            "translatedSentence": "步行十五分钟。",
+            "sentenceStructure": "省略句，完整形式为 C'est à quinze minutes à pied. 或 Il faut quinze minutes à pied.，省略了主语和谓语。",
+            "grammarAnalysis": "① 用数字 + 名词 + 方式短语表达时间/距离，是法语口语中常见的简洁表达。② quinze 为数词「十五」，minute 为阴性名词，复数加 s：quinze minutes。③ à pied 作方式状语。",
+            "commonMistakes": "① minute 是阴性名词（n.f.），复数形式 minutes（+s）。② 数量表达中的名词要注意单复数，1 用单数：une minute，2 及以上用复数：deux minutes。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "s'il vous plaît",
+            "meaning": "请（正式/尊称）",
+            "usage": "固定礼貌用语，用于向成年陌生人、长辈、上级提出请求。对应 tu 的非正式形式为 s'il te plaît。常置于句末，有时置于句首。",
+            "exampleSentence": "La place de la Bastille, s'il vous plaît?"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "aller tout droit",
+            "meaning": "一直向前走，直行",
+            "usage": "指路常用表达，tout 修饰 droit 作副词，不变性数。口语中也可直接说 Tout droit! 省略动词。",
+            "exampleSentence": "Vous allez tout droit."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "prendre la rue / l'avenue",
+            "meaning": "走某条路/大道",
+            "usage": "prendre + 交通路线/方向，表示「沿着……走」。也可用于 prendre le bus（乘公交车）、prendre le métro（乘地铁）。",
+            "exampleSentence": "vous prenez la première rue à gauche"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "tourner à gauche / à droite",
+            "meaning": "左转 / 右转",
+            "usage": "指路核心表达，tourner + à gauche/à droite。也可说 prendre à gauche/à droite，意思相近。",
+            "exampleSentence": "vous tournez à droite"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "à gauche / à droite",
+            "meaning": "在左边 / 在右边；向左 / 向右",
+            "usage": "方位介词短语，作状语时表方向或位置。前置定冠词变为 la gauche / la droite（名词用法）。",
+            "exampleSentence": "vous prenez la première rue à gauche"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "en voiture",
+            "meaning": "乘车，坐车",
+            "usage": "交通方式短语，en + 无冠词交通工具名词。适用于有引擎的交通工具：en bus, en train, en avion, en métro 等。",
+            "exampleSentence": "En voiture ou à pied?"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "à pied",
+            "meaning": "步行，徒步",
+            "usage": "固定短语，介词 à + pied，不加冠词。与 à vélo（骑自行车）同类，表示非机动出行方式。",
+            "exampleSentence": "Quinze minutes à pied."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "Attention à / aux + nom",
+            "meaning": "注意……，小心……",
+            "usage": "警示用语，à 后接名词（aux = à + les）。口语中可直接说 Attention! 后接名词时注意冠词缩合。",
+            "exampleSentence": "Attention aux voitures!"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "encore une fois",
+            "meaning": "再一次，又一次",
+            "usage": "副词短语，encore 表「还，再」，une fois 表「一次」。与 de nouveau（重新，再次）近义但更口语化。",
+            "exampleSentence": "Merci encore une fois, madame."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "Je vous en prie",
+            "meaning": "不客气（正式）",
+            "usage": "正式礼貌回应语，用于回答 Merci。非正式场合可用 De rien。注意 vous 对应正式对象，tu 的形式为 Je t'en prie。",
+            "exampleSentence": "Je vous en prie, monsieur."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "Où est + lieu?",
+            "meaning": "……在哪里？",
+            "usage": "问路/问位置的基本句型，est 为 être 的现在时第三人称单数，后接地点名词。也可用 Où se trouve + lieu?（更正式）。",
+            "exampleSentence": "Où est l'Avenue d'Italie?"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "C'est loin?",
+            "meaning": "远吗？",
+            "usage": "以 c'est + 形容词 构成的简单疑问句，loin 作表语。回应通常为 Non, c'est près. 或直接说距离时间。",
+            "exampleSentence": "C'est loin?"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "place",
+            "partOfSpeech": "n.f.",
+            "definition": "①广场 ②地方，位置 ③座位",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la place de la Bastille",
+                    "vocabularyCollocationMeaning": "巴士底广场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur la place",
+                    "vocabularyCollocationMeaning": "在广场上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à la place de",
+                    "vocabularyCollocationMeaning": "代替，取代"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "prendre place",
+                    "vocabularyCollocationMeaning": "就座，入座"
+                }
+            ],
+            "synonymAnalysis": "place（广场/位置）vs lieu（地点/场所）：place 更具体，指有形的物理空间如广场或座位；lieu 更抽象，泛指「地方、场合」，书面语中更常见。",
+            "derivedWords": [],
+            "pluralForm": "places"
+        },
+        {
+            "index": "2",
+            "vocabulary": "tout",
+            "partOfSpeech": "adj.",
+            "definition": "①全部的，所有的 ②整个的，整体的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tout le monde",
+                    "vocabularyCollocationMeaning": "所有人，大家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tous les jours",
+                    "vocabularyCollocationMeaning": "每天"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tout droit",
+                    "vocabularyCollocationMeaning": "一直向前，笔直地"
+                }
+            ],
+            "synonymAnalysis": "tout 多义：① 作形容词，修饰名词，表「全部」；② 作副词，修饰形容词或另一副词，表「完全，非常」（如 tout droit, tout seul）；副词用法时一般不变性数，但修饰以辅音开头的阴性形容词时例外（toute petite）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tous",
+                    "derivedWordPartOfSpeech": "pron.",
+                    "derivedWordMeaning": "所有人（阳性复数代词形式）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "toutes",
+                    "derivedWordPartOfSpeech": "pron.",
+                    "derivedWordMeaning": "所有（阴性复数代词形式）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "tout à fait",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "完全，确实"
+                }
+            ],
+            "genderNumberVariation": "阳性单数 tout，阴性单数 toute，阳性复数 tous，阴性复数 toutes",
+            "position": "通常前置于名词（tout le temps）；作副词时前置于被修饰的形容词或副词（tout droit）",
+            "useExplanation": "tout 作副词修饰形容词时理论上不变，但修饰以辅音或送气 h 开头的阴性形容词时变为 toute：elle est toute petite（比较：il est tout petit）"
+        },
+        {
+            "index": "3",
+            "vocabulary": "droit",
+            "partOfSpeech": "adv.",
+            "definition": "笔直地，径直地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tout droit",
+                    "vocabularyCollocationMeaning": "一直向前，笔直地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller droit au but",
+                    "vocabularyCollocationMeaning": "直奔主题"
+                }
+            ],
+            "synonymAnalysis": "droit（副词「笔直地」）vs droite（名词/形容词「右边/右的」）：两者字形相近，注意区分。droit 还可作形容词表「直的，正直的」，以及名词（le droit）表「法律，权利」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "droite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "右边；右派"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "le droit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "权利；法律，法学"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "droiture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "正直，诚实"
+                }
+            ],
+            "useExplanation": "droit 作副词时不变性数（allez droit）；作形容词时有性数变化：droit（阳性）/ droite（阴性）；常见固定短语 tout droit 中 tout 是副词修饰 droit，整体表「笔直向前」"
+        },
+        {
+            "index": "4",
+            "vocabulary": "puis",
+            "partOfSpeech": "adv.",
+            "definition": "①然后，接着 ②此外，再说",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "et puis",
+                    "vocabularyCollocationMeaning": "然后，接着（口语加强语气）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "d'abord... puis...",
+                    "vocabularyCollocationMeaning": "首先……然后……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "puis après",
+                    "vocabularyCollocationMeaning": "然后之后（口语）"
+                }
+            ],
+            "synonymAnalysis": "puis vs ensuite vs après：三者均表「然后」。puis 最口语化，常连接连续动作；ensuite 比 puis 稍正式；après 侧重时间先后（之后），可作介词（après le dîner）。",
+            "derivedWords": [],
+            "useExplanation": "puis 通常置于句首作连接副词，也可插入句中。注意与同音词 puits（n.m. 水井）区分，虽发音相同但拼写和意思完全不同。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "prendre",
+            "partOfSpeech": "vt.",
+            "definition": "①拿，取 ②乘坐（车、船等交通工具）③走（某条路）④吃，喝",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre le bus / le métro / le train",
+                    "vocabularyCollocationMeaning": "乘公交/地铁/火车"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre la rue / l'avenue",
+                    "vocabularyCollocationMeaning": "走某条街/大道"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre un repas",
+                    "vocabularyCollocationMeaning": "用餐"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "prendre une décision",
+                    "vocabularyCollocationMeaning": "做决定"
+                },
+                {
+                    "index": "5",
+                    "vocabularyCollocation": "prendre froid",
+                    "vocabularyCollocationMeaning": "着凉，感冒"
+                }
+            ],
+            "synonymAnalysis": "prendre vs saisir：prendre 泛指「拿取」，语义范围广；saisir 强调「抓住」，动作更迅速有力。prendre 还有「乘坐」义，不可替换为 saisir。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "学习；了解到"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "comprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "理解；包括"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "reprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "重新开始；拿回"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "surprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使惊讶；撞见"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent",
+                "compoundPast": "j'ai pris（过去分词 pris）",
+                "simpleFuture": "je prendrai, tu prendras, il prendra, nous prendrons, vous prendrez, ils prendront",
+                "imperfect": "je prenais（词干 pren-，规则）",
+                "presentSubjunctive": "que je prenne, que tu prennes, qu'il prenne, que nous prenions, que vous preniez, qu'ils prennent",
+                "memoryAids": "① 单数三个人称词尾 -ds, -ds, -d（注意第三人称单数 prend 无 -s）；② 第三人称复数 prennent 有双写 n；③ apprendre、comprendre、surprendre 等同类动词变位完全一致。"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "premier",
+            "partOfSpeech": "adj.",
+            "definition": "①第一的，首位的 ②最初的，最先的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la première fois",
+                    "vocabularyCollocationMeaning": "第一次"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le premier étage",
+                    "vocabularyCollocationMeaning": "二楼（法语一楼为 rez-de-chaussée）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en premier",
+                    "vocabularyCollocationMeaning": "首先，第一"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "Premier ministre",
+                    "vocabularyCollocationMeaning": "总理，首相"
+                }
+            ],
+            "synonymAnalysis": "premier（序数，第一）不可与 un/une（基数，一）混用。前置名词作序数形容词；也可作名词 le premier / la première（第一个人/第一件事）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "premièrement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "第一，首先"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "première",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "首映式；高中最后一年（相当于高二）"
+                }
+            ],
+            "genderNumberVariation": "阳性单数 premier，阴性单数 première，阳性复数 premiers，阴性复数 premières",
+            "position": "通常前置于名词：la première rue, le premier jour"
+        },
+        {
+            "index": "7",
+            "vocabulary": "gauche",
+            "partOfSpeech": "adj.",
+            "definition": "①左的，左边的 ②笨拙的，不灵活的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à gauche",
+                    "vocabularyCollocationMeaning": "在左边；向左"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur la gauche",
+                    "vocabularyCollocationMeaning": "在左侧"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tourner à gauche",
+                    "vocabularyCollocationMeaning": "向左转"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "la rive gauche",
+                    "vocabularyCollocationMeaning": "（塞纳河）左岸"
+                }
+            ],
+            "synonymAnalysis": "gauche 有两个主要义项：① 左边的（与 droit/droite 相对）；② 笨拙的，不灵活的（如 il est très gauche dans ses mouvements 他动作很笨拙）。注意区分两种语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "la gauche",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "左边；（政治）左派"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gauchement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "笨拙地"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 gauche，复数 gauches",
+            "position": "作方位形容词时后置：la main gauche；固定短语 à gauche 单独使用"
+        },
+        {
+            "index": "8",
+            "vocabulary": "encore",
+            "partOfSpeech": "adv.",
+            "definition": "①还，仍然 ②再，又 ③甚至，而且（用于加强语气）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "encore une fois",
+                    "vocabularyCollocationMeaning": "再一次"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pas encore",
+                    "vocabularyCollocationMeaning": "还没（有）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "encore plus",
+                    "vocabularyCollocationMeaning": "更加，还要……"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "encore du pain",
+                    "vocabularyCollocationMeaning": "再来一些面包"
+                }
+            ],
+            "synonymAnalysis": "encore（还/再）vs toujours（总是/仍然）：toujours 侧重持续状态（il travaille toujours 他一直在工作）；encore 侧重「仍处于某状态」或「重复一次」（il travaille encore 他还在工作 / encore une fois 再一次）。",
+            "derivedWords": [],
+            "useExplanation": "encore 置于动词后作状语，或置于形容词/副词前加强比较（encore plus grand 更大）；否定结构 pas encore 表「尚未」，是高频考点"
+        },
+        {
+            "index": "9",
+            "vocabulary": "mademoiselle",
+            "partOfSpeech": "n.f.",
+            "definition": "①小姐（对未婚女性的称呼）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Bonjour, mademoiselle.",
+                    "vocabularyCollocationMeaning": "你好，小姐。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Mademoiselle Dupont",
+                    "vocabularyCollocationMeaning": "杜邦小姐"
+                }
+            ],
+            "synonymAnalysis": "mademoiselle（小姐，未婚）vs madame（夫人/女士，已婚或不明婚姻状况）：在当代法国，正式场合和官方文件中已趋向统一使用 madame 称呼成年女性，mademoiselle 逐渐减少使用。缩写：Mlle（mademoiselle），Mme（madame）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mesdemoiselles",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "小姐们（mademoiselle 的复数）"
+                }
+            ],
+            "pluralForm": "mesdemoiselles"
+        },
+        {
+            "index": "10",
+            "vocabulary": "que",
+            "partOfSpeech": "pron.",
+            "definition": "①什么（疑问代词）②关系代词，引导关系从句（先行词为直接宾语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Qu'est-ce que c'est?",
+                    "vocabularyCollocationMeaning": "这是什么？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Qu'est-ce que vous faites?",
+                    "vocabularyCollocationMeaning": "您在做什么？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ce que",
+                    "vocabularyCollocationMeaning": "……的事/物（关系代词，先行词为物）"
+                }
+            ],
+            "synonymAnalysis": "疑问代词 que/quoi/qu'est-ce que 区别：① que 作宾语，用于正式倒装疑问句（Que faites-vous?）；② qu'est-ce que 作宾语，用于口语非倒装疑问句（Qu'est-ce que vous faites?）；③ quoi 用于句末强调或介词后（De quoi parlez-vous?）。",
+            "derivedWords": [],
+            "useExplanation": "Qu'est-ce que c'est? 是固定问句结构，字面义「这是什么东西？」，用于询问不认识的事物。在 e 脱落规则下，que 在元音前缩写为 qu'。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "avenue",
+            "partOfSpeech": "n.f.",
+            "definition": "①林荫大道，宽阔街道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'Avenue des Champs-Élysées",
+                    "vocabularyCollocationMeaning": "香榭丽舍大街"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'Avenue d'Italie",
+                    "vocabularyCollocationMeaning": "意大利大道"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "habiter avenue Victor Hugo",
+                    "vocabularyCollocationMeaning": "住在维克多·雨果大道"
+                }
+            ],
+            "synonymAnalysis": "avenue（林荫大道）vs rue（街道）vs boulevard（大街/环城大道）：三者均指道路，avenue 通常较宽，两旁植树；rue 泛指一般街道；boulevard 多指宽阔的环城大道或主干道。",
+            "derivedWords": [],
+            "pluralForm": "avenues"
+        },
+        {
+            "index": "12",
+            "vocabulary": "tourner",
+            "partOfSpeech": "vi.",
+            "definition": "①拐弯，转向 ②旋转，转动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tourner à gauche / à droite",
+                    "vocabularyCollocationMeaning": "左转 / 右转"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tourner autour de",
+                    "vocabularyCollocationMeaning": "围绕……转"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tourner un film",
+                    "vocabularyCollocationMeaning": "拍电影（作及物动词）"
+                }
+            ],
+            "synonymAnalysis": "tourner à droite（转弯）vs prendre à droite（走向右边）：两者在指路中近义可互换，但 tourner 更强调「做出转弯动作」，prendre 更强调「选择这条方向/路线」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tour",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "转，圈；旅游（faire le tour）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tournant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "转弯处；转折点"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "retourner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "返回，回去"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "droite",
+            "partOfSpeech": "adj.",
+            "definition": "①右的，右边的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à droite",
+                    "vocabularyCollocationMeaning": "在右边；向右"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur la droite",
+                    "vocabularyCollocationMeaning": "在右侧"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tourner à droite",
+                    "vocabularyCollocationMeaning": "向右转"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "la rive droite",
+                    "vocabularyCollocationMeaning": "（塞纳河）右岸"
+                }
+            ],
+            "synonymAnalysis": "droite（右边，名词/形容词）vs droit（笔直，副词）：两者字形相近，droit 作副词（aller tout droit 一直走），droite 作名词（à droite 在右边）。注意区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "la droite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "右边；（政治）右派"
+                }
+            ],
+            "genderNumberVariation": "阳性 droit，阴性 droite，阳性复数 droits，阴性复数 droites",
+            "position": "作方位形容词时后置：la main droite；固定短语 à droite 单独使用"
+        },
+        {
+            "index": "14",
+            "vocabulary": "loin",
+            "partOfSpeech": "adv.",
+            "definition": "①远，远处 ②很久以前（表时间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est loin?",
+                    "vocabularyCollocationMeaning": "远吗？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "loin de + lieu",
+                    "vocabularyCollocationMeaning": "离……远"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de loin",
+                    "vocabularyCollocationMeaning": "从远处；远远地"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "au loin",
+                    "vocabularyCollocationMeaning": "在远处"
+                }
+            ],
+            "synonymAnalysis": "loin（远）vs près（近）：两者互为反义，均作副词用。loin de 和 près de 作介词短语接名词（loin de Paris 离巴黎远；près de la gare 靠近车站）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lointain",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "遥远的；久远的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "éloigné",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "远离的，偏远的"
+                }
+            ],
+            "useExplanation": "loin 单独作副词（c'est loin 很远）；接名词时用 loin de（loin d'ici 离这里远）；注意不可说 *loin à。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "ou",
+            "partOfSpeech": "conj.",
+            "definition": "①或者，还是（选择连词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "A ou B",
+                    "vocabularyCollocationMeaning": "A 或 B（二选一）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ou bien",
+                    "vocabularyCollocationMeaning": "或者，要不然（加强语气）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "soit... soit...",
+                    "vocabularyCollocationMeaning": "要么……要么……（强调互斥选择）"
+                }
+            ],
+            "synonymAnalysis": "ou（或者）vs où（在哪里）：两个词发音完全相同，但 ou 是连词，où 是疑问副词/关系副词，是法语中最常见的拼写混淆点之一。记忆技巧：带重音符号的 où 表「哪里」（where）。",
+            "derivedWords": [],
+            "useExplanation": "ou 连接两个并列成分，表选择关系；加强形式 ou bien 语气更强；注意与同音词 où（哪里）严格区分拼写。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "pied",
+            "partOfSpeech": "n.m.",
+            "definition": "①脚 ②（物体的）底部，脚部 ③英尺（长度单位）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à pied",
+                    "vocabularyCollocationMeaning": "步行，徒步"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au pied de",
+                    "vocabularyCollocationMeaning": "在……脚下，在……底部"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de pied en cap",
+                    "vocabularyCollocationMeaning": "从头到脚"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "mettre les pieds",
+                    "vocabularyCollocationMeaning": "踏入，涉足"
+                }
+            ],
+            "synonymAnalysis": "pied（脚，人体部位）是基础词；固定短语 à pied 表「步行」，注意此处不加冠词，不可说 *avec le pied。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "piéton",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "行人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "piétonnier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "步行的（zone piétonnière 步行区）"
+                }
+            ],
+            "pluralForm": "pieds"
+        },
+        {
+            "index": "17",
+            "vocabulary": "minute",
+            "partOfSpeech": "n.f.",
+            "definition": "①分，分钟 ②片刻，瞬间",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quinze minutes à pied",
+                    "vocabularyCollocationMeaning": "步行十五分钟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attendre une minute",
+                    "vocabularyCollocationMeaning": "等一分钟"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans cinq minutes",
+                    "vocabularyCollocationMeaning": "五分钟后"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à la minute",
+                    "vocabularyCollocationMeaning": "立刻，马上（口语）"
+                }
+            ],
+            "synonymAnalysis": "minute（分钟）vs instant（瞬间）vs moment（时刻/一会儿）：minute 是精确时间单位；instant 强调极短时间（un instant 片刻）；moment 更泛指某一时间段。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "minutieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "一丝不苟的，细致入微的"
+                }
+            ],
+            "pluralForm": "minutes"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Excusez-moi, madame. La place de la Bastille, s'il vous plaît? Vous allez tout droit, puis vous prenez la première rue à gauche. C'est loin? Non, c'est à quinze minutes à pied. Merci encore une fois, madame. Je vous en prie, monsieur. Attention aux voitures!",
+            "chineseTranslation": "打扰一下，女士。请问去巴士底广场怎么走？您一直向前走，然后走第一条向左的街。远吗？不远，步行十五分钟。非常感谢，女士。不客气，先生。注意车辆！",
+            "fr2cnStrategy": "① La place de la Bastille, s'il vous plaît? 是省略句，翻译时补充「请问去……怎么走」，属于增译；② tout droit 字面是「笔直地」，译为「一直向前走」更符合中文习惯，属于意译；③ la première rue à gauche 直译是「左边第一条街」，调整为「第一条向左的街」更自然；④ C'est à quinze minutes à pied 省略了主语和系动词，译为「步行十五分钟」，属于减译；⑤ encore une fois 结合 Merci 译为「非常感谢」（意译加强语气）更自然；⑥ Attention aux voitures 警示语，aux = à + les，译为「注意车辆」。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "请问去先贤祠怎么走？您一直向前走，然后在第一个路口右转。",
+                "frenchTranslation": "Le Panthéon, s'il vous plaît? Vous allez tout droit, puis vous tournez à droite au premier carrefour.",
+                "cn2frStrategy": "①「请问去……怎么走」用省略句 [地名] + s'il vous plaît? 是问路最地道的表达；②「一直向前走」用 aller tout droit，注意 tout 作副词不变性数；③「然后」用 puis 连接两个连续动作；④「在第一个路口」译为 au premier carrefour，premier 前置序数形容词，阳性形式，au = à + le。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "乘车还是步行？步行大约十分钟。",
+                "frenchTranslation": "En voiture ou à pied? C'est à environ dix minutes à pied.",
+                "cn2frStrategy": "①「乘车还是步行」直接用 En voiture ou à pied? 省略句，口语地道；②「大约」译为 environ（副词），置于数量词前；③ 表达距离/时间用 C'est à + 时间 + 方式，是固定句型；④ 注意 à pied 不加冠词，这是固定搭配。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "您好，先生。意大利大道在哪里？您向左转，然后一直走就到了。",
+                "frenchTranslation": "Bonjour, monsieur. Où est l'Avenue d'Italie? Vous tournez à gauche, puis vous allez tout droit.",
+                "cn2frStrategy": "①「在哪里」用 Où est + [地名]? 是位置疑问句的基本句型；② Avenue 是阴性名词，定冠词用 l'（元音前缩写）；③「就到了」在法语口语中通常省略，直接给出方向指令即可；④ 两个连续动作用 puis 连接，保持指路节奏感。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "非常感谢，小姐！不客气，先生，注意来往的车辆！",
+                "frenchTranslation": "Merci encore une fois, mademoiselle! Je vous en prie, monsieur. Attention aux voitures!",
+                "cn2frStrategy": "①「非常感谢」用 Merci encore une fois，encore une fois 强调感谢之情；②「不客气」正式场合用 Je vous en prie（en 为中性代词，指代感谢这件事），非正式可用 De rien；③「注意来往的车辆」用 Attention aux voitures，aux = à + les，表对一类事物的整体警示；④ 注意对未婚女性用 mademoiselle，对成年男性用 monsieur。"
+            }
+        ]
+    }
+}

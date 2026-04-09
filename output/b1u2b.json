@@ -1,0 +1,750 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Je suis en retard?",
+            "translatedSentence": "我迟到了吗？",
+            "sentenceStructure": "主语 je — 系动词 suis — 表语 en retard，省略了疑问倒装，用升调构成疑问句。",
+            "grammarAnalysis": "① être en retard 是固定表达，表示“迟到”。② 法语口语中常用升调代替疑问倒装构成一般疑问句，句末标问号。",
+            "commonMistakes": "学生易将 en retard 与 tard（晚、迟）混淆，注意 en retard 是固定短语，而 tard 是副词单独使用，如 Il est rentré tard.（他回来得很晚。）"
+        },
+        {
+                "index": 2,
+                "sentence": "Il est huit heures et demie maintenant.",
+                "translatedSentence": "现在是八点半。",
+                "sentenceStructure": "无人称主语 il — 系动词 est — 表语 huit heures et demie — 时间状语 maintenant。",
+                "grammarAnalysis": "① 报时用无人称结构 Il est + 时间。② et demie 表示“半小时”，demie 为 demi 的阴性形式（因为 heure 是阴性名词），须加 -e。③ maintenant 为时间副词，修饰整个句子。",
+                "commonMistakes": "① demi 在 et demi(e) 结构中性数随前面名词变化：et demie（heure 阴性），et demi（quart d'heure 不常用此结构）。② 学生易写成 demi 而忘记加 -e。"
+            },
+            {
+                "index": 3,
+                "sentence": "Ce n'est pas grave.",
+                "translatedSentence": "没关系。",
+                "sentenceStructure": "指示代词主语 ce — 否定结构 n'est pas — 表语 grave。",
+                "grammarAnalysis": "① ce 作无人称主语，与 être 连用，等同于 c'est 的否定形式。② ne...pas 构成否定，动词 est 前后分别置 ne 和 pas。③ grave 为形容词，作表语。",
+                "commonMistakes": "学生易忘记否定结构中 ne 的位置，或将 ce 与 il 混用——此处不可用 Il n'est pas grave（语法上也可，但 C'est/Ce n'est pas 是更地道的口语表达）。"
+            },
+            {
+                "index": 4,
+                "sentence": "Il est temps d'entrer au cinéma.",
+                "translatedSentence": "该进电影院了。",
+                "sentenceStructure": "无人称主语 il — 系动词 est — 表语 temps — 不定式补语 d'entrer au cinéma。",
+                "grammarAnalysis": "① Il est temps de + inf. 是固定句型，表示“是做某事的时候了”。② de 后接动词原形构成不定式结构。③ entrer au cinéma 中 au 是 à + le 的缩合形式。",
+                "commonMistakes": "① 介词易错：Il est temps de（不是 pour 或 à）。② entrer 后接 au/dans：entrer au cinéma / entrer dans la salle，注意与具体场所搭配时介词的选择。"
+            },
+            {
+                "index": 5,
+                "sentence": "Exactement, il est dix heures moins deux.",
+                "translatedSentence": "正是，现在差两分钟十点。",
+                "sentenceStructure": "副词 exactement 作话语标记 — 主句 il est dix heures moins deux，无人称报时结构。",
+                "grammarAnalysis": "① Il est + heure + moins + 分钟数，表示“差……分……点”。② moins 在此作介词，表示“减去、差”。③ exactement 为副词，用于确认对方说法，相当于汉语“正是、确实”。",
+                "commonMistakes": "报时时 moins 表示“差”，如 dix heures moins cinq = 9点55分，学生易混淆方向，误以为是加上分钟数。"
+            },
+            {
+                "index": 6,
+                "sentence": "Oh, je suis en retard. Je dois aller à l'école.",
+                "translatedSentence": "哦，我迟到了。我得去上学了。",
+                "sentenceStructure": "第一句：主语 je — 系动词 suis — 表语 en retard。第二句：主语 je — 情态动词 dois — 动词不定式 aller à l'école。",
+                "grammarAnalysis": "① devoir + inf. 表示“必须、应该做某事”，此处表示主观义务或必要性。② aller à l'école 中 à l'école 为方向状语，l' 是 le 在元音前的省略形式（école 虽为阴性，但此处 l' 为定冠词 la 的省略）。",
+                "commonMistakes": "devoir 与 falloir 的区别：Je dois aller（主语是人，强调个人义务）vs Il faut aller（无人称，泛指必须），两者语义接近但主体不同。"
+            },
+            {
+                "index": 7,
+                "sentence": "Attention aux voitures!",
+                "translatedSentence": "小心汽车！",
+                "sentenceStructure": "省略句，完整形式为 Faites attention aux voitures!",
+                "grammarAnalysis": "① Attention à + nom. 是省略句，完整形式为 faire attention à + nom.，表示“注意、小心……”。② aux 是 à + les 的缩合形式。③ 感叹句无动词，常见于口语警告场合。",
+                "commonMistakes": "学生易忘记 à 与定冠词的缩合规则：à + le = au，à + les = aux；以及完整表达 faire attention à qch./qn. 中 faire 不可省略（只有命令语气下才可省略为感叹句）。"
+            }
+        ],
+        "collocations": [
+            {
+                "listIndex": "1",
+                "collocation": "être en retard",
+                "meaning": "迟到",
+                "usage": "固定表达，être + en retard；反义词为 être en avance（提前）或 être à l'heure（准时）。",
+                "exampleSentence": "Je suis en retard?"
+            },
+            {
+                "listIndex": "2",
+                "collocation": "Il est + heure(s)",
+                "meaning": "（现在）是……点钟",
+                "usage": "无人称报时结构，主语永远是 il（非人称），不可替换。回答 Quelle heure est-il? 或 Vous avez l'heure? 均用此句型。",
+                "exampleSentence": "Il est huit heures et demie maintenant."
+            },
+            {
+                "listIndex": "3",
+                "collocation": "et demie / et demi",
+                "meaning": "……点半",
+                "usage": "et demie 接阴性名词 heure（阴性）；et demi 接阳性名词，如 un kilo et demi。注意性数随前名词变化。",
+                "exampleSentence": "Il est huit heures et demie maintenant."
+            },
+            {
+                "listIndex": "4",
+                "collocation": "Ce n'est pas grave.",
+                "meaning": "没关系；不严重",
+                "usage": "口语常用安慰语，grave 为形容词，c'est/ce n'est pas 为固定句型，不可改为 il n'est pas grave。",
+                "exampleSentence": "Ce n'est pas grave."
+            },
+            {
+                "listIndex": "5",
+                "collocation": "Il est temps de + inf.",
+                "meaning": "是做某事的时候了",
+                "usage": "固定句型，de 后接动词原形，il 为无人称主语；注意介词必须用 de，不可用 pour 或 à。",
+                "exampleSentence": "Il est temps d'entrer au cinéma."
+            },
+            {
+                "listIndex": "6",
+                "collocation": "entrer dans / au + lieu",
+                "meaning": "进入某地",
+                "usage": "entrer 为不及物动词，必须加介词。entrer dans + 有冠词名词（entrer dans la salle）；entrer au/à la/à l' + 地点名词（entrer au cinéma）。",
+                "exampleSentence": "Il est temps d'entrer au cinéma."
+            },
+            {
+                "listIndex": "7",
+                "collocation": "avoir l'heure",
+                "meaning": "知道几点钟；有表",
+                "usage": "询问时间的另一种方式，字面义为“有时间（时刻）”。比 Quelle heure est-il? 更口语化，用于向陌生人询问时间。",
+                "exampleSentence": "Pardon madame, vous avez l'heure?"
+            },
+            {
+                "listIndex": "8",
+                "collocation": "il est dix heures moins deux",
+                "meaning": "差两分钟十点（即9时58分）",
+                "usage": "报时减法结构：Il est + 整点 + moins + 分钟数。注意 moins 后直接跟数字，不加 minutes 也可理解。",
+                "exampleSentence": "Exactement, il est dix heures moins deux."
+            },
+            {
+                "listIndex": "9",
+                "collocation": "devoir + inf.",
+                "meaning": "必须做某事；应该做某事",
+                "usage": "情态动词 devoir 后接动词不定式，表示客观必要性（义务）或主观判断（推测）。此处为义务用法。",
+                "exampleSentence": "Je dois aller à l'école."
+            },
+            {
+                "listIndex": "10",
+                "collocation": "aller à l'école / au cinéma / à + lieu",
+                "meaning": "去上学 / 去电影院 / 去某地",
+                "usage": "aller + à/au/à la/à l' + 地点，表示前往。à l'école（去上学，泛指行为）vs dans l'école（在学校里，表示具体位置）。",
+                "exampleSentence": "Je dois aller à l'école."
+            },
+            {
+                "listIndex": "11",
+                "collocation": "faire attention à qch./qn.",
+                "meaning": "注意某物/某人；小心",
+                "usage": "固定搭配，à 后接名词或代词，表示“对……加以注意”。口语中可省略为感叹式 Attention à + nom!",
+                "exampleSentence": "Attention aux voitures!"
+            },
+            {
+                "listIndex": "12",
+                "collocation": "au revoir",
+                "meaning": "再见",
+                "usage": "道别用语，字面义为“à + revoir（再次见到）”，比 adieu（永别）语气轻，为日常用语。",
+                "exampleSentence": "Au revoir, madame."
+            }
+        ],
+        "vocabulary": [
+            {
+                "index": "1",
+                "vocabulary": "il",
+                "partOfSpeech": "pron.",
+                "definition": "①他 ②它（指阳性名词）③无人称主语（用于无人称句）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "il est + heure",
+                        "vocabularyCollocationMeaning": "无人称报时结构，现在是……点"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "il fait beau",
+                        "vocabularyCollocationMeaning": "无人称天气句，天气好"
+                    }
+                ],
+                "synonymAnalysis": "",
+                "derivedWords": [],
+                "useExplanation": "il 既作人称代词（他/它），也作无人称主语，出现在 il est...（报时）、il fait...（天气）、il faut...（必须）等固定句型中，此时不指具体人或物。"
+            },
+            {
+                "index": "2",
+                "vocabulary": "en",
+                "partOfSpeech": "prép.",
+                "definition": "①在……（表地点、时间、状态） ②用……（表材料或方式） ③以……方式",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "en retard",
+                        "vocabularyCollocationMeaning": "迟到"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "en avance",
+                        "vocabularyCollocationMeaning": "提前"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "en France",
+                        "vocabularyCollocationMeaning": "在法国（阴性国名前用 en）"
+                    }
+                ],
+                "synonymAnalysis": "en vs dans：en 后通常直接跟名词（无冠词），dans 后跟有冠词名词；en France vs dans la salle。",
+                "derivedWords": [],
+                "useExplanation": "en 作介词时用法极广，需注意：① 状态表达 en retard/en avance；② 国名（阴性/辅音开头的阳性）前用 en；③ 材料表达 en bois（木制的）。"
+            },
+            {
+                "index": "3",
+                "vocabulary": "retard",
+                "partOfSpeech": "n.m.",
+                "definition": "①迟到，延误 ②落后",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "être en retard",
+                        "vocabularyCollocationMeaning": "迟到"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "avoir du retard",
+                        "vocabularyCollocationMeaning": "（交通工具等）晚点，延误"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "prendre du retard",
+                        "vocabularyCollocationMeaning": "变得落后；耽误时间"
+                    }
+                ],
+                "synonymAnalysis": "retard vs délai：retard 指计划时间之后到达（负面含义）；délai 指宽限时间或期限（中性）。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "retarder",
+                        "derivedWordPartOfSpeech": "vt.",
+                        "derivedWordMeaning": "推迟，延误；使落后"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "retardataire",
+                        "derivedWordPartOfSpeech": "n.m.",
+                        "derivedWordMeaning": "迟到者，落后者"
+                    }
+                ],
+                "pluralForm": "retards"
+            },
+            {
+                "index": "4",
+                "vocabulary": "mais",
+                "partOfSpeech": "conj.",
+                "definition": "①可是，但是（表转折） ②而且，还（加强语气）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "mais oui / mais non",
+                        "vocabularyCollocationMeaning": "当然是 / 当然不是（加强肯定或否定）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "non seulement... mais (aussi/encore)...",
+                        "vocabularyCollocationMeaning": "不仅……而且……"
+                    }
+                ],
+                "synonymAnalysis": "mais vs cependant vs pourtant：mais 最常用，用于句中或句首，口语书面均可；cependant 和 pourtant 更书面，多置于句首或独立使用，语气更强。",
+                "derivedWords": [],
+                "useExplanation": "mais 是最基础的转折连词，永远置于两个并列成分之间；不可置于句末；口语中 mais... 后停顿，常表示犹豫或保留。"
+            },
+            {
+                "index": "5",
+                "vocabulary": "demi",
+                "partOfSpeech": "adj.",
+                "definition": "①一半的，半……",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "et demie",
+                        "vocabularyCollocationMeaning": "（时间）……点半（接阴性名词 heure）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "une demi-heure",
+                        "vocabularyCollocationMeaning": "半小时（前置连字符，不变性）"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "à demi",
+                        "vocabularyCollocationMeaning": "一半地，不完全地"
+                    }
+                ],
+                "synonymAnalysis": "",
+                "derivedWords": [],
+                "genderNumberVariation": "前置于名词时（demi-heure）不随名词变化性数，保持 demi；后置于名词用 et demi(e) 时随前名词性变化：heure（阴性）→ et demie，kilo（阳性）→ et demi。",
+                "position": "前置于名词（连字符连接，不变）：une demi-heure；后置于名词（et + demi/e）：une heure et demie。"
+            },
+            {
+                "index": "6",
+                "vocabulary": "maintenant",
+                "partOfSpeech": "adv.",
+                "definition": "①现在，目前 ②从今以后（表转折）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "maintenant que + ind.",
+                        "vocabularyCollocationMeaning": "既然……（引导原因/条件从句）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "dès maintenant",
+                        "vocabularyCollocationMeaning": "从现在起，即刻"
+                    }
+                ],
+                "synonymAnalysis": "maintenant vs actuellement：maintenant 强调说话时刻；actuellement 指现阶段、目前（时间跨度稍长），不完全等同。",
+                "derivedWords": [],
+                "useExplanation": "maintenant 通常置于句末或句首，作时间状语；与现在时或复合过去时搭配。"
+            },
+            {
+                "index": "7",
+                "vocabulary": "excuser",
+                "partOfSpeech": "vt.",
+                "definition": "①原谅，宽恕 ②为……辩解，找借口",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "Excuse-moi / Excusez-moi",
+                        "vocabularyCollocationMeaning": "对不起，请原谅（口语道歉或引起注意）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "excuser qn. de qch.",
+                        "vocabularyCollocationMeaning": "原谅某人某事"
+                    }
+                ],
+                "synonymAnalysis": "excuser vs pardonner：Excusez-moi 用于轻微失礼或引起注意（较随意）；Pardonnez-moi 语气更正式、歉意更深。口语中两者常互换。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "excuse",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "借口；道歉"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "inexcusable",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "不可原谅的"
+                    }
+                ],
+                "inflectionInfo": {
+                    "verbType": "第一组 -er 规则变位"
+                }
+            },
+            {
+                "index": "8",
+                "vocabulary": "ne ... pas",
+                "partOfSpeech": "adv.",
+                "definition": "不，没有（否定副词对组）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "ne ... pas du tout",
+                        "vocabularyCollocationMeaning": "一点也不"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "ne ... plus",
+                        "vocabularyCollocationMeaning": "不再"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "ne ... jamais",
+                        "vocabularyCollocationMeaning": "从不"
+                    }
+                ],
+                "synonymAnalysis": "ne...pas 是最基础否定；ne...point 语气更强烈，属书面/古语；ne...guère 意为“几乎不”，书面语。",
+                "derivedWords": [],
+                "useExplanation": "ne 置于动词之前（如遇元音前则省略 e，写作 n'），pas 置于动词之后；复合时态中 ne...pas 夹住助动词：il n'a pas mangé。口语中 ne 常被省略：C'est pas grave。"
+            },
+            {
+                "index": "9",
+                "vocabulary": "grave",
+                "partOfSpeech": "adj.",
+                "definition": "①严重的，严肃的 ②（声音）低沉的",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "Ce n'est pas grave.",
+                        "vocabularyCollocationMeaning": "没关系，不严重"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "une maladie grave",
+                        "vocabularyCollocationMeaning": "严重的疾病"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "accent grave",
+                        "vocabularyCollocationMeaning": "重音符（法语正字法术语，如 è）"
+                    }
+                ],
+                "synonymAnalysis": "grave vs sérieux：grave 强调危险程度高，后果严重；sérieux 强调认真、重要，可指人也可指事，语气略轻。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "gravement",
+                        "derivedWordPartOfSpeech": "adv.",
+                        "derivedWordMeaning": "严重地，严肃地"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "gravité",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "严重性；严肃；重力"
+                    }
+                ],
+                "genderNumberVariation": "阴性 grave（同形），复数 graves",
+                "position": "通常置于名词之后：une situation grave；但作表语时置于 être 后：C'est grave."
+            },
+            {
+                "index": "10",
+                "vocabulary": "temps",
+                "partOfSpeech": "n.m.",
+                "definition": "①时间 ②天气 ③（语法）时态",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "Il est temps de + inf.",
+                        "vocabularyCollocationMeaning": "是做某事的时候了"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "avoir le temps de + inf.",
+                        "vocabularyCollocationMeaning": "有时间做某事"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "de temps en temps",
+                        "vocabularyCollocationMeaning": "有时，不时地"
+                    },
+                    {
+                        "index": "4",
+                        "vocabularyCollocation": "en même temps",
+                        "vocabularyCollocationMeaning": "同时"
+                    }
+                ],
+                "synonymAnalysis": "temps（时间，泛指）vs heure（小时，具体时刻）vs moment（时刻，某一特定时间点）：Quel temps fait-il?（天气怎么样？）vs Quelle heure est-il?（几点了？）",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "temporaire",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "临时的，暂时的"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "temporel",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "时间的；世俗的"
+                    }
+                ],
+                "pluralForm": "temps（复数同形）"
+            },
+            {
+                "index": "11",
+                "vocabulary": "entrer",
+                "partOfSpeech": "vi.",
+                "definition": "①进，进入 ②加入（某组织）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "entrer dans + lieu",
+                        "vocabularyCollocationMeaning": "进入某地（接有冠词名词）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "entrer au / à la / à l' + lieu",
+                        "vocabularyCollocationMeaning": "进入某地（接表示机构/场所的名词）"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "entrer en contact avec",
+                        "vocabularyCollocationMeaning": "与……取得联系"
+                    }
+                ],
+                "synonymAnalysis": "entrer vs rentrer：entrer 表示“进入”（从外到里）；rentrer 表示“回到”原处，含有回归意味，如 rentrer à la maison（回家）。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "entrée",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "入口；进入；（餐厅）前菜"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "rentrer",
+                        "derivedWordPartOfSpeech": "vi.",
+                        "derivedWordMeaning": "回去，回家"
+                    }
+                ],
+                "inflectionInfo": {
+                    "verbType": "第一组 -er 规则变位"
+                }
+            },
+            {
+                "index": "12",
+                "vocabulary": "pardon",
+                "partOfSpeech": "n.m.",
+                "definition": "①请原谅，对不起 ②原谅，宽恕",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "Pardon madame / monsieur",
+                        "vocabularyCollocationMeaning": "女士/先生，打扰一下；对不起"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "demander pardon à qn.",
+                        "vocabularyCollocationMeaning": "请求某人原谅"
+                    }
+                ],
+                "synonymAnalysis": "Pardon vs Excuse-moi：Pardon 偏正式，可用于问路或稍微严重的失礼；Excuse-moi 偏口语，日常道歉或引起注意均可。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "pardonner",
+                        "derivedWordPartOfSpeech": "vt.",
+                        "derivedWordMeaning": "原谅，宽恕"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "impardonnable",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "不可原谅的"
+                    }
+                ],
+                "pluralForm": "pardons"
+            },
+            {
+                "index": "13",
+                "vocabulary": "exactement",
+                "partOfSpeech": "adv.",
+                "definition": "①确切地，准确地 ②正是，正确（表示完全赞同）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "Exactement!",
+                        "vocabularyCollocationMeaning": "正是！完全正确！（口语确认语）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "exactement comme",
+                        "vocabularyCollocationMeaning": "正如……，完全像……"
+                    }
+                ],
+                "synonymAnalysis": "exactement vs précisément：两者均表“正是”，可互换；précisément 在书面语中更常见，有时含有“恰恰、偏偏”的语气。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "exact",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "准确的，精确的"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "exactitude",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "准确性，精确性"
+                    }
+                ],
+                "useExplanation": "exactement 作话语标记时置于句首，独立使用，后跟逗号；作状语时修饰动词或形容词。"
+            },
+            {
+                "index": "14",
+                "vocabulary": "moins",
+                "partOfSpeech": "prép.",
+                "definition": "①差，减（报时时表示“差几分”）②较少，更少（比较级）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "il est ... heures moins ...",
+                        "vocabularyCollocationMeaning": "差……分……点（报时减法）"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "le moins",
+                        "vocabularyCollocationMeaning": "最少，最……（最高级）"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "de moins en moins",
+                        "vocabularyCollocationMeaning": "越来越少"
+                    }
+                ],
+                "synonymAnalysis": "moins vs peu：moins 用于比较（moins que），表示相对量少；peu 表示绝对量少，不涉及比较。",
+                "derivedWords": [],
+                "useExplanation": "报时中 moins 作介词，Il est dix heures moins cinq = 9时55分；比较级中 moins + adj. + que 表示“比……不……”；avec moins de + nom. 表示“用更少的……”。"
+            },
+            {
+                "index": "15",
+                "vocabulary": "aller",
+                "partOfSpeech": "vi.",
+                "definition": "①去，走 ②（身体）感觉，状况（Ça va?）③即将（aller + inf. 构成近将来时）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "aller à + lieu",
+                        "vocabularyCollocationMeaning": "去某地"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "aller + inf.",
+                        "vocabularyCollocationMeaning": "即将做某事（近将来时）"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "Comment allez-vous? / Ça va?",
+                        "vocabularyCollocationMeaning": "你好吗？（问候语）"
+                    }
+                ],
+                "synonymAnalysis": "aller vs partir：aller 强调“去往某处”（目的地）；partir 强调“从某处离开”（出发点），如 partir de Paris / aller à Lyon。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "allée",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "小路，林荫道"
+                    }
+                ],
+                "inflectionInfo": {
+                    "verbType": "不规则变位",
+                    "present": "je vais, tu vas, il va, nous allons, vous allez, ils vont",
+                    "compoundPast": "je suis allé(e)（助动词为 être，过去分词随主语性数配合）",
+                    "simpleFuture": "j'irai, tu iras, il ira, nous irons, vous irez, ils iront",
+                    "imperfect": "j'allais, tu allais, il allait, nous allions, vous alliez, ils allaient",
+                    "presentSubjunctive": "que j'aille, que tu ailles, qu'il aille, que nous allions, que vous alliez, qu'ils aillent",
+                    "memoryAids": "aller 的变位词干来源于三个不同动词（古拉丁语 ire / vadere / ambulare），须整体记忆：现在时 v- 词干（vas/va/vont）、nous/vous 保留 all-、将来时 ir- 词干。"
+                }
+            },
+            {
+                "index": "16",
+                "vocabulary": "au revoir",
+                "partOfSpeech": "n.m.",
+                "definition": "再见（道别用语）",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "dire au revoir à qn.",
+                        "vocabularyCollocationMeaning": "向某人道别"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "Au revoir, madame/monsieur.",
+                        "vocabularyCollocationMeaning": "再见，女士/先生。（正式场合告别）"
+                    }
+                ],
+                "synonymAnalysis": "au revoir vs adieu vs à bientôt：au revoir 是中性告别，最常用；adieu 表示永别或长时间分离；à bientôt 表示“很快见”，暗示很快再会。",
+                "derivedWords": [],
+                "useExplanation": "au revoir 是固定词组，au 为 à + le 缩合，revoir 是动词 revoir（再见）的不定式；整体作感叹语使用。"
+            },
+            {
+                "index": "17",
+                "vocabulary": "attention",
+                "partOfSpeech": "n.f.",
+                "definition": "①注意，小心 ②关心，体贴",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "faire attention à qch./qn.",
+                        "vocabularyCollocationMeaning": "注意某事/某人；小心"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "Attention!",
+                        "vocabularyCollocationMeaning": "当心！注意！（感叹语）"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "attirer l'attention de qn. sur qch.",
+                        "vocabularyCollocationMeaning": "引起某人对某事的注意"
+                    }
+                ],
+                "synonymAnalysis": "attention vs prudence：attention 强调主动关注某一特定事物；prudence 强调整体谨慎小心的态度，如 avec prudence（谨慎地）。",
+                "derivedWords": [
+                    {
+                        "index": "1",
+                        "derivedWord": "attentif",
+                        "derivedWordPartOfSpeech": "adj.",
+                        "derivedWordMeaning": "注意的，专心的"
+                    },
+                    {
+                        "index": "2",
+                        "derivedWord": "attentivement",
+                        "derivedWordPartOfSpeech": "adv.",
+                        "derivedWordMeaning": "专心地，仔细地"
+                    },
+                    {
+                        "index": "3",
+                        "derivedWord": "inattention",
+                        "derivedWordPartOfSpeech": "n.f.",
+                        "derivedWordMeaning": "不注意，疏忽"
+                    }
+                ],
+                "pluralForm": "attentions"
+            },
+            {
+                "index": "18",
+                "vocabulary": "voiture",
+                "partOfSpeech": "n.f.",
+                "definition": "①汽车，轿车 ②（火车）车厢",
+                "vocabularyCollocations": [
+                    {
+                        "index": "1",
+                        "vocabularyCollocation": "en voiture",
+                        "vocabularyCollocationMeaning": "乘车，坐汽车"
+                    },
+                    {
+                        "index": "2",
+                        "vocabularyCollocation": "voiture électrique",
+                        "vocabularyCollocationMeaning": "电动汽车"
+                    },
+                    {
+                        "index": "3",
+                        "vocabularyCollocation": "conduire une voiture",
+                        "vocabularyCollocationMeaning": "开车"
+                    }
+                ],
+                "synonymAnalysis": "voiture vs auto vs automobile：三者均指汽车，voiture 最常用（口语书面均可）；auto 较口语；automobile 较正式，多见于书面语或行政语境。",
+                "derivedWords": [],
+                "pluralForm": "voitures"
+            }
+        ],
+        "traslationPart": {
+            "frenchToChinesePractice": {
+                "frenchOriginalSentence": "Ce matin-là, Paul est en retard. Il est déjà huit heures et demie, mais il doit encore aller à l'école. Ce n'est pas grave, dit son ami Jacques, il est temps de partir maintenant. Attention aux voitures dans la rue!",
+                "chineseTranslation": "那天早上，保罗迟到了。已经八点半了，但他还得去上学。“没关系，”他的朋友雅克说，“现在是时候出发了。路上小心车辆！”",
+                "fr2cnStrategy": "① “être en retard”直译为“迟到”，保留固定表达，无需逐词拆解；② “Il est déjà huit heures et demie”中无人称报时结构译为“已经八点半了”，增译“已经”以体现 déjà 的语气；③ “il est temps de partir”句型将不定式 partir 转换为汉语动词短语“出发”，采用词性转换（不定式→动词）；④ 直接引语 dit son ami Jacques 调整语序为“他的朋友雅克说”，符合中文表达习惯（引语动词后置）；⑤ “Attention aux voitures dans la rue”从感叹省略句还原为祈使语气，增译主语（省去“你”），突出警告语气。"
+            },
+        "chineseToFrenchPractice": [
+                {
+                    "index": "1",
+                    "chineseOriginalSentence": "对不起，请问现在几点了？",
+                    "frenchTranslation": "Excusez-moi, quelle heure est-il s'il vous plaît?",
+                    "cn2frStrategy": "① “对不起”用礼貌词 Excusez-moi，正式场合用 vous；② “几点了”用固定句型 Quelle heure est-il?，切勿译成 *Quelle est l'heure?（不地道）；③ 增译 s'il vous plaît 体现礼貌，属于增译策略。"
+                },
+                {
+                    "index": "2",
+                    "chineseOriginalSentence": "现在是差五分钟九点，你要迟到了。",
+                    "frenchTranslation": "Il est neuf heures moins cinq, tu vas être en retard.",
+                    "cn2frStrategy": "① “差五分钟九点”用报时减法结构 Il est neuf heures moins cinq；② “你要迟到了”用近将来时 aller + inf. 表即将发生，être en retard 为固定表达；③ 注意主语从“你”转为第二人称 tu（口语情境）。"
+                },
+                {
+                    "index": "3",
+                    "chineseOriginalSentence": "没关系，是时候去电影院了。",
+                    "frenchTranslation": "Ce n'est pas grave, il est temps d'aller au cinéma.",
+                    "cn2frStrategy": "① “没关系”固定译法 Ce n'est pas grave；② “是时候……了”用 il est temps de + inf.，注意 de 在元音前省略 e 写作 d'；③ “去电影院”用 aller au cinéma（à + le = au）。"
+                },
+                {
+                    "index": "4",
+                    "chineseOriginalSentence": "我得立刻去学校，请小心车辆！",
+                    "frenchTranslation": "Je dois aller à l'école tout de suite, faites attention aux voitures!",
+                    "cn2frStrategy": "① “我得”用情态动词 devoir + inf. 表义务；② “立刻”译为 tout de suite，置于动词后；③ “小心车辆”完整形式为 faire attention aux voitures（省略式 Attention aux voitures 也可，但此处有主语故用完整命令式）；④ aux 为 à + les 缩合，不可写成 *à les。"
+                }
+            ]
+        }
+}

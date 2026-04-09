@@ -1,0 +1,716 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Qu'est-ce que tu fais dimanche?",
+            "translatedSentence": "你星期天干什么？",
+            "sentenceStructure": "疑问句，Qu'est-ce que 为宾语，tu 为主语，fais 为谓语，dimanche 为时间状语。",
+            "grammarAnalysis": "① Qu'est-ce que 是强调式疑问结构，相当于 Que，用于询问宾语。② fais 为 faire 的第二人称单数现在时变位。③ dimanche 不带冠词，直接作时间状语。",
+            "commonMistakes": "学生易将 Qu'est-ce que 与 Qu'est-ce qui 混淆：Qu'est-ce que 询问宾语（做什么），Qu'est-ce qui 询问主语（什么……）。注意 dimanche 作时间状语时不加冠词，但表示「每个星期天」则需用 le dimanche。"
+        },
+        {
+            "index": "2",
+            "sentence": "On va au cinéma?",
+            "translatedSentence": "我们去看电影好吗？",
+            "sentenceStructure": "主语 on — 谓语 va — 地点状语 au cinéma，句末用问号构成语调疑问句。",
+            "grammarAnalysis": "① on 在口语中常代替 nous，表示「我们」。② aller + au + 地点，构成「去某地」的固定结构；au 是 à + le 的缩合冠词。③ 该句为语调疑问句，仅靠升调表示疑问，不需要倒装或 est-ce que。",
+            "commonMistakes": "au cinéma 中 au 不可省略，也不可替换为 à le。另需注意 on va au cinéma 表示「去电影院（这一场所）」，不同于 on regarde un film「看一部电影」。"
+        },
+        {
+            "index": "3",
+            "sentence": "Alors, dimanche à neuf heures, devant le cinéma. Ça va?",
+            "translatedSentence": "那么，星期天九点，在电影院门口。可以吗？",
+            "sentenceStructure": "省略句，由时间状语 dimanche à neuf heures 和地点状语 devant le cinéma 构成，省略了主语和谓语动词。Ça va 为附加确认问句。",
+            "grammarAnalysis": "① à neuf heures 表示「在九点」，à 为时间介词。② devant 为介词，表示「在……前面」，后接 le cinéma。③ Ça va? 在此作确认用语，询问对方是否同意安排，相当于「这样行吗？」",
+            "commonMistakes": "学生易将 à neuf heures 中的 à 省略或误用其他介词。另注意 devant 表示空间位置「在……前面」，不同于 avant「在……之前（时间）」。"
+        },
+        {
+            "index": "4",
+            "sentence": "À midi, je vais manger avec Gérard, tu viens?",
+            "translatedSentence": "中午我要和热拉尔一起去吃饭，你来吗？",
+            "sentenceStructure": "主句为 je vais manger avec Gérard，à midi 为时间状语置于句首，tu viens 为附加疑问句。",
+            "grammarAnalysis": "① aller + 动词不定式，构成近将来时，表示即将发生的动作，相当于「要去……」。② avec 表示「和……一起」。③ tu viens? 为语调疑问句，venir 在此有邀请含义：「你来吗？（你也来吧？）」",
+            "commonMistakes": "vais manger 是近将来时（aller + inf.），不是复合过去时，不要与 j'ai mangé 混淆。另注意 avec + 人名时不需要冠词。"
+        },
+        {
+            "index": "5",
+            "sentence": "J'ai des exercices à faire.",
+            "translatedSentence": "我有练习要做。",
+            "sentenceStructure": "主语 je — 谓语 ai — 宾语 des exercices — 不定式短语 à faire 作后置定语修饰 exercices。",
+            "grammarAnalysis": "① avoir + qch. à faire 为固定结构，表示「有某事要做」。② des 为不定冠词复数，修饰 exercices。③ à faire 中 à + 不定式作形容词性用法，修饰前面的名词。",
+            "commonMistakes": "à faire 中的 à 不可省略，也不可替换为 de。有些学生误将此结构写为 j'ai des exercices faire 或 j'ai des exercices pour faire，均不正确。"
+        },
+        {
+            "index": "6",
+            "sentence": "Je regrette beaucoup. Bon, une autre fois peut-être.",
+            "translatedSentence": "我非常遗憾。好吧，也许下次吧。",
+            "sentenceStructure": "两个简单句。第一句：主语 je — 谓语 regrette — 程度副词 beaucoup。第二句：感叹词 bon — 时间短语 une autre fois — 副词 peut-être。",
+            "grammarAnalysis": "① regretter 表示「遗憾，惋惜」，后可接 de + inf. 或 que + 虚拟式从句。② beaucoup 作程度副词，置于动词之后。③ Bon 在此为感叹词，表示「好吧，行吧」。④ peut-être 为副词，表示「也许，可能」，置于句末时无需倒装。",
+            "commonMistakes": "peut-être 置于句首时需要倒装（Peut-être viendra-t-il.），置于句末时则不需要，学生易忽略此规则。另注意 une autre fois 与 l'autre fois 的区别：前者表示「另一次（将来）」，后者表示「上次（过去）」。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "faire qch.",
+            "meaning": "做某事",
+            "usage": "faire 为万能动词，可搭配大量名词，表示「从事、进行」某类活动，用法极广。",
+            "exampleSentence": "Qu'est-ce que tu fais dimanche?"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "aller au cinéma",
+            "meaning": "去看电影；去电影院",
+            "usage": "aller + au/à la/aux + 场所，au 为 à + le 的缩合冠词，不可分写。",
+            "exampleSentence": "On va au cinéma?"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "à + heure",
+            "meaning": "在……点钟",
+            "usage": "表示具体时间点，介词用 à，如 à neuf heures、à midi，不能用 en 或 dans。",
+            "exampleSentence": "Alors, dimanche à neuf heures, devant le cinéma."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "devant + lieu",
+            "meaning": "在……前面",
+            "usage": "devant 表示空间位置「在……前面」；注意与表时间的 avant 区分。",
+            "exampleSentence": "Alors, dimanche à neuf heures, devant le cinéma."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "manger avec qn.",
+            "meaning": "与某人一起吃饭",
+            "usage": "avec 表示共同参与，后接人，无需冠词（直接加人名或人称代词）。",
+            "exampleSentence": "À midi, je vais manger avec Gérard, tu viens?"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "aller + inf. (近将来时)",
+            "meaning": "将要……，打算……",
+            "usage": "aller + 动词不定式构成近将来时，表示即将发生或已计划好的动作，口语中极为常用。",
+            "exampleSentence": "À midi, je vais manger avec Gérard."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "avoir qch. à faire",
+            "meaning": "有某事要做",
+            "usage": "固定结构，à + 不定式作名词后置定语。注意 à 不可换为 de 或 pour。",
+            "exampleSentence": "J'ai des exercices à faire."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "regretter de + inf.",
+            "meaning": "对做某事感到遗憾",
+            "usage": "regretter 后接 de + 不定式（同主语），或 que + 虚拟式从句（异主语）。",
+            "exampleSentence": "Je regrette beaucoup."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "une autre fois",
+            "meaning": "另一次，下次",
+            "usage": "表示未来的另一个时机，与 l'autre fois（上次，过去）相对。",
+            "exampleSentence": "Bon, une autre fois peut-être."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "enfin te voilà!",
+            "meaning": "你终于来了！",
+            "usage": "voilà + 代词，为感叹用法，表示「终于出现了」，enfin 加强感叹语气。",
+            "exampleSentence": "Ah, Michel, enfin te voilà!"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "à + jour de la semaine",
+            "meaning": "……见（再见）",
+            "usage": "介词 à 与表时间的词构成告别语，如 à dimanche（星期日见）、à demain（明天见）。",
+            "exampleSentence": "Ça va. A dimanche."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "c'est bien",
+            "meaning": "很好，太好了",
+            "usage": "口语中表示赞同或满意的固定表达，语气轻松随意。",
+            "exampleSentence": "Oui, c'est bien!"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "allô",
+            "partOfSpeech": "interj.",
+            "definition": "喂（电话用语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Allô? C'est...",
+                    "vocabularyCollocationMeaning": "喂？我是……（接电话的常用开场白）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "allô 专用于接打电话时，不用于面对面交谈。"
+        },
+        {
+            "index": "2",
+            "vocabulary": "dimanche",
+            "partOfSpeech": "n.m.",
+            "definition": "星期日",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le dimanche",
+                    "vocabularyCollocationMeaning": "每个星期天（表示习惯）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dimanche prochain",
+                    "vocabularyCollocationMeaning": "下个星期天"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dimanche dernier",
+                    "vocabularyCollocationMeaning": "上个星期天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "dimanches"
+        },
+        {
+            "index": "3",
+            "vocabulary": "on",
+            "partOfSpeech": "pron.",
+            "definition": "①人们（泛指）②我们（口语，代替 nous）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "On va + inf.",
+                    "vocabularyCollocationMeaning": "我们去……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "On dit que...",
+                    "vocabularyCollocationMeaning": "人们说……，据说……"
+                }
+            ],
+            "synonymAnalysis": "on 作「我们」时是 nous 的口语替代，动词始终用第三人称单数变位；nous 则用第一人称复数变位。",
+            "derivedWords": [],
+            "useExplanation": "on 作主语时，谓语动词永远用第三人称单数形式，即使语义上指「我们」也不例外。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "cinéma",
+            "partOfSpeech": "n.m.",
+            "definition": "①电影院 ②电影（艺术）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au cinéma",
+                    "vocabularyCollocationMeaning": "去看电影"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un film de cinéma",
+                    "vocabularyCollocationMeaning": "一部电影"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cinématographique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "电影的，电影艺术的"
+                }
+            ],
+            "pluralForm": "cinémas"
+        },
+        {
+            "index": "5",
+            "vocabulary": "alors",
+            "partOfSpeech": "adv.",
+            "definition": "①那么，于是 ②当时，那时",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "alors que + indicatif",
+                    "vocabularyCollocationMeaning": "当……的时候；尽管（表让步）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "et alors?",
+                    "vocabularyCollocationMeaning": "那又怎样？"
+                }
+            ],
+            "synonymAnalysis": "alors 作「那么」时与 donc 近义，但 donc 更强调逻辑推断；alors 更偏向叙事过渡，口语感更强。",
+            "derivedWords": [],
+            "useExplanation": "alors 置于句首时作语篇衔接词，无需逗号也可；引导从句时构成 alors que 连词短语。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "heure",
+            "partOfSpeech": "n.f.",
+            "definition": "①小时 ②点钟，时刻",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à quelle heure",
+                    "vocabularyCollocationMeaning": "在几点钟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à ... heure(s)",
+                    "vocabularyCollocationMeaning": "在……点"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une heure et demie",
+                    "vocabularyCollocationMeaning": "一点半"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "heures"
+        },
+        {
+            "index": "7",
+            "vocabulary": "devant",
+            "partOfSpeech": "prép.",
+            "definition": "在……前面，在……面前",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "devant le cinéma",
+                    "vocabularyCollocationMeaning": "在电影院门口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "devant qn.",
+                    "vocabularyCollocationMeaning": "在某人面前"
+                }
+            ],
+            "synonymAnalysis": "devant（空间：在……前面）vs avant（时间：在……之前）：两者不可互换，前者表空间，后者表时间顺序。",
+            "derivedWords": [],
+            "useExplanation": "devant 是空间介词，不表示时间关系。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "enfin",
+            "partOfSpeech": "adv.",
+            "definition": "①最后，终于 ②总之，总而言之",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enfin arriver",
+                    "vocabularyCollocationMeaning": "终于到达"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enfin te voilà",
+                    "vocabularyCollocationMeaning": "你终于来了"
+                }
+            ],
+            "synonymAnalysis": "enfin（终于，强调经历等待后的结果）vs finalement（最终，强调事情最后的结局，不一定有等待含义）。",
+            "derivedWords": [],
+            "useExplanation": "enfin 在口语中也可用于话语整理，表示「总之」，相当于 bref。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "voilà",
+            "partOfSpeech": "prép.",
+            "definition": "①那就是，那就是说 ②这是，这就是（指示用语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voilà + nom",
+                    "vocabularyCollocationMeaning": "这就是……，那就是……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "te voilà!",
+                    "vocabularyCollocationMeaning": "你来了！（你终于出现了！）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "voilà tout",
+                    "vocabularyCollocationMeaning": "就这些了"
+                }
+            ],
+            "synonymAnalysis": "voilà（指离说话人较远的事物或人）vs voici（指离说话人较近的事物或人）；现代口语中两者常混用，voilà 更为常见。",
+            "derivedWords": [],
+            "useExplanation": "voilà 本为指示性介词/副词，常用于呈递、介绍某物或感叹某人出现。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "midi",
+            "partOfSpeech": "n.m.",
+            "definition": "①中午，正午 ②南方（尤指法国南部）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à midi",
+                    "vocabularyCollocationMeaning": "在中午"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "déjeuner à midi",
+                    "vocabularyCollocationMeaning": "中午吃午饭"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "midis（少用）"
+        },
+        {
+            "index": "11",
+            "vocabulary": "manger",
+            "partOfSpeech": "vt.",
+            "definition": "①吃，进食 ②吃饭",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger avec qn.",
+                    "vocabularyCollocationMeaning": "和某人一起吃饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "manger au restaurant",
+                    "vocabularyCollocationMeaning": "在餐厅吃饭"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "donner à manger à qn.",
+                    "vocabularyCollocationMeaning": "给某人喂食"
+                }
+            ],
+            "synonymAnalysis": "manger（通用「吃」）vs dîner（吃晚饭）vs déjeuner（吃午饭）vs déguster（品尝，更正式）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mangeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "吃者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "repas",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "饭，餐（相关词）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "avec",
+            "partOfSpeech": "prép.",
+            "definition": "①和……一起，与 ②带着，用",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger avec qn.",
+                    "vocabularyCollocationMeaning": "与某人吃饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partir avec qn.",
+                    "vocabularyCollocationMeaning": "和某人一起离开"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avec plaisir",
+                    "vocabularyCollocationMeaning": "很乐意（常用回答语）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "avec 后接人时不需要冠词（直接接人名或人称重读代词：avec moi, avec lui）；后接名词时则需要相应的冠词。"
+        },
+        {
+            "index": "13",
+            "vocabulary": "avoir",
+            "partOfSpeech": "vt.",
+            "definition": "①有，拥有 ②（助动词）构成复合时态",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir qch. à faire",
+                    "vocabularyCollocationMeaning": "有某事要做"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir faim / soif",
+                    "vocabularyCollocationMeaning": "饿了/渴了"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir l'air + adj.",
+                    "vocabularyCollocationMeaning": "看起来……"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'ai, tu as, il a, nous avons, vous avez, ils ont",
+                "compoundPast": "j'ai eu",
+                "simpleFuture": "j'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront",
+                "imperfect": "j'avais, tu avais, il avait, nous avions, vous aviez, ils avaient",
+                "presentSubjunctive": "que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient",
+                "memoryAids": "avoir 是最基础的不规则动词，也是构成复合过去时最常用的助动词，须熟记全部变位。"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "exercice",
+            "partOfSpeech": "n.m.",
+            "definition": "①练习，习题 ②锻炼，运动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire des exercices",
+                    "vocabularyCollocationMeaning": "做练习；做运动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "exercice écrit",
+                    "vocabularyCollocationMeaning": "笔头练习"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exercer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "从事（职业）；锻炼"
+                }
+            ],
+            "pluralForm": "exercices"
+        },
+        {
+            "index": "15",
+            "vocabulary": "regretter",
+            "partOfSpeech": "vt.",
+            "definition": "①抱歉，遗憾 ②惋惜，怀念",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "regretter de + inf.",
+                    "vocabularyCollocationMeaning": "对做某事感到遗憾"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "regretter que + subj.",
+                    "vocabularyCollocationMeaning": "遗憾……（异主语时用虚拟式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Je regrette.",
+                    "vocabularyCollocationMeaning": "很遗憾；对不起"
+                }
+            ],
+            "synonymAnalysis": "regretter（遗憾，可指后悔或表示礼貌性的歉意）vs déplorer（更正式，表示强烈遗憾或谴责）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "regret",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "遗憾，懊悔"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "beaucoup",
+            "partOfSpeech": "adv.",
+            "definition": "很，非常，大量地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "beaucoup de + n.",
+                    "vocabularyCollocationMeaning": "很多……（后接不加冠词的名词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "merci beaucoup",
+                    "vocabularyCollocationMeaning": "非常感谢"
+                }
+            ],
+            "synonymAnalysis": "beaucoup（很，量大）vs très（很，程度高）：beaucoup 修饰动词和 de + 名词；très 修饰形容词和副词。不可混用。",
+            "derivedWords": [],
+            "useExplanation": "beaucoup 修饰动词时置于动词之后（il mange beaucoup）；在复合时态中置于助动词和分词之间（il a beaucoup mangé）。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "bon",
+            "partOfSpeech": "adj.",
+            "definition": "①好的，优秀的 ②好吃的，味美的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bon repas",
+                    "vocabularyCollocationMeaning": "美味的饭食"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bonne idée",
+                    "vocabularyCollocationMeaning": "好主意"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bon courage",
+                    "vocabularyCollocationMeaning": "加油，祝顺利"
+                }
+            ],
+            "synonymAnalysis": "bon（具体的好，如味道、质量好）vs bien（抽象的好，如行为、状态好）：Il est bon cuisinier.（他是好厨师）vs Il cuisine bien.（他做饭做得好）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bien",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "好地（bon 的副词对应形式）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bonté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "善良，好意"
+                }
+            ],
+            "genderNumberVariation": "阴性 bonne，阳性复数 bons，阴性复数 bonnes",
+            "position": "通常置于名词之前（un bon repas）；感叹词用法时单独出现，表同意（Bon.）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "autre",
+            "partOfSpeech": "adj.",
+            "definition": "①另外的，别的 ②其他的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une autre fois",
+                    "vocabularyCollocationMeaning": "另一次，下次"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "d'autre part",
+                    "vocabularyCollocationMeaning": "另一方面"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entre autres",
+                    "vocabularyCollocationMeaning": "其中，尤其"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "复数 autres，阴阳同形",
+            "position": "置于名词之前"
+        },
+        {
+            "index": "19",
+            "vocabulary": "fois",
+            "partOfSpeech": "n.f.",
+            "definition": "次，回",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une fois",
+                    "vocabularyCollocationMeaning": "一次，曾经"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la fois",
+                    "vocabularyCollocationMeaning": "同时，一起"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "des fois",
+                    "vocabularyCollocationMeaning": "有时候（口语）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "cette fois",
+                    "vocabularyCollocationMeaning": "这次"
+                }
+            ],
+            "synonymAnalysis": "fois（表次数，可数）vs temps（表时间，不可数）：j'ai fait ça trois fois（我做了三次）vs j'ai du temps libre（我有空闲时间）。",
+            "derivedWords": [],
+            "pluralForm": "fois（复数形式同单数）"
+        },
+        {
+            "index": "20",
+            "vocabulary": "peut-être",
+            "partOfSpeech": "adv.",
+            "definition": "可能，也许",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "peut-être que + indicatif",
+                    "vocabularyCollocationMeaning": "也许……（后接直陈式）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "peut-être + 倒装",
+                    "vocabularyCollocationMeaning": "也许……（置于句首须倒装）"
+                }
+            ],
+            "synonymAnalysis": "peut-être（也许，可能性不确定）vs probablement（很可能，可能性较高）vs sûrement（肯定，几乎确定）：可能性程度依次升高。",
+            "derivedWords": [],
+            "useExplanation": "peut-être 置于句末无需倒装；置于句首时须主谓倒装（Peut-être viendra-t-il.）或使用 que 引导（Peut-être qu'il viendra.，口语更常用）。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Bonjour, c'est Philippe. Qu'est-ce que tu fais dimanche? On va au cinéma? Alors, dimanche à neuf heures, devant le cinéma. Ça va? À midi, je vais manger avec Gérard, tu viens? Euh... j'ai des exercices à faire. Je regrette beaucoup. Bon, une autre fois peut-être.",
+            "chineseTranslation": "你好，我是菲利普。你星期天干什么？我们去看电影怎么样？那就星期天九点，电影院门口见。可以吗？中午我要和热拉尔一起吃饭，你来吗？嗯……我有练习要做。真是太遗憾了。好吧，也许下次吧。",
+            "fr2cnStrategy": "① Qu'est-ce que tu fais dimanche 中疑问句语序维持原样，中文译为「你星期天干什么」，语序与法语一致，无需调整；② On va au cinéma? 译为「我们去看电影怎么样？」，补译了「怎么样」以还原邀请语气，属于增译；③ devant le cinéma 译为「电影院门口」而非「在电影院前面」，更符合中文口语习惯，属于表达转换；④ je vais manger 近将来时译为「我要……吃饭」，体现计划性，不译成「我将要」以免书面腔过重；⑤ J'ai des exercices à faire 中 à faire 的「要做」直接附在宾语后，中文正好也是后置定语，处理较为自然；⑥ Je regrette beaucoup 中 beaucoup 不宜直译为「很多」，应转换为程度副词「真是太……」，属于词性与搭配转换。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "你星期天有时间吗？我们去看电影吧。",
+                "frenchTranslation": "Tu as le temps dimanche? On va au cinéma?",
+                "cn2frStrategy": "① 「有时间」译为 avoir le temps，固定搭配；② 「我们去……吧」用 on va au cinéma 的近将来或语调疑问句形式，简洁自然；③ dimanche 作时间状语直接置于句末，无需介词。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "中午见！我在电影院门口等你。",
+                "frenchTranslation": "À midi! Je t'attends devant le cinéma.",
+                "cn2frStrategy": "① 「中午见」译为 À midi，à 引导时间的告别语；② 「等你」用 attendre + 直接宾语代词 te（缩略为 t'），注意宾语代词位置在动词前；③ 「在……门口」译为 devant + 场所，介词选用 devant 而非 avant。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "真遗憾，我有事要做，下次吧。",
+                "frenchTranslation": "Je regrette, j'ai des choses à faire. Une autre fois peut-être.",
+                "cn2frStrategy": "① 「真遗憾」直接用 je regrette，无需加 vraiment，已有礼貌遗憾之意；② 「有事要做」用 avoir des choses à faire，固定结构，à 不可换为 de；③ 「下次吧」译为 une autre fois peut-être，peut-être 置于句末无需倒装。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "你也许可以和我们一起去吃午饭。",
+                "frenchTranslation": "Peut-être que tu peux venir manger avec nous à midi.",
+                "cn2frStrategy": "① peut-être 置于句首时，用 peut-être que + 直陈式，规避倒装；② 「和我们一起」译为 avec nous，重读代词形式；③ 「去吃」译为 venir manger，用近将来逻辑或不定式连用；④ 「午饭」时间用介词短语 à midi 置于句末。"
+            }
+        ]
+    }
+}

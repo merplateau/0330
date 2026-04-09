@@ -1,0 +1,597 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Comment allez-vous?",
+            "translatedSentence": "您好吗？",
+            "sentenceStructure": "倒装疑问句，主语为 vous，谓语为 allez，comment 为方式状语，置于句首构成特殊疑问句。",
+            "grammarAnalysis": "① aller 在此作系动词，表示身体状况或状态，相当于 se porter。② 倒装结构：主语代词 vous 置于动词 allez 之后，以连字符连接，构成正式疑问句。③ comment 引导方式疑问词。",
+            "commonMistakes": "学生常将 Comment allez-vous? 误解为询问去向（aller 作「去」）。此处 aller 固定用于表达健康状态，不可换用其他动词。另需注意此句为正式表达，对熟人可用 Comment vas-tu? 或 Comment ça va?"
+        },
+        {
+            "index": 2,
+            "sentence": "Très bien, merci. Et vous?",
+            "translatedSentence": "很好，谢谢。您呢？",
+            "sentenceStructure": "省略句。完整形式为 Je vais très bien, merci.，口语中常省略主语和动词。Et vous? 为反问短句，et 表「那么，而」，用于追问对方。",
+            "grammarAnalysis": "① 副词 très 修饰 bien，加强程度。② merci 为感谢用语，可独立使用，无需动词。③ Et vous? 结构为 et + 重读人称代词，用于礼貌地反问，相当于「您呢？」。",
+            "commonMistakes": "学生容易将 Et vous? 译成「和您？」，误解了 et 的用法。在此句式中，et 引导的是一个转折性反问，意为「那您呢」，而非并列连词「和」。"
+        },
+        {
+            "index": 3,
+            "sentence": "Moi aussi, merci.",
+            "translatedSentence": "我也是，谢谢。",
+            "sentenceStructure": "省略句，完整形式为 Moi aussi, je vais bien, merci.。重读人称代词 moi 置于句首起强调作用，aussi 表「也」。",
+            "grammarAnalysis": "① moi 为重读人称代词（pronom tonique），在省略结构中代替完整主语和谓语。② aussi 作副词，表示同样或也，固定与重读代词连用构成「moi aussi / toi aussi」等结构。",
+            "commonMistakes": "学生有时混淆 moi aussi（我也是）与 moi non plus（我也不）。前者用于肯定语境，后者用于否定语境。如对方说 Je ne vais pas bien，应回答 Moi non plus，而非 Moi aussi。"
+        },
+        {
+            "index": 4,
+            "sentence": "Tiens! Qui est-ce?",
+            "translatedSentence": "咦！这（他/她）是谁？",
+            "sentenceStructure": "Tiens! 为感叹词，独立使用。Qui est-ce? 为主语疑问句，est-ce 为系动词 être + 指示代词 ce 的固定结合，qui 为疑问代词作表语。",
+            "grammarAnalysis": "① Tiens! 由动词 tenir 命令式第二人称单数演变而来，现作感叹词，表惊讶，意为「咦、哎、嘿」。② Qui est-ce? 是对人提问的疑问句，等同于 Qui est-il/elle? 或 C'est qui?（口语）。③ est-ce 中 ce 为中性指示代词，指代不明身份的人或事物。",
+            "commonMistakes": "学生常将 Qui est-ce? 与 Qu'est-ce que c'est? 混淆。前者询问人（谁），后者询问事物（什么）。另需注意 Tiens! 在口语中极常用，不可将其视为实义动词 tenir 的命令式。"
+        },
+        {
+            "index": 5,
+            "sentence": "C'est ma sœur, Emma.",
+            "translatedSentence": "她是我姐姐（妹妹），埃玛。",
+            "sentenceStructure": "主语为 ce（中性指示代词），谓语为 être（第三人称单数 est），表语为名词短语 ma sœur，Emma 为同位语。",
+            "grammarAnalysis": "① C'est 结构：ce + être，用于介绍或指明人或事物的身份，相当于「这/他/她是……」。② ma 为阴性物主形容词第一人称单数，修饰 sœur。③ Emma 作同位语对 ma sœur 进行具体说明，两者之间用逗号隔开。",
+            "commonMistakes": "学生易将 C'est 与 Il/Elle est 混淆。C'est 后接名词短语（含冠词或物主形容词），Il/Elle est 后接不带冠词的职业名词或形容词。如：C'est une étudiante. 但 Elle est étudiante."
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "Comment allez-vous?",
+            "meaning": "您好吗？（正式问候）",
+            "usage": "固定问候语，用于正式场合或对不熟悉的人。动词 aller 此处表示身体或精神状态，不可替换为其他动词。",
+            "exampleSentence": "— Bonjour, monsieur. Comment allez-vous?"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "Comment vas-tu?",
+            "meaning": "你好吗？（非正式问候）",
+            "usage": "Comment allez-vous? 的非正式版本，用 tu 代替 vous，适合朋友、家人之间。",
+            "exampleSentence": "— Salut, Fanny. Comment vas-tu?"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "Comment ça va?",
+            "meaning": "（你/您）好吗？",
+            "usage": "最口语化的问候表达，ça 指代状态，va 为 aller 第三人称单数。回答可用 Ça va bien. 或 Ça va.（很好）。可正式也可非正式。",
+            "exampleSentence": "— Comment ça va? — Ça va bien, merci."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "Très bien, merci.",
+            "meaning": "很好，谢谢。",
+            "usage": "问候的标准答语，très bien 也可替换为 bien、assez bien、pas mal 等，视实际情况而定。",
+            "exampleSentence": "— Comment allez-vous? — Très bien, merci."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "Et vous? / Et toi?",
+            "meaning": "您呢？/ 你呢？",
+            "usage": "et + 重读人称代词，用于礼貌反问对方情况。正式场合用 Et vous?，非正式用 Et toi?",
+            "exampleSentence": "— Très bien, merci. Et vous?"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "Moi aussi.",
+            "meaning": "我也是。",
+            "usage": "重读代词 + aussi，用于肯定语境中表示「我也如此」。否定语境对应 Moi non plus.（我也不是）。",
+            "exampleSentence": "— Très bien, merci. — Moi aussi, merci."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "C'est + 名词短语",
+            "meaning": "这是……；他/她是……",
+            "usage": "C'est 后接带冠词或物主形容词的名词短语，用于介绍身份、指认人物。与 Il/Elle est + 裸名词 区分使用。",
+            "exampleSentence": "C'est ma sœur, Emma."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "Qui est-ce?",
+            "meaning": "这是谁？/ 他/她是谁？",
+            "usage": "对人询问身份的疑问句固定结构，est-ce 不可拆分。口语也可用 C'est qui?",
+            "exampleSentence": "— Tiens! Qui est-ce? — C'est ma sœur, Emma."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "Bonjour + madame / monsieur",
+            "meaning": "早安/日安，夫人 / 先生",
+            "usage": "法语正式打招呼的固定搭配。注意 bonjour 后直接加称呼语，不加姓名（不说 Bonjour, Madame Dupont 在正式场合中 madame 后不加姓）。",
+            "exampleSentence": "— Bonjour, madame. — Bonjour, monsieur."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "Salut + 名字",
+            "meaning": "嗨，……（非正式打招呼）",
+            "usage": "口语化打招呼，用于熟人之间，后接名字。也可用作告别语「再见（俗）」。",
+            "exampleSentence": "— Salut, Fanny. — Salut, Yves."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "Moi, ça va.",
+            "meaning": "我还好。",
+            "usage": "口语中以 moi 作话题起首，加强对比，后接 ça va 表示状态尚可。省略号（...）表示说话人停顿或语气犹豫。",
+            "exampleSentence": "— Moi, ça va. (...) Tiens! Qui est-ce?"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "bonjour",
+            "partOfSpeech": "n.m.",
+            "definition": "①早安；日安（打招呼用语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dire bonjour à qn.",
+                    "vocabularyCollocationMeaning": "向某人问好"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Bonjour, madame / monsieur",
+                    "vocabularyCollocationMeaning": "女士/先生，您好"
+                }
+            ],
+            "synonymAnalysis": "bonjour 用于白天（早上至傍晚）打招呼；bonsoir 用于傍晚及夜间打招呼；bonne nuit 仅用于道晚安（分别时）。",
+            "derivedWords": [],
+            "pluralForm": "bonjours"
+        },
+        {
+            "index": "2",
+            "vocabulary": "madame",
+            "partOfSpeech": "n.f.",
+            "definition": "①夫人；太太（对已婚女性的尊称）②女士（泛指成年女性）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Bonjour, madame.",
+                    "vocabularyCollocationMeaning": "女士，您好。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Madame la directrice",
+                    "vocabularyCollocationMeaning": "女校长/女主任"
+                }
+            ],
+            "synonymAnalysis": "madame 原指已婚女性，现代法语中常泛指成年女性；mademoiselle 传统上指未婚女性，现官方场合已逐步废弃，统一用 madame。",
+            "derivedWords": [],
+            "pluralForm": "mesdames"
+        },
+        {
+            "index": "3",
+            "vocabulary": "monsieur",
+            "partOfSpeech": "n.m.",
+            "definition": "①先生（对男性的尊称）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Bonjour, monsieur.",
+                    "vocabularyCollocationMeaning": "先生，您好。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Monsieur le professeur",
+                    "vocabularyCollocationMeaning": "教授先生"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "messieurs"
+        },
+        {
+            "index": "4",
+            "vocabulary": "comment",
+            "partOfSpeech": "adv.",
+            "definition": "①怎样；如何（疑问副词）②什么（表示没听清，请求重复）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Comment allez-vous?",
+                    "vocabularyCollocationMeaning": "您好吗？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Comment s'appelle-t-il?",
+                    "vocabularyCollocationMeaning": "他叫什么名字？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Comment? / Comment, s'il vous plaît?",
+                    "vocabularyCollocationMeaning": "什么？请再说一遍？"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "comment 作疑问副词，既可用于特殊疑问句句首（Comment vas-tu?），也可单独用于请求重复（Comment?）。注意与 combien（多少）、pourquoi（为什么）区分。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "très",
+            "partOfSpeech": "adv.",
+            "definition": "①很；非常（程度副词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "très bien",
+                    "vocabularyCollocationMeaning": "很好"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "très content(e)",
+                    "vocabularyCollocationMeaning": "非常高兴"
+                }
+            ],
+            "synonymAnalysis": "très 修饰形容词和副词，表程度「很、非常」；beaucoup 修饰动词，表程度「很，非常（做某事）」。不可混用：正确为 très bien，Il travaille beaucoup；错误为 beaucoup bien 或 très travailler。",
+            "derivedWords": [],
+            "useExplanation": "très 只能修饰形容词和副词，不可直接修饰动词。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "bien",
+            "partOfSpeech": "adv.",
+            "definition": "①好；不错 ②确实；的确 ③很（加强语气）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller bien",
+                    "vocabularyCollocationMeaning": "状态好"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "très bien",
+                    "vocabularyCollocationMeaning": "非常好"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bien sûr",
+                    "vocabularyCollocationMeaning": "当然"
+                }
+            ],
+            "synonymAnalysis": "bien 作副词表「好」；bon 作形容词表「好的」，修饰名词。不可混用：Il parle bien français.（他法语说得好）；C'est un bon professeur.（他是个好老师）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bon",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "好的；味道好的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "mieux",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "更好（bien 的比较级）"
+                }
+            ],
+            "useExplanation": "bien 作副词位于动词之后或形容词/副词之前修饰；作形容词时（较少见）意为「好的，漂亮的」，但通常以 bon/bonne 替代。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "merci",
+            "partOfSpeech": "interj.",
+            "definition": "①谢谢（感谢用语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Merci beaucoup.",
+                    "vocabularyCollocationMeaning": "非常感谢。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "merci de / pour qch.",
+                    "vocabularyCollocationMeaning": "为……而感谢"
+                }
+            ],
+            "synonymAnalysis": "merci 表感谢，不区分人称。回应感谢可说 De rien.（不客气）、Je vous en prie.（正式）、Avec plaisir.（乐意效劳）。",
+            "derivedWords": [],
+            "useExplanation": "merci 可单独使用，也可加 beaucoup（非常感谢）。注意 merci de + 不定式或名词 / merci pour + 名词，均表示「为……感谢」。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "et",
+            "partOfSpeech": "conj.",
+            "definition": "①和；以及（连接并列成分）②那么；而（用于反问，如 Et vous?）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Et vous? / Et toi?",
+                    "vocabularyCollocationMeaning": "您呢？/ 你呢？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "A et B",
+                    "vocabularyCollocationMeaning": "A 和 B"
+                }
+            ],
+            "synonymAnalysis": "et 为最常用的并列连词；ainsi que 更正式，书面语中连接并列成分；ou 表选择「或者」，注意区分。",
+            "derivedWords": [],
+            "useExplanation": "et 在数字中也有特殊用法：21（vingt et un）、31（trente et un）等十位数加一时用 et 连接，其余则不用 et。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "vous",
+            "partOfSpeech": "pron.",
+            "definition": "①您（第二人称单数敬语）②你们；您们（第二人称复数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Et vous?",
+                    "vocabularyCollocationMeaning": "您呢？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Comment allez-vous?",
+                    "vocabularyCollocationMeaning": "您好吗？"
+                }
+            ],
+            "synonymAnalysis": "vous 作为敬语单数对应 tu（非正式单数）。法语中 tu/vous 的选择至关重要：tu 用于家人、朋友、同龄熟人；vous 用于陌生人、上级、正式场合。错误使用 tu 对陌生人可能显得无礼。",
+            "derivedWords": [],
+            "useExplanation": "vous 既作主语代词，也作宾语代词（直接宾语/间接宾语）和重读代词。与动词连用作主语时，动词用第二人称复数形式。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "moi",
+            "partOfSpeech": "pron.",
+            "definition": "①我（重读人称代词，第一人称单数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Moi aussi.",
+                    "vocabularyCollocationMeaning": "我也是。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "C'est moi.",
+                    "vocabularyCollocationMeaning": "是我。"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "moi non plus",
+                    "vocabularyCollocationMeaning": "我也不是（否定语境）"
+                }
+            ],
+            "synonymAnalysis": "moi 为重读代词，je 为弱式主语代词。moi 不能直接作主语（*Moi vais），但可用于强调（Moi, je vais bien.）、省略句（Moi aussi.）、介词后（avec moi）及 c'est 后（C'est moi.）。",
+            "derivedWords": [],
+            "useExplanation": "重读代词 moi 用于：①强调主语（Moi, je...）②省略句（Moi aussi.）③介词之后（chez moi, avec moi）④être 之后作表语（C'est moi.）⑤对比结构（lui et moi）。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "aussi",
+            "partOfSpeech": "adv.",
+            "definition": "①也；同样 ②因此（书面语，引导结果从句）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "moi aussi",
+                    "vocabularyCollocationMeaning": "我也是"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "toi aussi",
+                    "vocabularyCollocationMeaning": "你也是"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aussi + adj. + que",
+                    "vocabularyCollocationMeaning": "和……一样……（同级比较）"
+                }
+            ],
+            "synonymAnalysis": "aussi 表「也」（肯定）；non plus 表「也不」（否定）。如：Il parle français. Moi aussi.（他会法语，我也会）；Il ne parle pas français. Moi non plus.（他不会法语，我也不会）。",
+            "derivedWords": [],
+            "useExplanation": "aussi 作「也」时置于句末或动词后；作「因此」时置于句首，后接倒装（书面语）。另可用于 aussi...que 同级比较结构。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "salut",
+            "partOfSpeech": "n.m.",
+            "definition": "①致意；问候 ②你好；再见（口语，非正式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Salut, (prénom)!",
+                    "vocabularyCollocationMeaning": "嗨，（名字）！（打招呼或道别）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire un salut",
+                    "vocabularyCollocationMeaning": "打个招呼；行礼"
+                }
+            ],
+            "synonymAnalysis": "salut 为口语化打招呼，相当于英语 hi/bye；bonjour/bonsoir 为正式打招呼；au revoir 为正式道别。考研写作中应避免使用 salut。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "saluer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "向……致意；打招呼"
+                }
+            ],
+            "pluralForm": "saluts"
+        },
+        {
+            "index": "13",
+            "vocabulary": "ça",
+            "partOfSpeech": "pron.",
+            "definition": "①这个；那个（中性指示代词，口语化，cela 的缩略形式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Ça va.",
+                    "vocabularyCollocationMeaning": "还好。/ 可以。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Comment ça va?",
+                    "vocabularyCollocationMeaning": "你好吗？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Ça, c'est...",
+                    "vocabularyCollocationMeaning": "这个嘛，是……"
+                }
+            ],
+            "synonymAnalysis": "ça 是 cela 的口语缩略形式，均为中性指示代词；cela 更正式，书面语中使用；ça 仅用于口语或非正式书写。",
+            "derivedWords": [],
+            "useExplanation": "ça 在口语中极为常用，可替代 cela 指代前文提到的事物，也可用作无人称主语（Ça fait mal. 这很疼）。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "toi",
+            "partOfSpeech": "pron.",
+            "definition": "①你（重读人称代词，第二人称单数非正式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Et toi?",
+                    "vocabularyCollocationMeaning": "你呢？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "C'est toi.",
+                    "vocabularyCollocationMeaning": "是你。"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chez toi",
+                    "vocabularyCollocationMeaning": "在你家"
+                }
+            ],
+            "synonymAnalysis": "toi 为重读代词，tu 为弱式主语代词；两者均为第二人称单数非正式形式，对应正式的 vous/vous。用法区分同 moi/je。",
+            "derivedWords": [],
+            "useExplanation": "toi 的用法与 moi 完全平行：用于强调、省略句、介词后、être 后及对比结构。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "qui",
+            "partOfSpeech": "pron.",
+            "definition": "①谁（疑问代词，指人）②……的人；那个（关系代词，主语位置）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Qui est-ce?",
+                    "vocabularyCollocationMeaning": "这是谁？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Qui est-ce qui...?",
+                    "vocabularyCollocationMeaning": "是谁……？（强调疑问）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la personne qui...",
+                    "vocabularyCollocationMeaning": "……的那个人（关系从句）"
+                }
+            ],
+            "synonymAnalysis": "qui 作疑问代词指人；que/qu' 指物（作宾语）；quoi 指物（作重读或介词后宾语）；lequel/laquelle 指人或物，有性数变化，多用于介词后。",
+            "derivedWords": [],
+            "useExplanation": "qui 作疑问代词时不变形，无性数变化；作关系代词时也不变形，在从句中作主语。注意区分 qui est-ce?（他是谁）与 qu'est-ce que c'est?（这是什么）。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "ce",
+            "partOfSpeech": "pron.",
+            "definition": "①这；那；这个；那个（中性指示代词）②（作 être 的主语，用于 c'est 结构）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "C'est + 名词短语",
+                    "vocabularyCollocationMeaning": "这/他/她是……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Ce sont + 名词复数",
+                    "vocabularyCollocationMeaning": "这些/他们是……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est que...",
+                    "vocabularyCollocationMeaning": "（原因是）……"
+                }
+            ],
+            "synonymAnalysis": "ce 作中性代词与 ça/cela 有别：ce 只用于 c'est / ce sont 结构，以及关系代词从句中（ce que, ce qui）；ça/cela 可独立使用作主语、宾语等。",
+            "derivedWords": [],
+            "useExplanation": "ce 在 c'est 结构中是固定搭配，不可替换为 il/elle。注意复数形式：C'est → Ce sont（如：Ce sont mes amis.）。在口语中也常听到 C'est mes amis.（口语容错）。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "ma",
+            "partOfSpeech": "adj.",
+            "definition": "①我的（物主形容词，阴性单数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ma sœur",
+                    "vocabularyCollocationMeaning": "我的姐姐/妹妹"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ma mère",
+                    "vocabularyCollocationMeaning": "我的母亲"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阳性单数 mon，阴性单数 ma（在元音或哑音 h 开头的阴性名词前用 mon，如 mon amie），复数 mes（阴阳性相同）",
+            "position": "置于名词前"
+        },
+        {
+            "index": "18",
+            "vocabulary": "sœur",
+            "partOfSpeech": "n.f.",
+            "definition": "①姐姐；妹妹",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ma sœur",
+                    "vocabularyCollocationMeaning": "我的姐姐/妹妹"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grande sœur / petite sœur",
+                    "vocabularyCollocationMeaning": "姐姐 / 妹妹"
+                }
+            ],
+            "synonymAnalysis": "sœur 泛指姐妹，不区分姐/妹；若需区分，用 grande sœur（姐姐）或 petite sœur（妹妹）。对应男性词为 frère（兄弟）。",
+            "derivedWords": [],
+            "pluralForm": "sœurs"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Bonjour, madame. Comment allez-vous? Très bien, merci. Et vous? Moi aussi, merci. Tiens! Qui est-ce? C'est ma sœur, Emma.",
+            "chineseTranslation": "女士，您好。您好吗？很好，谢谢。您呢？我也很好，谢谢。咦！这是谁？她是我妹妹，埃玛。",
+            "fr2cnStrategy": "① Comment allez-vous? 是固定问候语，直译为「您好吗」，保留疑问语气；② Très bien 省略了主语和动词，翻译时可补全为「很好」，无需刻意补出「我」；③ Et vous? 中 et 是追问用法，译为「您呢？」而非「和您」，属于意译调整；④ Moi aussi 省略了完整句子，中文需补充「也很好」以保证语义完整；⑤ Tiens! 为感叹词，译为「咦！」，传达惊讶语气；⑥ C'est ma sœur 中 c'est 介绍身份，译为「她是」而非「这是」，更符合中文表达习惯。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "您好，先生。您好吗？",
+                "frenchTranslation": "Bonjour, monsieur. Comment allez-vous?",
+                "cn2frStrategy": "① 「您好」译为 Bonjour，注意 bonjour 后接称呼语时用逗号隔开；② 「您好吗」用正式问候 Comment allez-vous?，含倒装结构，体现对 monsieur 的礼貌语体；③ 中文两个短句直接对应两个法语句子，语序无需调整。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "很好，谢谢。你呢？",
+                "frenchTranslation": "Très bien, merci. Et toi?",
+                "cn2frStrategy": "① 「很好」用 très bien，注意 très 修饰副词 bien，不可写成 beaucoup bien；② 「谢谢」直接用感叹词 merci；③ 「你呢？」用非正式的 Et toi?（若语境为正式则用 Et vous?），et 表追问转折。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "咦，这是谁？她是我姐姐。",
+                "frenchTranslation": "Tiens! Qui est-ce? C'est ma sœur.",
+                "cn2frStrategy": "① 「咦」用感叹词 Tiens!，注意其来源于动词 tenir 命令式，现已词汇化为感叹词；② 「这是谁」用疑问句 Qui est-ce?，est-ce 固定搭配不可拆分；③ 「她是我姐姐」用 C'est ma sœur.，注意 C'est 后须接带物主形容词的名词短语，而非 Elle est sœur.（错误）。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "嗨，伊夫。你好吗？还好。你呢？我也是。",
+                "frenchTranslation": "Salut, Yves. Comment ça va? Ça va. Et toi? Moi aussi.",
+                "cn2frStrategy": "① 「嗨」用口语化的 Salut，后接名字用逗号分隔；② 「你好吗」用口语化的 Comment ça va?，与 Comment vas-tu? 同义但更自然；③ 「还好」用 Ça va.，比 Très bien 程度稍低，语气更随意；④ 「我也是」用 Moi aussi.（重读代词 + aussi），注意区分肯定语境用 aussi，否定语境用 non plus。"
+            }
+        ]
+    }
+}
