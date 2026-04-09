@@ -1,0 +1,1418 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il est le fils unique d'un instituteur et d'une institutrice.",
+            "translatedSentence": "他是一位小学男教师和一位小学女教师的独生子。",
+            "sentenceStructure": "主语 Il — 谓语 est — 表语 le fils unique d'un instituteur et d'une institutrice（名词短语，含介词 de 引导的限定成分）。",
+            "grammarAnalysis": "① unique 作定语，置于名词 fils 后，意为“唯一的”。② de + 不定冠词的缩合形式：d'un（阳性）、d'une（阴性），分别指代阳性名词 instituteur 和阴性名词 institutrice。③ instituteur / institutrice 为同一词的阴阳性变体，体现法语名词的性别区分。",
+            "commonMistakes": "① 学生易误将 unique 理解为“独特的”，此处应译为“唯一的”。② 介词 de 后接不定冠词时须缩合（de + un → d'un），不可写成 de un。"
+        },
+        {
+            "index": "2",
+            "sentence": "Ma tante, Yvonne et son mari sont aussi professeurs.",
+            "translatedSentence": "我的姑妈伊冯娜和她的丈夫也是教师。",
+            "sentenceStructure": "主语 Ma tante, Yvonne et son mari（同位语结构，Ma tante 与 Yvonne 为同位语）— 谓语 sont — 表语 aussi professeurs。",
+            "grammarAnalysis": "① 表语为职业名词时，法语通常省略冠词（professeurs 前无 des）。② aussi 作副词，修饰整个谓语，表示“也”，位置在系动词与表语之间。③ son mari 中 son 指代 Yvonne（阴性），但因 mari 为阳性名词，物主形容词用阳性形式 son。",
+            "commonMistakes": "① 职业表语前不加冠词是初学者的高频错误，如误说 sont aussi des professeurs。② son 的性数与所修饰名词一致，而非与所有者一致，学生易混淆。"
+        },
+        {
+            "index": "3",
+            "sentence": "L'homme derrière mon père, à côté de Yvonne, qui est-ce?",
+            "translatedSentence": "站在我父亲身后、伊冯娜旁边的那个男人是谁？",
+            "sentenceStructure": "主语 L'homme derrière mon père, à côté de Yvonne（名词短语，含两个介词短语作后置定语）— 谓语（倒装）est-ce — 疑问代词 qui。",
+            "grammarAnalysis": "① qui est-ce? 是强调疑问句型，也可写作 Qui est-ce que c'est?，用于询问人的身份。② derrière 和 à côté de 均为介词短语，后置修饰名词 l'homme。③ 句中用强调结构将主语前置，再以 qui est-ce 反问，体现口语化语气。",
+            "commonMistakes": "① 学生易将 qui est-ce 与 qu'est-ce que c'est 混淆：前者问人，后者问物。② à côté de 是固定介词短语，de 不可省略，不能说 à côté Yvonne。"
+        },
+        {
+            "index": "4",
+            "sentence": "Il n'est pas marié. Un personnage, lui!",
+            "translatedSentence": "他没有结婚。他可真是个人物！",
+            "sentenceStructure": "第一句：主语 Il — 否定谓语 n'est pas — 表语 marié。第二句：倒装强调句，名词短语 Un personnage 作表语前置，lui 为强调人称代词，替代主语。",
+            "grammarAnalysis": "① n'est pas marié：marié 作形容词表语，意为“已婚的”，否定形式表示未婚。② Un personnage, lui! 是感叹句式，将表语 un personnage 置于句首，lui 为重读人称代词，起强调作用，此结构常用于口语，语气生动。",
+            "commonMistakes": "① 学生易忽视重读人称代词 lui 的强调功能，将其等同于普通主语代词 il。② marié 作表语时随主语性别变化：il est marié / elle est mariée，需注意阴阳性配合。"
+        },
+        {
+            "index": "5",
+            "sentence": "Ils ont encore un fils, le frère aîné de ma mère, c'est mon oncle Paul.",
+            "translatedSentence": "他们还有一个儿子，就是我母亲的哥哥，那便是我的舅舅保罗。",
+            "sentenceStructure": "主句 Ils ont encore un fils — 同位语 le frère aîné de ma mère（对 un fils 进行说明）— 强调句 c'est mon oncle Paul（进一步确认身份）。",
+            "grammarAnalysis": "① encore 作副词，意为“还，又”，修饰动词 ont。② 同位语 le frère aîné de ma mère 紧跟 un fils，用逗号隔开，补充说明其身份。③ c'est 引出识别句，用于介绍或确认人物身份，是法语中常用的强调结构。④ aîné 作形容词，意为“年长的、长子（女）的”，此处后置修饰 frère。",
+            "commonMistakes": "① encore 在此表“还有”，而非“再一次”，学生易受汉语干扰误译。② 识别句 c'est + 名词 与 il est + 职业/身份 用法不同：c'est mon oncle（强调身份确认），而职业则说 il est journaliste（无冠词）。"
+        },
+        {
+            "index": "6",
+            "sentence": "Voilà, vous connaissez toute la famille. Ah non! Il y a encore Médor, le chien de mes grands-parents.",
+            "translatedSentence": "好了，您现在认识了全家人。哦，不对！还有梅多，我祖父母的狗。",
+            "sentenceStructure": "第一句：Voilà 作话语标记词 — 主语 vous — 谓语 connaissez — 宾语 toute la famille。第二句：感叹词 Ah non! 构成插入语 — il y a 结构引出新信息 Médor — 同位语 le chien de mes grands-parents 作补充说明。",
+            "grammarAnalysis": "① Voilà 此处作话语标记词，表示“好了，就这样”，标志话题结束或小结。② connaître 此处为不规则动词，意为“认识（人或事物）”，与 savoir（知道某事、会做某事）有明确区别。③ il y a 是固定句型，意为“有，存在”，后接名词短语。④ toute la famille：tout + 定冠词 + 名词，表示“整个……，全部……”。",
+            "commonMistakes": "① connaître 与 savoir 的区别是考研高频考点：connaître 接人或地点，savoir 接从句或动词不定式。② il y a 后接单数或复数名词均可，不随名词变化，学生易误用 il sont 等形式。"
+        },
+        {
+            "index": "7",
+            "sentence": "Moi, je suis Jacques Bertrand. Je ne suis pas sur la photo de mariage de mes parents, bien sûr!",
+            "translatedSentence": "我是雅克·贝特朗。我当然不在父母的婚礼照片上！",
+            "sentenceStructure": "第一句：重读人称代词 Moi 前置作强调 — 主语 je — 谓语 suis — 表语 Jacques Bertrand。第二句：主语 Je — 否定谓语 ne suis pas — 介词短语 sur la photo de mariage de mes parents — 插入语 bien sûr。",
+            "grammarAnalysis": "① Moi, je... 是法语口语中常见的强调句式，用重读代词 moi 强调主语。② ne...pas 构成基本否定结构，包围变位动词 suis。③ bien sûr 是固定副词短语，意为“当然”，常置于句尾，语气轻松幽默。④ sur la photo：介词 sur 表示“在……上面”，此处指出现在照片中。",
+            "commonMistakes": "① 学生易忽略 Moi, je 的强调功能，认为 moi 是多余的。② bien sûr 中 sûr 为形容词，需与 bien 固定搭配使用，不可单独说 sûr 表示“当然”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être le fils / la fille unique de qn.",
+            "meaning": "是某人的独生子/独生女",
+            "usage": "固定表达，unique 后置于名词，强调“唯一”。注意 unique 置于名词后表“唯一的”，置于名词前可表“独特的”。",
+            "exampleSentence": "Il est le fils unique d'un instituteur et d'une institutrice."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "à côté de qn./qch.",
+            "meaning": "在……旁边",
+            "usage": "固定介词短语，de 不可省略。与 près de（靠近）相比，à côté de 更强调紧邻关系。",
+            "exampleSentence": "L'homme derrière mon père, à côté de Yvonne, qui est-ce?"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "C'est de famille.",
+            "meaning": "这是家族传统。/这是遗传。",
+            "usage": "固定表达，字面意为“这是家庭（的事）”，用于说明某种特质或职业在家族中代代相传，语体偏口语。",
+            "exampleSentence": "Ma tante, Yvonne et son mari sont aussi professeurs. C'est de famille!"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "ne pas être marié(e)",
+            "meaning": "未婚，没有结婚",
+            "usage": "marié(e) 作表语形容词，随主语性别变化。否定结构 ne...pas 置于变位动词两侧。",
+            "exampleSentence": "Il n'est pas marié."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "avoir ... ans",
+            "meaning": "……岁",
+            "usage": "法语表达年龄用 avoir，而非 être。数字直接跟 ans，不加介词。",
+            "exampleSentence": "Mon père, Alain Bertrand, a 32 ans."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "il y a + 名词",
+            "meaning": "有……，存在……",
+            "usage": "非人称结构，il 为形式主语，不随后接名词变化。可用于存在句，相当于汉语“有”。与 voilà（你看，这是）区分：il y a 表存在，voilà 表指示。",
+            "exampleSentence": "Il y a encore Médor, le chien de mes grands-parents."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "connaître qn./qch.",
+            "meaning": "认识（某人）；了解（某事物）",
+            "usage": "及物动词，直接接人或地点名词。区别于 savoir（知道某事、会做某事）：connaître 侧重熟悉感，savoir 侧重知识或能力。",
+            "exampleSentence": "Voilà, vous connaissez toute la famille."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "être sur la photo",
+            "meaning": "在照片上（出现）",
+            "usage": "介词 sur 表示“在……上面/当中”，此处为抽象用法，表示出现于照片中。",
+            "exampleSentence": "Je ne suis pas sur la photo de mariage de mes parents, bien sûr!"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "bien sûr",
+            "meaning": "当然，自然",
+            "usage": "固定副词短语，常置于句尾或独立使用，语气轻松肯定。可与 bien entendu（当然）互换，但 bien sûr 更口语化。",
+            "exampleSentence": "Je ne suis pas sur la photo de mariage de mes parents, bien sûr!"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "le frère aîné / la sœur aînée de qn.",
+            "meaning": "某人的哥哥/姐姐",
+            "usage": "aîné(e) 表示“年长的，长兄（姐）”，后置于名词。反义词为 cadet(te)（年幼的，小弟/妹）。",
+            "exampleSentence": "le frère aîné de ma mère, c'est mon oncle Paul"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "s'appeler + 名字",
+            "meaning": "叫做……，名字是……",
+            "usage": "代词式动词，变位时加反身代词（me, te, s', nous, vous, s'）。用于介绍姓名，比 avoir le nom de 更常用、更口语化。",
+            "exampleSentence": "Il a une sœur, elle s'appelle Yvonne."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "toute la famille",
+            "meaning": "全家，整个家庭",
+            "usage": "tout + 定冠词 + 名词，表示全体或整体。tout 的形式随名词性数变化：tout / toute / tous / toutes。",
+            "exampleSentence": "Voilà, vous connaissez toute la famille."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "souvenir",
+            "partOfSpeech": "n.m.",
+            "definition": "①回忆，记忆 ②纪念品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le souvenir de qch.",
+                    "vocabularyCollocationMeaning": "记得某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "garder un bon souvenir de qch.",
+                    "vocabularyCollocationMeaning": "对某事留有美好记忆"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un souvenir d'enfance",
+                    "vocabularyCollocationMeaning": "童年记忆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "se souvenir",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "想起，记着（se souvenir de qch./qn.）"
+                }
+            ],
+            "pluralForm": "souvenirs"
+        },
+        {
+            "index": "2",
+            "vocabulary": "se souvenir",
+            "partOfSpeech": "v.pron.",
+            "definition": "想起，记着",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se souvenir de qn./qch.",
+                    "vocabularyCollocationMeaning": "记得某人/某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se souvenir que + 从句",
+                    "vocabularyCollocationMeaning": "记得……"
+                }
+            ],
+            "synonymAnalysis": "se souvenir de vs se rappeler：两者均表示“记起”，se rappeler 后可直接接名词宾语（se rappeler qch.），而 se souvenir 必须加介词 de（se souvenir de qch.）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "souvenir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "回忆；纪念品"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je me souviens, tu te souviens, il se souvient, nous nous souvenons, vous vous souvenez, ils se souviennent",
+                "compoundPast": "je me suis souvenu(e)（助动词用 être）",
+                "simpleFuture": "je me souviendrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "与 venir 同类变位，词干为 souvien-（单数及第三人称复数）/ souven-（第一二人称复数），将来时词干 souviend-，与 venir → viendrai 规律一致。"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "famille",
+            "partOfSpeech": "n.f.",
+            "definition": "①家庭 ②家族，家人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en famille",
+                    "vocabularyCollocationMeaning": "与家人在一起，在家庭中"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une famille nombreuse",
+                    "vocabularyCollocationMeaning": "大家庭，多子女家庭"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fonder une famille",
+                    "vocabularyCollocationMeaning": "成家，组建家庭"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "familial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "家庭的，家族的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "familier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "熟悉的；非正式的，口语的"
+                }
+            ],
+            "pluralForm": "familles"
+        },
+        {
+            "index": "4",
+            "vocabulary": "père",
+            "partOfSpeech": "n.m.",
+            "definition": "父亲",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le père de famille",
+                    "vocabularyCollocationMeaning": "一家之父"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez son père",
+                    "vocabularyCollocationMeaning": "在他父亲家"
+                }
+            ],
+            "synonymAnalysis": "père（书面/正式）vs papa（口语，爸爸）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "paternel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "父亲的，父系的"
+                }
+            ],
+            "pluralForm": "pères"
+        },
+        {
+            "index": "5",
+            "vocabulary": "fils",
+            "partOfSpeech": "n.m.",
+            "definition": "儿子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fils unique",
+                    "vocabularyCollocationMeaning": "独生子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fils aîné",
+                    "vocabularyCollocationMeaning": "长子"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "fils（单复数同形，单数末尾 s 发音）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "unique",
+            "partOfSpeech": "adj.",
+            "definition": "①唯一的 ②独特的，无与伦比的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fils / fille unique",
+                    "vocabularyCollocationMeaning": "独生子/女"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un cas unique",
+                    "vocabularyCollocationMeaning": "唯一的情况"
+                }
+            ],
+            "synonymAnalysis": "unique（唯一的、独特的）vs seul（唯一的、独自的）：seul 更强调孤独或排他性，unique 更强调不可替代性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "uniquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "仅仅，唯一地"
+                }
+            ],
+            "genderNumberVariation": "复数 uniques，阴阳性同形",
+            "position": "置于名词后表“唯一的”（fils unique）；置于名词前可表“独特的、无与伦比的”（une unique occasion），前置用法较少见。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "instituteur",
+            "partOfSpeech": "n.m.",
+            "definition": "小学男教师",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un instituteur de primaire",
+                    "vocabularyCollocationMeaning": "小学教师"
+                }
+            ],
+            "synonymAnalysis": "instituteur/institutrice（小学教师，较传统用法）vs professeur des écoles（小学教师，现代官方用法）vs professeur（中学及以上教师）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "institutrice",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "小学女教师"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "institution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "机构；制度"
+                }
+            ],
+            "pluralForm": "instituteurs"
+        },
+        {
+            "index": "8",
+            "vocabulary": "tante",
+            "partOfSpeech": "n.f.",
+            "definition": "姑母；姨母；伯母；舅母（泛指父母的姐妹或父母兄弟的妻子）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ma tante",
+                    "vocabularyCollocationMeaning": "我的姑/姨/伯/舅母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez ma tante",
+                    "vocabularyCollocationMeaning": "在我姑/姨母家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "tantes"
+        },
+        {
+            "index": "9",
+            "vocabulary": "mari",
+            "partOfSpeech": "n.m.",
+            "definition": "丈夫",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "son mari",
+                    "vocabularyCollocationMeaning": "她的丈夫"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le mari de qn.",
+                    "vocabularyCollocationMeaning": "某人的丈夫"
+                }
+            ],
+            "synonymAnalysis": "mari（丈夫，口语/书面均可）vs époux（丈夫，较正式，法律用语）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mariage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "结婚，婚礼"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "se marier",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "结婚"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "marié",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "已婚的"
+                }
+            ],
+            "pluralForm": "maris"
+        },
+        {
+            "index": "10",
+            "vocabulary": "homme",
+            "partOfSpeech": "n.m.",
+            "definition": "①男人 ②人，人类",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un homme d'affaires",
+                    "vocabularyCollocationMeaning": "商人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un homme politique",
+                    "vocabularyCollocationMeaning": "政治家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les droits de l'homme",
+                    "vocabularyCollocationMeaning": "人权"
+                }
+            ],
+            "synonymAnalysis": "homme（男人/人类）vs monsieur（先生，用于称呼）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "humain",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "人类的；人道的"
+                }
+            ],
+            "pluralForm": "hommes"
+        },
+        {
+            "index": "11",
+            "vocabulary": "derrière",
+            "partOfSpeech": "prép.",
+            "definition": "在……后面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "derrière la maison",
+                    "vocabularyCollocationMeaning": "在房子后面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "derrière qn.",
+                    "vocabularyCollocationMeaning": "在某人后面"
+                }
+            ],
+            "synonymAnalysis": "derrière（在……后面，空间位置）vs après（在……之后，顺序/时间）：两者均可表“后”，但 derrière 侧重空间，après 侧重时间或顺序。",
+            "derivedWords": [],
+            "useExplanation": "可作介词（derrière la porte）或副词（Il est derrière.）使用。反义词为 devant（在……前面）。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "côté",
+            "partOfSpeech": "n.m.",
+            "definition": "①边，侧面 ②方向，方面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à côté de qn./qch.",
+                    "vocabularyCollocationMeaning": "在……旁边"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de l'autre côté de",
+                    "vocabularyCollocationMeaning": "在……的另一边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "du côté de",
+                    "vocabularyCollocationMeaning": "朝……方向，在……那边"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "côtés"
+        },
+        {
+            "index": "13",
+            "vocabulary": "cousin",
+            "partOfSpeech": "n.m.",
+            "definition": "堂（表）兄弟；阴性 cousine 为堂（表）姐妹",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un cousin germain",
+                    "vocabularyCollocationMeaning": "亲堂/表兄弟（共同祖父母）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ma cousine",
+                    "vocabularyCollocationMeaning": "我的堂（表）姐妹"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cousins（阴性 cousine，复数 cousines）"
+        },
+        {
+            "index": "14",
+            "vocabulary": "marié",
+            "partOfSpeech": "adj.",
+            "definition": "已婚的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être marié(e) avec qn.",
+                    "vocabularyCollocationMeaning": "与某人结婚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un homme marié",
+                    "vocabularyCollocationMeaning": "已婚男士"
+                }
+            ],
+            "synonymAnalysis": "marié（已婚）vs célibataire（单身）vs divorcé（离婚的）vs veuf/veuve（丧偶的）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mariage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "婚礼；结婚"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "se marier",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "结婚"
+                }
+            ],
+            "genderNumberVariation": "阴性 mariée，阳性复数 mariés，阴性复数 mariées",
+            "position": "通常置于名词后；作表语时无位置限制。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "personnage",
+            "partOfSpeech": "n.m.",
+            "definition": "①人物，（重要）人士 ②（文学/影视中的）人物角色",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un personnage célèbre",
+                    "vocabularyCollocationMeaning": "著名人物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un personnage principal",
+                    "vocabularyCollocationMeaning": "主要人物，主角"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un personnage historique",
+                    "vocabularyCollocationMeaning": "历史人物"
+                }
+            ],
+            "synonymAnalysis": "personnage（人物，侧重个性或地位突出）vs personne（人，泛指任何人）vs individu（个体，有时含贬义）。",
+            "derivedWords": [],
+            "pluralForm": "personnages"
+        },
+        {
+            "index": "16",
+            "vocabulary": "lui",
+            "partOfSpeech": "pron.",
+            "definition": "①（重读人称代词）他；她 ②（间接宾语代词）给他；给她",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est lui",
+                    "vocabularyCollocationMeaning": "就是他"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lui parler",
+                    "vocabularyCollocationMeaning": "和他/她说话"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chez lui",
+                    "vocabularyCollocationMeaning": "在他家"
+                }
+            ],
+            "synonymAnalysis": "作重读代词时，lui 仅指阳性；她用 elle。作间接宾语代词时，lui 可指阳性或阴性第三人称单数。",
+            "derivedWords": [],
+            "useExplanation": "① 作重读（强调）代词用于句首强调、介词后、比较结构（plus grand que lui）、孤立使用（Qui est là? — Lui.）。② 作间接宾语代词（lui parler = parler à lui/elle），置于变位动词前。注意区分两种用法。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "journaliste",
+            "partOfSpeech": "n.m.",
+            "definition": "记者，新闻工作者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un journaliste de télévision",
+                    "vocabularyCollocationMeaning": "电视记者"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler comme journaliste",
+                    "vocabularyCollocationMeaning": "从事记者工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "journalisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "新闻学；新闻业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "journal",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "报纸；日记"
+                }
+            ],
+            "pluralForm": "journalistes（阴阳性同形，n.m./n.f.）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "mère",
+            "partOfSpeech": "n.f.",
+            "definition": "母亲",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la mère de famille",
+                    "vocabularyCollocationMeaning": "家庭主妇，一家之母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez sa mère",
+                    "vocabularyCollocationMeaning": "在她母亲家"
+                }
+            ],
+            "synonymAnalysis": "mère（母亲，书面/正式）vs maman（妈妈，口语）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "maternel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "母亲的，母系的；école maternelle 指幼儿园"
+                }
+            ],
+            "pluralForm": "mères"
+        },
+        {
+            "index": "19",
+            "vocabulary": "fille",
+            "partOfSpeech": "n.f.",
+            "definition": "①女儿 ②姑娘，女孩",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fille unique",
+                    "vocabularyCollocationMeaning": "独生女"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une jeune fille",
+                    "vocabularyCollocationMeaning": "年轻女性，少女"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "petite fille",
+                    "vocabularyCollocationMeaning": "小女孩"
+                }
+            ],
+            "synonymAnalysis": "fille（女儿/姑娘）vs femme（妇女/妻子）：fille 强调年龄较小或家庭关系，femme 强调成年女性或婚姻关系。",
+            "derivedWords": [],
+            "pluralForm": "filles"
+        },
+        {
+            "index": "20",
+            "vocabulary": "ouvrier",
+            "partOfSpeech": "n.m.",
+            "definition": "工人，体力劳动者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un ouvrier d'usine",
+                    "vocabularyCollocationMeaning": "工厂工人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un ouvrier qualifié",
+                    "vocabularyCollocationMeaning": "技术工人"
+                }
+            ],
+            "synonymAnalysis": "ouvrier（体力工人）vs employé（职员，脑力/服务业）vs travailleur（劳动者，泛称）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ouvrière",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女工人"
+                }
+            ],
+            "genderNumberVariation": "阴性 ouvrière，阳性复数 ouvriers，阴性复数 ouvrières",
+            "position": "作名词时无位置问题；作形容词（classe ouvrière）时置于名词后。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "grand-père",
+            "partOfSpeech": "n.m.",
+            "definition": "（外）祖父",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mon grand-père paternel",
+                    "vocabularyCollocationMeaning": "我的祖父（父系）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mon grand-père maternel",
+                    "vocabularyCollocationMeaning": "我的外祖父（母系）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "grands-pères"
+        },
+        {
+            "index": "22",
+            "vocabulary": "grand-mère",
+            "partOfSpeech": "n.f.",
+            "definition": "（外）祖母",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ma grand-mère maternelle",
+                    "vocabularyCollocationMeaning": "外祖母（母系）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez ma grand-mère",
+                    "vocabularyCollocationMeaning": "在祖母/外祖母家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "grands-mères"
+        },
+        {
+            "index": "23",
+            "vocabulary": "aîné",
+            "partOfSpeech": "adj.",
+            "definition": "年长的，排行最大的（长子、长女等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le frère aîné",
+                    "vocabularyCollocationMeaning": "哥哥，兄长"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la sœur aînée",
+                    "vocabularyCollocationMeaning": "姐姐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'enfant aîné",
+                    "vocabularyCollocationMeaning": "长子/长女"
+                }
+            ],
+            "synonymAnalysis": "aîné（年长的，排行最大的）vs cadet（年幼的，排行次之）vs benjamin（最小的孩子）。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 aînée，阳性复数 aînés，阴性复数 aînées",
+            "position": "通常置于名词后。"
+        },
+        {
+            "index": "24",
+            "vocabulary": "oncle",
+            "partOfSpeech": "n.m.",
+            "definition": "伯（叔）父；舅父；姑父；姨父",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mon oncle Paul",
+                    "vocabularyCollocationMeaning": "我的舅舅（/叔叔/伯伯）保罗"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez son oncle",
+                    "vocabularyCollocationMeaning": "在他舅舅家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "oncles"
+        },
+        {
+            "index": "25",
+            "vocabulary": "frère",
+            "partOfSpeech": "n.m.",
+            "definition": "兄弟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un frère aîné",
+                    "vocabularyCollocationMeaning": "哥哥"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un frère cadet",
+                    "vocabularyCollocationMeaning": "弟弟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fraternité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "兄弟情谊；博爱（法国国训之一）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fraternel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "兄弟般的，友爱的"
+                }
+            ],
+            "pluralForm": "frères"
+        },
+        {
+            "index": "26",
+            "vocabulary": "entre",
+            "partOfSpeech": "prép.",
+            "definition": "①在……之间（位置）②在……之中（范围）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entre lui et moi",
+                    "vocabularyCollocationMeaning": "在他和我之间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "entre amis",
+                    "vocabularyCollocationMeaning": "在朋友之间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entre autres",
+                    "vocabularyCollocationMeaning": "其中，尤其是"
+                }
+            ],
+            "synonymAnalysis": "entre（在两者或多者之间）vs parmi（在……之中，用于三者及以上的群体中）。",
+            "derivedWords": [],
+            "useExplanation": "后接人称代词时须用重读代词形式（entre lui et elle），不可用主格代词（entre il et elle）。"
+        },
+        {
+            "index": "27",
+            "vocabulary": "femme",
+            "partOfSpeech": "n.f.",
+            "definition": "①妇女，女人 ②妻子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sa femme",
+                    "vocabularyCollocationMeaning": "他的妻子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une femme d'affaires",
+                    "vocabularyCollocationMeaning": "女商人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre femme",
+                    "vocabularyCollocationMeaning": "娶妻"
+                }
+            ],
+            "synonymAnalysis": "femme（妻子/女人，通用）vs épouse（妻子，书面/正式）vs dame（女士，尊称）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "féminin",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "女性的，阴性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "féminisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "女权主义"
+                }
+            ],
+            "pluralForm": "femmes"
+        },
+        {
+            "index": "28",
+            "vocabulary": "âge",
+            "partOfSpeech": "n.m.",
+            "definition": "①年龄 ②时代，时期",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quel âge as-tu?",
+                    "vocabularyCollocationMeaning": "你多大了？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "d'un certain âge",
+                    "vocabularyCollocationMeaning": "上了年纪的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le Moyen Âge",
+                    "vocabularyCollocationMeaning": "中世纪"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "âgé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "年老的；……岁的（âgé de 30 ans）"
+                }
+            ],
+            "pluralForm": "âges"
+        },
+        {
+            "index": "29",
+            "vocabulary": "secret",
+            "partOfSpeech": "n.m.",
+            "definition": "秘密",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "garder un secret",
+                    "vocabularyCollocationMeaning": "保守秘密"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en secret",
+                    "vocabularyCollocationMeaning": "秘密地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est un secret",
+                    "vocabularyCollocationMeaning": "这是个秘密"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "secret",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "秘密的，保密的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "secrètement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "秘密地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "secrétaire",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "秘书"
+                }
+            ],
+            "pluralForm": "secrets"
+        },
+        {
+            "index": "30",
+            "vocabulary": "employé",
+            "partOfSpeech": "n.m.",
+            "definition": "职员，雇员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un employé de bureau",
+                    "vocabularyCollocationMeaning": "办公室职员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un employé de banque",
+                    "vocabularyCollocationMeaning": "银行职员"
+                }
+            ],
+            "synonymAnalysis": "employé（受雇于人的职员）vs ouvrier（体力工人）vs cadre（管理干部，高级职员）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "employer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "雇用；使用"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "employeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "雇主"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "emploi",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "工作，职位；使用"
+                }
+            ],
+            "pluralForm": "employés（阴性 employée，复数 employées）"
+        },
+        {
+            "index": "31",
+            "vocabulary": "connaître",
+            "partOfSpeech": "vt.",
+            "definition": "①认识（人或地方）②了解，熟悉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "connaître qn.",
+                    "vocabularyCollocationMeaning": "认识某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "connaître un endroit",
+                    "vocabularyCollocationMeaning": "了解一个地方"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se faire connaître",
+                    "vocabularyCollocationMeaning": "让自己被人认识；出名"
+                }
+            ],
+            "synonymAnalysis": "connaître（认识人/地方，基于经历）vs savoir（知道事实/会做某事，基于知识）：Je connais Marie.（我认识玛丽）vs Je sais qu'elle est médecin.（我知道她是医生）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "connaissance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "知识；熟人（faire la connaissance de qn. 结识某人）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "reconnaître",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "认出；承认"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "méconnaître",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "不了解；忽视"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent",
+                "compoundPast": "j'ai connu",
+                "simpleFuture": "je connaîtrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -aître 类不规则动词，现在时词干 connai-（单数）/ connaiss-（复数），第三人称单数 il connaît 带词音符。类似变位：reconnaître、paraître、apparaître。"
+            }
+        },
+        {
+            "index": "32",
+            "vocabulary": "non",
+            "partOfSpeech": "adv.",
+            "definition": "①不，不是 ②没有",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Ah non!",
+                    "vocabularyCollocationMeaning": "哦，不对！"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "non pas ... mais ...",
+                    "vocabularyCollocationMeaning": "不是……而是……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "que non",
+                    "vocabularyCollocationMeaning": "（回答）不是"
+                }
+            ],
+            "synonymAnalysis": "non（否定副词，用于否定整个命题）vs ne...pas（句中否定，否定动词）。",
+            "derivedWords": [],
+            "useExplanation": "① 独立使用时表示否定回答（Non, merci. 不用了，谢谢）。② 置于名词前作前缀表否定（non-stop, non-conformiste）。③ 用于反问：Tu viens, non?（你来，不是吗？）"
+        },
+        {
+            "index": "33",
+            "vocabulary": "il y a",
+            "partOfSpeech": "loc.",
+            "definition": "①有，存在（表示存在）②……前（表示时间距今）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il y a un problème",
+                    "vocabularyCollocationMeaning": "有一个问题"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il y a trois ans",
+                    "vocabularyCollocationMeaning": "三年前"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il n'y a pas de + 名词",
+                    "vocabularyCollocationMeaning": "没有……"
+                }
+            ],
+            "synonymAnalysis": "il y a（一般存在句）vs voilà（指示性“你看，这就是……”）vs c'est（识别句“这是……”）。",
+            "derivedWords": [],
+            "useExplanation": "① il y a 后接不定冠词或部分冠词（il y a un chien / il y a du lait）。② 否定形式：il n'y a pas de（后接名词去冠词）。③ 疑问形式：y a-t-il...? 或 est-ce qu'il y a...? ④ 时间用法：il y a + 时间段，表示“……以前”。"
+        },
+        {
+            "index": "34",
+            "vocabulary": "chien",
+            "partOfSpeech": "n.m.",
+            "definition": "狗",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un chien de garde",
+                    "vocabularyCollocationMeaning": "看门狗"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "promener son chien",
+                    "vocabularyCollocationMeaning": "遛狗"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chienne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "母狗"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chiot",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "小狗，幼犬"
+                }
+            ],
+            "pluralForm": "chiens"
+        },
+        {
+            "index": "35",
+            "vocabulary": "grands-parents",
+            "partOfSpeech": "n.m.pl.",
+            "definition": "（外）祖父母",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mes grands-parents",
+                    "vocabularyCollocationMeaning": "我的祖父母/外祖父母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez mes grands-parents",
+                    "vocabularyCollocationMeaning": "在我祖父母/外祖父母家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "仅有复数形式 grands-parents（由 grand-père 和 grand-mère 合称）"
+        },
+        {
+            "index": "36",
+            "vocabulary": "sur",
+            "partOfSpeech": "prép.",
+            "definition": "①在……上面（接触面）②关于 ③在……方面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur la table",
+                    "vocabularyCollocationMeaning": "在桌子上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur la photo",
+                    "vocabularyCollocationMeaning": "在照片上（出现于照片中）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un livre sur la France",
+                    "vocabularyCollocationMeaning": "一本关于法国的书"
+                }
+            ],
+            "synonymAnalysis": "sur（在……上面，接触或紧邻表面）vs au-dessus de（在……正上方，不接触）。",
+            "derivedWords": [],
+            "useExplanation": "sur 用法多样：表位置（sur la chaise 在椅子上）、表内容（un cours sur la grammaire）、表比例（un sur dix 十分之一）。"
+        },
+        {
+            "index": "37",
+            "vocabulary": "photo",
+            "partOfSpeech": "n.f.",
+            "definition": "照片",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre une photo",
+                    "vocabularyCollocationMeaning": "拍照"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une photo de mariage",
+                    "vocabularyCollocationMeaning": "婚礼照片"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sur la photo",
+                    "vocabularyCollocationMeaning": "在照片上"
+                }
+            ],
+            "synonymAnalysis": "photo（照片，口语缩写）vs photographie（照片，正式完整形式）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "photographie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "照片；摄影（正式用法）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "photographier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "拍摄，为……照相"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "photographe",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "摄影师"
+                }
+            ],
+            "pluralForm": "photos"
+        },
+        {
+            "index": "38",
+            "vocabulary": "mariage",
+            "partOfSpeech": "n.m.",
+            "definition": "①结婚，婚姻 ②婚礼",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une photo de mariage",
+                    "vocabularyCollocationMeaning": "婚礼照片"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demander en mariage",
+                    "vocabularyCollocationMeaning": "求婚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un mariage civil",
+                    "vocabularyCollocationMeaning": "公证婚礼"
+                }
+            ],
+            "synonymAnalysis": "mariage（婚礼/婚姻）vs noces（婚礼，更正式，多用于复数 les noces）vs union（结合，法律或宗教语境）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "se marier",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "结婚"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "marié",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "已婚的"
+                }
+            ],
+            "pluralForm": "mariages"
+        },
+        {
+            "index": "39",
+            "vocabulary": "parent",
+            "partOfSpeech": "n.m.",
+            "definition": "①亲戚，亲属 ②（复数 parents）父母亲",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mes parents",
+                    "vocabularyCollocationMeaning": "我的父母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un parent éloigné",
+                    "vocabularyCollocationMeaning": "远亲"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les parents et les enfants",
+                    "vocabularyCollocationMeaning": "父母和子女"
+                }
+            ],
+            "synonymAnalysis": "parents（父母）vs père et mère（父亲和母亲，强调分别）vs famille（家庭，范围更广）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "parental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "父母的，亲本的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "parenté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "亲属关系"
+                }
+            ],
+            "pluralForm": "parents（单数 parent 指单个亲属，复数 parents 主要指父母）"
+        },
+        {
+            "index": "40",
+            "vocabulary": "sûr",
+            "partOfSpeech": "adj.",
+            "definition": "①确实的，肯定的 ②安全的，可靠的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bien sûr",
+                    "vocabularyCollocationMeaning": "当然"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être sûr de qch./que + 从句",
+                    "vocabularyCollocationMeaning": "对某事有把握，确信……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un endroit sûr",
+                    "vocabularyCollocationMeaning": "安全的地方"
+                }
+            ],
+            "synonymAnalysis": "sûr（确信的/安全的）vs certain（确定的，强调客观事实）vs fiable（可靠的，强调可信赖性）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sûrement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "肯定地，确实地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sûreté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安全，保障"
+                }
+            ],
+            "genderNumberVariation": "阴性 sûre，阳性复数 sûrs，阴性复数 sûres",
+            "position": "通常置于名词后（un endroit sûr）；bien sûr 为固定短语，sûr 在此不独立使用。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Mon père est le fils unique d'un instituteur. Il a une sœur, ma tante Yvonne, dont le mari est aussi professeur — c'est de famille! Leur cousin Charles, lui, est journaliste. Il n'est pas marié, mais c'est un personnage. Voilà, vous connaissez toute la famille, bien sûr, sauf moi: je ne suis pas sur cette photo de mariage.",
+            "chineseTranslation": "我的父亲是一位小学教师的独生子。他有一个姐妹，也就是我的姑妈伊冯娜，她的丈夫也是教师——这是家族传统！他们的堂兄查尔斯呢，是个记者。他没有结婚，但可是个人物。好了，您现在认识了全家人——当然，除了我：我没有出现在这张婚礼照片上。",
+            "fr2cnStrategy": "① 'le fils unique d'un instituteur' 将后置介词短语调整为汉语习惯的前置定语，译为“一位小学教师的独生子”。② 'dont le mari est aussi professeur' 为关系从句，拆分为独立分句“她的丈夫也是教师”，避免“的的”叠加。③ 'c'est de famille' 是固定表达，意译为“这是家族传统”，不可逐词直译。④ 'lui, est journaliste' 中重读代词 lui 起强调作用，译为“呢”以体现转折和强调语气。⑤ 'sauf moi' 增译为“除了我”并加破折号，体现幽默语气和句子的轻松基调。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他是我母亲的哥哥，也就是我的舅舅，今年33岁，还没有结婚。",
+                "frenchTranslation": "Il est le frère aîné de ma mère, c'est-à-dire mon oncle. Il a 33 ans et il n'est pas encore marié.",
+                "cn2frStrategy": "① “也就是”用 c'est-à-dire 表达，体现同位解释关系。② 年龄用 avoir ... ans，不用 être。③ “还没有”译为 ne ... pas encore，encore 位于 pas 之后。④ 拆分为两个短句，符合法语简洁表达习惯。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "你认识他们全家人吗？他的妻子叫索菲，她的年龄是个秘密。",
+                "frenchTranslation": "Est-ce que vous connaissez toute sa famille? Sa femme s'appelle Sophie. Son âge, c'est un secret.",
+                "cn2frStrategy": "① “认识”用 connaître，疑问句用 est-ce que 结构。② “全家人”用 toute sa famille（tout + 物主形容词 + 名词）。③ “叫”用代词式动词 s'appeler。④ “是个秘密”用识别句 c'est un secret。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "我父母的婚礼照片里有很多人，但我当然不在里面。",
+                "frenchTranslation": "Il y a beaucoup de personnes sur la photo de mariage de mes parents, mais je n'y suis pas, bien sûr.",
+                "cn2frStrategy": "① “有很多人”用存在句 il y a beaucoup de personnes，不可用 être 句型。② “在里面”用代词 y 替代 sur la photo，避免重复，体现法语代词化的表达习惯。③ “当然”用 bien sûr 置于句尾。④ 否定结构 ne ... pas 夹住变位动词 suis。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "她站在我父亲旁边，在他的左边。她是谁？",
+                "frenchTranslation": "Elle est à côté de mon père, à sa gauche. Qui est-ce?",
+                "cn2frStrategy": "① “在……旁边”用固定介词短语 à côté de，de 不可省略。② “在他的左边”用 à sa gauche（介词 à + 物主形容词 + gauche），无需再加 de。③ “她是谁”用疑问句 Qui est-ce?，注意这是询问人，不可用 Qu'est-ce que c'est?（询问物）。"
+            }
+        ]
+    }
+}

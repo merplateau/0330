@@ -1,0 +1,1196 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Pierre, frère aîné de Sophie, est étudiant à Paris 7.",
+            "translatedSentence": "皮埃尔是索菲的哥哥，在巴黎第七大学读书。",
+            "sentenceStructure": "主语 Pierre，谓语 est，表语 étudiant à Paris 7；frère aîné de Sophie 为插入语，作同位语修饰主语。",
+            "grammarAnalysis": "① 同位语结构：frère aîné de Sophie 置于主语之后，用逗号隔开，补充说明主语身份。② aîné 为形容词，意为“年长的、排行最大的”，修饰 frère。③ étudiant 此处作表语名词，无冠词。",
+            "commonMistakes": "同位语 frère aîné de Sophie 与主谓之间用逗号分隔，学生常误认为是独立句子。另需注意 aîné 与 cadet（年幼的）的对应关系。"
+        },
+        {
+            "index": 2,
+            "sentence": "Il rentre à Strasbourg pour voir ses parents et ses amis.",
+            "translatedSentence": "他回到斯特拉斯堡，去看望父母和朋友。",
+            "sentenceStructure": "主语 Il，谓语 rentre，地点状语 à Strasbourg，目的状语 pour voir ses parents et ses amis。",
+            "grammarAnalysis": "① rentrer + à + 地名，表示“回到某地”，rentrer 为不及物动词。② pour + 不定式，表示目的。③ ses parents 和 ses amis 由 et 并列，共享同一物主形容词。",
+            "commonMistakes": "rentrer 强调“回到原来的地方”，不可与 entrer（进入）混淆。pour 引导目的状语时后接动词原形，而非 de + 动词原形。"
+        },
+        {
+            "index": 3,
+            "sentence": "Comme nous sommes tous ici, nous prenons une photo de toute la famille.",
+            "translatedSentence": "既然我们大家都在这里，就拍一张全家福吧。",
+            "sentenceStructure": "Comme 引导的原因状语从句 nous sommes tous ici 置于句首，主句为 nous prenons une photo de toute la famille。",
+            "grammarAnalysis": "① comme 置于句首时引导原因状语从句，意为“由于、既然”，语气较轻。② tous 为不定代词，修饰主语 nous，意为“全都”，置于助动词或系动词之后。③ prendre une photo de 为固定搭配，意为“拍……的照片”。",
+            "commonMistakes": "comme 引导原因从句时须置于句首，否则语义改变；同时注意与 parce que 的区别：comme 多引出已知信息，parce que 则引出新信息。tous 的位置常被学生错放于动词后，应位于被修饰动词前或助动词后。"
+        },
+        {
+            "index": 4,
+            "sentence": "Mais où est-ce que tu vas te mettre, Pierre?",
+            "translatedSentence": "皮埃尔，你打算站在哪里？",
+            "sentenceStructure": "疑问词 où 置于句首，est-ce que 引导疑问句，主语 tu，谓语 vas，不定式 te mettre 作谓语补足语；Pierre 为呼语。",
+            "grammarAnalysis": "① où est-ce que 为疑问词 + est-ce que 结构，用于询问地点，是口语中最常见的疑问句式。② aller + 不定式，构成近将来时，表示即将发生的动作。③ se mettre 为代词式动词，此处意为“站到、放置自己于”，与地点名词搭配。",
+            "commonMistakes": "se mettre 在此处表示“（人）置身于……”，而非 mettre 的简单及物用法“放置（物）”。学生常忽略代词 te，导致语义错误。"
+        },
+        {
+            "index": 5,
+            "sentence": "Sophie, un peu à gauche, plus près de papa. Cécile un peu à droite, plus près de maman.",
+            "translatedSentence": "索菲，往左一点，靠爸爸近一些。塞西尔往右一点，靠妈妈近一些。",
+            "sentenceStructure": "两个无动词的省略句，主语分别为 Sophie 和 Cécile，省略了谓语动词（可补充为 mets-toi）；un peu à gauche / à droite 为方位状语，plus près de 为比较状语。",
+            "grammarAnalysis": "① 口语中常省略动词，直接用副词或介词短语表达指令，相当于祈使句 Mets-toi un peu à gauche。② un peu 修饰方位副词，表示程度轻微。③ plus près de 为比较级结构，près 的比较级为 plus près，后接介词 de。",
+            "commonMistakes": "près 的比较级为 plus près，最高级为 le plus près；注意 proche（近的）作形容词时有性数变化，而 près 作副词则无变化。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "rentrer à + lieu",
+            "meaning": "回到（某地）",
+            "usage": "rentrer 为不及物动词，强调返回原来所在地，后接 à + 地名或 à la maison 等。与 retourner（再次前往）有别。",
+            "exampleSentence": "Il rentre à Strasbourg pour voir ses parents et ses amis."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "rentrer pour voir qn.",
+            "meaning": "回来看望某人",
+            "usage": "pour + 不定式表目的，常与 rentrer、partir、venir 等位移动词搭配。",
+            "exampleSentence": "Il rentre à Strasbourg pour voir ses parents et ses amis."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "vers la fin de qch.",
+            "meaning": "在……快结束时，接近……末尾",
+            "usage": "vers 作介词表“将近、接近”，常与时间或阶段名词搭配，如 vers la fin du repas、vers midi。",
+            "exampleSentence": "Vers la fin du repas, Pierre dit..."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "prendre une photo de qn./qch.",
+            "meaning": "给……拍照",
+            "usage": "固定搭配，de 后接拍摄对象。也可说 prendre qn. en photo。",
+            "exampleSentence": "nous prenons une photo de toute la famille."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "tout le monde",
+            "meaning": "所有人，大家",
+            "usage": "固定短语，作主语时谓语用第三人称单数。注意 tous 单独使用时可作代词，但 tout le monde 不可拆分替换。",
+            "exampleSentence": "Bon, tout le monde à sa place!"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "à sa place",
+            "meaning": "在自己的位置上",
+            "usage": "place 表“位置、座位”，à sa place 意为“各就各位”。也常用于 à la place de qn.（代替某人）。",
+            "exampleSentence": "Bon, tout le monde à sa place!"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "rentrer dans sa chambre",
+            "meaning": "回到自己的房间",
+            "usage": "rentrer dans 表示“进入、返回某个封闭空间”，后接带冠词的名词。注意 dans 与 à 的区别：封闭空间用 dans，开放地点用 à。",
+            "exampleSentence": "Elle rentre dans sa chambre et met une belle robe."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "mettre une robe / des vêtements",
+            "meaning": "穿上裙子／衣服",
+            "usage": "mettre 表示穿衣服的动作（强调动作），而 porter 表示穿着状态。不可混淆。",
+            "exampleSentence": "Elle rentre dans sa chambre et met une belle robe."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "se mettre + lieu",
+            "meaning": "站到……，把自己置于……",
+            "usage": "代词式动词，se mettre 后接地点介词短语，表示人主动移至某处。常见于口语指令或描述。",
+            "exampleSentence": "Mais où est-ce que tu vas te mettre, Pierre?"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "un peu à gauche / à droite",
+            "meaning": "往左／右一点",
+            "usage": "un peu 修饰方位副词 à gauche / à droite，表示轻微位移。常用于摄影、指路等场景。",
+            "exampleSentence": "Sophie, un peu à gauche, plus près de papa."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "plus près de qn./qch.",
+            "meaning": "更靠近某人／某物",
+            "usage": "près 的比较级结构，后接 de。注意 près 作副词无性数变化；proche 作形容词有性数变化。",
+            "exampleSentence": "Sophie, un peu à gauche, plus près de papa."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être encore au lit",
+            "meaning": "还在床上（还没起床）",
+            "usage": "au lit = à + le lit，固定表达，意为“在床上”。encore 强调状态的持续，常含有一定的惊讶或不满语气。",
+            "exampleSentence": "Oh, dit maman, et mon petit Jacques! Il est encore au lit!"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "être prêt(e) (à faire qch.)",
+            "meaning": "准备好（做某事）",
+            "usage": "prêt 作表语形容词，有性数变化；后接不定式时用 à。口语中常单独用 Vous êtes prêts? 询问是否准备好。",
+            "exampleSentence": "Voilà, tout le monde est là! Vous êtes prêts?"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "c'est fait",
+            "meaning": "好了，完成了",
+            "usage": "口语固定表达，fait 为 faire 的过去分词作形容词，c'est fait 表示某事已经完成，相当于“搞定了”。",
+            "exampleSentence": "Derrière papa et maman. ... voilà, c'est fait!"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "étudiant",
+            "partOfSpeech": "n.m.",
+            "definition": "①大学生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "étudiant en lettres",
+                    "vocabularyCollocationMeaning": "文学系学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étudiant à l'université",
+                    "vocabularyCollocationMeaning": "大学生"
+                }
+            ],
+            "synonymAnalysis": "étudiant 专指大学生；élève 指中小学生；écolier 指小学生。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étudier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "学习，研究"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "étude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "学习；研究；（复数）学业"
+                }
+            ],
+            "pluralForm": "étudiants"
+        },
+        {
+            "index": "2",
+            "vocabulary": "aujourd'hui",
+            "partOfSpeech": "adv.",
+            "definition": "①今天 ②如今，现在",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aujourd'hui matin",
+                    "vocabularyCollocationMeaning": "今天早上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "d'aujourd'hui",
+                    "vocabularyCollocationMeaning": "当今的，现代的"
+                }
+            ],
+            "synonymAnalysis": "aujourd'hui 指“今天”；de nos jours / actuellement 强调“当今时代”，语体更正式。",
+            "derivedWords": [],
+            "useExplanation": "既可作副词（今天），也可作名词 n.m. 使用，如 l'aujourd'hui（今日），后者较文学化。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "rentrer",
+            "partOfSpeech": "vi.",
+            "definition": "①回，返回 ②进入（再次）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rentrer à la maison",
+                    "vocabularyCollocationMeaning": "回家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rentrer dans sa chambre",
+                    "vocabularyCollocationMeaning": "回到自己的房间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rentrer de voyage",
+                    "vocabularyCollocationMeaning": "旅行归来"
+                }
+            ],
+            "synonymAnalysis": "rentrer 强调回到原来所在处；retourner 强调再次前往某处；revenir 强调从某处回来到说话者所在地。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rentrée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "开学；返回"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "pour",
+            "partOfSpeech": "prép.",
+            "definition": "①为了（目的） ②为（利益、代价） ③对于 ④作为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pour + infinitif",
+                    "vocabularyCollocationMeaning": "为了做某事（表目的）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pour moi",
+                    "vocabularyCollocationMeaning": "对我来说"
+                }
+            ],
+            "synonymAnalysis": "pour 表目的时与 afin de 近义，但 afin de 语体更正式；pour 表原因时与 à cause de 不同，pour 更中性。",
+            "derivedWords": [],
+            "useExplanation": "pour 后接动词不定式表目的；后接名词表“为了/为”；与 contre 相对，表对立面时意为“支持”。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "voir",
+            "partOfSpeech": "vt.",
+            "definition": "①看见，看到 ②拜访，看望 ③理解，明白",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voir qn.",
+                    "vocabularyCollocationMeaning": "看望某人，见某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voir qch.",
+                    "vocabularyCollocationMeaning": "看到某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "on verra",
+                    "vocabularyCollocationMeaning": "到时候再说，走着瞧"
+                }
+            ],
+            "synonymAnalysis": "voir 泛指“看”；regarder 强调主动、注意力集中地看；observer 强调仔细观察。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "视力；风景；观点"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "prévoir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "预见，预料"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vois, tu vois, il voit, nous voyons, vous voyez, ils voient",
+                "compoundPast": "j'ai vu（过去分词 vu）",
+                "simpleFuture": "je verrai, tu verras, il verra, nous verrons, vous verrez, ils verront",
+                "memoryAids": "词干在复数人称时变为 voy-；将来时词干特殊，须单独记忆：verr-。"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "ami",
+            "partOfSpeech": "n.m.",
+            "definition": "①朋友",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un bon ami",
+                    "vocabularyCollocationMeaning": "好朋友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ami(e) d'enfance",
+                    "vocabularyCollocationMeaning": "儿时玩伴"
+                }
+            ],
+            "synonymAnalysis": "ami 为泛指朋友；copain/copine 更口语化，指“伙伴”；camarade 指同学或同志。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "amitié",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "友谊，友情"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "aimable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "和蔼的，友好的"
+                }
+            ],
+            "pluralForm": "amis"
+        },
+        {
+            "index": "7",
+            "vocabulary": "vers",
+            "partOfSpeech": "prép.",
+            "definition": "①将近，接近（时间） ②向，朝（方向）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vers midi",
+                    "vocabularyCollocationMeaning": "中午前后"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vers la fin de qch.",
+                    "vocabularyCollocationMeaning": "在……快结束时"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se diriger vers",
+                    "vocabularyCollocationMeaning": "朝……方向走"
+                }
+            ],
+            "synonymAnalysis": "vers（时间）与 environ/à peu près 近义，均表“大约”；vers（方向）与 en direction de 近义，但后者更正式。",
+            "derivedWords": [],
+            "useExplanation": "vers 表时间时意为“大约、将近”，表方向时意为“向、朝”，是一词两义的常考介词。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "fin",
+            "partOfSpeech": "n.f.",
+            "definition": "①结束，终点 ②目的（文学语体）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la fin de qch.",
+                    "vocabularyCollocationMeaning": "在……结束时，在……末尾"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vers la fin du repas",
+                    "vocabularyCollocationMeaning": "快吃完饭时"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre fin à qch.",
+                    "vocabularyCollocationMeaning": "结束某事"
+                }
+            ],
+            "synonymAnalysis": "fin 为“结束”；terme 较正式，多用于合同、期限；conclusion 指“结论、结语”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "finir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "结束，完成"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "final",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "最终的，最后的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "enfin",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "终于，最后"
+                }
+            ],
+            "pluralForm": "fins"
+        },
+        {
+            "index": "9",
+            "vocabulary": "repas",
+            "partOfSpeech": "n.m.",
+            "definition": "①饮食，一顿饭，餐",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre un repas",
+                    "vocabularyCollocationMeaning": "吃一顿饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le repas du soir",
+                    "vocabularyCollocationMeaning": "晚餐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "après le repas",
+                    "vocabularyCollocationMeaning": "饭后"
+                }
+            ],
+            "synonymAnalysis": "repas 泛指“一顿饭”；déjeuner 专指“午饭”；dîner 指“晚饭”；petit-déjeuner 指“早饭”。",
+            "derivedWords": [],
+            "pluralForm": "repas（单复数同形，词尾已有 -s）"
+        },
+        {
+            "index": "10",
+            "vocabulary": "comme",
+            "partOfSpeech": "conj.",
+            "definition": "①由于，既然（原因，置于句首） ②像……一样（比较） ③作为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "comme + proposition causale",
+                    "vocabularyCollocationMeaning": "由于……（原因从句，置句首）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "comme ci, comme ça",
+                    "vocabularyCollocationMeaning": "马马虎虎，一般般"
+                }
+            ],
+            "synonymAnalysis": "comme 作原因连词须置于句首，不可与 parce que 互换（parce que 可置于句中）；comme 作比较连词与 ainsi que 近义，但后者更正式。",
+            "derivedWords": [],
+            "useExplanation": "comme 是多功能连词/介词：① 置句首表原因；② 表比较；③ 表身份/作为（comme professeur）。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "idée",
+            "partOfSpeech": "n.f.",
+            "definition": "①主意，想法 ②观念，概念",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir une bonne idée",
+                    "vocabularyCollocationMeaning": "有个好主意"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelle bonne idée!",
+                    "vocabularyCollocationMeaning": "多好的主意！"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "changer d'idée",
+                    "vocabularyCollocationMeaning": "改变主意"
+                }
+            ],
+            "synonymAnalysis": "idée 偏口语化，指具体“主意、想法”；pensée 偏抽象，指“思想、思维”；opinion 指“意见、看法”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "idéal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "理想的，完美的"
+                }
+            ],
+            "pluralForm": "idées"
+        },
+        {
+            "index": "12",
+            "vocabulary": "ouvrir",
+            "partOfSpeech": "vt.",
+            "definition": "①打开 ②开放，开辟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ouvrir la porte",
+                    "vocabularyCollocationMeaning": "开门"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ouvrir un compte",
+                    "vocabularyCollocationMeaning": "开户"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'ouvrir sur qch.",
+                    "vocabularyCollocationMeaning": "朝……敞开；向……展开"
+                }
+            ],
+            "synonymAnalysis": "ouvrir 与 fermer（关闭）相对；ouvrir 与 allumer（开灯/开电器）不同，ouvrir 专指物理性“开启”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ouverture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "开放；开口；开幕"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "ouvert",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "开着的；开放的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'ouvre, tu ouvres, il ouvre, nous ouvrons, vous ouvrez, ils ouvrent",
+                "compoundPast": "j'ai ouvert（过去分词 ouvert）",
+                "simpleFuture": "j'ouvrirai, tu ouvriras, il ouvrira, nous ouvrirons, vous ouvrirez, ils ouvriront",
+                "memoryAids": "现在时变位与第一组 -er 动词相似（单数词尾 -e, -es, -e），复数与规则动词相同；过去分词 ouvert 须单独记忆。couvrir、souffrir、offrir 变位规律相同。"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "appareil",
+            "partOfSpeech": "n.m.",
+            "definition": "①照相机 ②仪器，装置 ③（电话中）话机",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre en photo avec son appareil",
+                    "vocabularyCollocationMeaning": "用相机拍照"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'appareil",
+                    "vocabularyCollocationMeaning": "（电话）在听，是我"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "appareil photo",
+                    "vocabularyCollocationMeaning": "照相机（完整说法）"
+                }
+            ],
+            "synonymAnalysis": "appareil 泛指“装置、仪器”；machine 更强调机器；engin 多指“机械、器械”，有时带贬义。",
+            "derivedWords": [],
+            "pluralForm": "appareils"
+        },
+        {
+            "index": "14",
+            "vocabulary": "monde",
+            "partOfSpeech": "n.m.",
+            "definition": "①人，人们（tout le monde = 所有人） ②世界 ③社会，界",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tout le monde",
+                    "vocabularyCollocationMeaning": "所有人，大家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans le monde entier",
+                    "vocabularyCollocationMeaning": "在全世界"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le monde de la mode",
+                    "vocabularyCollocationMeaning": "时装界"
+                }
+            ],
+            "synonymAnalysis": "tout le monde（所有人）与 tous（所有人）近义，但 tout le monde 后接第三人称单数动词，tous 后接第三人称复数动词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mondial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "世界性的，全球的"
+                }
+            ],
+            "pluralForm": "mondes"
+        },
+        {
+            "index": "15",
+            "vocabulary": "instant",
+            "partOfSpeech": "n.m.",
+            "definition": "①瞬间，片刻",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un instant",
+                    "vocabularyCollocationMeaning": "稍等片刻（口语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'instant",
+                    "vocabularyCollocationMeaning": "刚才，就在刚刚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "pour l'instant",
+                    "vocabularyCollocationMeaning": "目前，暂时"
+                }
+            ],
+            "synonymAnalysis": "instant 与 moment 近义，均指“片刻”；instant 更强调时间短暂；moment 则更口语化且适用范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "instantané",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "即时的，瞬间的"
+                }
+            ],
+            "pluralForm": "instants"
+        },
+        {
+            "index": "16",
+            "vocabulary": "cadet",
+            "partOfSpeech": "adj.",
+            "definition": "①年幼的（在兄弟姐妹中排行较小的）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la sœur cadette",
+                    "vocabularyCollocationMeaning": "妹妹"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le frère cadet",
+                    "vocabularyCollocationMeaning": "弟弟"
+                }
+            ],
+            "synonymAnalysis": "cadet 与 aîné 相对：aîné 指“年长的/排行最大的”，cadet 指“年幼的/排行较小的”。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 cadette，阳性复数 cadets，阴性复数 cadettes",
+            "position": "通常置于名词之后，如 la sœur cadette"
+        },
+        {
+            "index": "17",
+            "vocabulary": "dans",
+            "partOfSpeech": "prép.",
+            "definition": "①在……里，在……内（空间） ②在……之后（时间） ③处于（状态）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans la chambre",
+                    "vocabularyCollocationMeaning": "在房间里"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans deux jours",
+                    "vocabularyCollocationMeaning": "两天后（从现在起）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans ce cas",
+                    "vocabularyCollocationMeaning": "在这种情况下"
+                }
+            ],
+            "synonymAnalysis": "dans 与 en 均可表“在……里”，区别在于：dans 多指具体可进入的封闭空间（dans la salle）；en 多与国家、语言、材质搭配（en France, en bois）。",
+            "derivedWords": [],
+            "useExplanation": "dans 表空间时强调封闭性；表时间时与 en 对比：dans deux heures（两小时后）表将来，en deux heures（在两小时内）表持续时间。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "chambre",
+            "partOfSpeech": "n.f.",
+            "definition": "①卧室 ②房间（旅馆等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chambre à coucher",
+                    "vocabularyCollocationMeaning": "卧室（正式说法）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chambre d'hôtel",
+                    "vocabularyCollocationMeaning": "酒店客房"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire sa chambre",
+                    "vocabularyCollocationMeaning": "整理房间"
+                }
+            ],
+            "synonymAnalysis": "chambre 专指卧室或住宿用房；pièce 泛指房间；salle 指功能性较强的大厅或教室。",
+            "derivedWords": [],
+            "pluralForm": "chambres"
+        },
+        {
+            "index": "19",
+            "vocabulary": "mettre",
+            "partOfSpeech": "vt.",
+            "definition": "①放，放置 ②穿上（衣物） ③花费（时间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre qch. sur la table",
+                    "vocabularyCollocationMeaning": "把某物放在桌上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre une robe",
+                    "vocabularyCollocationMeaning": "穿上裙子"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre du temps à faire qch.",
+                    "vocabularyCollocationMeaning": "花时间做某事"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "se mettre à faire qch.",
+                    "vocabularyCollocationMeaning": "开始做某事"
+                }
+            ],
+            "synonymAnalysis": "mettre（穿衣动作）与 porter（穿着状态）的区别是考研常考点：Elle met son manteau（她正在穿外套）vs Elle porte un manteau（她穿着外套）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mise",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "放置；着装；mise en scène（导演/布景）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "permettre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "允许，使得"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "remettre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "重新放置；推迟；归还"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je mets, tu mets, il met, nous mettons, vous mettez, ils mettent",
+                "compoundPast": "j'ai mis（过去分词 mis）",
+                "simpleFuture": "je mettrai, tu mettras, il mettra, nous mettrons, vous mettrez, ils mettront",
+                "memoryAids": "单数现在时词尾为 -s, -s, -t（无双写 t）；过去分词 mis 须单独记忆；permettre、remettre、promettre 变位相同。"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "beau",
+            "partOfSpeech": "adj.",
+            "definition": "①漂亮的，美丽的 ②好的，晴朗的（天气）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un beau garçon",
+                    "vocabularyCollocationMeaning": "一个帅气的男孩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une belle robe",
+                    "vocabularyCollocationMeaning": "一件漂亮的连衣裙"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il fait beau",
+                    "vocabularyCollocationMeaning": "天气晴好"
+                }
+            ],
+            "synonymAnalysis": "beau/belle 与 joli/jolie 近义，均表“漂亮”；beau 更具整体审美感，joli 偏小巧可爱；beau 也可修饰抽象事物（une belle idée）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "beauté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "美，美丽；美女"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "embellir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "美化；变美"
+                }
+            ],
+            "genderNumberVariation": "beau（阳性单数，辅音前）→ bel（阳性单数，元音或哑音 h 前）→ belle（阴性单数）→ beaux（阳性复数）→ belles（阴性复数）",
+            "position": "通常置于名词之前，如 un beau jardin，une belle femme"
+        },
+        {
+            "index": "21",
+            "vocabulary": "robe",
+            "partOfSpeech": "n.f.",
+            "definition": "①连衣裙",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une belle robe",
+                    "vocabularyCollocationMeaning": "一件漂亮的裙子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre une robe",
+                    "vocabularyCollocationMeaning": "穿上连衣裙"
+                }
+            ],
+            "synonymAnalysis": "robe 指连衣裙（上下连体）；jupe 专指下裙。",
+            "derivedWords": [],
+            "pluralForm": "robes"
+        },
+        {
+            "index": "22",
+            "vocabulary": "prêt",
+            "partOfSpeech": "adj.",
+            "definition": "①准备好的，准备就绪的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être prêt(e) à faire qch.",
+                    "vocabularyCollocationMeaning": "准备好做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tout est prêt",
+                    "vocabularyCollocationMeaning": "一切准备就绪"
+                }
+            ],
+            "synonymAnalysis": "prêt à 表“准备好做某事”；disposé à 表“愿意做某事”，语义侧重意愿而非准备状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "préparer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "准备，筹备"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "préparation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "准备，筹备工作"
+                }
+            ],
+            "genderNumberVariation": "阴性 prête，阳性复数 prêts，阴性复数 prêtes",
+            "position": "作表语，置于 être 之后，如 elle est prête"
+        },
+        {
+            "index": "23",
+            "vocabulary": "regarder",
+            "partOfSpeech": "vt.",
+            "definition": "①看，注视 ②涉及，关系到",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "regarder la télévision",
+                    "vocabularyCollocationMeaning": "看电视"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "regarder qn. dans les yeux",
+                    "vocabularyCollocationMeaning": "直视某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ça ne te regarde pas",
+                    "vocabularyCollocationMeaning": "这不关你的事"
+                }
+            ],
+            "synonymAnalysis": "regarder 强调主动、有意识地看；voir 表自然看到；observer 表仔细观察；surveiller 表监视、监察。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "24",
+            "vocabulary": "dire",
+            "partOfSpeech": "vt.",
+            "definition": "①说，讲 ②表示，意味着",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dire qch. à qn.",
+                    "vocabularyCollocationMeaning": "对某人说某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est-à-dire",
+                    "vocabularyCollocationMeaning": "也就是说，即"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vouloir dire",
+                    "vocabularyCollocationMeaning": "意思是，意味着"
+                }
+            ],
+            "synonymAnalysis": "dire 泛指“说”；parler 表“讲话、谈话”（强调过程）；raconter 表“讲述故事或经历”；prétendre 表“声称”（含质疑意味）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dit",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "所谓的，叫做……的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "redire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "重复说，再说"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je dis, tu dis, il dit, nous disons, vous dites, ils disent",
+                "compoundPast": "j'ai dit（过去分词 dit）",
+                "simpleFuture": "je dirai, tu diras, il dira, nous dirons, vous direz, ils diront",
+                "memoryAids": "注意 vous dites（不规则，非 *disez）；过去分词 dit 须单独记忆；contredire（反驳）变位相同，但 vous contredisez（规则）。"
+            }
+        },
+        {
+            "index": "25",
+            "vocabulary": "peu",
+            "partOfSpeech": "adv.",
+            "definition": "①少，不多 ②一点儿（un peu）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un peu + adj./adv.",
+                    "vocabularyCollocationMeaning": "有点……，稍微……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "peu de + n.",
+                    "vocabularyCollocationMeaning": "很少的……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un peu de + n.",
+                    "vocabularyCollocationMeaning": "一点……"
+                }
+            ],
+            "synonymAnalysis": "peu 表否定意义（很少）；un peu 表肯定意义（一点儿）；un peu de + 不可数名词与 quelques + 可数名词对比。",
+            "derivedWords": [],
+            "useExplanation": "peu 与 un peu 语义相反：il parle peu（他说话很少），il parle un peu français（他会说一点法语）。"
+        },
+        {
+            "index": "26",
+            "vocabulary": "plus",
+            "partOfSpeech": "adv.",
+            "definition": "①更，更加（比较级） ②最（最高级，le plus） ③不再（ne...plus）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plus + adj. + que",
+                    "vocabularyCollocationMeaning": "比……更……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ne...plus",
+                    "vocabularyCollocationMeaning": "不再……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de plus en plus",
+                    "vocabularyCollocationMeaning": "越来越……"
+                }
+            ],
+            "synonymAnalysis": "plus（比较级）与 davantage 近义，但 davantage 不能直接修饰形容词，只能修饰动词；plus 的对立面为 moins（更少）。",
+            "derivedWords": [],
+            "useExplanation": "plus 在肯定句中表比较（读 /plys/）；在 ne...plus 否定结构中表“不再”（plus 读 /ply/，不发尾音 s）。"
+        },
+        {
+            "index": "27",
+            "vocabulary": "près",
+            "partOfSpeech": "adv.",
+            "definition": "①近，接近",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "près de + lieu/personne",
+                    "vocabularyCollocationMeaning": "在……附近，靠近……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tout près",
+                    "vocabularyCollocationMeaning": "就在附近，很近"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à peu près",
+                    "vocabularyCollocationMeaning": "大约，差不多"
+                }
+            ],
+            "synonymAnalysis": "près（副词，无性数变化）与 proche（形容词，有性数变化）近义；comparatif de près → plus près；comparatif de proche → plus proche。",
+            "derivedWords": [],
+            "useExplanation": "près 单独使用为副词；près de 为介词短语，后接名词；与 loin de（远离）相对。"
+        },
+        {
+            "index": "28",
+            "vocabulary": "papa",
+            "partOfSpeech": "n.m.",
+            "definition": "①爸爸（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "appeler qn. papa",
+                    "vocabularyCollocationMeaning": "叫某人爸爸"
+                }
+            ],
+            "synonymAnalysis": "papa 为口语/亲昵用词；père 为正式说法，也用于 Notre Père（天父）等宗教语境。",
+            "derivedWords": [],
+            "pluralForm": "papas"
+        },
+        {
+            "index": "29",
+            "vocabulary": "maman",
+            "partOfSpeech": "n.f.",
+            "definition": "①妈妈（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bonne fête, maman!",
+                    "vocabularyCollocationMeaning": "妈妈节日快乐！"
+                }
+            ],
+            "synonymAnalysis": "maman 为口语/亲昵用词；mère 为正式用词，如 mère patrie（祖国母亲）。",
+            "derivedWords": [],
+            "pluralForm": "mamans"
+        },
+        {
+            "index": "30",
+            "vocabulary": "petit",
+            "partOfSpeech": "adj.",
+            "definition": "①小的 ②幼小的，年幼的 ③亲昵称呼",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "petit à petit",
+                    "vocabularyCollocationMeaning": "慢慢地，逐渐地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mon petit / ma petite",
+                    "vocabularyCollocationMeaning": "小家伙（亲昵称呼）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "petit déjeuner",
+                    "vocabularyCollocationMeaning": "早餐"
+                }
+            ],
+            "synonymAnalysis": "petit 与 grand 相对；前置于人名前可表亲昵（mon petit Jacques）；grand 前置时也有类似用法。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "petitesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "渺小；小气"
+                }
+            ],
+            "genderNumberVariation": "阴性 petite，阳性复数 petits，阴性复数 petites",
+            "position": "通常置于名词之前，如 un petit garçon"
+        },
+        {
+            "index": "31",
+            "vocabulary": "lit",
+            "partOfSpeech": "n.m.",
+            "definition": "①床",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être au lit",
+                    "vocabularyCollocationMeaning": "在床上（躺着/睡着）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller au lit",
+                    "vocabularyCollocationMeaning": "去睡觉"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire le lit",
+                    "vocabularyCollocationMeaning": "整理床铺"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "lits"
+        },
+        {
+            "index": "32",
+            "vocabulary": "demander",
+            "partOfSpeech": "vt.",
+            "definition": "①问 ②要求，请求",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "demander qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人要求/询问某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demander à qn. de faire qch.",
+                    "vocabularyCollocationMeaning": "请某人做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se demander si...",
+                    "vocabularyCollocationMeaning": "自问，纳闷是否……"
+                }
+            ],
+            "synonymAnalysis": "demander 表“要求/询问”；exiger 表“强硬要求”，语气更强；poser une question 专指“提问”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "demande",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "要求，申请；需求"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "33",
+            "vocabulary": "fait",
+            "partOfSpeech": "adj.",
+            "definition": "①完成的，做成的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est fait",
+                    "vocabularyCollocationMeaning": "好了，完成了（口语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bien fait",
+                    "vocabularyCollocationMeaning": "做得好；活该（口语）"
+                }
+            ],
+            "synonymAnalysis": "fait（完成的）与动词 faire 的过去分词同形；作形容词时意为“完成的、做好的”；c'est fait 是口语常用表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "faire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "做，制作，使"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "défaire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "拆开；打败"
+                }
+            ],
+            "genderNumberVariation": "阴性 faite，阳性复数 faits，阴性复数 faites",
+            "position": "作表语，置于 être 之后，如 c'est fait"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Pierre, frère aîné de Sophie, rentre à Strasbourg pour voir sa famille. Comme tout le monde est là, il propose de prendre une photo. Il demande à Sophie de se mettre un peu à gauche, plus près de papa, et à Cécile de se mettre un peu à droite. Mais Jacques est encore au lit! Enfin, quand il arrive, Pierre dit: «Derrière papa et maman... voilà, c'est fait!»",
+            "chineseTranslation": "索菲的哥哥皮埃尔回到斯特拉斯堡探亲。趁大家都在，他提议拍一张全家福。他让索菲往左挪一点，靠爸爸近一些，让塞西尔往右挪一点。可小雅克还在床上没起来！好不容易等他来了，皮埃尔说：「站在爸爸妈妈后面……好，搞定！」",
+            "fr2cnStrategy": "① frère aîné de Sophie 为同位语，翻译时调整为“索菲的哥哥”置于句首，属于语序调整；② pour voir sa famille 表目的，译为“探亲”，属于词性转换（动词短语→名词）；③ comme tout le monde est là 原因从句译为“趁大家都在”，增添了汉语中自然的“趁”字，属于增译；④ il propose de 译为“他提议”，保留原句逻辑；⑤ se mettre un peu à gauche 译为“往左挪一点”，用动词“挪”表达位移，属于词性转换；⑥ encore au lit 译为“还在床上没起来”，增加了“没起来”以补全语义，属于增译；⑦ c'est fait 译为口语化的“搞定”，体现语体匹配。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "今天是周日，他回家看望父母和朋友。",
+                "frenchTranslation": "Aujourd'hui, c'est dimanche. Il rentre à la maison pour voir ses parents et ses amis.",
+                "cn2frStrategy": "① “今天是周日”拆分为独立短句 c'est dimanche，与后句分开，避免法语中句子过长；② “回家”用 rentrer à la maison，强调“返回原处”；③ “看望”用 pour voir，以 pour + 不定式表目的。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "既然大家都在这里，我们照一张全家福吧。",
+                "frenchTranslation": "Comme tout le monde est ici, prenons une photo de toute la famille.",
+                "cn2frStrategy": "① “既然”对应 comme，须置于句首引导原因从句；② “大家都在”用 tout le monde est ici，注意 tout le monde 后接第三人称单数动词；③ “照一张全家福”用 prendre une photo de toute la famille，这是固定搭配；④ “我们……吧”用第一人称复数祈使式 prenons。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "她回到自己的房间，穿上了一件漂亮的连衣裙。",
+                "frenchTranslation": "Elle rentre dans sa chambre et met une belle robe.",
+                "cn2frStrategy": "① “回到自己的房间”用 rentrer dans sa chambre，注意封闭空间用 dans；② “穿上”表穿衣动作用 mettre，不可用 porter（穿着状态）；③ “漂亮的连衣裙”用 une belle robe，belle 置于名词前。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "皮埃尔，你打算站在哪里呢？",
+                "frenchTranslation": "Mais où est-ce que tu vas te mettre, Pierre?",
+                "cn2frStrategy": "① 疑问地点用 où 置于句首，搭配 est-ce que 构成疑问句；② “打算”对应近将来时 aller + 不定式；③ “站在”对应 se mettre（代词式动词），注意 te 不可省略；④ “皮埃尔”作呼语置于句尾，用逗号隔开。"
+            }
+        ]
+    }
+}

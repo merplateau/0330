@@ -1,0 +1,671 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il est temps de te quitter.",
+            "translatedSentence": "是该告别你的时候了。",
+            "sentenceStructure": "主语 Il（形式主语）— 谓语 est — 表语 temps，真正主语为 de te quitter（不定式短语）。",
+            "grammarAnalysis": "① Il est temps de + infinitif 是固定句型，意为“该是……的时候了”，其中 il 为形式主语，de 引导真正主语。② te 为间接宾语代词，位于不定式前，指代对话对象。",
+            "commonMistakes": "学生易将 Il est temps de 与 C'est le temps de 混淆；后者不是标准法语表达，应避免使用。注意 te quitter 中宾语代词 te 必须紧靠动词 quitter，不可移到句首。"
+        },
+        {
+            "index": "2",
+            "sentence": "Est-ce que tu es libre demain?",
+            "translatedSentence": "你明天有空吗？",
+            "sentenceStructure": "Est-ce que 引导的一般疑问句，主语 tu — 谓语 es — 表语 libre，时间状语 demain。",
+            "grammarAnalysis": "① Est-ce que 是口语中最常见的一般疑问句引导结构，无需主谓倒装。② libre 作表语形容词，意为“有空的，自由的”。③ demain 作时间状语，置于句末。",
+            "commonMistakes": "学生有时错误地将 Est-ce que 后面的句子做倒装，应注意 Est-ce que 本身已完成疑问化，其后恢复陈述语序。"
+        },
+        {
+            "index": "3",
+            "sentence": "Je regrette, mais je dois partir. Cet après-midi, j'ai un rendez-vous avec mon professeur.",
+            "translatedSentence": "我很遗憾，但我必须离开。今天下午我和老师有个约会。",
+            "sentenceStructure": "第一句：主语 je — 谓语 regrette；转折连词 mais 引导第二分句，主语 je — 情态动词 dois — 不定式 partir。第二句：时间状语 Cet après-midi 置于句首，主语 j' — 谓语 ai — 宾语 un rendez-vous，介词短语 avec mon professeur 作补语。",
+            "grammarAnalysis": "① devoir + infinitif 表示义务或必要性，意为“必须，应该”。② Cet après-midi 中 cet 是 ce 在元音前的变体形式。③ avoir un rendez-vous avec qn. 是固定搭配，意为“与某人有约”。",
+            "commonMistakes": "① cet 与 ce 的用法易混：ce 用于辅音或送气 h 前，cet 用于元音或不送气 h 前，cet après-midi 是典型例子。② devoir 变位不规则，je dois / tu dois / il doit / nous devons / vous devez / ils doivent，学生常在复数形式上出错。"
+        },
+        {
+            "index": "4",
+            "sentence": "Nous allons au concert demain soir.",
+            "translatedSentence": "我们明晚去听音乐会。",
+            "sentenceStructure": "主语 Nous — 谓语 allons — 目的地状语 au concert — 时间状语 demain soir。",
+            "grammarAnalysis": "① aller au + lieu 表示去某地，au 是介词 à 与阳性名词冠词 le 的缩合形式。② 此句用近期将来的含义：aller + 地点表示即将前往，或可理解为现在时描述近期安排。",
+            "commonMistakes": "au = à + le，不可拆开写成 à le concert；阴性名词则用 à la，复数则用 aux。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "Il est temps de faire qch.",
+            "meaning": "该是做某事的时候了",
+            "usage": "固定句型，de 后接动词不定式；il 为形式主语。语体偏正式或书面，口语中也常用。",
+            "exampleSentence": "Il est temps de te quitter."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "être libre",
+            "meaning": "有空；自由的",
+            "usage": "libre 作表语，可表示时间上“有空”或状态上“自由”，需结合语境判断。",
+            "exampleSentence": "Est-ce que tu es libre demain?"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "aller au concert",
+            "meaning": "去听音乐会",
+            "usage": "aller à + 活动场所，concert 为阳性名词，à + le = au。",
+            "exampleSentence": "Nous allons au concert demain soir."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "avec plaisir",
+            "meaning": "乐意之至；很高兴",
+            "usage": "固定短语，常用于接受邀请或请求时的回应，相当于中文“好的，很乐意”。语体偏礼貌正式。",
+            "exampleSentence": "— Nous allons au concert demain soir? — Avec plaisir!"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "devoir + infinitif",
+            "meaning": "必须；应该做某事",
+            "usage": "情态动词 devoir 后接动词不定式，表示义务、必要性或推断。",
+            "exampleSentence": "Je dois partir."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir un rendez-vous avec qn.",
+            "meaning": "与某人有约；和某人约好见面",
+            "usage": "固定搭配，avec 后接人；也可说 prendre un rendez-vous（预约）。",
+            "exampleSentence": "Cet après-midi, j'ai un rendez-vous avec mon professeur."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "partir + 时间/地点",
+            "meaning": "离开；出发",
+            "usage": "vi.，可单独使用，也可搭配时间状语或地点介词短语（partir de + lieu, partir pour + destination）。",
+            "exampleSentence": "Je dois partir."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "vouloir + infinitif",
+            "meaning": "想要做某事",
+            "usage": "情态动词 vouloir 后接不定式，表示意愿。疑问句 Vous voulez...? 在口语中常用于表达惊讶或确认。",
+            "exampleSentence": "Vous voulez nous quitter?"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "quitter qn. / un lieu",
+            "meaning": "离开某人；离开某地",
+            "usage": "vt.，后直接跟宾语（人或地点），不加介词；不可与 partir de 混用。",
+            "exampleSentence": "Il est temps de te quitter. / Vous voulez nous quitter?"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "à bientôt / au revoir / à demain",
+            "meaning": "再见；明天见",
+            "usage": "告别用语，à + 时间副词/名词构成，表示“到……再见”。à demain = 明天见，à bientôt = 很快再见，au revoir = 再见（正式）。",
+            "exampleSentence": "— Alors, à bientôt. — Au revoir! / — A demain! — Salut."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "je regrette (mais...)",
+            "meaning": "很遗憾（但是……）",
+            "usage": "常用于婉拒或表示无奈，后接 mais 引出原因；语气比 je suis désolé(e) 稍弱。",
+            "exampleSentence": "Je regrette, mais je dois partir."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "cet après-midi",
+            "meaning": "今天下午",
+            "usage": "指示形容词 ce 在元音前变为 cet；après-midi 为阳性名词（也可作阴性不变格名词使用）。",
+            "exampleSentence": "Cet après-midi, j'ai un rendez-vous avec mon professeur."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "quitter",
+            "partOfSpeech": "vt.",
+            "definition": "①离开（某人或某地） ②（衣物）脱去",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quitter qn.",
+                    "vocabularyCollocationMeaning": "离开某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quitter un lieu",
+                    "vocabularyCollocationMeaning": "离开某地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "quitter son travail",
+                    "vocabularyCollocationMeaning": "辞职"
+                }
+            ],
+            "synonymAnalysis": "quitter vs partir：quitter 是及物动词，后直接跟宾语（人或地点）；partir 是不及物动词，不跟直接宾语，离开的地点用 partir de + lieu 表示。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "désolé",
+            "partOfSpeech": "adj.m.",
+            "definition": "遗憾的；抱歉的；难过的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "je suis désolé(e)",
+                    "vocabularyCollocationMeaning": "我很抱歉，对不起"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être désolé de faire qch.",
+                    "vocabularyCollocationMeaning": "对做某事感到抱歉"
+                }
+            ],
+            "synonymAnalysis": "désolé vs navré：两者均表示遗憾抱歉，navré 语气更强烈，更加正式书面；désolé 日常更常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "désoler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使悲痛；使遗憾"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "désolation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "悲痛；荒凉"
+                }
+            ],
+            "genderNumberVariation": "阴性 désolée，阳性复数 désolés，阴性复数 désolées",
+            "position": "通常作表语，置于 être 之后；也可作定语置于名词后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "libre",
+            "partOfSpeech": "adj.m.",
+            "definition": "①有空的；不忙的 ②自由的；不受约束的 ③空着的（座位、房间等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être libre",
+                    "vocabularyCollocationMeaning": "有空；自由"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "temps libre",
+                    "vocabularyCollocationMeaning": "空闲时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "libre de faire qch.",
+                    "vocabularyCollocationMeaning": "可以自由做某事"
+                }
+            ],
+            "synonymAnalysis": "libre vs disponible：libre 偏口语，日常表示“有空”；disponible 更正式，常用于书面或职业语境，如“可联系的，有档期的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "liberté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "自由"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "libérer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "解放；释放"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "librement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "自由地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 libres",
+            "position": "通常置于名词后（如 temps libre）；作表语时置于 être 之后"
+        },
+        {
+            "index": "4",
+            "vocabulary": "demain",
+            "partOfSpeech": "adv.",
+            "definition": "①明天 ②（用作名词）明天，未来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "demain matin / soir",
+                    "vocabularyCollocationMeaning": "明天早上/晚上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à demain",
+                    "vocabularyCollocationMeaning": "明天见"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "après-demain",
+                    "vocabularyCollocationMeaning": "后天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "副词，也可用作名词（le demain 较少见）；置于句末或句首作时间状语。与 hier（昨天）、aujourd'hui（今天）构成时间副词系列。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "soir",
+            "partOfSpeech": "n.m.",
+            "definition": "晚上；傍晚",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ce soir",
+                    "vocabularyCollocationMeaning": "今晚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demain soir",
+                    "vocabularyCollocationMeaning": "明晚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le soir",
+                    "vocabularyCollocationMeaning": "（泛指）晚上"
+                }
+            ],
+            "synonymAnalysis": "soir vs soirée：soir 指时间点“晚上”；soirée 指整个晚上的时段或活动，如 une soirée（晚会）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "soirée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "整个晚上；晚会"
+                }
+            ],
+            "pluralForm": "soirs"
+        },
+        {
+            "index": "6",
+            "vocabulary": "concert",
+            "partOfSpeech": "n.m.",
+            "definition": "①音乐会；演唱会 ②协调一致",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au concert",
+                    "vocabularyCollocationMeaning": "去听音乐会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "salle de concert",
+                    "vocabularyCollocationMeaning": "音乐厅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "donner un concert",
+                    "vocabularyCollocationMeaning": "举办音乐会"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concerter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "协商；筹划"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concerto",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "协奏曲"
+                }
+            ],
+            "pluralForm": "concerts"
+        },
+        {
+            "index": "7",
+            "vocabulary": "plaisir",
+            "partOfSpeech": "n.m.",
+            "definition": "①愉快；高兴；乐趣 ②（固定表达）乐意",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec plaisir",
+                    "vocabularyCollocationMeaning": "乐意；很高兴"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire plaisir à qn.",
+                    "vocabularyCollocationMeaning": "使某人高兴"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre plaisir à faire qch.",
+                    "vocabularyCollocationMeaning": "乐于做某事"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "avec grand plaisir",
+                    "vocabularyCollocationMeaning": "非常乐意"
+                }
+            ],
+            "synonymAnalysis": "plaisir vs joie：plaisir 指感官或心理上的愉悦，较短暂；joie 指更深层的喜悦，更持久、强烈。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plaire",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "使喜欢；使满意"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "plaisant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "令人愉快的"
+                }
+            ],
+            "pluralForm": "plaisirs"
+        },
+        {
+            "index": "8",
+            "vocabulary": "vouloir",
+            "partOfSpeech": "vt.",
+            "definition": "①想要；希望 ②愿意（用于礼貌请求）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vouloir faire qch.",
+                    "vocabularyCollocationMeaning": "想要做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vouloir bien faire qch.",
+                    "vocabularyCollocationMeaning": "愿意做某事（表示同意）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vouloir dire",
+                    "vocabularyCollocationMeaning": "意思是；意味着"
+                }
+            ],
+            "synonymAnalysis": "vouloir vs désirer：vouloir 更直接，日常口语常用；désirer 更委婉礼貌，常见于商业或正式语境，如 Que désirez-vous?（您需要什么？）",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "volonté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "意志；愿望"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "volontiers",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "乐意地；很高兴地"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent",
+                "compoundPast": "j'ai voulu",
+                "simpleFuture": "je voudrai",
+                "presentSubjunctive": "que je veuille, que tu veuilles, qu'il veuille, que nous voulions, que vous vouliez, qu'ils veuillent",
+                "memoryAids": "单数及第三人称复数词干为 veu-，一二人称复数词干为 voul-；虚拟式词干 veuill- 需特别记忆。"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "devoir",
+            "partOfSpeech": "vt.",
+            "definition": "①必须，应该（情态动词用法） ②欠（债、情）③应当归因于",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "devoir faire qch.",
+                    "vocabularyCollocationMeaning": "必须做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "devoir de l'argent à qn.",
+                    "vocabularyCollocationMeaning": "欠某人钱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "devoir + infinitif（推断）",
+                    "vocabularyCollocationMeaning": "应该是……（表推断）"
+                }
+            ],
+            "synonymAnalysis": "devoir（义务/推断） vs falloir（非人称，表必要性，il faut que...）：devoir 有主语，表示具体某人的义务；il faut 无人称，表示一般性必要性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dû",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "应得的；欠的（devoir 的过去分词）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "devoir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "作业；职责；义务"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je dois, tu dois, il doit, nous devons, vous devez, ils doivent",
+                "compoundPast": "j'ai dû",
+                "simpleFuture": "je devrai",
+                "presentSubjunctive": "que je doive, que tu doives, qu'il doive, que nous devions, que vous deviez, qu'ils doivent",
+                "memoryAids": "单数及三人称复数词干为 doi-，一二人称复数词干为 dev-；与 pouvoir、vouloir 属同类不规则情态动词，变位模式相似。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "partir",
+            "partOfSpeech": "vi.",
+            "definition": "①出发；动身 ②离开 ③（事物）开始；出现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "partir de + lieu",
+                    "vocabularyCollocationMeaning": "从某地出发/离开"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partir pour + destination",
+                    "vocabularyCollocationMeaning": "动身去某地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à partir de",
+                    "vocabularyCollocationMeaning": "从……起（时间/位置）"
+                }
+            ],
+            "synonymAnalysis": "partir vs quitter：partir 不及物，不直接跟宾语；quitter 及物，直接跟地点或人作宾语。例：Il part de Paris. / Il quitte Paris.",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "départ",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "出发；离开"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "repartir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "重新出发；再度离开"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je pars, tu pars, il part, nous partons, vous partez, ils partent",
+                "compoundPast": "je suis parti(e)（复合过去时助动词用 être）",
+                "simpleFuture": "je partirai",
+                "memoryAids": "属于 -tir 类不规则动词，单数去掉 -tir 词尾的 -tir 取 par-，复数保留词干 part-；复合过去时助动词用 être，须与主语配合做性数一致。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "ce (cet)",
+            "partOfSpeech": "adj.m.",
+            "definition": "这；这个；那；那个（指示形容词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ce matin / ce soir",
+                    "vocabularyCollocationMeaning": "今天早上/今晚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cet après-midi / cet homme",
+                    "vocabularyCollocationMeaning": "今天下午/这个男人（元音前用 cet）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ce livre-ci / ce livre-là",
+                    "vocabularyCollocationMeaning": "这本书/那本书（加 -ci/-là 强调远近）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "阳性单数指示形容词，在元音或不送气 h 开头的词前变为 cet；阴性单数为 cette；复数为 ces（阴阳相同）。用于指示或特指已知事物。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "après-midi",
+            "partOfSpeech": "n.m.",
+            "definition": "下午",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cet après-midi",
+                    "vocabularyCollocationMeaning": "今天下午"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'après-midi",
+                    "vocabularyCollocationMeaning": "（泛指）下午"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "demain après-midi",
+                    "vocabularyCollocationMeaning": "明天下午"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "après-midi（不变，或 des après-midis，两种形式均可）",
+            "useExplanation": "词典标注为 n.m./n.f.inv.，即可阳可阴，且复数形式与单数相同（不变格）。常见于口语。"
+        },
+        {
+            "index": "13",
+            "vocabulary": "rendez-vous",
+            "partOfSpeech": "n.m.",
+            "definition": "①约会；约定的见面 ②（医疗/商务等）预约",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir un rendez-vous",
+                    "vocabularyCollocationMeaning": "有约会；有约"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre un rendez-vous",
+                    "vocabularyCollocationMeaning": "预约；约好时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rendez-vous avec qn.",
+                    "vocabularyCollocationMeaning": "与某人的约定"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "rendez-vous（不变）"
+        },
+        {
+            "index": "14",
+            "vocabulary": "mon",
+            "partOfSpeech": "adj.m.",
+            "definition": "我的（阳性单数物主形容词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mon professeur / mon ami",
+                    "vocabularyCollocationMeaning": "我的老师/我的朋友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mon ami(e)（阴性名词前也用 mon）",
+                    "vocabularyCollocationMeaning": "我的朋友（阴性名词以元音开头时，用 mon 代替 ma）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "第一人称单数物主形容词，阳性单数用 mon，阴性单数通常用 ma，但阴性名词以元音或不送气 h 开头时，也用 mon（如 mon amie）。复数为 mes。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "bientôt",
+            "partOfSpeech": "adv.",
+            "definition": "①不久；马上 ②（用于告别）再见（à bientôt）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à bientôt",
+                    "vocabularyCollocationMeaning": "再见；回头见"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bientôt + 将来时",
+                    "vocabularyCollocationMeaning": "不久将……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "très bientôt",
+                    "vocabularyCollocationMeaning": "很快；马上"
+                }
+            ],
+            "synonymAnalysis": "bientôt vs tout de suite：bientôt 表示不远的将来（不久后）；tout de suite 表示立刻、马上（当下即时）。",
+            "derivedWords": [],
+            "useExplanation": "时间副词，多置于句末或动词之后；在告别语 à bientôt 中固定使用。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Il est déjà onze heures et quart. Il est temps de te quitter. Je suis désolé, mais cet après-midi j'ai un rendez-vous avec mon professeur. Je dois partir maintenant. À bientôt!",
+            "chineseTranslation": "已经十一点一刻了。是该告别你的时候了。我很抱歉，但今天下午我和老师有个约。我现在必须走了。再见！",
+            "fr2cnStrategy": "① «Il est temps de te quitter» 中形式主语 Il 不译出，直接译为“该告别了”，体现减译；② «être désolé» 译为“很抱歉”，比逐字译“感到遗憾的”更自然；③ «cet après-midi» 因语序调整移至“今天下午我和老师有个约”前，符合汉语时间状语前置习惯；④ «avoir un rendez-vous avec mon professeur» 整体转化为“和老师有个约”，抽象名词结构转为动词性表达（词性转换）；⑤ «À bientôt» 在告别语境下意译为“再见”，保留语用功能。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他明天晚上要去听音乐会，你想一起去吗？",
+                "frenchTranslation": "Il va au concert demain soir. Est-ce que tu veux y aller avec lui?",
+                "cn2frStrategy": "① “要去听音乐会”用 aller au concert；② “想一起去吗”用 Est-ce que + vouloir + infinitif 的疑问结构；③ 为避免重复，第二句用代词 y 代替 au concert，体现法语代词替代规则。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "我很遗憾，我必须现在离开，因为我下午有个约。",
+                "frenchTranslation": "Je regrette, mais je dois partir maintenant, car j'ai un rendez-vous cet après-midi.",
+                "cn2frStrategy": "① “我很遗憾”用 je regrette，更口语化；② “必须……离开”用 devoir + partir，注意 partir 不及物，不加宾语；③ “因为”用 car（书面口语均可），引导原因从句；④ “下午有个约”用 avoir un rendez-vous + 时间状语的固定结构。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "你明天有空吗？我们一起去听音乐会吧。",
+                "frenchTranslation": "Est-ce que tu es libre demain? On peut aller au concert ensemble.",
+                "cn2frStrategy": "① 疑问句用 Est-ce que + 陈述语序；② “一起去”用 aller au concert + ensemble，ensemble 作状语置句末；③ 汉语“吧”的建议语气用 on peut + infinitif 表达，更口语化自然。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他想离开，但又不忍心告别朋友。",
+                "frenchTranslation": "Il veut partir, mais il a du mal à quitter ses amis.",
+                "cn2frStrategy": "① “想……”用 vouloir + infinitif；② “不忍心……”译为 avoir du mal à + infinitif（难以……），体现词性转换和增译；③ “告别朋友”用 quitter + 直接宾语 ses amis，注意 quitter 为及物动词，不加介词。"
+            }
+        ]
+    }
+}
