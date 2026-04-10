@@ -28,6 +28,14 @@ jobs:
             texlive-latex-extra \
             texlive-luatex
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install watermark dependencies
+        run: python3 -m pip install -r scripts/requirements-watermark.txt
+
       - name: Detect newly added JSON files
         id: detect-json
         shell: bash
@@ -61,6 +69,16 @@ jobs:
             ./scripts/render-json-to-pdf.sh "${json_file}"
           done <<< "${{ steps.detect-json.outputs.files }}"
 
+      - name: Watermark rendered PDFs
+        if: steps.detect-json.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r json_file; do
+            [ -n "${json_file}" ] || continue
+            python3 scripts/watermark_pdfs.py "${json_file%.json}.pdf"
+          done <<< "${{ steps.detect-json.outputs.files }}"
+
       - name: Commit rendered PDFs
         if: steps.detect-json.outputs.count != '0'
         shell: bash
@@ -72,7 +90,8 @@ jobs:
 
           while IFS= read -r json_file; do
             [ -n "${json_file}" ] || continue
-            git add "${json_file%.json}.pdf"
+            pdf_file="${json_file%.json}.pdf"
+            git add "${pdf_file}" "waterprinted/${pdf_file#output/}"
           done <<< "${{ steps.detect-json.outputs.files }}"
 
           if git diff --cached --quiet; then
@@ -80,5 +99,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: render PDFs for new JSON files"
+          git commit -m "chore: render and watermark PDFs for new JSON files"
           git push

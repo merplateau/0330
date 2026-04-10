@@ -11,6 +11,8 @@
 !scripts/
 scripts/*
 !scripts/*.sh
+!scripts/*.py
+!scripts/*.txt
 
 # 保留 newlayout/ 目录（以便 git 进入）
 !newlayout/
@@ -57,5 +59,9 @@ output/*
 output-manual/*
 !output-manual/*.json
 !output-manual/*.pdf
+
+!waterprinted/
+waterprinted/*
+!waterprinted/*.pdf
 
 !README.md
