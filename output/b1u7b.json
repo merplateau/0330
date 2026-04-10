@@ -1,0 +1,877 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Pour Louise, c'est la première fois qu'elle va en Bretagne.",
+            "translatedSentence": "对露易丝来说，这是她第一次去布列塔尼。",
+            "sentenceStructure": "主句为 c'est la première fois，后接 que 引导的关系从句 qu'elle va en Bretagne；Pour Louise 作全句状语。",
+            "grammarAnalysis": "① c'est la première fois que 是固定句型，意为”这是第一次……”，其后从句用陈述式现在时。② que 在此引导时间关系从句，非宾语从句。③ aller + en + 地名（阴性国家/地区），表示”去……”。",
+            "commonMistakes": "学生易将 c'est la première fois que 后接虚拟式，实为误用，该结构后续从句用陈述式。另注意 en Bretagne 中 en 用于阴性地区名前，不可换用 à。"
+        },
+        {
+            "index": 2,
+            "sentence": "Elles vont passer la nuit dans une auberge de jeunesse au bord de la mer.",
+            "translatedSentence": "她们打算在海边的一家青年旅舍过夜。",
+            "sentenceStructure": "主语 Elles — 谓语 vont passer（近将来时）— 宾语 la nuit — 地点状语 dans une auberge de jeunesse au bord de la mer。",
+            "grammarAnalysis": "① aller + 不定式构成近将来时，表示即将发生的动作。② au bord de la mer 是固定介词短语，意为”在海边”。③ auberge de jeunesse 是固定名词短语，意为”青年旅舍”，de 前不加冠词。",
+            "commonMistakes": "近将来时 aller + inf. 中，aller 需按主语进行变位，不可写作 *va（主语为 elles，应为 vont）。au bord de 中的 au 是 à + le 的缩合，不可拆开使用。"
+        },
+        {
+            "index": 3,
+            "sentence": "Il est sept heures moins le quart maintenant.",
+            "translatedSentence": "现在是六点四十五分。",
+            "sentenceStructure": "非人称主语 Il — 谓语 est — 时间表达 sept heures moins le quart — 时间状语 maintenant。",
+            "grammarAnalysis": "① Il est + 时间 是法语表达时刻的固定句型，Il 为非人称主语，无实际意义。② moins le quart 表示”差一刻”，是固定表达，意即差15分钟到整点。③ 此句使用现在时 est 表达当前时刻。",
+            "commonMistakes": "学生易将 Il est 与 C'est 混淆，表示时刻时只能用 Il est，不可用 *C'est。注意 moins le quart 中 le 不可省略，不能写作 *moins quart。"
+        },
+        {
+            "index": 4,
+            "sentence": "Nathalie ne s'intéresse pas tellement à la musique.",
+            "translatedSentence": "娜塔莉对音乐不是特别感兴趣。",
+            "sentenceStructure": "主语 Nathalie — 否定结构 ne...pas — 代词式动词谓语 s'intéresse — 程度副词 tellement — 介词短语 à la musique。",
+            "grammarAnalysis": "① s'intéresser à qch. 是代词式动词固定搭配，意为”对……感兴趣”，介词必须用 à。② ne...pas tellement 表示”不是特别……”，tellement 在否定句中弱化程度，相当于”不怎么”。③ 否定副词 ne...pas 将代词式动词的反身代词 se 包围在内。",
+            "commonMistakes": "s'intéresser 后介词必须用 à，不可用 *pour 或 *de。ne...pas tellement 是程度否定，注意与 ne...pas du tout（完全不）的区别：前者表示”不太”，后者表示”根本不”。"
+        },
+        {
+            "index": 5,
+            "sentence": "Ce sont deux jeunes filles très différentes, mais elles s'amusent bien ensemble.",
+            "translatedSentence": "她们是两个截然不同的女孩，但在一起玩得很开心。",
+            "sentenceStructure": "前半句主语 Ce — 谓语 sont — 表语 deux jeunes filles très différentes；后半句由 mais 连接，主语 elles — 谓语 s'amusent — 程度状语 bien — 方式状语 ensemble。",
+            "grammarAnalysis": "① Ce sont 用于表语为复数名词时，是 c'est 的复数形式。② s'amuser 为代词式动词，意为”玩得开心，自娱”，bien 修饰整个动作。③ très différentes 中形容词 différentes 与名词 filles（阴性复数）保持性数一致。",
+            "commonMistakes": "表语为复数时须用 Ce sont，不可误用 *C'est deux jeunes filles。différent 作表语时须与主语的名词保持性数配合，此处阴性复数加 -es。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "passer les vacances ensemble",
+            "meaning": "一起度假",
+            "usage": "passer + 时间段/节日，表示”度过某段时间/某个节日”；ensemble 作方式状语，位于句末。",
+            "exampleSentence": "Cet été, elles passent leurs vacances ensemble."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "après + groupe nominal",
+            "meaning": "……之后",
+            "usage": "après 作时间介词，后接名词短语，表示某动作之后；注意与 après + inf. passé（après avoir fait qch.）的区分。",
+            "exampleSentence": "Après trois heures de voyage en train, elles sont en Bretagne."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "voyager en train / à vélo",
+            "meaning": "乘火车旅行 / 骑自行车旅行",
+            "usage": "交通方式：乘坐交通工具用 en（en train, en avion, en voiture）；骑行、步行等用 à（à vélo, à pied, à cheval）。",
+            "exampleSentence": "Elles continuent le voyage à vélo."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "passer la nuit dans...",
+            "meaning": "在……过夜",
+            "usage": "passer la nuit 表示”过夜”，后接 dans + 地点名词。",
+            "exampleSentence": "Elles vont passer la nuit dans une auberge de jeunesse au bord de la mer."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "au bord de la mer",
+            "meaning": "在海边",
+            "usage": "固定介词短语，au bord de 表示”在……边上”，可扩展为 au bord du lac（湖边）、au bord de la rivière（河边）。",
+            "exampleSentence": "Elles vont passer la nuit dans une auberge de jeunesse au bord de la mer."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "dîner dans un restaurant",
+            "meaning": "在餐厅吃晚饭",
+            "usage": "dîner 为不及物动词，地点状语用 dans + 冠词 + 场所名词。",
+            "exampleSentence": "Quelquefois, comme aujourd'hui, elles dînent dans un petit restaurant."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "en même temps",
+            "meaning": "同时",
+            "usage": "固定副词短语，位于句末或句中，表示两个动作同时进行。",
+            "exampleSentence": "elles dînent dans un petit restaurant et écoutent la radio en même temps."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "il va faire beau / chaud",
+            "meaning": "天气将会晴好 / 温暖",
+            "usage": "非人称句型 il fait + 天气形容词表示”天气……”；近将来时 il va faire... 表示”天气将会……”；beau 和 chaud 在此作表语，不变阴阳性。",
+            "exampleSentence": "il va encore faire beau et chaud en Bretagne."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "raconter l'histoire de qn./qch.",
+            "meaning": "讲述某人/某事的故事",
+            "usage": "raconter 为及物动词，直接接宾语；后可用 de + 名词短语说明故事内容。",
+            "exampleSentence": "Nathalie raconte l'histoire du voyage en Amérique de son frère André."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "parler de qch./qn.",
+            "meaning": "谈论某事/某人",
+            "usage": "parler 为不及物动词，固定搭配 de，不可直接接宾语；区别于 dire qch.（说某事，及物）。",
+            "exampleSentence": "Elles parlent aussi de l'école."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "s'intéresser à qch.",
+            "meaning": "对……感兴趣",
+            "usage": "代词式动词，固定介词 à，后接名词或不定式。区别于 intéresser qn.（使某人感兴趣，及物）。",
+            "exampleSentence": "Nathalie ne s'intéresse pas tellement à la musique."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "s'amuser bien",
+            "meaning": "玩得开心",
+            "usage": "s'amuser 为代词式动词，意为”娱乐，消遣”；bien 作程度状语修饰，构成固定口语表达。",
+            "exampleSentence": "elles s'amusent bien ensemble."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "aimer + inf.",
+            "meaning": "喜欢做某事",
+            "usage": "aimer 后接动词不定式，表示喜好某种行为；区别于 aimer + n.（喜欢某人/物）。",
+            "exampleSentence": "Louise n'aime pas la biologie. Elle aime la musique."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "copain, copine",
+            "partOfSpeech": "n.m. / n.f.",
+            "definition": "①朋友，伙伴 ②（口语）男/女朋友",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un bon copain",
+                    "vocabularyCollocationMeaning": "一个好朋友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partir en vacances avec des copains",
+                    "vocabularyCollocationMeaning": "和朋友一起去度假"
+                }
+            ],
+            "synonymAnalysis": "copain/copine 多用于口语，指关系亲密的朋友；ami/amie 更正式，可指普通朋友或恋人；camarade 偏指同学、同事等共同身份的伙伴。",
+            "derivedWords": [],
+            "pluralForm": "copains / copines"
+        },
+        {
+            "index": "2",
+            "vocabulary": "ensemble",
+            "partOfSpeech": "adv.",
+            "definition": "①共同，一起 ②同时",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler ensemble",
+                    "vocabularyCollocationMeaning": "一起工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vivre ensemble",
+                    "vocabularyCollocationMeaning": "住在一起"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ensemble",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "整体；套装（服饰）"
+                }
+            ],
+            "useExplanation": "作副词时置于动词后或句末，不修饰名词；作名词时意为”整体”或”套装”，注意词性转换。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "voyage",
+            "partOfSpeech": "n.m.",
+            "definition": "①旅游，旅行 ②旅程",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un voyage",
+                    "vocabularyCollocationMeaning": "进行一次旅行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voyage en train",
+                    "vocabularyCollocationMeaning": "火车旅行"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bon voyage !",
+                    "vocabularyCollocationMeaning": "一路顺风！"
+                }
+            ],
+            "synonymAnalysis": "voyage 指一般旅行；tour 指观光游览；excursion 指短途郊游或远足。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "voyager",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "旅行"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "voyageur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "旅行者；旅客"
+                }
+            ],
+            "pluralForm": "voyages"
+        },
+        {
+            "index": "4",
+            "vocabulary": "train",
+            "partOfSpeech": "n.m.",
+            "definition": "①火车 ②速度，步调",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voyager en train",
+                    "vocabularyCollocationMeaning": "乘火车旅行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre le train",
+                    "vocabularyCollocationMeaning": "乘火车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "train à grande vitesse",
+                    "vocabularyCollocationMeaning": "高速列车"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "trains"
+        },
+        {
+            "index": "5",
+            "vocabulary": "continuer",
+            "partOfSpeech": "vt. / vi.",
+            "definition": "①继续（做某事） ②延续，延伸",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "continuer à / de faire qch.",
+                    "vocabularyCollocationMeaning": "继续做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "continuer le voyage",
+                    "vocabularyCollocationMeaning": "继续旅程"
+                }
+            ],
+            "synonymAnalysis": "continuer à 和 continuer de 均可接不定式，意义相同；continuer à 更常用于口语，continuer de 偏书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "continuation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "继续；延续"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "auberge",
+            "partOfSpeech": "n.f.",
+            "definition": "①小旅店，客栈 ②乡村旅馆",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "auberge de jeunesse",
+                    "vocabularyCollocationMeaning": "青年旅舍"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "loger dans une auberge",
+                    "vocabularyCollocationMeaning": "住在旅店里"
+                }
+            ],
+            "synonymAnalysis": "auberge 指规模较小的传统旅馆，多位于乡村；hôtel 指一般旅馆；auberge de jeunesse 是固定搭配，专指”青年旅舍”。",
+            "derivedWords": [],
+            "pluralForm": "auberges"
+        },
+        {
+            "index": "7",
+            "vocabulary": "jeunesse",
+            "partOfSpeech": "n.f.",
+            "definition": "①青年；年轻人（总称） ②青春，青年时代",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "auberge de jeunesse",
+                    "vocabularyCollocationMeaning": "青年旅舍"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la jeunesse d'aujourd'hui",
+                    "vocabularyCollocationMeaning": "当今的年轻人"
+                }
+            ],
+            "synonymAnalysis": "jeunesse 多为抽象集合名词，指”青年群体”或”青春时代”；jeune 作名词时指具体的某个年轻人。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "jeune",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "年轻的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rajeunir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变年轻"
+                }
+            ],
+            "pluralForm": "jeunesses（罕用，通常无复数）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "bord",
+            "partOfSpeech": "n.m.",
+            "definition": "①边，边缘 ②（海、河、湖的）岸边",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au bord de la mer",
+                    "vocabularyCollocationMeaning": "在海边"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au bord du lac",
+                    "vocabularyCollocationMeaning": "在湖边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au bord de la route",
+                    "vocabularyCollocationMeaning": "在路边"
+                }
+            ],
+            "synonymAnalysis": "bord 指物体或水体的边缘；côté 指”一侧”，侧重方向；rive 专指河岸（如 rive gauche 左岸）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "border",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "在……的边缘；沿……排列"
+                }
+            ],
+            "pluralForm": "bords"
+        },
+        {
+            "index": "9",
+            "vocabulary": "sympa",
+            "partOfSpeech": "adj.",
+            "definition": "①（俗）给人以好感的，使人舒服的 ②友好的，和蔼的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un endroit sympa",
+                    "vocabularyCollocationMeaning": "一个令人舒适的地方"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être sympa avec qn.",
+                    "vocabularyCollocationMeaning": "对某人友好"
+                }
+            ],
+            "synonymAnalysis": "sympa 是 sympathique 的缩写，仅用于口语；sympathique 可用于书面语和口语。两者意义相同，但文体色彩不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sympathique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "讨人喜欢的；和蔼的（正式形式）"
+                }
+            ],
+            "genderNumberVariation": "sympa 阴阳同形，复数加 -s：sympas",
+            "position": "通常置于名词后，作表语时位于 être 之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "magnifique",
+            "partOfSpeech": "adj.",
+            "definition": "①雄伟的，壮观的 ②极好的，绝妙的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un paysage magnifique",
+                    "vocabularyCollocationMeaning": "壮丽的风景"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un temps magnifique",
+                    "vocabularyCollocationMeaning": "极好的天气"
+                }
+            ],
+            "synonymAnalysis": "magnifique 表示壮观、宏伟或极佳，语气强烈；beau 是通用的”美丽的”，适用范围更广；splendide 与 magnifique 近义，但更强调光彩夺目。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "magnifiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "壮观地；极好地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：magnifiques",
+            "position": "通常置于名词后；偶可前置，语气更强烈"
+        },
+        {
+            "index": "11",
+            "vocabulary": "quelquefois",
+            "partOfSpeech": "adv.",
+            "definition": "①有时，偶尔",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quelquefois, il arrive que...",
+                    "vocabularyCollocationMeaning": "有时候，会发生……"
+                }
+            ],
+            "synonymAnalysis": "quelquefois 与 parfois 均表示”有时”，可互换；de temps en temps 表示”不时地，偶尔”，频率略低；souvent 表示”经常”，频率高于以上三者。",
+            "derivedWords": [],
+            "useExplanation": "通常置于句首或句末，也可插入句中动词前后；不可与否定词连用（否定用 ne...jamais）。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "écouter",
+            "partOfSpeech": "vt.",
+            "definition": "①听，倾听",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écouter la radio",
+                    "vocabularyCollocationMeaning": "听收音机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "écouter de la musique",
+                    "vocabularyCollocationMeaning": "听音乐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "écouter qn.",
+                    "vocabularyCollocationMeaning": "听某人说话"
+                }
+            ],
+            "synonymAnalysis": "écouter 表示主动、有意地倾听；entendre 表示被动地”听到”，强调感知结果而非主动行为。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écoute",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "收听；监听"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "radio",
+            "partOfSpeech": "n.f.",
+            "definition": "①收音机 ②广播",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écouter la radio",
+                    "vocabularyCollocationMeaning": "听广播"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la radio",
+                    "vocabularyCollocationMeaning": "在广播中，通过广播"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "radios"
+        },
+        {
+            "index": "14",
+            "vocabulary": "conversation",
+            "partOfSpeech": "n.f.",
+            "definition": "①会话，交谈 ②对话",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir une conversation avec qn.",
+                    "vocabularyCollocationMeaning": "与某人交谈"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "continuer la conversation",
+                    "vocabularyCollocationMeaning": "继续交谈"
+                }
+            ],
+            "synonymAnalysis": "conversation 指双方互动交流；dialogue 更强调对话的形式（如戏剧中的对白）；discussion 含有讨论、争议之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "converser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "交谈"
+                }
+            ],
+            "pluralForm": "conversations"
+        },
+        {
+            "index": "15",
+            "vocabulary": "raconter",
+            "partOfSpeech": "vt.",
+            "definition": "①讲述，叙述 ②讲（故事）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "raconter une histoire",
+                    "vocabularyCollocationMeaning": "讲一个故事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "raconter qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人讲述某事"
+                }
+            ],
+            "synonymAnalysis": "raconter 强调叙述完整的故事或经历；décrire 侧重描述外貌或状态；expliquer 侧重解释说明原因或过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "récit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "叙述；故事"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "histoire",
+            "partOfSpeech": "n.f.",
+            "definition": "①历史 ②故事，经历",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'histoire de France",
+                    "vocabularyCollocationMeaning": "法国历史"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "raconter une histoire",
+                    "vocabularyCollocationMeaning": "讲故事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une histoire d'amour",
+                    "vocabularyCollocationMeaning": "一段爱情故事"
+                }
+            ],
+            "synonymAnalysis": "histoire（历史/故事）与 conte（童话，虚构故事）有别：histoire 可指真实经历，conte 通常指虚构的幻想故事。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "historique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "历史的，历史性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "historien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "历史学家"
+                }
+            ],
+            "pluralForm": "histoires"
+        },
+        {
+            "index": "17",
+            "vocabulary": "biologie",
+            "partOfSpeech": "n.f.",
+            "definition": "①生物学",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cours de biologie",
+                    "vocabularyCollocationMeaning": "生物课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "professeur de biologie",
+                    "vocabularyCollocationMeaning": "生物老师"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "biologique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "生物学的；生态的（有机食品）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "biologiste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "生物学家"
+                }
+            ],
+            "pluralForm": "biologies（罕用）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "musique",
+            "partOfSpeech": "n.f.",
+            "definition": "①音乐 ②乐曲",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écouter de la musique",
+                    "vocabularyCollocationMeaning": "听音乐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire de la musique",
+                    "vocabularyCollocationMeaning": "学音乐；演奏音乐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cours de musique",
+                    "vocabularyCollocationMeaning": "音乐课"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "musical",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "音乐的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "musicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "音乐家"
+                }
+            ],
+            "pluralForm": "musiques"
+        },
+        {
+            "index": "19",
+            "vocabulary": "pianiste",
+            "partOfSpeech": "n.",
+            "definition": "①钢琴家，弹钢琴者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un bon pianiste",
+                    "vocabularyCollocationMeaning": "一位出色的钢琴家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être pianiste professionnel",
+                    "vocabularyCollocationMeaning": "是职业钢琴家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "piano",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "钢琴"
+                }
+            ],
+            "pluralForm": "pianistes"
+        },
+        {
+            "index": "20",
+            "vocabulary": "gymnastique",
+            "partOfSpeech": "n.f.",
+            "definition": "①体操 ②体育锻炼",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire de la gymnastique",
+                    "vocabularyCollocationMeaning": "做体操；锻炼身体"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cours de gymnastique",
+                    "vocabularyCollocationMeaning": "体操课"
+                }
+            ],
+            "synonymAnalysis": "gymnastique 指体操或体育锻炼；sport 是泛指的”体育运动”；exercice 指具体的练习动作。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gymnaste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "体操运动员"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gymnase",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "体育馆"
+                }
+            ],
+            "pluralForm": "gymnasticques（罕用）"
+        },
+        {
+            "index": "21",
+            "vocabulary": "jeune",
+            "partOfSpeech": "adj.",
+            "definition": "①年轻的，年幼的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une jeune fille",
+                    "vocabularyCollocationMeaning": "一个年轻女孩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des gens jeunes",
+                    "vocabularyCollocationMeaning": "年轻人"
+                }
+            ],
+            "synonymAnalysis": "jeune 强调年龄小或心态年轻；nouveau 表示”新的”，不含年龄含义；récent 表示”最近的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "jeunesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "青春；青年群体"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rajeunir",
+                    "derivedWordPartOfSpeech": "vt. / vi.",
+                    "derivedWordMeaning": "使年轻；变年轻"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数加 -s：jeunes",
+            "position": "通常置于名词前（如 une jeune fille）；置于名词后时含贬义或强调幼稚"
+        },
+        {
+            "index": "22",
+            "vocabulary": "différent",
+            "partOfSpeech": "adj.",
+            "definition": "①不同的，各种各样的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être différent de qn./qch.",
+                    "vocabularyCollocationMeaning": "与某人/某物不同"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de différentes façons",
+                    "vocabularyCollocationMeaning": "以不同的方式"
+                }
+            ],
+            "synonymAnalysis": "différent 表示”不同的”，强调差异；divers 表示”各种各样的”，强调多样性；varié 强调丰富多彩。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "différence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "差异，不同"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "différemment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "以不同方式"
+                }
+            ],
+            "genderNumberVariation": "阴性 différente，阳性复数 différents，阴性复数 différentes",
+            "position": "通常置于名词后；前置时意为”各种各样的”（如 de différentes raisons 各种原因）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "amuser",
+            "partOfSpeech": "vt.",
+            "definition": "①使快乐，使开心",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "amuser les enfants",
+                    "vocabularyCollocationMeaning": "逗孩子们开心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'amuser bien",
+                    "vocabularyCollocationMeaning": "玩得开心"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'amuser à faire qch.",
+                    "vocabularyCollocationMeaning": "以做某事为乐"
+                }
+            ],
+            "synonymAnalysis": "amuser qn. 指使别人开心（及物）；s'amuser 指自己玩得开心（代词式）；divertir 意近，但更书面，含”消遣、娱乐”之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "amusant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有趣的，好笑的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "amusement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "娱乐，消遣"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Louise et Nathalie passent leurs vacances d'été en Bretagne. Après trois heures de voyage en train, elles continuent le voyage à vélo et vont passer la nuit dans une auberge de jeunesse au bord de la mer. Quelquefois, elles dînent dans un petit restaurant en même temps qu'elles écoutent la radio. Ce sont deux jeunes filles très différentes, mais elles s'amusent bien ensemble.",
+            "chineseTranslation": "露易丝和娜塔莉在布列塔尼度过了她们的暑假。乘坐三小时火车之后，她们骑自行车继续旅程，打算在海边的一家青年旅舍过夜。有时，她们边听收音机边在一家小餐厅吃晚饭。她们是两个性格迥异的女孩，但在一起总能玩得很开心。",
+            "fr2cnStrategy": "① après trois heures de voyage en train 处理为时间状语前置，译为”乘坐三小时火车之后”，调整语序符合中文习惯；② continuer le voyage à vélo 中，à vélo 译为”骑自行车”，通过增译动作主体使译文更自然；③ en même temps qu'elles écoutent la radio 采用”边……边……”结构，将法语的时间从句转换为汉语常用的并列动作表达；④ très différentes 译为”性格迥异”，属于词性转换与增译，避免”非常不同”的生硬直译；⑤ s'amusent bien ensemble 译为”在一起总能玩得很开心”，增译”总能”以体现习惯性动作的语气。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "这是我第一次骑自行车去海边旅行。",
+                "frenchTranslation": "C'est la première fois que je voyage à vélo jusqu'au bord de la mer.",
+                "cn2frStrategy": "① ”这是第一次……”用固定句型 c'est la première fois que + 陈述式现在时；② ”骑自行车”用 à vélo，区别于乘坐交通工具用 en；③ ”去海边”用 jusqu'au bord de la mer，jusqu'à 表示目的地方向。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "她们有时一起在小旅馆吃饭，同时聊天。",
+                "frenchTranslation": "Quelquefois, elles dînent ensemble dans une petite auberge et parlent en même temps.",
+                "cn2frStrategy": "① ”有时”用 quelquefois，置于句首；② ”一起”用 ensemble，置于动词后；③ ”同时”用固定表达 en même temps，置于句末；④ ”聊天”用 parler（不及物），不加宾语时直接使用。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他是一位非常出色的钢琴家，对音乐非常感兴趣。",
+                "frenchTranslation": "C'est un très bon pianiste et il s'intéresse beaucoup à la musique.",
+                "cn2frStrategy": "① ”是一位……”用表语句型 c'est un...；② ”对……感兴趣”用代词式动词固定搭配 s'intéresser à，介词不可省略；③ ”非常”修饰动词时用 beaucoup，不用 très（très 修饰形容词/副词）。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "尽管她们两个人性格各不相同，但总是在一起玩得很开心。",
+                "frenchTranslation": "Bien qu'elles soient très différentes, elles s'amusent toujours bien ensemble.",
+                "cn2frStrategy": "① ”尽管……”用 bien que 引导让步状语从句，从句动词须用虚拟式现在时 soient（être 的虚拟式）；② ”性格各不相同”译为 très différentes，形容词与主语 elles（阴性复数）保持性数一致；③ ”总是”用 toujours，置于动词 s'amusent 后；④ ”在一起玩得开心”用 s'amuser bien ensemble。"
+            }
+        ]
+    }
+}

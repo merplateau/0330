@@ -1,0 +1,1405 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Pour aller à l'école, il lui faut une heure.",
+            "translatedSentence": "去学校要花他一个小时。",
+            "sentenceStructure": "Pour aller à l'école 为目的状语，主句为 il lui faut une heure，其中 il 是非人称主语，lui 是间接宾语（指 Nicolas），une heure 是真正的主语。",
+            "grammarAnalysis": "① falloir 是非人称动词，只以 il 作主语，结构为 il faut + 名词 / 不定式。② il lui faut une heure 中，lui 为间接宾语代词，表示“对他来说需要”。③ Pour + 不定式表示目的。",
+            "commonMistakes": "学生常误将 lui 视为主语，实际上句子真正的逻辑主体是 Nicolas，lui 是间接宾语。另注意 falloir 无人称变位，不可写成 *il le faut。"
+        },
+        {
+            "index": "2",
+            "sentence": "A ce moment-là, il a encore envie de dormir, mais il dit tous les soirs à sa mère de le réveiller le lendemain, à six heures juste, parce qu'il doit travailler.",
+            "translatedSentence": "在那个时候，他还想睡觉，但他每天晚上都告诉妈妈，第二天早上六点整叫醒他，因为他必须去上学。",
+            "sentenceStructure": "主句为 il dit à sa mère de le réveiller，其中 dire à qn. de faire qch. 是固定结构；mais 引导转折；parce qu'il doit travailler 是原因状语从句。",
+            "grammarAnalysis": "① dire à qn. de faire qch. 意为“告诉某人做某事”，de 后接不定式。② le réveiller 中 le 是直接宾语代词，指代 Nicolas 本人。③ parce que 引导原因从句。④ tous les soirs 表示习惯性动作，用现在时。",
+            "commonMistakes": "① 易忘记 dire 后的结构是 dire à qn. de faire，而非 *dire qn. faire。② le réveiller 中的 le 代指 Nicolas，学生常误认为无需代词。"
+        },
+        {
+            "index": "3",
+            "sentence": "Sa mère se lève encore plus tôt, à quatre heures, hiver comme été.",
+            "translatedSentence": "他妈妈起床更早，四点钟就起床，无论冬夏。",
+            "sentenceStructure": "主句 Sa mère se lève encore plus tôt，à quatre heures 为时间补语，hiver comme été 为固定短语作状语。",
+            "grammarAnalysis": "① se lever 是代词式动词，表示“起床”。② encore plus tôt 构成比较级强调，encore 加强比较程度。③ hiver comme été 是固定表达，意为“不论冬夏，四季如此”。",
+            "commonMistakes": "hiver comme été 是固定短语，学生常试图逐字翻译为“冬天像夏天”，应理解为“不论冬夏”。"
+        },
+        {
+            "index": "4",
+            "sentence": "Il se met au travail sérieusement.",
+            "translatedSentence": "他认真地投入学习。",
+            "sentenceStructure": "主语 il，谓语 se met，介词短语 au travail 作补语，sérieusement 为方式状语。",
+            "grammarAnalysis": "① se mettre à + 名词 / 不定式，意为“开始，着手做某事”，为固定搭配。② au = à + le，为冠词缩合形式。",
+            "commonMistakes": "学生常混淆 se mettre à + 不定式 与 se mettre + 名词介词短语，注意 se mettre au travail 中 travail 前有冠词缩合，不可省略。"
+        },
+        {
+            "index": "5",
+            "sentence": "Tout est vite fait, en quelques minutes seulement.",
+            "translatedSentence": "一切都很快就做完了，只需几分钟。",
+            "sentenceStructure": "主语 Tout，谓语 est fait（被动语态），vite 为方式状语，en quelques minutes seulement 为时间状语。",
+            "grammarAnalysis": "① est fait 为被动语态（être + 过去分词），表示“被做完”，此处有结果状态之意。② en + 时间名词 表示完成某事所需的时间，与 dans + 时间名词（表示在某段时间之后）有所不同。③ seulement 表强调“仅仅”。",
+            "commonMistakes": "① en 与 dans 引导时间状语的区别：en quelques minutes = 花了几分钟完成；dans quelques minutes = 几分钟之后（将发生）。② 学生常将被动结构 est fait 误读为系表结构。"
+        },
+        {
+            "index": "6",
+            "sentence": "Il faut marcher vite, car il ne veut pas être en retard.",
+            "translatedSentence": "必须走快点，因为他不想迟到。",
+            "sentenceStructure": "il faut marcher vite 为非人称句，car 引导原因状语从句 il ne veut pas être en retard。",
+            "grammarAnalysis": "① il faut + 不定式，非人称结构，表示“必须……”。② car 引导原因从句，较 parce que 更正式，多用于书面语，且不置于句首。③ être en retard 为固定表达，意为“迟到”。",
+            "commonMistakes": "car 不能位于句首，这与 parce que 不同。此外 être en retard 是固定短语，不可写成 *être retard。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "il faut + n. / inf.",
+            "meaning": "需要……；必须……",
+            "usage": "非人称结构，主语永远是 il，表示必要性或需要。接名词时直接跟名词；接动词时用不定式。如需表示“对某人来说需要”，可加间接宾语：il lui faut une heure。",
+            "exampleSentence": "Pour aller à l'école, il lui faut une heure."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "avoir envie de + inf.",
+            "meaning": "想要做某事",
+            "usage": "固定搭配，envie 后接 de + 不定式。注意与 avoir envie de + 名词（想要某物）的区别。口语书面均常用。",
+            "exampleSentence": "il a encore envie de dormir"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "dire à qn. de faire qch.",
+            "meaning": "告诉某人做某事",
+            "usage": "固定结构，间接宾语为人，de 后接不定式。注意区分 dire à qn. que + 陈述句（告诉某人某事）与 dire à qn. de faire qch.（指示某人做某事）。",
+            "exampleSentence": "il dit tous les soirs à sa mère de le réveiller le lendemain"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "se lever de bonne heure",
+            "meaning": "早起",
+            "usage": "固定表达，de bonne heure 意为“早”，与 tôt 近义。se lever 为代词式动词。",
+            "exampleSentence": "Tous les matins, il se lève de bonne heure."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se mettre au travail",
+            "meaning": "开始工作；着手学习",
+            "usage": "se mettre à + 名词，表示“开始某项活动”。au = à + le，不可省略冠词。也可用 se mettre à + 不定式。",
+            "exampleSentence": "Il se met au travail sérieusement."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "s'occuper de + n.",
+            "meaning": "负责……；照料……",
+            "usage": "代词式动词，固定接 de，不可换用 à 或 pour。书面口语均常用。",
+            "exampleSentence": "Elle s'occupe toujours du petit déjeuner."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "faire chauffer qch.",
+            "meaning": "加热某物",
+            "usage": "faire + 不定式，使役结构，表示“使……变热”。chauffer 作不及物动词时意为“变热”，作及物动词时意为“加热”。",
+            "exampleSentence": "sa grand-mère se lève et fait chauffer le café"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "se brosser les dents",
+            "meaning": "刷牙",
+            "usage": "代词式动词结构，身体部位前用定冠词（les dents），不用物主冠词。类似结构：se laver les mains（洗手）。",
+            "exampleSentence": "il se lave les mains, il se brosse les dents"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "être en retard",
+            "meaning": "迟到",
+            "usage": "固定短语，être + en retard，不加冠词。反义为 être en avance（早到）或 être à l'heure（准时）。",
+            "exampleSentence": "il ne veut pas être en retard"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "se mettre en route",
+            "meaning": "出发，启程",
+            "usage": "固定短语，se mettre + en route，表示开始行程。与 partir 近义，但更强调“动身”的动作。",
+            "exampleSentence": "Nicolas se met en route."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "par exemple",
+            "meaning": "例如",
+            "usage": "固定短语，常置于句末或句中，引出举例。书面口语均适用。缩写为 p.ex.。",
+            "exampleSentence": "Il chante toujours en route, par exemple: Frère Jacques..."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "hiver comme été",
+            "meaning": "不论冬夏；四季如此",
+            "usage": "固定惯用表达，不加冠词，表示“无论任何季节都一样”。类似结构：jour comme nuit（不论昼夜）。",
+            "exampleSentence": "Sa mère se lève encore plus tôt, à quatre heures, hiver comme été."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "savoir bien ses leçons",
+            "meaning": "把功课学得很好；熟知功课",
+            "usage": "savoir 表示“掌握知识、会”，区别于 connaître（认识、熟悉）。savoir ses leçons 是常用表达，指学生对课程内容的掌握。",
+            "exampleSentence": "Il sait bien ses leçons."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "se dire au revoir",
+            "meaning": "互相道别",
+            "usage": "代词式动词表互动，se dire + 话语内容，表示互相说……。",
+            "exampleSentence": "Ils se disent au revoir et il part pour les cours du matin."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "élève",
+            "partOfSpeech": "n.m.",
+            "definition": "①（中小学）学生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un bon élève",
+                    "vocabularyCollocationMeaning": "好学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "élève de classe",
+                    "vocabularyCollocationMeaning": "班级同学"
+                }
+            ],
+            "synonymAnalysis": "élève 指中小学生；étudiant(e) 指大学生；écolier/écolière 特指小学生。考研中需注意不同学段学生的对应词。",
+            "derivedWords": [],
+            "pluralForm": "élèves"
+        },
+        {
+            "index": "2",
+            "vocabulary": "village",
+            "partOfSpeech": "n.m.",
+            "definition": "①村庄，乡村",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un petit village",
+                    "vocabularyCollocationMeaning": "一个小村庄"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "village de campagne",
+                    "vocabularyCollocationMeaning": "乡村村庄"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "villageois",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "村民"
+                }
+            ],
+            "pluralForm": "villages"
+        },
+        {
+            "index": "3",
+            "vocabulary": "calme",
+            "partOfSpeech": "adj.m.",
+            "definition": "①安静的 ②平静的，沉着的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un endroit calme",
+                    "vocabularyCollocationMeaning": "一个安静的地方"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rester calme",
+                    "vocabularyCollocationMeaning": "保持冷静"
+                }
+            ],
+            "synonymAnalysis": "calme 强调无喧闹、无躁动；tranquille 强调无打扰、安宁；silencieux 强调无声音。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "calme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "平静，安宁（名词用法）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "calmement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "平静地，安静地"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 calme，复数 calmes",
+            "position": "通常置于名词之后；前置时有时强调主观感受"
+        },
+        {
+            "index": "4",
+            "vocabulary": "falloir",
+            "partOfSpeech": "vi.",
+            "definition": "①必须，应该（非人称动词）②需要",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il faut + inf.",
+                    "vocabularyCollocationMeaning": "必须做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il faut + n.",
+                    "vocabularyCollocationMeaning": "需要某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il lui faut + n.",
+                    "vocabularyCollocationMeaning": "他需要……"
+                }
+            ],
+            "synonymAnalysis": "falloir（非人称）与 devoir（人称动词）均可表示“必须”，但 falloir 更客观，devoir 更主观；falloir 只有非人称形式。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "il faut（仅第三人称单数非人称形式）",
+                "compoundPast": "il a fallu",
+                "simpleFuture": "il faudra",
+                "imperfect": "il fallait",
+                "presentSubjunctive": "il faille",
+                "memoryAids": "falloir 为纯非人称动词，无其他人称变位，只需记忆单一形式。虚拟式 il faille 为考研常考形式。"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "envie",
+            "partOfSpeech": "n.f.",
+            "definition": "①渴望，愿望 ②羡慕，嫉妒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir envie de qch. / de faire qch.",
+                    "vocabularyCollocationMeaning": "想要某物/想做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire envie à qn.",
+                    "vocabularyCollocationMeaning": "令某人羡慕"
+                }
+            ],
+            "synonymAnalysis": "envie 与 désir：envie 较口语化，désir 更正式，后者常含强烈的主观渴望。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "envier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "羡慕，嫉妒"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "envieux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "嫉妒的，羡慕的"
+                }
+            ],
+            "pluralForm": "envies"
+        },
+        {
+            "index": "6",
+            "vocabulary": "dormir",
+            "partOfSpeech": "vi.",
+            "definition": "①睡觉，睡眠",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir envie de dormir",
+                    "vocabularyCollocationMeaning": "想睡觉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dormir profondément",
+                    "vocabularyCollocationMeaning": "熟睡"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dormir bien / mal",
+                    "vocabularyCollocationMeaning": "睡得好/不好"
+                }
+            ],
+            "synonymAnalysis": "dormir 表睡觉的动作或状态；s'endormir 表“入睡”（开始睡）；se réveiller 表“醒来”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "s'endormir",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "入睡，睡着"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "endormi",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "睡着的；迟钝的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je dors, tu dors, il dort, nous dormons, vous dormez, ils dorment",
+                "compoundPast": "j'ai dormi",
+                "simpleFuture": "je dormirai",
+                "memoryAids": "单数词干 dor-（去掉 -mir），复数词干 dorm-；与 servir、partir、sortir 变位规律相同。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "réveiller",
+            "partOfSpeech": "vt.",
+            "definition": "①叫醒，唤醒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réveiller qn.",
+                    "vocabularyCollocationMeaning": "叫醒某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se réveiller",
+                    "vocabularyCollocationMeaning": "（自己）醒来"
+                }
+            ],
+            "synonymAnalysis": "réveiller（及物）= 叫醒别人；se réveiller（代词式）= 自己醒来。注意区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réveil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "醒来；闹钟"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réveil-matin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "闹钟（旧式说法）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "lendemain",
+            "partOfSpeech": "n.m.",
+            "definition": "①次日，第二天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le lendemain",
+                    "vocabularyCollocationMeaning": "第二天，次日"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le lendemain matin",
+                    "vocabularyCollocationMeaning": "第二天早上"
+                }
+            ],
+            "synonymAnalysis": "lendemain 表叙述视角下的“第二天”，常与定冠词连用；demain 是“明天”，从说话时刻出发。不可互换。",
+            "derivedWords": [],
+            "pluralForm": "lendemains"
+        },
+        {
+            "index": "9",
+            "vocabulary": "juste",
+            "partOfSpeech": "adj.m.",
+            "definition": "①准确的 ②公正的，公平的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à six heures juste",
+                    "vocabularyCollocationMeaning": "整整六点，六点整"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est juste",
+                    "vocabularyCollocationMeaning": "这是对的/公平的"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "justement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "恰好，正好；公正地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "justice",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "正义，公正；司法"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 juste，复数 justes",
+            "position": "作形容词时通常置于名词后；作副词（正好、整整）时置于数词或形容词后",
+            "useExplanation": "作副词时表“恰好，正好”（à six heures juste = 整整六点），此时不随名词变化。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "se lever",
+            "partOfSpeech": "v.pron.",
+            "definition": "①起床 ②站起来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se lever de bonne heure",
+                    "vocabularyCollocationMeaning": "早起"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se lever tôt / tard",
+                    "vocabularyCollocationMeaning": "起得早/晚"
+                }
+            ],
+            "synonymAnalysis": "se lever 指起床或站起；se dresser 更强调站立挺身。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lever",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "举起，抬起"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lever",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "起床；升起（le lever du soleil 日出）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent",
+                "compoundPast": "je me suis levé(e)（助动词用 être）",
+                "simpleFuture": "je me lèverai",
+                "memoryAids": "属于 e → è 变音类动词（acheter 类），单数及第三人称复数词干元音开口变 è；助动词用 être，过去分词与主语性数配合。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "sérieusement",
+            "partOfSpeech": "adv.",
+            "definition": "①认真地 ②严肃地 ③严重地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler sérieusement",
+                    "vocabularyCollocationMeaning": "认真工作/学习"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre qch. sérieusement",
+                    "vocabularyCollocationMeaning": "认真对待某事"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sérieux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "认真的，严肃的；严重的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sérieux",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "认真，严肃（名词）"
+                }
+            ],
+            "useExplanation": "副词，通常置于谓语动词之后或句末。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "savoir",
+            "partOfSpeech": "vt.",
+            "definition": "①知道 ②会，掌握（技能或知识）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "savoir + inf.",
+                    "vocabularyCollocationMeaning": "会做某事（掌握能力）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "savoir ses leçons",
+                    "vocabularyCollocationMeaning": "熟知功课"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "savoir que + prop.",
+                    "vocabularyCollocationMeaning": "知道……"
+                }
+            ],
+            "synonymAnalysis": "savoir 表“知道某事、掌握某技能”；connaître 表“认识某人、熟悉某地/某物”。区别：savoir nager（会游泳）vs connaître Paris（熟悉巴黎）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "savoir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "知识，学识"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "savant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "学者，科学家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je sais, tu sais, il sait, nous savons, vous savez, ils savent",
+                "compoundPast": "j'ai su",
+                "simpleFuture": "je saurai",
+                "presentSubjunctive": "que je sache, que tu saches, qu'il sache, que nous sachions, que vous sachiez, qu'ils sachent",
+                "memoryAids": "虚拟式 sache 为考研常考形式，须单独记忆。savoir 的词干在各时态中变化大，建议整组记忆。"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "leçon",
+            "partOfSpeech": "n.f.",
+            "definition": "①课；功课 ②教训",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "savoir ses leçons",
+                    "vocabularyCollocationMeaning": "熟知功课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner / prendre une leçon",
+                    "vocabularyCollocationMeaning": "上一堂课/接受一课"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tirer une leçon de qch.",
+                    "vocabularyCollocationMeaning": "从某事中吸取教训"
+                }
+            ],
+            "synonymAnalysis": "leçon 可指“课”也可指“教训”；cours 多指课程/上课；classe 指课堂或班级。",
+            "derivedWords": [],
+            "pluralForm": "leçons"
+        },
+        {
+            "index": "14",
+            "vocabulary": "marcher",
+            "partOfSpeech": "vi.",
+            "definition": "①走，步行 ②运转，运行 ③（事情）进展，进行",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "marcher vite / lentement",
+                    "vocabularyCollocationMeaning": "走得快/慢"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "L'heure marche.",
+                    "vocabularyCollocationMeaning": "时间在流逝/钟表在走"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ça marche",
+                    "vocabularyCollocationMeaning": "（口语）行，好的；运转正常"
+                }
+            ],
+            "synonymAnalysis": "marcher 侧重步行动作或运转状态；aller à pied 强调“步行前往”；fonctionner 专指机器运转。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marche",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "步行；台阶；运转"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "marcheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "步行者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "chauffer",
+            "partOfSpeech": "vi.",
+            "definition": "①变热，发热",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire chauffer qch.",
+                    "vocabularyCollocationMeaning": "加热某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chauffer le café",
+                    "vocabularyCollocationMeaning": "热咖啡（及物用法）"
+                }
+            ],
+            "synonymAnalysis": "chauffer（不及物）= 变热；chauffer（及物）= 加热；réchauffer = 重新加热；faire chauffer = 使……变热（使役结构）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chauffage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "供暖，加热"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chaud",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "热的，暖的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "s'occuper de",
+            "partOfSpeech": "v.pron.",
+            "definition": "①负责，负责照料 ②照看，照顾",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'occuper de qch.",
+                    "vocabularyCollocationMeaning": "负责某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'occuper de qn.",
+                    "vocabularyCollocationMeaning": "照顾某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'occuper de faire qch.",
+                    "vocabularyCollocationMeaning": "忙于做某事"
+                }
+            ],
+            "synonymAnalysis": "s'occuper de 强调主动负责；prendre soin de 强调细心照料；se charger de 更正式，强调承担责任。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "occuper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "占据，占用；使忙碌"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "occupation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "职业；占领；消遣"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "se laver",
+            "partOfSpeech": "v.pron.",
+            "definition": "①（给自己）洗",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se laver les mains",
+                    "vocabularyCollocationMeaning": "洗手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se laver le visage",
+                    "vocabularyCollocationMeaning": "洗脸"
+                }
+            ],
+            "synonymAnalysis": "laver（及物）= 洗（某物/某人）；se laver = 洗自己；se laver + 身体部位，该部位前用定冠词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lavage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "洗涤，清洗"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lavabo",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "洗手池；（旅馆等的）盥洗室"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "main",
+            "partOfSpeech": "n.f.",
+            "definition": "①手",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se laver les mains",
+                    "vocabularyCollocationMeaning": "洗手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner la main à qn.",
+                    "vocabularyCollocationMeaning": "牵手；握手"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "serrer la main à / de qn.",
+                    "vocabularyCollocationMeaning": "与某人握手"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "maintenir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "维持，保持"
+                }
+            ],
+            "pluralForm": "mains"
+        },
+        {
+            "index": "19",
+            "vocabulary": "se brosser",
+            "partOfSpeech": "v.pron.",
+            "definition": "①（给自己）刷",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se brosser les dents",
+                    "vocabularyCollocationMeaning": "刷牙"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se brosser les cheveux",
+                    "vocabularyCollocationMeaning": "梳头（用刷子）"
+                }
+            ],
+            "synonymAnalysis": "brosser（及物）= 刷（某物）；se brosser = 刷自己身体某部位，身体部位前用定冠词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "brosse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "刷子"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "brosse à dents",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "牙刷"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "dent",
+            "partOfSpeech": "n.f.",
+            "definition": "①牙，牙齿",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se brosser les dents",
+                    "vocabularyCollocationMeaning": "刷牙"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mal aux dents",
+                    "vocabularyCollocationMeaning": "牙痛"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dentiste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "牙医"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dentaire",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "牙齿的，牙科的"
+                }
+            ],
+            "pluralForm": "dents"
+        },
+        {
+            "index": "21",
+            "vocabulary": "s'habiller",
+            "partOfSpeech": "v.pron.",
+            "definition": "①（给自己）穿衣，打扮",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'habiller vite",
+                    "vocabularyCollocationMeaning": "快速穿衣"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'habiller en + couleur / style",
+                    "vocabularyCollocationMeaning": "穿……颜色/风格的衣服"
+                }
+            ],
+            "synonymAnalysis": "habiller（及物）= 给某人穿衣；s'habiller = 给自己穿衣；se déshabiller = 脱衣。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "habit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "衣服（多指正式服装）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "habillement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "衣着，服装"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "vitesse",
+            "partOfSpeech": "n.f.",
+            "definition": "①速度，快速",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la même vitesse",
+                    "vocabularyCollocationMeaning": "以同样的速度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à toute vitesse",
+                    "vocabularyCollocationMeaning": "以全速，飞快地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre de la vitesse",
+                    "vocabularyCollocationMeaning": "加速"
+                }
+            ],
+            "synonymAnalysis": "vitesse 泛指速度；rapidité 强调快速的特性；allure 指步速或姿态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vite",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "快，迅速地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vif / vive",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "活泼的；敏锐的"
+                }
+            ],
+            "pluralForm": "vitesses"
+        },
+        {
+            "index": "23",
+            "vocabulary": "morceau",
+            "partOfSpeech": "n.m.",
+            "definition": "①块，片，段 ②（音乐）曲目",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un morceau de pain",
+                    "vocabularyCollocationMeaning": "一块面包"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un morceau de musique",
+                    "vocabularyCollocationMeaning": "一首乐曲"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "couper en morceaux",
+                    "vocabularyCollocationMeaning": "切成块"
+                }
+            ],
+            "synonymAnalysis": "morceau 泛指切下或分开的一块；bout 指端头或一小段；tranche 特指切下的薄片（如面包片）。",
+            "derivedWords": [],
+            "pluralForm": "morceaux"
+        },
+        {
+            "index": "24",
+            "vocabulary": "livre",
+            "partOfSpeech": "n.m.",
+            "definition": "①书，书籍",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lire un livre",
+                    "vocabularyCollocationMeaning": "读一本书"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "livre de classe",
+                    "vocabularyCollocationMeaning": "教科书"
+                }
+            ],
+            "synonymAnalysis": "livre（n.m.）= 书；livre（n.f.）= 英镑（货币单位）或磅（重量单位）。注意阴阳性区分含义不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "librairie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "书店"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bibliothèque",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "图书馆；书架"
+                }
+            ],
+            "pluralForm": "livres"
+        },
+        {
+            "index": "25",
+            "vocabulary": "cahier",
+            "partOfSpeech": "n.m.",
+            "definition": "①本子，作业本，薄子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cahier de cours",
+                    "vocabularyCollocationMeaning": "课堂笔记本"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cahier d'exercices",
+                    "vocabularyCollocationMeaning": "练习本"
+                }
+            ],
+            "synonymAnalysis": "cahier 指学生用的本子；carnet 指小型记事本；bloc-notes 指便签本。",
+            "derivedWords": [],
+            "pluralForm": "cahiers"
+        },
+        {
+            "index": "26",
+            "vocabulary": "sac",
+            "partOfSpeech": "n.m.",
+            "definition": "①袋，包 ②背包，书包",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sac à dos",
+                    "vocabularyCollocationMeaning": "双肩包，背包"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sac à main",
+                    "vocabularyCollocationMeaning": "手提包"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre qch. dans le sac",
+                    "vocabularyCollocationMeaning": "把某物放进包里"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "sacs"
+        },
+        {
+            "index": "27",
+            "vocabulary": "embrasser",
+            "partOfSpeech": "vt.",
+            "definition": "①拥抱 ②吻，亲吻",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "embrasser qn.",
+                    "vocabularyCollocationMeaning": "拥抱/亲吻某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'embrasser",
+                    "vocabularyCollocationMeaning": "互相拥抱/亲吻"
+                }
+            ],
+            "synonymAnalysis": "embrasser 在法语中同时含“拥抱”和“亲吻”两义，需根据语境判断；bisou / bise 特指贴面礼。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "embrassade",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "拥抱（行为）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "attendre",
+            "partOfSpeech": "vt.",
+            "definition": "①等，等候",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "attendre qn. / qch.",
+                    "vocabularyCollocationMeaning": "等某人/某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attendre que + subj.",
+                    "vocabularyCollocationMeaning": "等待……（虚拟式从句）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'attendre à qch.",
+                    "vocabularyCollocationMeaning": "预料到，料到某事"
+                }
+            ],
+            "synonymAnalysis": "attendre（及物）直接接宾语，无需介词；s'attendre à 表“预期，料想”，含义不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "attente",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "等待；期望"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'attends, tu attends, il attend, nous attendons, vous attendez, ils attendent",
+                "compoundPast": "j'ai attendu",
+                "simpleFuture": "j'attendrai",
+                "memoryAids": "属于 -dre 类动词，单数不加 -s/-t 结尾（il attend，无 -t），与 répondre、vendre 变位类似。"
+            }
+        },
+        {
+            "index": "29",
+            "vocabulary": "porte",
+            "partOfSpeech": "n.f.",
+            "definition": "①门",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la porte",
+                    "vocabularyCollocationMeaning": "在门口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ouvrir / fermer la porte",
+                    "vocabularyCollocationMeaning": "开门/关门"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "portier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "门卫，看门人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "portail",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "大门，正门"
+                }
+            ],
+            "pluralForm": "portes"
+        },
+        {
+            "index": "30",
+            "vocabulary": "cours",
+            "partOfSpeech": "n.m.",
+            "definition": "①课，课程 ②（河流的）流程",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les cours du matin",
+                    "vocabularyCollocationMeaning": "上午的课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre un cours",
+                    "vocabularyCollocationMeaning": "上一门课"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au cours de",
+                    "vocabularyCollocationMeaning": "在……过程中，在……期间"
+                }
+            ],
+            "synonymAnalysis": "cours 指课程或一节课；leçon 指一次具体的课或功课；classe 指班级或上课时间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "courir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "跑，奔跑（词根相同）"
+                }
+            ],
+            "pluralForm": "cours（单复数同形）"
+        },
+        {
+            "index": "31",
+            "vocabulary": "route",
+            "partOfSpeech": "n.f.",
+            "definition": "①道路，公路 ②旅途，行程",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se mettre en route",
+                    "vocabularyCollocationMeaning": "出发，动身"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en route",
+                    "vocabularyCollocationMeaning": "在途中，出发（感叹语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire route",
+                    "vocabularyCollocationMeaning": "赶路"
+                }
+            ],
+            "synonymAnalysis": "route 指较大的道路或行程；chemin 指小路或方法；rue 指城市街道；voie 指铁路线或通道。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "routier",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "公路的，道路的"
+                }
+            ],
+            "pluralForm": "routes"
+        },
+        {
+            "index": "32",
+            "vocabulary": "car",
+            "partOfSpeech": "conj.",
+            "definition": "①因为（表原因）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "..., car + prop.",
+                    "vocabularyCollocationMeaning": "……，因为……"
+                }
+            ],
+            "synonymAnalysis": "car 与 parce que 均表原因，但 car 更正式，多用于书面语，且不置于句首；parce que 可置于句首，口语书面均常用。car 更强调说话者的主观解释，parce que 更客观陈述原因。",
+            "derivedWords": [],
+            "useExplanation": "car 为并列连词，连接两个并列分句；不可置于句首；后面需接完整的主谓结构。"
+        },
+        {
+            "index": "33",
+            "vocabulary": "maître",
+            "partOfSpeech": "n.m.",
+            "definition": "①（小学）教师 ②主人 ③大师",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maître d'école",
+                    "vocabularyCollocationMeaning": "小学教师"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maître de maison",
+                    "vocabularyCollocationMeaning": "男主人"
+                }
+            ],
+            "synonymAnalysis": "maître（小学男教师）↔ maîtresse（小学女教师）；professeur 指中学及以上教师；enseignant 泛指教育工作者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "maîtresse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "（小学）女教师；女主人；情妇"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "maîtriser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "掌握，控制"
+                }
+            ],
+            "pluralForm": "maîtres"
+        },
+        {
+            "index": "34",
+            "vocabulary": "classe",
+            "partOfSpeech": "n.f.",
+            "definition": "①班；班级 ②教室 ③课",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "amis de classe",
+                    "vocabularyCollocationMeaning": "班级朋友，同班同学"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller en classe",
+                    "vocabularyCollocationMeaning": "去上课"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "salle de classe",
+                    "vocabularyCollocationMeaning": "教室"
+                }
+            ],
+            "synonymAnalysis": "classe 可指“班级”、“教室”或“课”；cours 专指“课程/课堂内容”；salle de classe 特指教室空间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "classique",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "古典的，经典的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "classer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "分类，归档"
+                }
+            ],
+            "pluralForm": "classes"
+        },
+        {
+            "index": "35",
+            "vocabulary": "exemple",
+            "partOfSpeech": "n.m.",
+            "definition": "①例子 ②榜样",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par exemple",
+                    "vocabularyCollocationMeaning": "例如"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner l'exemple",
+                    "vocabularyCollocationMeaning": "做榜样"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre exemple sur qn.",
+                    "vocabularyCollocationMeaning": "以某人为榜样"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exemplaire",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "典范的，模范的"
+                }
+            ],
+            "pluralForm": "exemples"
+        },
+        {
+            "index": "36",
+            "vocabulary": "sonner",
+            "partOfSpeech": "vt.",
+            "definition": "①敲响，鸣响 ②（钟）报时",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sonner les matines",
+                    "vocabularyCollocationMeaning": "敲响晨祷钟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sonner la cloche",
+                    "vocabularyCollocationMeaning": "敲钟"
+                }
+            ],
+            "synonymAnalysis": "sonner 泛指敲响或发出声响；carillonner 特指悦耳的钟声。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "son",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "声音，音响"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sonnette",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "门铃；小铃"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "37",
+            "vocabulary": "matines",
+            "partOfSpeech": "n.f.pl.",
+            "definition": "①晨祷钟（复数形式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sonner les matines",
+                    "vocabularyCollocationMeaning": "敲响晨祷钟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "matines 仅以复数形式使用，指天主教早晨的祷告仪式或报晨的钟声。源自儿歌《雅克修士》（Frère Jacques）的背景文化。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Nicolas est élève à la campagne. Pour aller à l'école, il lui faut une heure, car il habite dans un petit village loin de la ville. Tous les matins, il se lève de bonne heure et se met au travail sérieusement. À sept heures, il se lave les mains, se brosse les dents et s'habille à la même vitesse. Il ne veut pas être en retard.",
+            "chineseTranslation": "尼古拉是一名农村学生。去学校要花他一个小时，因为他住在一个离城很远的小村庄里。每天早上，他都早早起床，认真投入学习。七点钟，他洗手、刷牙、穿衣，动作一样利索。他不想迟到。",
+            "fr2cnStrategy": "① «Pour aller à l'école, il lui faut une heure» 中非人称结构 il lui faut 译为“要花他……”，属于词性转换（名词短语转汉语动宾结构）；② car 引导的原因从句译为“因为……”，语序保持不变；③ «se met au travail sérieusement» 中抽象名词结构转换为动词“投入学习”，体现词性转换；④ «à la même vitesse» 译为“动作一样利索”，属于增译（增加“动作”一词使中文更自然）；⑤ 最后一句 «Il ne veut pas être en retard» 直译即可，简洁有力。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "每天早上他必须早起，因为学校离家很远。",
+                "frenchTranslation": "Il lui faut se lever de bonne heure tous les matins, car l'école est loin de chez lui.",
+                "cn2frStrategy": "① “必须”用非人称结构 il lui faut + 不定式，强调客观必要；② “早起”译为 se lever de bonne heure，使用固定表达；③ “离家很远”译为 loin de chez lui，注意 chez lui 表示“他家”；④ car 置于原因分句前，不可置于句首。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "他每晚告诉妈妈第二天早上六点叫醒他。",
+                "frenchTranslation": "Il dit tous les soirs à sa mère de le réveiller à six heures le lendemain matin.",
+                "cn2frStrategy": "① “告诉某人做某事”用 dire à qn. de faire qch. 结构；② “叫醒他”译为 le réveiller，注意代词 le 置于不定式前；③ “第二天”译为 le lendemain，区别于 demain（明天）；④ “早上六点”译为 à six heures le lendemain matin，时间状语置于句末。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他祖母负责准备早餐，不论冬夏都是如此。",
+                "frenchTranslation": "Sa grand-mère s'occupe du petit déjeuner, hiver comme été.",
+                "cn2frStrategy": "① “负责”译为 s'occuper de，固定搭配接 de；② “早餐”译为 le petit déjeuner；③ du = de + le，冠词缩合不可省略；④ “不论冬夏”译为固定表达 hiver comme été，不加冠词，置于句末。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他出发上学，一路上唱着歌。",
+                "frenchTranslation": "Il se met en route pour les cours et chante tout au long du chemin.",
+                "cn2frStrategy": "① “出发”译为 se mettre en route，固定短语；② “上学”译为 pour les cours，用介词 pour 表目的；③ “一路上”译为 tout au long du chemin，du = de + le；④ 两个动作用并列连词 et 连接，体现同时性。"
+            }
+        ]
+    }
+}
