@@ -10,8 +10,7 @@
 # 生产和渲染流程：
 
 1. 在 `output/` 下新建.json，并 add/commit/push；
-1. push 后 GitHub 会在云端自动渲染 PDF, 运行时间长短不一，5分钟及以上；
-1. 渲染工作流会提交 `output/*.pdf`，随后另一个工作流会自动生成带水印版本到 `waterprinted/`；
+1. push 后 GitHub 会在云端自动渲染 PDF，并在同一次工作流里同步生成 `waterprinted/` 下的带水印版本，运行时间长短不一，5分钟及以上；
 1. 新开一个终端，输出 `gh run watch` 可以监测进程；
 
 如果不想要通过 GitHub 自动渲染，可以不放在 `output/`，而放在 `output-manual/`，就和老流程一样手动渲染。

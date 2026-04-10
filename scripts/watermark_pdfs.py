@@ -14,10 +14,10 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 from reportlab.pdfgen import canvas
 
-DEFAULT_TEXT = "© 江星 · 禁止转载传播 · 违者必究。"
+DEFAULT_TEXT = "©江星·禁止转载传播·违者必究"
 DEFAULT_OUTPUT_DIRNAME = "waterprinted"
-DEFAULT_GRAY = 0.78
-DEFAULT_OPACITY = 0.24
+DEFAULT_GRAY = 0.88
+DEFAULT_OPACITY = 0.52
 DEFAULT_MIN_FONT_SIZE = 18.0
 DEFAULT_MAX_FONT_SIZE = 64.0
 DEFAULT_DIAGONAL_COVERAGE = 0.82
