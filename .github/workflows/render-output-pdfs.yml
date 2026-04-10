@@ -80,5 +80,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: render PDFs for new JSON files"
+          git commit -m "chore: render PDFs for new JSON files [source ${{ github.sha }}]"
           git push

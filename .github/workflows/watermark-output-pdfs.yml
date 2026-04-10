@@ -1,0 +1,93 @@
+name: Watermark Output PDFs
+
+on:
+  workflow_run:
+    workflows:
+      - Render Output PDFs
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  watermark:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install watermark dependencies
+        run: python3 -m pip install -r scripts/requirements-watermark.txt
+
+      - name: Detect newly rendered PDFs
+        id: detect-pdfs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          source_sha="${{ github.event.workflow_run.head_sha }}"
+          render_commit="$(git log --format='%H' --grep="\\[source ${source_sha}\\]" -n 1)"
+
+          if [ -z "${render_commit}" ]; then
+            echo "No render commit found for source ${source_sha}."
+            {
+              echo "count=0"
+              echo "files<<EOF"
+              echo "EOF"
+            } >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+
+          mapfile -t pdf_files < <(git diff-tree --no-commit-id --name-only --diff-filter=A -r "${render_commit}" -- output | grep -E '^output/.*\.pdf$' || true)
+
+          {
+            echo "render_commit=${render_commit}"
+            echo "count=${#pdf_files[@]}"
+            echo "files<<EOF"
+            printf '%s\n' "${pdf_files[@]}"
+            echo "EOF"
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Watermark PDFs
+        if: steps.detect-pdfs.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          while IFS= read -r pdf_file; do
+            [ -n "${pdf_file}" ] || continue
+            python3 scripts/watermark_pdfs.py "${pdf_file}"
+          done <<< "${{ steps.detect-pdfs.outputs.files }}"
+
+      - name: Commit watermarked PDFs
+        if: steps.detect-pdfs.outputs.count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          while IFS= read -r pdf_file; do
+            [ -n "${pdf_file}" ] || continue
+            git add "waterprinted/${pdf_file#output/}"
+          done <<< "${{ steps.detect-pdfs.outputs.files }}"
+
+          if git diff --cached --quiet; then
+            echo "No watermarked PDF changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: watermark PDFs from render ${{ steps.detect-pdfs.outputs.render_commit }}"
+          git push
