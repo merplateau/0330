@@ -1,0 +1,1800 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "L'année a quatre saisons: le printemps, l'été, l'automne et l'hiver.",
+            "translatedSentence": "一年有四个季节：春季、夏季、秋季和冬季。",
+            "sentenceStructure": "主句：L'année（主语）— a（谓语）— quatre saisons（宾语），冒号后为同位语列举。",
+            "grammarAnalysis": "① avoir 表“有”，此处为存在义，主语为 l'année（阴性名词）。② 冒号引出列举，四个季节名词前均带定冠词 le/l'。③ 季节名词在法语中均为阳性（n.m.），但 saison 本身为阴性（n.f.）。",
+            "commonMistakes": "学生常误将季节名词的性记混：saison 是阴性，但四个季节（printemps、été、automne、hiver）均为阳性。介词搭配也需注意：表示“在某季节”用 au printemps / en été / en automne / en hiver，规则不统一。"
+        },
+        {
+            "index": "2",
+            "sentence": "Au printemps, le ciel est clair et bleu, le soleil brille, il fait beau.",
+            "translatedSentence": "春天，天空晴朗湛蓝，阳光普照，天气晴好。",
+            "sentenceStructure": "时间状语 Au printemps 引导全句，后接三个并列的主谓结构：le ciel est clair et bleu / le soleil brille / il fait beau。",
+            "grammarAnalysis": "① au printemps = à + le printemps，介词 à 与阳性定冠词 le 缩合为 au。② il fait beau 为非人称句型，il 为形式主语，不可替换为其他主语。③ briller 为第一组规则动词，il brille 为第三人称单数现在时。",
+            "commonMistakes": "学生常混淆 au printemps 和 en été 的介词规则：printemps 前用 au，其余三个季节用 en。il fait beau/chaud/froid 为固定天气表达，不可说 *le temps est beau 表达同义（后者也存在但语义略有不同）。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il fait jour tôt, il fait nuit tard.",
+            "translatedSentence": "天亮得早，天黑得晚。",
+            "sentenceStructure": "两个并列的非人称句型：il fait jour tôt / il fait nuit tard，均以 il（形式主语）+ faire（谓语）+ 名词 + 副词构成。",
+            "grammarAnalysis": "① il fait jour / il fait nuit 为固定非人称表达，意为“天亮了/天黑了”，jour 和 nuit 此处作名词补语，不加冠词。② tôt/tard 为副词，修饰整个谓语结构。",
+            "commonMistakes": "学生常误译为“他早做了白天，他晚做了夜晚”。需理解 il 为非人称主语，整个结构是固定天气/时间表达。注意 tôt（早）和 tard（晚）均为副词，不可与形容词 grand/petit 混用。"
+        },
+        {
+            "index": "4",
+            "sentence": "Quel temps fait-il en hiver?",
+            "translatedSentence": "冬天天气怎么样？",
+            "sentenceStructure": "疑问句：疑问形容词 Quel + 名词 temps 作表语，谓语为 fait-il（主谓倒装）。",
+            "grammarAnalysis": "① Quel 为疑问形容词，修饰 temps（阳性名词），故用 Quel（阳性单数）而非 Quelle。② 倒装结构 fait-il：动词 fait + 连字符 + 主语代词 il，为书面疑问句标准形式。③ faire + 名词构成天气表达的核心结构。",
+            "commonMistakes": "学生常错写为 *Quel temps il fait? 或 *Comment le temps est-il?。前者缺少倒装，后者结构不符合法语习惯。注意 Quel/Quelle 需与所修饰名词的性数保持一致。"
+        },
+        {
+            "index": "5",
+            "sentence": "On fait du feu à la maison.",
+            "translatedSentence": "人们在家里生火取暖。",
+            "sentenceStructure": "主语 On + 谓语 fait + 部分冠词宾语 du feu + 地点状语 à la maison。",
+            "grammarAnalysis": "① On 为泛指代词，相当于“人们/大家”，动词用第三人称单数。② faire du feu 为固定搭配，意为“生火”，du 为部分冠词（de + le）。③ à la maison 为固定介词短语，意为“在家”，不加任何修饰语。",
+            "commonMistakes": "学生常将 du 误认为所有格（属格），实为部分冠词。另外 à la maison 表“在家”，chez moi/chez soi 也有此义，但后者更强调“自己家”，需注意语境差异。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "au printemps / en été / en automne / en hiver",
+            "meaning": "在春天/夏天/秋天/冬天",
+            "usage": "季节前介词用法：printemps 前用 au（= à + le），其余三个季节前用 en。这是固定用法，不可互换。",
+            "exampleSentence": "Au printemps, le ciel est clair et bleu."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "il fait beau / chaud / froid / doux",
+            "meaning": "天气晴好/热/冷/温和",
+            "usage": "非人称天气表达，il 为形式主语，faire 后接形容词。这类表达中不可用其他主语替换 il。",
+            "exampleSentence": "En automne, il fait doux."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "il fait jour / il fait nuit",
+            "meaning": "天亮了/天黑了",
+            "usage": "非人称固定表达，jour 和 nuit 作名词补语不加冠词，常与副词 tôt/tard 搭配。",
+            "exampleSentence": "Il fait jour tôt, il fait nuit tard."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "il fait du vent",
+            "meaning": "刮风",
+            "usage": "非人称天气表达，vent 前用部分冠词 du（de + le）。类似搭配：il fait du soleil（阳光明媚）。",
+            "exampleSentence": "Il fait du vent."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "faire du feu",
+            "meaning": "生火",
+            "usage": "固定搭配，feu 前用部分冠词 du。注意区分：faire du feu（生火）/ mettre le feu à qch.（点燃某物）。",
+            "exampleSentence": "On fait du feu à la maison."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "commencer le... / finir le...",
+            "meaning": "从……开始/到……结束",
+            "usage": "表示时间起止，后接具体日期。commencer 和 finir 均可作及物或不及物动词使用。",
+            "exampleSentence": "Le printemps commence le 21 mars et finit le 21 juin."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "aller à la mer / à la montagne",
+            "meaning": "去海边/去山里",
+            "usage": "表示去某地度假的固定表达，mer 和 montagne 前用阴性定冠词 la，介词用 à。",
+            "exampleSentence": "Ils vont à la mer ou à la montagne."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "rentrer à l'école",
+            "meaning": "返校，回学校",
+            "usage": "rentrer 表示“返回（原本所属的地方）”，比 retourner 更强调回到熟悉的地方。à l'école = à + l'école（阴性冠词缩合）。",
+            "exampleSentence": "Les étudiants rentrent à l'école."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "travailler dur",
+            "meaning": "努力工作/学习",
+            "usage": "dur 此处作副词用，修饰 travailler，意为“艰苦地、努力地”。注意 dur 作形容词时意为“硬的”，作副词时不变形。",
+            "exampleSentence": "Tout le monde travaille dur."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "préparer Noël / le nouvel an",
+            "meaning": "准备圣诞节/新年",
+            "usage": "préparer 及物动词，直接跟节日名词作宾语。Noël 前不加冠词，le nouvel an 前加定冠词 le。",
+            "exampleSentence": "On prépare Noël et le nouvel an."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "avoir les grandes vacances",
+            "meaning": "放大假",
+            "usage": "avoir + 定冠词 les + vacances，表示“享有/处于假期中”。vacances 为复数名词，无单数形式。",
+            "exampleSentence": "Les étudiants ont les grandes vacances."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "Tout le monde + 动词（第三人称单数）",
+            "meaning": "所有人，大家",
+            "usage": "tout le monde 为固定表达，尽管语义上指多人，但语法上视为第三人称单数，动词不加 -nt。",
+            "exampleSentence": "Tout le monde travaille dur."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "saison",
+            "partOfSpeech": "n.f.",
+            "definition": "①季节 ②（某活动的）旺季，时节",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les quatre saisons",
+                    "vocabularyCollocationMeaning": "四季"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en pleine saison",
+                    "vocabularyCollocationMeaning": "在旺季"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hors saison",
+                    "vocabularyCollocationMeaning": "淡季，旺季以外"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "saisonnier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "季节性的"
+                }
+            ],
+            "pluralForm": "saisons"
+        },
+        {
+            "index": "2",
+            "vocabulary": "année",
+            "partOfSpeech": "n.f.",
+            "definition": "①年，年份 ②一年的时间",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cette année",
+                    "vocabularyCollocationMeaning": "今年"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'année dernière / prochaine",
+                    "vocabularyCollocationMeaning": "去年/明年"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bonne année",
+                    "vocabularyCollocationMeaning": "新年快乐"
+                }
+            ],
+            "synonymAnalysis": "année vs an：两者均表“年”，但 an 强调时间点（数量），如 il a vingt ans（他二十岁）；année 强调时间段（内容），如 pendant toute l'année（整整一年里）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "annuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "每年的，年度的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "anniversaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "周年纪念；生日"
+                }
+            ],
+            "pluralForm": "années"
+        },
+        {
+            "index": "3",
+            "vocabulary": "printemps",
+            "partOfSpeech": "n.m.",
+            "definition": "春季，春天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au printemps",
+                    "vocabularyCollocationMeaning": "在春天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le printemps arrive",
+                    "vocabularyCollocationMeaning": "春天来了"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "printemps（复数形式同单数，词尾 -s 在单数已有）"
+        },
+        {
+            "index": "4",
+            "vocabulary": "été",
+            "partOfSpeech": "n.m.",
+            "definition": "夏季，夏天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en été",
+                    "vocabularyCollocationMeaning": "在夏天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'été dernier",
+                    "vocabularyCollocationMeaning": "去年夏天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "estival",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "夏天的，夏季的"
+                }
+            ],
+            "pluralForm": "étés"
+        },
+        {
+            "index": "5",
+            "vocabulary": "automne",
+            "partOfSpeech": "n.m.",
+            "definition": "秋季，秋天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en automne",
+                    "vocabularyCollocationMeaning": "在秋天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les feuilles d'automne",
+                    "vocabularyCollocationMeaning": "秋叶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "automnal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "秋天的，秋季的"
+                }
+            ],
+            "pluralForm": "automnes"
+        },
+        {
+            "index": "6",
+            "vocabulary": "hiver",
+            "partOfSpeech": "n.m.",
+            "definition": "冬季，冬天",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en hiver",
+                    "vocabularyCollocationMeaning": "在冬天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sports d'hiver",
+                    "vocabularyCollocationMeaning": "冬季运动"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hivernal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "冬天的，冬季的"
+                }
+            ],
+            "pluralForm": "hivers"
+        },
+        {
+            "index": "7",
+            "vocabulary": "commencer",
+            "partOfSpeech": "vt.",
+            "definition": "①开始（某事）②（不及物）开始",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "commencer qch.",
+                    "vocabularyCollocationMeaning": "开始某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "commencer à faire qch.",
+                    "vocabularyCollocationMeaning": "开始做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "commencer par faire qch.",
+                    "vocabularyCollocationMeaning": "以做某事为开端"
+                }
+            ],
+            "synonymAnalysis": "commencer vs débuter：两者均表“开始”，commencer 更通用；débuter 更强调初次尝试或事物的起点，且不能跟直接宾语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commencement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "开始，起点"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je commence, tu commences, il commence, nous commençons, vous commencez, ils commencent",
+                "compoundPast": "j'ai commencé",
+                "simpleFuture": "je commencerai",
+                "imperfect": "nous commencions（词干：commenc-，注意 nous 人称保留 ç）",
+                "presentSubjunctive": "",
+                "memoryAids": "属于词干以 -c 结尾的动词，在 o/a 前须加软音符号 ç（如 nous commençons），避免 c 发硬音 [k]。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "mars",
+            "partOfSpeech": "n.m.",
+            "definition": "三月",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en mars",
+                    "vocabularyCollocationMeaning": "在三月"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le 21 mars",
+                    "vocabularyCollocationMeaning": "三月二十一日"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "月份名词在法语中为阳性名词，首字母小写（专有名词化时例外）。前置介词用 en 或 au mois de：en mars = au mois de mars。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "finir",
+            "partOfSpeech": "vt.",
+            "definition": "①结束，完成（某事）②（不及物）结束",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "finir qch.",
+                    "vocabularyCollocationMeaning": "完成某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "finir de faire qch.",
+                    "vocabularyCollocationMeaning": "做完某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "finir par faire qch.",
+                    "vocabularyCollocationMeaning": "最终/终于做了某事"
+                }
+            ],
+            "synonymAnalysis": "finir vs terminer：两者均表“结束/完成”，terminer 更强调有目的地将某事做到最后，finir 更口语化，也可表“吃完”（finir son assiette）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fin",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "结尾，末端"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "final",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "最终的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "juin",
+            "partOfSpeech": "n.m.",
+            "definition": "六月",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en juin",
+                    "vocabularyCollocationMeaning": "在六月"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le 21 juin",
+                    "vocabularyCollocationMeaning": "六月二十一日"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "月份名词，用法同 mars，介词用 en 或 au mois de。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "ciel",
+            "partOfSpeech": "n.m.",
+            "definition": "①天空 ②天堂（宗教义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le ciel est bleu",
+                    "vocabularyCollocationMeaning": "天空是蓝色的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sous le ciel",
+                    "vocabularyCollocationMeaning": "在天空下"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ciel dégagé",
+                    "vocabularyCollocationMeaning": "晴空"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "céleste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "天空的，天堂的"
+                }
+            ],
+            "pluralForm": "cieux（宗教义）或 ciels（绘画等具体义）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "clair",
+            "partOfSpeech": "adj.",
+            "definition": "①明亮的，晴朗的 ②清楚的，清晰的 ③浅色的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un ciel clair",
+                    "vocabularyCollocationMeaning": "晴朗的天空"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une explication claire",
+                    "vocabularyCollocationMeaning": "清晰的解释"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bleu clair",
+                    "vocabularyCollocationMeaning": "浅蓝色"
+                }
+            ],
+            "synonymAnalysis": "clair vs lumineux：clair 指光线充足、色调明亮；lumineux 更强调发光性，也可引申为“思路清晰”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "clairement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "清楚地，明确地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "clarté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "光明，清晰"
+                }
+            ],
+            "genderNumberVariation": "阴性 claire，复数 clairs/claires",
+            "position": "通常置于名词之后；但在固定表达如 il fait clair 中作表语"
+        },
+        {
+            "index": "13",
+            "vocabulary": "bleu",
+            "partOfSpeech": "adj.",
+            "definition": "①蓝色的 ②（肉）几乎生的（烹饪义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les yeux bleus",
+                    "vocabularyCollocationMeaning": "蓝眼睛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bleu ciel",
+                    "vocabularyCollocationMeaning": "天蓝色"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bleu marine",
+                    "vocabularyCollocationMeaning": "海军蓝"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bleuir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变蓝"
+                }
+            ],
+            "genderNumberVariation": "阴性 bleue，复数 bleus/bleues",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "14",
+            "vocabulary": "soleil",
+            "partOfSpeech": "n.m.",
+            "definition": "①太阳 ②阳光，日照",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait du soleil",
+                    "vocabularyCollocationMeaning": "天气晴朗，阳光灿烂"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au soleil",
+                    "vocabularyCollocationMeaning": "在阳光下"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le lever du soleil",
+                    "vocabularyCollocationMeaning": "日出"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ensoleillé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "阳光充足的"
+                }
+            ],
+            "pluralForm": "soleils"
+        },
+        {
+            "index": "15",
+            "vocabulary": "briller",
+            "partOfSpeech": "vi.",
+            "definition": "①发光，闪耀 ②出色，显眼",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le soleil brille",
+                    "vocabularyCollocationMeaning": "阳光灿烂"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "briller par son intelligence",
+                    "vocabularyCollocationMeaning": "以才智出众"
+                }
+            ],
+            "synonymAnalysis": "briller vs luire：briller 强调明亮耀眼；luire 更柔和，指微弱发光（如 la lune luit）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "brillant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "闪亮的；出色的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "arbre",
+            "partOfSpeech": "n.m.",
+            "definition": "树，树木",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les feuilles des arbres",
+                    "vocabularyCollocationMeaning": "树叶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "planter un arbre",
+                    "vocabularyCollocationMeaning": "种一棵树"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "arbre fruitier",
+                    "vocabularyCollocationMeaning": "果树"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "arbuste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "灌木"
+                }
+            ],
+            "pluralForm": "arbres"
+        },
+        {
+            "index": "17",
+            "vocabulary": "feuille",
+            "partOfSpeech": "n.f.",
+            "definition": "①叶子 ②纸页，纸张",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les feuilles tombent",
+                    "vocabularyCollocationMeaning": "树叶落下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une feuille de papier",
+                    "vocabularyCollocationMeaning": "一张纸"
+                }
+            ],
+            "synonymAnalysis": "feuille vs page：feuille 指物理上的一张纸；page 指书页的一面（recto 或 verso）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "feuillage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "枝叶，树冠"
+                }
+            ],
+            "pluralForm": "feuilles"
+        },
+        {
+            "index": "18",
+            "vocabulary": "vert",
+            "partOfSpeech": "adj.",
+            "definition": "①绿色的 ②未成熟的，青涩的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "des feuilles vertes",
+                    "vocabularyCollocationMeaning": "绿色的叶子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les espaces verts",
+                    "vocabularyCollocationMeaning": "绿地，绿化区"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "verdure",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "绿色植物，草木"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "verdir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变绿"
+                }
+            ],
+            "genderNumberVariation": "阴性 verte，复数 verts/vertes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "19",
+            "vocabulary": "fleur",
+            "partOfSpeech": "n.f.",
+            "definition": "花，花朵",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la saison des fleurs",
+                    "vocabularyCollocationMeaning": "花季"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "offrir des fleurs",
+                    "vocabularyCollocationMeaning": "送花"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fleur artificielle",
+                    "vocabularyCollocationMeaning": "人造花"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fleurir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "开花"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fleuri",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "开满花的"
+                }
+            ],
+            "pluralForm": "fleurs"
+        },
+        {
+            "index": "20",
+            "vocabulary": "oiseau",
+            "partOfSpeech": "n.m.",
+            "definition": "鸟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les oiseaux chantent",
+                    "vocabularyCollocationMeaning": "鸟儿歌唱"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un oiseau migrateur",
+                    "vocabularyCollocationMeaning": "候鸟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "oiseaux（词尾 -eau 变复数加 x）"
+        },
+        {
+            "index": "21",
+            "vocabulary": "chanter",
+            "partOfSpeech": "vt.",
+            "definition": "①唱，演唱（某曲）②（不及物）唱歌",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chanter une chanson",
+                    "vocabularyCollocationMeaning": "唱一首歌"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chanter faux",
+                    "vocabularyCollocationMeaning": "唱走调"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chanter pour qn.",
+                    "vocabularyCollocationMeaning": "为某人歌唱"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chanson",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "歌曲"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chanteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "歌手（男）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "septembre",
+            "partOfSpeech": "n.m.",
+            "definition": "九月",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en septembre",
+                    "vocabularyCollocationMeaning": "在九月"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la rentrée de septembre",
+                    "vocabularyCollocationMeaning": "九月开学季"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "月份名词，介词用 en 或 au mois de。"
+        },
+        {
+            "index": "23",
+            "vocabulary": "chaud",
+            "partOfSpeech": "adj.",
+            "definition": "①热的，暖的 ②热情的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait chaud",
+                    "vocabularyCollocationMeaning": "天气热"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir chaud",
+                    "vocabularyCollocationMeaning": "（人）感到热"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un accueil chaud",
+                    "vocabularyCollocationMeaning": "热情的接待"
+                }
+            ],
+            "synonymAnalysis": "il fait chaud vs avoir chaud：前者描述天气，后者描述人的感受。切勿混淆：*il est chaud 不能表示天气热。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chaleur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "热，炎热；热情"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chauffer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加热，使变热"
+                }
+            ],
+            "genderNumberVariation": "阴性 chaude，复数 chauds/chaudes",
+            "position": "通常置于名词之后；表语位置亦常见"
+        },
+        {
+            "index": "24",
+            "vocabulary": "pleuvoir",
+            "partOfSpeech": "vi.",
+            "definition": "下雨",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il pleut",
+                    "vocabularyCollocationMeaning": "天在下雨"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il pleut à verse",
+                    "vocabularyCollocationMeaning": "倾盆大雨"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pluie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "雨，雨水"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pluvieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多雨的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "il pleut（仅用于第三人称单数非人称形式）",
+                "compoundPast": "il a plu",
+                "simpleFuture": "il pleuvra",
+                "imperfect": "il pleuvait",
+                "presentSubjunctive": "qu'il pleuve",
+                "memoryAids": "纯非人称动词，只有 il 作主语，无其他人称变位形式。"
+            }
+        },
+        {
+            "index": "25",
+            "vocabulary": "jour",
+            "partOfSpeech": "n.m.",
+            "definition": "①天，日 ②白天，日间",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait jour",
+                    "vocabularyCollocationMeaning": "天亮了"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tous les jours",
+                    "vocabularyCollocationMeaning": "每天"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un jour",
+                    "vocabularyCollocationMeaning": "某一天；有一天"
+                }
+            ],
+            "synonymAnalysis": "jour vs journée：jour 强调时间单位（数量），如 trois jours；journée 强调一天的过程（内容），如 bonne journée（美好的一天）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "journée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "一天，白天（强调时长）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "quotidien",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "每日的，日常的"
+                }
+            ],
+            "pluralForm": "jours"
+        },
+        {
+            "index": "26",
+            "vocabulary": "tôt",
+            "partOfSpeech": "adv.",
+            "definition": "早，提早",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait jour tôt",
+                    "vocabularyCollocationMeaning": "天亮得早"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se lever tôt",
+                    "vocabularyCollocationMeaning": "早起"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tôt ou tard",
+                    "vocabularyCollocationMeaning": "迟早"
+                }
+            ],
+            "synonymAnalysis": "tôt vs de bonne heure：两者均表“早”，tôt 更笼统；de bonne heure 更强调比预期时间早。",
+            "derivedWords": [],
+            "useExplanation": "副词，不随性数变化。置于所修饰动词或形容词之后（或句末）。反义词为 tard（晚）。"
+        },
+        {
+            "index": "27",
+            "vocabulary": "nuit",
+            "partOfSpeech": "n.f.",
+            "definition": "①夜，夜晚 ②夜间",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait nuit",
+                    "vocabularyCollocationMeaning": "天黑了"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la nuit dernière",
+                    "vocabularyCollocationMeaning": "昨晚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bonne nuit",
+                    "vocabularyCollocationMeaning": "晚安"
+                }
+            ],
+            "synonymAnalysis": "nuit vs soir：nuit 指黑暗的夜晚（天黑后到天亮前）；soir 指傍晚、晚上（下午结束到入睡前），时段更早。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nocturne",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "夜间的，夜晚的"
+                }
+            ],
+            "pluralForm": "nuits"
+        },
+        {
+            "index": "28",
+            "vocabulary": "tard",
+            "partOfSpeech": "adv.",
+            "definition": "晚，迟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait nuit tard",
+                    "vocabularyCollocationMeaning": "天黑得晚"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rentrer tard",
+                    "vocabularyCollocationMeaning": "回来得晚"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tôt ou tard",
+                    "vocabularyCollocationMeaning": "迟早"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tarder",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "迟延，拖延"
+                }
+            ],
+            "useExplanation": "副词，不变形。反义词为 tôt。plus tard 表“以后，稍后”，为常用表达。"
+        },
+        {
+            "index": "29",
+            "vocabulary": "grand",
+            "partOfSpeech": "adj.",
+            "definition": "①大的，高大的 ②伟大的，重要的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les grandes vacances",
+                    "vocabularyCollocationMeaning": "暑假（大假期）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un grand homme",
+                    "vocabularyCollocationMeaning": "伟人（前置）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un homme grand",
+                    "vocabularyCollocationMeaning": "身材高大的男人（后置）"
+                }
+            ],
+            "synonymAnalysis": "grand vs gros：grand 强调高度或宏大；gros 强调体积或分量大、粗壮。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "grandeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "伟大，宏大；尺寸"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "grandir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "长大，增大"
+                }
+            ],
+            "genderNumberVariation": "阴性 grande，复数 grands/grandes",
+            "position": "前置时表抽象大、伟大（un grand homme = 伟人）；后置时表体型高大（un homme grand = 高个子男人）"
+        },
+        {
+            "index": "30",
+            "vocabulary": "vacances",
+            "partOfSpeech": "n.f.",
+            "definition": "假日，假期（常用复数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les grandes vacances",
+                    "vocabularyCollocationMeaning": "暑假"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partir en vacances",
+                    "vocabularyCollocationMeaning": "去度假"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bonnes vacances",
+                    "vocabularyCollocationMeaning": "假期愉快"
+                }
+            ],
+            "synonymAnalysis": "vacances vs congé：vacances 多指学校假期或较长假期；congé 多指工作单位批准的假期（如 congé maladie 病假）。",
+            "derivedWords": [],
+            "useExplanation": "vacances 通常以复数形式使用，无惯用单数形式。"
+        },
+        {
+            "index": "31",
+            "vocabulary": "mer",
+            "partOfSpeech": "n.f.",
+            "definition": "①海，海洋 ②海边",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à la mer",
+                    "vocabularyCollocationMeaning": "去海边"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au bord de la mer",
+                    "vocabularyCollocationMeaning": "在海边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la mer est calme",
+                    "vocabularyCollocationMeaning": "海面平静"
+                }
+            ],
+            "synonymAnalysis": "mer vs océan：mer 指相对较小的海（如 la mer Méditerranée 地中海）；océan 指大洋（如 l'océan Atlantique 大西洋）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marin",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "海洋的，海上的"
+                }
+            ],
+            "pluralForm": "mers"
+        },
+        {
+            "index": "32",
+            "vocabulary": "montagne",
+            "partOfSpeech": "n.f.",
+            "definition": "山，山脉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à la montagne",
+                    "vocabularyCollocationMeaning": "去山里（度假）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en montagne",
+                    "vocabularyCollocationMeaning": "在山中"
+                }
+            ],
+            "synonymAnalysis": "montagne vs colline：montagne 指山（海拔较高）；colline 指小山丘（较低矮）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "montagneux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多山的"
+                }
+            ],
+            "pluralForm": "montagnes"
+        },
+        {
+            "index": "33",
+            "vocabulary": "décembre",
+            "partOfSpeech": "n.m.",
+            "definition": "十二月",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en décembre",
+                    "vocabularyCollocationMeaning": "在十二月"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le 25 décembre",
+                    "vocabularyCollocationMeaning": "十二月二十五日（圣诞节）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "月份名词，介词用 en 或 au mois de。"
+        },
+        {
+            "index": "34",
+            "vocabulary": "doux",
+            "partOfSpeech": "adj.",
+            "definition": "①温和的，和煦的 ②甜的，柔和的 ③温柔的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait doux",
+                    "vocabularyCollocationMeaning": "天气温和"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une voix douce",
+                    "vocabularyCollocationMeaning": "柔和的声音"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un caractère doux",
+                    "vocabularyCollocationMeaning": "温柔的性格"
+                }
+            ],
+            "synonymAnalysis": "doux vs tiède：doux 指温和、舒适的温度或性格；tiède 专指温热（不冷不热），多用于液体或情感淡漠。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "douceur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "温和；柔和；甜蜜"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "doucement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "轻柔地，缓慢地"
+                }
+            ],
+            "genderNumberVariation": "阴性 douce（不规则），复数 doux/douces",
+            "position": "通常置于名词之后；表语位置亦常见"
+        },
+        {
+            "index": "35",
+            "vocabulary": "gris",
+            "partOfSpeech": "adj.",
+            "definition": "①灰色的 ②阴沉的（天气）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le ciel est gris",
+                    "vocabularyCollocationMeaning": "天空灰蒙蒙的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "temps gris",
+                    "vocabularyCollocationMeaning": "阴天"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 grise，复数 gris/grises",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "36",
+            "vocabulary": "vent",
+            "partOfSpeech": "n.m.",
+            "definition": "风",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait du vent",
+                    "vocabularyCollocationMeaning": "刮风"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un coup de vent",
+                    "vocabularyCollocationMeaning": "一阵风"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans le vent",
+                    "vocabularyCollocationMeaning": "时髦的，赶时髦"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "venteux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多风的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "venter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "刮风（非人称动词）"
+                }
+            ],
+            "pluralForm": "vents"
+        },
+        {
+            "index": "37",
+            "vocabulary": "souvent",
+            "partOfSpeech": "adv.",
+            "definition": "经常，常常",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il pleut souvent",
+                    "vocabularyCollocationMeaning": "经常下雨"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le plus souvent",
+                    "vocabularyCollocationMeaning": "大多数情况下"
+                }
+            ],
+            "synonymAnalysis": "souvent vs parfois：souvent 指频率高（经常）；parfois 指偶尔发生（有时）。",
+            "derivedWords": [],
+            "useExplanation": "频率副词，通常置于动词之后（简单时态）或助动词之后（复合时态）。"
+        },
+        {
+            "index": "38",
+            "vocabulary": "tomber",
+            "partOfSpeech": "vi.",
+            "definition": "①落下，掉落 ②下（雨、雪）③跌倒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les feuilles tombent",
+                    "vocabularyCollocationMeaning": "树叶落下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tomber malade",
+                    "vocabularyCollocationMeaning": "生病"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tomber amoureux de qn.",
+                    "vocabularyCollocationMeaning": "爱上某人"
+                }
+            ],
+            "synonymAnalysis": "tomber vs chuter：tomber 更通用；chuter 更强调突然猛烈地下落，也用于比喻（如 les prix ont chuté 价格暴跌）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chute",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "落下，跌落；瀑布"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "39",
+            "vocabulary": "travailler",
+            "partOfSpeech": "vi.",
+            "definition": "①工作 ②学习，用功",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler dur",
+                    "vocabularyCollocationMeaning": "努力工作/学习"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler à qch.",
+                    "vocabularyCollocationMeaning": "致力于某事"
+                }
+            ],
+            "synonymAnalysis": "travailler vs bosser：travailler 为正式用语；bosser 为口语，意同“干活、苦干”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "travail",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "工作，劳动"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "travailleur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "工人，劳动者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "40",
+            "vocabulary": "dur",
+            "partOfSpeech": "adj.",
+            "definition": "①硬的，坚硬的 ②困难的，艰难的 ③严厉的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler dur",
+                    "vocabularyCollocationMeaning": "努力工作（dur 作副词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un travail dur",
+                    "vocabularyCollocationMeaning": "艰苦的工作（dur 作形容词）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un œuf dur",
+                    "vocabularyCollocationMeaning": "煮熟的鸡蛋（硬心蛋）"
+                }
+            ],
+            "synonymAnalysis": "dur（形容词）vs difficile：dur 偏重物理硬度或性格冷硬；difficile 偏重难度高，任务艰巨。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "durement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "艰苦地，严厉地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dureté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "硬度，严酷"
+                }
+            ],
+            "genderNumberVariation": "阴性 dure，复数 durs/dures",
+            "position": "通常置于名词之后；作副词时不变形，直接置于动词后",
+            "useExplanation": "dur 既可作形容词（硬的、严厉的），也可作副词（努力地、使劲地）。作副词时不变形：travailler dur（努力工作）。"
+        },
+        {
+            "index": "41",
+            "vocabulary": "froid",
+            "partOfSpeech": "adj.",
+            "definition": "①冷的，寒冷的 ②冷漠的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il fait froid",
+                    "vocabularyCollocationMeaning": "天气冷"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir froid",
+                    "vocabularyCollocationMeaning": "（人）感到冷"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un accueil froid",
+                    "vocabularyCollocationMeaning": "冷淡的接待"
+                }
+            ],
+            "synonymAnalysis": "il fait froid vs avoir froid：前者描述天气，后者描述人的体感。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "froideur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "寒冷；冷漠"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "refroidir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使冷却"
+                }
+            ],
+            "genderNumberVariation": "阴性 froide，复数 froids/froides",
+            "position": "通常置于名词之后；表语位置亦常见"
+        },
+        {
+            "index": "42",
+            "vocabulary": "neiger",
+            "partOfSpeech": "vi.",
+            "definition": "下雪",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il neige",
+                    "vocabularyCollocationMeaning": "天在下雪"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il a neigé hier",
+                    "vocabularyCollocationMeaning": "昨天下了雪"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "neige",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "雪"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "neigeux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多雪的，积雪的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "il neige（仅用于非人称第三人称单数）",
+                "compoundPast": "il a neigé",
+                "simpleFuture": "il neigera",
+                "imperfect": "il neigeait",
+                "presentSubjunctive": "",
+                "memoryAids": "纯非人称动词，只有 il neige 形式。词干 neig- 在 -ons 人称前加 e（neigeons），但该形式极少使用。"
+            }
+        },
+        {
+            "index": "43",
+            "vocabulary": "terre",
+            "partOfSpeech": "n.f.",
+            "definition": "①地，土地，地面 ②地球 ③泥土",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la terre est blanche",
+                    "vocabularyCollocationMeaning": "大地一片白"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par terre",
+                    "vocabularyCollocationMeaning": "在地上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la Terre（大写）",
+                    "vocabularyCollocationMeaning": "地球"
+                }
+            ],
+            "synonymAnalysis": "terre vs sol：terre 泛指地面/土地；sol 更强调物理表面（如 le sol est glissant 地面很滑）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "terrestre",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "陆地的；地球的"
+                }
+            ],
+            "pluralForm": "terres"
+        },
+        {
+            "index": "44",
+            "vocabulary": "blanc",
+            "partOfSpeech": "adj.",
+            "definition": "①白色的 ②空白的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la terre est blanche",
+                    "vocabularyCollocationMeaning": "大地是白色的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une page blanche",
+                    "vocabularyCollocationMeaning": "一张空白的纸"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "nuit blanche",
+                    "vocabularyCollocationMeaning": "不眠之夜"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "blancheur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "白色，洁白"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "blanchir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变白；漂白"
+                }
+            ],
+            "genderNumberVariation": "阴性 blanche（不规则），复数 blancs/blanches",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "45",
+            "vocabulary": "feu",
+            "partOfSpeech": "n.m.",
+            "definition": "①火 ②火焰，火光 ③（交通）红绿灯",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire du feu",
+                    "vocabularyCollocationMeaning": "生火"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre le feu à qch.",
+                    "vocabularyCollocationMeaning": "放火烧某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au feu rouge",
+                    "vocabularyCollocationMeaning": "在红灯处"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "feux",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "复数：火；灯（交通灯）"
+                }
+            ],
+            "pluralForm": "feux（词尾 -eu 加 x 构成复数）"
+        },
+        {
+            "index": "46",
+            "vocabulary": "maison",
+            "partOfSpeech": "n.f.",
+            "definition": "①家，住宅 ②房屋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la maison",
+                    "vocabularyCollocationMeaning": "在家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rentrer à la maison",
+                    "vocabularyCollocationMeaning": "回家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "maison d'édition",
+                    "vocabularyCollocationMeaning": "出版社"
+                }
+            ],
+            "synonymAnalysis": "à la maison vs chez soi：两者均表“在家”，à la maison 强调地点（在房子里）；chez soi 强调归属感（在自己家中）。",
+            "derivedWords": [],
+            "pluralForm": "maisons"
+        },
+        {
+            "index": "47",
+            "vocabulary": "préparer",
+            "partOfSpeech": "vt.",
+            "definition": "①准备，筹备 ②制作（食物等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préparer un repas",
+                    "vocabularyCollocationMeaning": "准备饭菜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "préparer un examen",
+                    "vocabularyCollocationMeaning": "备考"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se préparer à faire qch.",
+                    "vocabularyCollocationMeaning": "准备做某事"
+                }
+            ],
+            "synonymAnalysis": "préparer vs organiser：préparer 偏向具体操作准备（备餐、备考）；organiser 偏向统筹安排（组织活动）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "préparation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "准备，预备"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "48",
+            "vocabulary": "Noël",
+            "partOfSpeech": "n.m.",
+            "definition": "圣诞节",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préparer Noël",
+                    "vocabularyCollocationMeaning": "准备圣诞节"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "joyeux Noël",
+                    "vocabularyCollocationMeaning": "圣诞快乐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le père Noël",
+                    "vocabularyCollocationMeaning": "圣诞老人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "Noël 为专有名词，首字母大写。作节日名称单独使用时通常不加冠词（préparer Noël），但有修饰语时可加（le Noël de cette année）。"
+        },
+        {
+            "index": "49",
+            "vocabulary": "nouveau",
+            "partOfSpeech": "adj.",
+            "definition": "①新的 ②新奇的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le nouvel an",
+                    "vocabularyCollocationMeaning": "新年"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une nouvelle voiture",
+                    "vocabularyCollocationMeaning": "一辆新车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de nouveau",
+                    "vocabularyCollocationMeaning": "再次，重新"
+                }
+            ],
+            "synonymAnalysis": "nouveau vs neuf：nouveau 指“新的（相对于旧的、之前的）”，如 un nouveau professeur（新老师）；neuf 指“崭新的（从未使用过的）”，如 une voiture neuve（一辆新车）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nouveauté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "新事物，新颖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "renouveler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "更新，续签"
+                }
+            ],
+            "genderNumberVariation": "阳性单数：nouveau（辅音前）/ nouvel（元音或哑音 h 前）；阴性单数：nouvelle；阳性复数：nouveaux；阴性复数：nouvelles",
+            "position": "通常前置于名词；前置时表“新出现的”，后置时（较少见）可表“最新发明的”"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "L'année a quatre saisons. Au printemps, le ciel est clair et bleu, le soleil brille, il fait beau. En été, les étudiants ont les grandes vacances: ils vont à la mer ou à la montagne. En automne, les feuilles des arbres tombent et tout le monde travaille dur. En hiver, il fait froid, il neige, et on prépare Noël et le nouvel an.",
+            "chineseTranslation": "一年有四个季节。春天，天空晴朗湛蓝，阳光普照，天气宜人。夏天，学生们迎来暑假，纷纷前往海边或山中游玩。到了秋天，树叶纷纷飘落，人们都投入到紧张的工作和学习之中。冬天，天寒地冻，白雪纷飞，家家户户忙着筹备圣诞节和新年。",
+            "fr2cnStrategy": "① 将 le soleil brille 与 il fait beau 合并处理为“阳光普照，天气宜人”，避免逐句翻译造成的重复感；② les grandes vacances 直译为“暑假”，保留原文的感叹语气；③ tout le monde travaille dur 转化为“人们都投入到紧张的工作和学习之中”，属于增译（显化“紧张”的程度），并将 travailler 的双义（工作/学习）一并体现；④ il neige 和 il fait froid 合并译为“天寒地冻，白雪纷飞”，运用四字格增加汉语节奏感；⑤ on prépare 译为“家家户户忙着筹备”，将泛指代词 on 做具象化处理（增译）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "春天，鸟儿为春天歌唱，树上长满了绿色的叶子。",
+                "frenchTranslation": "Au printemps, les oiseaux chantent pour le printemps et les arbres ont des feuilles vertes.",
+                "cn2frStrategy": "① “春天”用 au printemps，注意介词选 au 而非 en；② “树上长满了”用 avoir（les arbres ont des feuilles vertes），法语用不定冠词 des 表“有一些/长着”；③ “绿色的叶子”直接用 feuilles vertes，形容词后置。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "冬天天黑得早，天亮得晚。",
+                "frenchTranslation": "En hiver, il fait nuit tôt et il fait jour tard.",
+                "cn2frStrategy": "① “冬天”用 en hiver（非人称天气句），② 使用非人称结构 il fait nuit/jour + 副词，注意汉语语序与法语相反（汉语“天黑早”对应 il fait nuit tôt），需调整语序理解。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "秋天经常下雨，天空灰蒙蒙的，树叶从树上落下。",
+                "frenchTranslation": "En automne, il pleut souvent, le ciel est gris et les feuilles des arbres tombent.",
+                "cn2frStrategy": "① il pleut souvent：频率副词 souvent 置于动词后；② le ciel est gris 直接对应“天空灰蒙蒙”；③ “树叶从树上落下”用 les feuilles des arbres tombent，tomber 为第一组规则动词，助动词为 être（复合过去时），但本句用现在时；④ 三个分句用逗号+连词 et 连接，体现并列关系。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "今年冬天，人们在家生火取暖，为圣诞节和新年做准备。",
+                "frenchTranslation": "Cet hiver, on fait du feu à la maison et on prépare Noël et le nouvel an.",
+                "cn2frStrategy": "① “今年冬天”译为 cet hiver（指示形容词 cet 用于元音前阳性名词）；② “生火取暖”用固定搭配 faire du feu（部分冠词 du 不可省略）；③ “为……做准备”用 préparer 直接带宾语，无需加介词 pour；④ 泛指主语“人们”用 on，使语气更自然口语化。"
+            }
+        ]
+    }
+}

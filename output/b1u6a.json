@@ -1,0 +1,1461 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Comme ils sentent bon!",
+            "translatedSentence": "它们闻起来真香啊！",
+            "sentenceStructure": "感叹句。Comme 引导感叹，ils 指代上文的 les croissants，sentent 为谓语动词，bon 为状语（修饰感觉动词）。",
+            "grammarAnalysis": "① 感叹句结构 Comme + 主语 + 动词，表示强烈的情感。② sentir bon 为固定搭配，意为“闻起来香”，bon 在此作状语而非形容词，不与主语性数一致。③ 注意区分 sentir bon（主动：散发香气）与 se sentir bien（感觉良好）。",
+            "commonMistakes": "初学者常将 bon 误作形容词与 ils 进行性数配合，写成 bons，但 bon 在此修饰动词，为副词用法，不变形。"
+        },
+        {
+            "index": 2,
+            "sentence": "A midi, beaucoup de Parisiens n'ont pas assez de temps pour rentrer chez eux.",
+            "translatedSentence": "中午，许多巴黎人没有足够的时间回家。",
+            "sentenceStructure": "主句：beaucoup de Parisiens（主语）— n'ont pas assez de temps（谓语+否定+宾语）— pour rentrer chez eux（目的状语不定式短语）。A midi 为时间状语，置于句首。",
+            "grammarAnalysis": "① n'ont pas 为否定结构 ne...pas，包裹动词 ont。② assez de + 名词，表示“足够的……”，de 后名词不加冠词。③ pour + 不定式，表示目的。④ chez eux 意为“在他们家里”，chez 后接重读人称代词。",
+            "commonMistakes": "assez de 后须用名词原形（不加冠词），写成 assez du temps 是常见错误。另外 rentrer chez eux 中 chez 不可替换为 à。"
+        },
+        {
+            "index": 3,
+            "sentence": "Ils prennent leur déjeuner dans les restaurants ou les cafés près de leurs bureaux.",
+            "translatedSentence": "他们在距办公室不远的餐厅或咖啡馆用午餐。",
+            "sentenceStructure": "主语 Ils — 谓语 prennent — 宾语 leur déjeuner — 地点状语 dans les restaurants ou les cafés près de leurs bureaux。",
+            "grammarAnalysis": "① prendre le déjeuner 为固定搭配，意为“用午餐”。② près de + 名词，表示“靠近……”。③ leur / leurs 均为形容词性物主代词，leur déjeuner（单数）对应单个行为，leurs bureaux（复数）表示各自的办公室。",
+            "commonMistakes": "leur 与 leurs 的选择取决于后接名词的单复数，而非主语人数。leurs bureaux 为复数是因为每人各有一个办公室，合起来为复数。"
+        },
+        {
+            "index": 4,
+            "sentence": "dans les petites villes comme Limoges, Niort ou Avignon, et à la campagne, le déjeuner est encore le plus gros repas de la journée.",
+            "translatedSentence": "在利摩日、尼奥尔或阿维尼翁这样的小城市以及农村地区，午饭依然是一天中最丰盛的一餐。",
+            "sentenceStructure": "地点状语（dans les petites villes... et à la campagne）前置，主语 le déjeuner，谓语 est，表语 le plus gros repas de la journée。",
+            "grammarAnalysis": "① comme 在此引导举例，意为“如、比如”，后不加虚拟式。② le plus gros 为形容词最高级结构 le/la/les + plus + 形容词。③ de la journée 为限定性介词短语，表明比较范围。",
+            "commonMistakes": "最高级后表范围的介词须用 de，不可用 dans；如 le plus gros repas de la journée，不可写成 dans la journée。"
+        },
+        {
+            "index": 5,
+            "sentence": "On boit du vin, de la bière ou de l'eau, mais jamais de lait.",
+            "translatedSentence": "人们喝葡萄酒、啤酒或水，但从不喝牛奶。",
+            "sentenceStructure": "并列句：On boit du vin, de la bière ou de l'eau（正句），mais jamais de lait（转折否定句，省略谓语 on ne boit jamais de lait）。",
+            "grammarAnalysis": "① du、de la、de l' 均为部分冠词，表示不定量。② 否定结构后部分冠词变为 de/d'，jamais de lait 即体现此规则（jamais 具有否定意义）。③ ne...jamais 为“从不”，此处省略 ne，口语中较常见，但书面语应补全。",
+            "commonMistakes": "否定结构后冠词变 de 是高频考点：jamais de lait 不可写成 jamais du lait。此外注意 ne...jamais 与 ne...pas 的区别：jamais 强调频率为零。"
+        },
+        {
+            "index": 6,
+            "sentence": "Demandez l'adresse d'un bon petit restaurant à vos amis français.",
+            "translatedSentence": "向你们的法国朋友打听一家好小餐馆的地址吧。",
+            "sentenceStructure": "祈使句。Demandez（谓语，命令式）— l'adresse d'un bon petit restaurant（直接宾语）— à vos amis français（间接宾语）。",
+            "grammarAnalysis": "① demander qch. à qn. 为固定双宾结构：直接宾语为所求之物，间接宾语为被询问的人，介词用 à。② 祈使句用第二人称复数变位，省略主语 vous。③ bon petit 两个形容词均前置，bon 修饰品质，petit 修饰规模，顺序惯用。",
+            "commonMistakes": "demander 的双宾结构易与 demander à qn. de faire qch.（请求某人做某事）混淆。本句是 demander qch. à qn.（向某人索要某物），二者结构不同。"
+        },
+        {
+            "index": 7,
+            "sentence": "Ils en connaissent certainement plusieurs.",
+            "translatedSentence": "他们肯定知道好几家。",
+            "sentenceStructure": "主语 Ils — 代词 en（代替前文 restaurant/adresse）— 谓语 connaissent — 副词 certainement — 不定代词 plusieurs（宾语）。",
+            "grammarAnalysis": "① en 为中性代词，代替前文提到的 restaurants，相当于 de + 名词，此处作 connaissent 的宾语。② plusieurs 作不定代词，意为“好几个”，无须后接名词（已由 en 代替）。③ certainement 为副词，修饰整个谓语，通常置于动词之后。",
+            "commonMistakes": "en 代替 de + 名词的用法是考研高频点。此句若不用 en，应写成 Ils connaissent certainement plusieurs restaurants，二者等价。注意 en 的位置须在动词前（助动词前）。"
+        },
+        {
+            "index": 8,
+            "sentence": "Vous y passez de merveilleux moments et vous ne payez pas beaucoup.",
+            "translatedSentence": "你们在那里可以度过美好时光，而且花费也不多。",
+            "sentenceStructure": "并列句：Vous y passez de merveilleux moments（主句一）et vous ne payez pas beaucoup（主句二）。y 为地点代词，代替前文提到的餐馆。",
+            "grammarAnalysis": "① y 为地点代词，代替 dans ce restaurant，置于动词前。② passer + 时间/时光，意为“度过”，de merveilleux moments 中冠词用 de（不定代词前有形容词前置时冠词变 de）。③ ne...pas 否定结构，beaucoup 作副词修饰 payez。",
+            "commonMistakes": "de merveilleux moments 而非 des merveilleux moments：复数不定冠词 des 在形容词前置时变为 de，这是常见语法考点。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "sentir bon / sentir mauvais",
+            "meaning": "闻起来香／难闻",
+            "usage": "sentir + 形容词（作副词用）。bon/mauvais 不随主语变化性数，为固定搭配。区别于 se sentir bien（自我感觉好）。口语书面语均可用。",
+            "exampleSentence": "Comme ils sentent bon!"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "ne pas avoir assez de temps pour faire qch.",
+            "meaning": "没有足够的时间做某事",
+            "usage": "assez de + 名词（无冠词），pour + 不定式。表示“足够……以便……”的结构。assez 亦可修饰形容词或副词：assez grand, assez vite。",
+            "exampleSentence": "beaucoup de Parisiens n'ont pas assez de temps pour rentrer chez eux."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "rentrer chez + 重读人称代词",
+            "meaning": "回……家",
+            "usage": "chez 后接重读人称代词（moi, toi, lui, elle, nous, vous, eux, elles），表示“在/去某人家”。不可用 à。",
+            "exampleSentence": "n'ont pas assez de temps pour rentrer chez eux."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "prendre le déjeuner / le dîner / le petit déjeuner",
+            "meaning": "用午餐／晚餐／早餐",
+            "usage": "prendre + 冠词 + 餐名，为固定搭配。口语中也说 déjeuner（直接作动词）。",
+            "exampleSentence": "Ils prennent leur déjeuner dans les restaurants ou les cafés près de leurs bureaux."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "près de + lieu",
+            "meaning": "靠近……，在……附近",
+            "usage": "介词短语，près de + 名词，作地点状语。反义词为 loin de（远离）。",
+            "exampleSentence": "dans les restaurants ou les cafés près de leurs bureaux."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "le plus gros repas de la journée",
+            "meaning": "一天中最丰盛的一餐",
+            "usage": "最高级结构：le/la/les + plus + 形容词，范围用 de 引导。",
+            "exampleSentence": "le déjeuner est encore le plus gros repas de la journée."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "boire du vin / de la bière / de l'eau",
+            "meaning": "喝葡萄酒／啤酒／水",
+            "usage": "boire + 部分冠词 + 饮品名，表示喝某种饮料（不定量）。否定后变为 boire de + 名词（无冠词）。",
+            "exampleSentence": "On boit du vin, de la bière ou de l'eau, mais jamais de lait."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "passer du temps / des moments à + lieu",
+            "meaning": "在某处度过时光",
+            "usage": "passer + 时间宾语（+ 地点状语）。注意 de merveilleux moments 中 des 在前置形容词前变为 de。",
+            "exampleSentence": "Vous y passez de merveilleux moments et vous ne payez pas beaucoup."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "passer beaucoup de temps à table",
+            "meaning": "在餐桌前消磨大量时间",
+            "usage": "固定搭配，à table 表示就座用餐的状态，无冠词。",
+            "exampleSentence": "Les Français passent beaucoup de temps à table."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "demander qch. à qn.",
+            "meaning": "向某人索要／询问某物",
+            "usage": "双宾结构：直接宾语为所求之物，间接宾语（à + 人）为被询问对象。区别于 demander à qn. de faire qch.（请求某人做某事）。",
+            "exampleSentence": "Demandez l'adresse d'un bon petit restaurant à vos amis français."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "à la place de qch.",
+            "meaning": "代替……，取代……",
+            "usage": "固定介词短语，表示替代关系。也可以写作 en place de。",
+            "exampleSentence": "Il y a souvent de la soupe à la place des salades."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "aller au restaurant / au café",
+            "meaning": "去餐厅／咖啡馆",
+            "usage": "aller + au/à la + 场所名词，au 为 à + le 的缩合形式。",
+            "exampleSentence": "Les familles françaises vont souvent au restaurant."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "Français, e",
+            "partOfSpeech": "n.m.",
+            "definition": "①法国人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les Français",
+                    "vocabularyCollocationMeaning": "法国人（泛指）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un Français",
+                    "vocabularyCollocationMeaning": "一个法国人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "Français（阳性复数不变），Françaises（阴性复数）"
+        },
+        {
+            "index": "2",
+            "vocabulary": "français, e",
+            "partOfSpeech": "adj.",
+            "definition": "①法国的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la cuisine française",
+                    "vocabularyCollocationMeaning": "法式烹饪"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le français",
+                    "vocabularyCollocationMeaning": "法语（作名词 n.m. 用）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 française，阳性复数 français（不变），阴性复数 françaises",
+            "position": "通常置于名词之后（如 la cuisine française）；作名词时首字母大写（le Français）"
+        },
+        {
+            "index": "3",
+            "vocabulary": "cuisine",
+            "partOfSpeech": "n.f.",
+            "definition": "①烹饪，烹调 ②厨房",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire la cuisine",
+                    "vocabularyCollocationMeaning": "做饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cuisine française",
+                    "vocabularyCollocationMeaning": "法式菜肴"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cuisine équipée",
+                    "vocabularyCollocationMeaning": "设备齐全的厨房"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cuisinier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "厨师"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cuisiner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "做饭"
+                }
+            ],
+            "pluralForm": "cuisines"
+        },
+        {
+            "index": "4",
+            "vocabulary": "déjeuner",
+            "partOfSpeech": "n.m.",
+            "definition": "①午餐",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre le déjeuner",
+                    "vocabularyCollocationMeaning": "用午餐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "petit déjeuner",
+                    "vocabularyCollocationMeaning": "早餐"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "déjeuner d'affaires",
+                    "vocabularyCollocationMeaning": "商务午餐"
+                }
+            ],
+            "synonymAnalysis": "déjeuner（午餐）vs dîner（晚餐）vs petit déjeuner（早餐）：三餐的固定名称，不可混用。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            },
+            "pluralForm": "déjeuners"
+        },
+        {
+            "index": "5",
+            "vocabulary": "matin",
+            "partOfSpeech": "n.m.",
+            "definition": "①早晨，上午",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le matin",
+                    "vocabularyCollocationMeaning": "早晨（泛指习惯）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ce matin",
+                    "vocabularyCollocationMeaning": "今天早上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "du matin",
+                    "vocabularyCollocationMeaning": "上午的（如 dix heures du matin）"
+                }
+            ],
+            "synonymAnalysis": "matin 泛指上午时段；matinée 更强调这段时间内发生的活动或整个上午的过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "matinal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "早晨的；习惯早起的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "matinée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "上午（全段时间）"
+                }
+            ],
+            "pluralForm": "matins"
+        },
+        {
+            "index": "6",
+            "vocabulary": "seulement",
+            "partOfSpeech": "adv.",
+            "definition": "①只，仅仅 ②才（表时间晚）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "seulement + 名词/动词",
+                    "vocabularyCollocationMeaning": "仅……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "non seulement... mais aussi...",
+                    "vocabularyCollocationMeaning": "不仅……而且……"
+                }
+            ],
+            "synonymAnalysis": "seulement 与 ne...que 均表“只/仅”，ne...que 为否定结构中的限制表达（Il ne mange que du pain.），seulement 更灵活，可置于句中各处。",
+            "derivedWords": [],
+            "useExplanation": "通常置于所修饰成分之前。与 ne...que 可互换，但语序不同：Il prend seulement du café = Il ne prend que du café。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "café",
+            "partOfSpeech": "n.m.",
+            "definition": "①咖啡 ②咖啡馆",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "café au lait",
+                    "vocabularyCollocationMeaning": "加奶咖啡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une tasse de café",
+                    "vocabularyCollocationMeaning": "一杯咖啡"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aller au café",
+                    "vocabularyCollocationMeaning": "去咖啡馆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cafés"
+        },
+        {
+            "index": "8",
+            "vocabulary": "lait",
+            "partOfSpeech": "n.m.",
+            "definition": "①奶，牛奶",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "café au lait",
+                    "vocabularyCollocationMeaning": "加奶咖啡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lait entier / écrémé",
+                    "vocabularyCollocationMeaning": "全脂奶／脱脂奶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "laitier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "乳制品的"
+                }
+            ],
+            "pluralForm": "laits（不常用，通常不可数）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "pain",
+            "partOfSpeech": "n.m.",
+            "definition": "①面包",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "petit pain",
+                    "vocabularyCollocationMeaning": "小面包"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pain de mie",
+                    "vocabularyCollocationMeaning": "吐司面包"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir du pain sur la planche",
+                    "vocabularyCollocationMeaning": "有很多工作要做"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "boulangerie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "面包店"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "boulanger",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "面包师"
+                }
+            ],
+            "pluralForm": "pains"
+        },
+        {
+            "index": "10",
+            "vocabulary": "croissant",
+            "partOfSpeech": "n.m.",
+            "definition": "①羊角面包",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "croissant chaud",
+                    "vocabularyCollocationMeaning": "热羊角面包"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "croissant au beurre",
+                    "vocabularyCollocationMeaning": "黄油羊角面包"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "croissants"
+        },
+        {
+            "index": "11",
+            "vocabulary": "sentir",
+            "partOfSpeech": "vt.",
+            "definition": "①闻，闻到 ②感觉 ③（vi.）散发……气味",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sentir bon / mauvais",
+                    "vocabularyCollocationMeaning": "闻起来香／难闻"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sentir une odeur",
+                    "vocabularyCollocationMeaning": "闻到一种气味"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se sentir bien / mal",
+                    "vocabularyCollocationMeaning": "感觉良好／不适"
+                }
+            ],
+            "synonymAnalysis": "sentir（嗅觉感知）vs humer（深深吸入气味，更文雅）vs flairer（嗅探，多用于动物或侦察性嗅探）。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je sens, tu sens, il sent, nous sentons, vous sentez, ils sentent",
+                "compoundPast": "j'ai senti",
+                "simpleFuture": "je sentirai",
+                "memoryAids": "与 partir、sortir、mentir 同属-tir类不规则动词，单数去掉 -t 词尾，复数保留词干 sent-。"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "boulangerie",
+            "partOfSpeech": "n.f.",
+            "definition": "①面包店",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à la boulangerie",
+                    "vocabularyCollocationMeaning": "去面包店"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "près de la boulangerie",
+                    "vocabularyCollocationMeaning": "在面包店附近"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "boulanger",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "面包师"
+                }
+            ],
+            "pluralForm": "boulangeries"
+        },
+        {
+            "index": "13",
+            "vocabulary": "assez",
+            "partOfSpeech": "adv.",
+            "definition": "①足够地，相当地 ②（assez de + 名词）足够的……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "assez de temps",
+                    "vocabularyCollocationMeaning": "足够的时间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "assez grand",
+                    "vocabularyCollocationMeaning": "够大"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en avoir assez",
+                    "vocabularyCollocationMeaning": "受够了，烦透了"
+                }
+            ],
+            "synonymAnalysis": "assez（足够）vs suffisamment（足够，更正式）：两者基本可互换，suffisamment 更常见于书面语。",
+            "derivedWords": [],
+            "useExplanation": "修饰形容词或副词时直接前置（assez grand）；修饰名词时用 assez de + 名词（无冠词）；修饰动词时置于动词后（il mange assez）。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "chez",
+            "partOfSpeech": "prép.",
+            "definition": "①在……家里 ②在……地方（某人或某群体的所在）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chez moi / toi / lui",
+                    "vocabularyCollocationMeaning": "在我／你／他家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chez le médecin",
+                    "vocabularyCollocationMeaning": "在医生那里（诊所）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chez les Français",
+                    "vocabularyCollocationMeaning": "在法国人中间"
+                }
+            ],
+            "synonymAnalysis": "chez（在某人处/家）vs à（在某地点）：chez 强调人的归属，à 强调地点本身；如 à la boulangerie（在面包店）vs chez le boulanger（在面包师那里）。",
+            "derivedWords": [],
+            "useExplanation": "后接重读人称代词（chez moi, chez eux）或人名/职业名词（chez Marie, chez le médecin）。不可直接接地点名词。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "eux",
+            "partOfSpeech": "pron.",
+            "definition": "①他们，她们，它们（第三人称复数重读人称代词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chez eux",
+                    "vocabularyCollocationMeaning": "在他们家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pour eux",
+                    "vocabularyCollocationMeaning": "为了他们"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avec eux",
+                    "vocabularyCollocationMeaning": "和他们一起"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "重读人称代词，用于介词后、强调、对比等场合。阳性复数用 eux，阴性复数用 elles。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "restaurant",
+            "partOfSpeech": "n.m.",
+            "definition": "①饭店，食堂，餐厅",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au restaurant",
+                    "vocabularyCollocationMeaning": "去餐厅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "restaurant universitaire (Resto-U)",
+                    "vocabularyCollocationMeaning": "大学食堂"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "restaurants"
+        },
+        {
+            "index": "17",
+            "vocabulary": "bureau",
+            "partOfSpeech": "n.m.",
+            "definition": "①办公室 ②书桌",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler au bureau",
+                    "vocabularyCollocationMeaning": "在办公室工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bureau de poste",
+                    "vocabularyCollocationMeaning": "邮局"
+                }
+            ],
+            "synonymAnalysis": "bureau（办公室/书桌）vs salle de travail（工作室）：bureau 更常指个人办公空间，salle de travail 指集体工作室。",
+            "derivedWords": [],
+            "pluralForm": "bureaux"
+        },
+        {
+            "index": "18",
+            "vocabulary": "sandwich",
+            "partOfSpeech": "n.m.",
+            "definition": "①三明治",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger un sandwich",
+                    "vocabularyCollocationMeaning": "吃三明治"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sandwich au jambon",
+                    "vocabularyCollocationMeaning": "火腿三明治"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "sandwichs / sandwiches（两种复数均可接受）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "tasse",
+            "partOfSpeech": "n.f.",
+            "definition": "①（带把的）杯子 ②一杯的量",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une tasse de café",
+                    "vocabularyCollocationMeaning": "一杯咖啡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tasse à thé",
+                    "vocabularyCollocationMeaning": "茶杯（专用）"
+                }
+            ],
+            "synonymAnalysis": "tasse（有把的小杯，多用于咖啡/茶）vs verre（玻璃杯，用于水/酒）vs bol（碗形大杯，用于早餐咖啡）。",
+            "derivedWords": [],
+            "pluralForm": "tasses"
+        },
+        {
+            "index": "20",
+            "vocabulary": "ville",
+            "partOfSpeech": "n.f.",
+            "definition": "①城市",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "grande ville",
+                    "vocabularyCollocationMeaning": "大城市"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "petite ville",
+                    "vocabularyCollocationMeaning": "小城市"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en ville",
+                    "vocabularyCollocationMeaning": "在城里（无冠词）"
+                }
+            ],
+            "synonymAnalysis": "ville（城市，泛指一般城市）vs cité（古城或特定城区）vs métropole（大都市）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "villageois",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "村民"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "village",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "村庄"
+                }
+            ],
+            "pluralForm": "villes"
+        },
+        {
+            "index": "21",
+            "vocabulary": "campagne",
+            "partOfSpeech": "n.f.",
+            "definition": "①农村，乡村 ②（政治/广告）运动",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la campagne",
+                    "vocabularyCollocationMeaning": "在农村"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maison de campagne",
+                    "vocabularyCollocationMeaning": "乡间别墅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "campagne électorale",
+                    "vocabularyCollocationMeaning": "选举运动"
+                }
+            ],
+            "synonymAnalysis": "campagne（农村/乡村）vs village（村庄）：campagne 指地理概念上的乡村地区，village 指具体的小村落。",
+            "derivedWords": [],
+            "pluralForm": "campagnes"
+        },
+        {
+            "index": "22",
+            "vocabulary": "gros, se",
+            "partOfSpeech": "adj.",
+            "definition": "①重要的；大的 ②胖的 ③粗的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "gros repas",
+                    "vocabularyCollocationMeaning": "丰盛的饭食"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gros problème",
+                    "vocabularyCollocationMeaning": "大问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en gros",
+                    "vocabularyCollocationMeaning": "大致上；批量地"
+                }
+            ],
+            "synonymAnalysis": "gros（体型大/分量重/重要）vs grand（高大/伟大/重要）：gros 强调横向体积或分量，grand 强调纵向高度或抽象伟大程度。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "grossir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变胖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "grosseur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "大小；肿块"
+                }
+            ],
+            "genderNumberVariation": "阴性 grosse，阳性复数 gros，阴性复数 grosses",
+            "position": "通常前置于名词（un gros repas, un gros problème），前置时多表抽象或强调程度。"
+        },
+        {
+            "index": "23",
+            "vocabulary": "salade",
+            "partOfSpeech": "n.f.",
+            "definition": "①冷盘 ②生菜 ③色拉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger une salade",
+                    "vocabularyCollocationMeaning": "吃色拉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "salade verte",
+                    "vocabularyCollocationMeaning": "绿色色拉"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "salade de fruits",
+                    "vocabularyCollocationMeaning": "水果色拉"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "salades"
+        },
+        {
+            "index": "24",
+            "vocabulary": "viande",
+            "partOfSpeech": "n.f.",
+            "definition": "①肉，肉类",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "viande rouge / blanche",
+                    "vocabularyCollocationMeaning": "红肉／白肉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "manger de la viande",
+                    "vocabularyCollocationMeaning": "吃肉"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "viandes"
+        },
+        {
+            "index": "25",
+            "vocabulary": "légumes",
+            "partOfSpeech": "n.m.",
+            "definition": "①蔬菜（通常用复数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger des légumes",
+                    "vocabularyCollocationMeaning": "吃蔬菜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "légumes frais",
+                    "vocabularyCollocationMeaning": "新鲜蔬菜"
+                }
+            ],
+            "synonymAnalysis": "légumes（蔬菜，泛指）vs verdures（绿叶菜）：légumes 是统称，verdures 特指绿叶蔬菜。",
+            "derivedWords": [],
+            "pluralForm": "词汇表标注 n.m.pl.，通常以复数形式出现"
+        },
+        {
+            "index": "26",
+            "vocabulary": "fromage",
+            "partOfSpeech": "n.m.",
+            "definition": "①干酪，奶酪",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plateau de fromages",
+                    "vocabularyCollocationMeaning": "奶酪拼盘"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fromage blanc",
+                    "vocabularyCollocationMeaning": "白干酪"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "fromages"
+        },
+        {
+            "index": "27",
+            "vocabulary": "fruit",
+            "partOfSpeech": "n.m.",
+            "definition": "①水果",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger des fruits",
+                    "vocabularyCollocationMeaning": "吃水果"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "jus de fruit",
+                    "vocabularyCollocationMeaning": "果汁"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fruit de mer",
+                    "vocabularyCollocationMeaning": "海鲜"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "fruits"
+        },
+        {
+            "index": "28",
+            "vocabulary": "dessert",
+            "partOfSpeech": "n.m.",
+            "definition": "①餐后甜点",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre le dessert",
+                    "vocabularyCollocationMeaning": "吃甜点"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au dessert",
+                    "vocabularyCollocationMeaning": "甜点时间"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "desserts"
+        },
+        {
+            "index": "29",
+            "vocabulary": "boire",
+            "partOfSpeech": "vt.",
+            "definition": "①喝，饮",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boire de l'eau",
+                    "vocabularyCollocationMeaning": "喝水"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "boire un verre",
+                    "vocabularyCollocationMeaning": "喝一杯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "boire à la santé de qn.",
+                    "vocabularyCollocationMeaning": "为某人的健康干杯"
+                }
+            ],
+            "synonymAnalysis": "boire（喝，中性）vs avaler（吞咽）vs déguster（品尝，细细品味）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "boisson",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "饮料"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je bois, tu bois, il boit, nous buvons, vous buvez, ils boivent",
+                "compoundPast": "j'ai bu",
+                "simpleFuture": "je boirai",
+                "memoryAids": "单数词干 boi-，复数词干 buv-，过去分词 bu。注意 nous/vous 与单数词干不同。"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "vin",
+            "partOfSpeech": "n.m.",
+            "definition": "①葡萄酒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vin rouge / blanc / rosé",
+                    "vocabularyCollocationMeaning": "红酒／白葡萄酒／玫瑰红酒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "verre de vin",
+                    "vocabularyCollocationMeaning": "一杯葡萄酒"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vinaigre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "醋"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vigneron",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "葡萄酒酿造者"
+                }
+            ],
+            "pluralForm": "vins"
+        },
+        {
+            "index": "31",
+            "vocabulary": "bière",
+            "partOfSpeech": "n.f.",
+            "definition": "①啤酒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boire une bière",
+                    "vocabularyCollocationMeaning": "喝一杯啤酒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bière pression",
+                    "vocabularyCollocationMeaning": "扎啤"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "bières"
+        },
+        {
+            "index": "32",
+            "vocabulary": "eau",
+            "partOfSpeech": "n.f.",
+            "definition": "①水",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "eau minérale",
+                    "vocabularyCollocationMeaning": "矿泉水"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "verre d'eau",
+                    "vocabularyCollocationMeaning": "一杯水"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "eau gazeuse",
+                    "vocabularyCollocationMeaning": "气泡水"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "eaux"
+        },
+        {
+            "index": "33",
+            "vocabulary": "jamais",
+            "partOfSpeech": "adv.",
+            "definition": "①曾经（肯定句中）②从不，决不（否定句 ne...jamais 中）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ne...jamais",
+                    "vocabularyCollocationMeaning": "从不，决不"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "jamais de la vie",
+                    "vocabularyCollocationMeaning": "绝对不行（口语感叹）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "plus que jamais",
+                    "vocabularyCollocationMeaning": "比以往任何时候都更……"
+                }
+            ],
+            "synonymAnalysis": "ne...jamais（从不，频率）vs ne...pas（不，普通否定）vs ne...plus（不再）：jamais 强调时间上的“从不/永不”，pas 是一般否定，plus 表示曾经如此但现在停止了。",
+            "derivedWords": [],
+            "useExplanation": "与 ne 构成否定：ne + 动词 + jamais。复合时态中 jamais 置于助动词和过去分词之间：je n'ai jamais mangé。单独使用时（口语）可省略 ne：Jamais de la vie！"
+        },
+        {
+            "index": "34",
+            "vocabulary": "payer",
+            "partOfSpeech": "vt.",
+            "definition": "①支付，付款 ②缴纳",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "payer l'addition",
+                    "vocabularyCollocationMeaning": "结账"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "payer en espèces / par carte",
+                    "vocabularyCollocationMeaning": "用现金／刷卡付款"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ne pas payer beaucoup",
+                    "vocabularyCollocationMeaning": "花费不多"
+                }
+            ],
+            "synonymAnalysis": "payer（支付）vs régler（结清账款，更正式）vs verser（汇入，用于转账）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "paiement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "付款"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je paie / je paye, tu paies / tu payes, il paie / il paye, nous payons, vous payez, ils paient / ils payent",
+                "compoundPast": "j'ai payé",
+                "simpleFuture": "je paierai / je payerai",
+                "memoryAids": "属于以 -ayer 结尾的动词，词干中 y 在哑音节前可变为 i，两种拼写均可接受。"
+            }
+        },
+        {
+            "index": "35",
+            "vocabulary": "même",
+            "partOfSpeech": "adv.",
+            "definition": "①甚至 ②即使（conj. 用法）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "même + 副词/形容词",
+                    "vocabularyCollocationMeaning": "甚至……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "même si",
+                    "vocabularyCollocationMeaning": "即使"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "quand même",
+                    "vocabularyCollocationMeaning": "还是，仍然"
+                }
+            ],
+            "synonymAnalysis": "même（副词：甚至）vs aussi（也）vs encore（还，又）：même 用于加强语气，强调超出预期；aussi 表并列；encore 表延续或递进。",
+            "derivedWords": [],
+            "genderNumberVariation": "作形容词时：le/la même（同一个），les mêmes（同样的），复数加 s",
+            "position": "作副词时前置于所强调的词（même à huit heures）；作形容词时前置于名词（le même repas）或后置（lui-même = 他本人）",
+            "useExplanation": "① 副词用法：甚至（même à huit heures）② 形容词前置：同样的（le même plat）③ 形容词后置于代词：本人（lui-même, elles-mêmes）"
+        },
+        {
+            "index": "36",
+            "vocabulary": "dîner",
+            "partOfSpeech": "n.m.",
+            "definition": "①晚饭，正餐",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre le dîner",
+                    "vocabularyCollocationMeaning": "用晚餐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dîner en famille",
+                    "vocabularyCollocationMeaning": "家庭晚餐"
+                }
+            ],
+            "synonymAnalysis": "dîner（晚餐）vs souper（夜宵，晚饭后再吃的一顿，较少用）",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            },
+            "pluralForm": "dîners"
+        },
+        {
+            "index": "37",
+            "vocabulary": "journée",
+            "partOfSpeech": "n.f.",
+            "definition": "①一天，白昼（强调时间过程）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans la journée",
+                    "vocabularyCollocationMeaning": "在白天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bonne journée",
+                    "vocabularyCollocationMeaning": "祝你今天愉快"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "toute la journée",
+                    "vocabularyCollocationMeaning": "整整一天"
+                }
+            ],
+            "synonymAnalysis": "journée（一天的过程/时段）vs jour（天，着重时间点或数量）：Bonne journée（祝今天过得好）vs un jour（某一天/有一天）。",
+            "derivedWords": [],
+            "pluralForm": "journées"
+        },
+        {
+            "index": "38",
+            "vocabulary": "soupe",
+            "partOfSpeech": "n.f.",
+            "definition": "①浓汤",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "soupe à l'oignon",
+                    "vocabularyCollocationMeaning": "洋葱汤"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "manger de la soupe",
+                    "vocabularyCollocationMeaning": "喝汤"
+                }
+            ],
+            "synonymAnalysis": "soupe（浓汤，有料）vs potage（奶油浓汤，质地更细腻）vs bouillon（清汤）。",
+            "derivedWords": [],
+            "pluralForm": "soupes"
+        },
+        {
+            "index": "39",
+            "vocabulary": "passer",
+            "partOfSpeech": "vt.",
+            "definition": "①度过（时间）②穿过，经过",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passer du temps à / devant",
+                    "vocabularyCollocationMeaning": "在……消磨时间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passer beaucoup de temps à table",
+                    "vocabularyCollocationMeaning": "在餐桌前消磨大量时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "passer devant",
+                    "vocabularyCollocationMeaning": "经过……前面"
+                }
+            ],
+            "synonymAnalysis": "passer（不及物：经过；及物：度过时间）vs traverser（穿越，强调从一端到另一端）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "通道；经过"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "40",
+            "vocabulary": "table",
+            "partOfSpeech": "n.f.",
+            "definition": "①桌子",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à table",
+                    "vocabularyCollocationMeaning": "在餐桌边（就餐中）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mettre la table",
+                    "vocabularyCollocationMeaning": "摆餐桌"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "table de travail",
+                    "vocabularyCollocationMeaning": "工作台"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "tables"
+        },
+        {
+            "index": "41",
+            "vocabulary": "aimer",
+            "partOfSpeech": "vt.",
+            "definition": "①喜欢，热爱 ②爱（某人）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aimer + inf.",
+                    "vocabularyCollocationMeaning": "喜欢做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aimer mieux + inf.",
+                    "vocabularyCollocationMeaning": "更喜欢做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'aimer",
+                    "vocabularyCollocationMeaning": "互相爱慕"
+                }
+            ],
+            "synonymAnalysis": "aimer（喜欢/爱）vs adorer（非常喜爱）vs apprécier（欣赏，较理性）：adorer 程度更强，apprécier 偏向理智欣赏。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "amour",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "爱，爱情"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "42",
+            "vocabulary": "adresse",
+            "partOfSpeech": "n.f.",
+            "definition": "①地址 ②灵巧，技能",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "demander l'adresse",
+                    "vocabularyCollocationMeaning": "询问地址"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adresse e-mail",
+                    "vocabularyCollocationMeaning": "电子邮件地址"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adresser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "寄送；致辞"
+                }
+            ],
+            "pluralForm": "adresses"
+        },
+        {
+            "index": "43",
+            "vocabulary": "certainement",
+            "partOfSpeech": "adv.",
+            "definition": "①一定，当然，肯定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "certainement + 动词",
+                    "vocabularyCollocationMeaning": "肯定……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "presque certainement",
+                    "vocabularyCollocationMeaning": "几乎可以肯定"
+                }
+            ],
+            "synonymAnalysis": "certainement（肯定，客观确信）vs sûrement（很可能，推断）vs absolument（绝对地，强调语气）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "certain",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "确定的；某个"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "certitude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "确定性"
+                }
+            ],
+            "useExplanation": "通常置于动词之后，或置于句首（强调）。"
+        },
+        {
+            "index": "44",
+            "vocabulary": "plusieurs",
+            "partOfSpeech": "adj.",
+            "definition": "①几个，好几个（复数，表不定数量，三个或以上）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plusieurs fois",
+                    "vocabularyCollocationMeaning": "好几次"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plusieurs personnes",
+                    "vocabularyCollocationMeaning": "好几个人"
+                }
+            ],
+            "synonymAnalysis": "plusieurs（好几个，三个及以上）vs quelques（几个，数量较少，二三个起）vs beaucoup de（很多）。",
+            "derivedWords": [],
+            "useExplanation": "作形容词时修饰复数名词（plusieurs restaurants）；作代词时单独使用（Ils en connaissent plusieurs），由 en 代替所指名词。"
+        },
+        {
+            "index": "45",
+            "vocabulary": "merveilleux, se",
+            "partOfSpeech": "adj.",
+            "definition": "①出色的，令人赞叹的 ②奇妙的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de merveilleux moments",
+                    "vocabularyCollocationMeaning": "美好的时光"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est merveilleux!",
+                    "vocabularyCollocationMeaning": "太妙了！"
+                }
+            ],
+            "synonymAnalysis": "merveilleux（令人惊叹的，带有赞美情感）vs excellent（优秀的，偏客观评价）vs magnifique（壮观的，视觉感强）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "merveille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "奇迹；极好的事物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "merveilleusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "奇妙地；出色地"
+                }
+            ],
+            "genderNumberVariation": "阴性 merveilleuse，阳性复数 merveilleux，阴性复数 merveilleuses",
+            "position": "通常前置于名词（de merveilleux moments）"
+        },
+        {
+            "index": "46",
+            "vocabulary": "moment",
+            "partOfSpeech": "n.m.",
+            "definition": "①时刻，片刻，一会儿",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en ce moment",
+                    "vocabularyCollocationMeaning": "此刻，现在"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pour le moment",
+                    "vocabularyCollocationMeaning": "目前"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au bon moment",
+                    "vocabularyCollocationMeaning": "在恰当的时机"
+                }
+            ],
+            "synonymAnalysis": "moment（时刻，可长可短）vs instant（瞬间，极短时间）vs période（一段时期，较长）。",
+            "derivedWords": [],
+            "pluralForm": "moments"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Le matin, les Français ne prennent pas beaucoup: ils prennent seulement du café au lait et des croissants chauds. À midi, beaucoup de Parisiens n'ont pas assez de temps pour rentrer chez eux, alors ils déjeunent dans les restaurants près de leurs bureaux. Le soir, le dîner est un gros repas de la journée: les Français passent beaucoup de temps à table et aiment manger en famille.",
+            "chineseTranslation": "早晨，法国人吃得很少：只喝加奶咖啡，配上热羊角面包。中午，许多巴黎人没有足够的时间回家，便在附近的餐馆用午餐。到了晚上，晚饭成了一天中最重要的一顿：法国人乐于在餐桌旁消磨时间，享受家庭聚餐的乐趣。",
+            "fr2cnStrategy": "① 'ne prennent pas beaucoup' 转化为'吃得很少'，属词性转换，将否定动宾结构改为程度副词修饰动词；② 'assez de temps pour rentrer chez eux' 译为'足够的时间回家'，保留目的关系，语序自然；③ 'alors' 口语衔接词在汉语中译为'便'，体现上下文的顺承关系（增译逻辑词）；④ 'passer beaucoup de temps à table' 意译为'在餐桌旁消磨时间'，保留画面感；⑤ 'gros repas de la journée' 中 gros 译为'最重要的'而非字面'最胖的'，属于语义引申；⑥ 最后一句将两个并列动词短语重组为'……消磨时间，享受……'结构，避免翻译腔。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "中午，他没有时间回家，所以在公司附近的餐厅吃了午饭。",
+                "frenchTranslation": "À midi, il n'avait pas le temps de rentrer chez lui, alors il a déjeuné dans un restaurant près de son bureau.",
+                "cn2frStrategy": "① '没有时间做某事'用 ne pas avoir le temps de + inf.；② '回家'用 rentrer chez lui（chez + 重读人称代词）；③ '在公司附近'译为 près de son bureau；④ 两个分句时态：前句用未完成过去时（背景状态），后句用复合过去时（具体动作），体现时态对比。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "法国人喝葡萄酒和啤酒，但从不喝牛奶。",
+                "frenchTranslation": "Les Français boivent du vin et de la bière, mais ils ne boivent jamais de lait.",
+                "cn2frStrategy": "① boire 为不规则动词，须正确变位：ils boivent；② 部分冠词：du vin, de la bière（肯定句），否定后变为 de：jamais de lait；③ '从不'用 ne...jamais，位置为 ne + 动词 + jamais；④ '但'用 mais 连接转折分句。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "向你的法国朋友询问一家好餐厅的地址，你们一定会在那里度过美好时光。",
+                "frenchTranslation": "Demandez l'adresse d'un bon restaurant à vos amis français, vous y passerez certainement de merveilleux moments.",
+                "cn2frStrategy": "① '向……询问某物'用 demander qch. à qn.，直接宾语为 l'adresse，间接宾语为 à vos amis français；② '一定'用 certainement，置于动词后；③ '在那里'用地点代词 y，前置于动词；④ 'de merveilleux moments'：形容词前置时 des 变为 de，这是重要语法点；⑤ 后半句用简单将来时（passerez）表推测与预告。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "晚上，法国人很晚才吃饭：有时到七八点钟，他们才开始用晚餐。",
+                "frenchTranslation": "Le soir, les Français mangent très tard: à sept heures ou même à huit heures, le dîner commence.",
+                "cn2frStrategy": "① '很晚'用 très tard，tard 为副词，修饰动词；② 'même'作副词表'甚至'，置于所强调成分前（à sept heures ou même à huit heures）；③ 冒号引出解释性内容，这是法语书面语常用的标点逻辑；④ '才开始'的'才'在法语中可通过 même 强调时间晚或通过语序体现，此处通过时间状语的堆叠表达。"
+            }
+        ]
+    }
+}

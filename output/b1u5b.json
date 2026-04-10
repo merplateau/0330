@@ -1,0 +1,1001 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Il ne neige pas souvent à Avignon, mais aujourd'hui, la neige tombe.",
+            "translatedSentence": "阿维尼翁平时不常下雪，但今天，雪却纷纷落下。",
+            "sentenceStructure": "由 mais 连接的两个并列分句：①主句 Il ne neige pas souvent à Avignon（非人称句，il 为形式主语）；②转折分句 la neige tombe（主谓结构）。",
+            "grammarAnalysis": "① 非人称句 il neige：动词 neiger 作非人称用法，il 为形式主语，无实际指代。② 否定结构 ne...pas，副词 souvent 位于 pas 之后。③ 现在时表当下正在发生的动作。",
+            "commonMistakes": "学生易将非人称 il 误理解为人称代词“他”；另需注意 souvent 在否定句中置于 pas 之后，而非 ne 之后。"
+        },
+        {
+            "index": 2,
+            "sentence": "Ce n'est pas loin, mais aujourd'hui, elle est en retard.",
+            "translatedSentence": "学校离家并不远，但今天她却迟到了。",
+            "sentenceStructure": "由 mais 连接的两个并列分句：① Ce n'est pas loin（非人称表语句）；② elle est en retard（主系表结构）。",
+            "grammarAnalysis": "① ce + être 结构，ce 为非人称代词，用于指代前文提到的情境（骑车上学这件事不远）。② être en retard：固定短语，表示“迟到”，en 为介词，后接名词无冠词。",
+            "commonMistakes": "学生易将 être en retard 与 être tard（时间晚）混淆：être en retard 强调“（相对于预定时间）迟到”，être tard 则表示时间本身已晚。"
+        },
+        {
+            "index": 3,
+            "sentence": "Parce qu'aujourd'hui est son anniversaire, Alice a quinze ans.",
+            "translatedSentence": "因为今天是她的生日——Alice已经十五岁了。",
+            "sentenceStructure": "parce que 引导的原因状语从句置于句首（倒置），后接主句 Alice a quinze ans。",
+            "grammarAnalysis": "① parce que 引导原因从句，此处置于句首以强调原因，需注意 parce que 后接直陈式。② avoir + 数词 + ans：法语表达年龄用动词 avoir 而非 être。",
+            "commonMistakes": "学生受汉语影响，易误用 être 表年龄（*Elle est quinze ans），法语必须用 avoir：Elle a quinze ans。"
+        },
+        {
+            "index": 4,
+            "sentence": "Tu n'as pas ta montre?",
+            "translatedSentence": "你没带表吗？",
+            "sentenceStructure": "否定疑问句，主语 tu + 否定助动词 n'as pas + 宾语 ta montre。",
+            "grammarAnalysis": "① 否定疑问句：法语中用否定形式提问时，往往带有“难道……吗”的语气，期待肯定或否定的确认。② 所有格形容词 ta 与 montre（n.f.）性数一致。",
+            "commonMistakes": "回答否定疑问句时：若事实为否定，应回答 Non（对，没有）；若为肯定，回答 Si（有/带了）。Si 是法语中专门用于反驳否定疑问的肯定答词，学生常将其与 oui 混淆。"
+        },
+        {
+            "index": 5,
+            "sentence": "Et le Jour de l'An, c'est encore un jour de cadeaux pour les enfants.",
+            "translatedSentence": "而元旦那天，对孩子们来说又是一个收礼物的日子。",
+            "sentenceStructure": "主句为 c'est encore un jour de cadeaux pour les enfants，句首 le Jour de l'An 作时间状语，前置以强调。",
+            "grammarAnalysis": "① c'est + 名词短语：强调句结构的变体，c'est 指代前置时间状语所确认的情境。② encore 在此表“又、再次”，修饰整个表语。③ pour les enfants：介词短语作受益者状语，置于句末。",
+            "commonMistakes": "encore 有多种含义：①还（仍然）②又（再次）③甚至。此句取义②，学生易误译为“仍然是一个收礼物的日子”，忽略了“又一次”的递进语气。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "aller à l'école à vélo",
+            "meaning": "骑自行车去上学",
+            "usage": "à + 交通工具表示出行方式，注意 à vélo（骑车）、à pied（步行）、en voiture（开车）的介词区别：短途、人力工具用 à，机动交通工具用 en。",
+            "exampleSentence": "Elle va toujours à l'école à vélo."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "être en retard",
+            "meaning": "迟到，晚点",
+            "usage": "固定短语，en + 名词（无冠词）。反义为 être en avance（提前）；être à l'heure（准时）。注意三者都用 être，不可用 avoir。",
+            "exampleSentence": "Mais aujourd'hui, elle est en retard."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "être encore prêt(e)",
+            "meaning": "还没准备好",
+            "usage": "prêt(e) 为形容词，需与主语性数一致。否定式 ne pas encore être prêt(e) 表“尚未准备好”。encore 在否定句中表“还没”。",
+            "exampleSentence": "À neuf heures, elle n'est pas encore prête."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "chercher qch.",
+            "meaning": "寻找某物",
+            "usage": "直接及物动词，后直接加宾语，不加介词。注意与 trouver（找到）区分：chercher 强调过程，trouver 强调结果。",
+            "exampleSentence": "Je cherche mon crayon, je cherche mon stylo, je cherche ma gomme."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "trouver qch.",
+            "meaning": "找到某物，发现某物",
+            "usage": "直接及物动词，强调找到的结果。常与 ne pas trouver 搭配表“找不到”。",
+            "exampleSentence": "Non, Maman, je ne trouve pas ma montre."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "donner un cadeau à qn.",
+            "meaning": "送某人一份礼物",
+            "usage": "donner 为双及物动词：直接宾语为物（cadeau），间接宾语为人（à qn.）。代词化时：直接宾语→ le/la/les，间接宾语→ lui/leur。",
+            "exampleSentence": "Le Père Noël donne un cadeau à tout le monde."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "surtout + 名词短语／从句",
+            "meaning": "尤其是，特别是",
+            "usage": "副词，用于强调特定事物或情况，置于所强调成分之前。书面口语均可用。",
+            "exampleSentence": "Décembre est vraiment un mois de fêtes, surtout la semaine de Noël."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "penser à qch./qn.",
+            "meaning": "想到某事／某人，思念",
+            "usage": "间接及物，固定介词 à。代词化时用重读人称代词（penser à lui）或 y（penser à qch.→y penser）。注意与 penser de 区分：penser de 表“对……有何看法”。",
+            "exampleSentence": "Alice pense: «Je suis contente, j'ai déjà mes cadeaux d'anniversaire.»"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avoir + 数词 + ans",
+            "meaning": "……岁",
+            "usage": "法语表达年龄的固定结构，动词必须用 avoir，不可用 être。疑问句：Quel âge as-tu?",
+            "exampleSentence": "Alice a quinze ans."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "tout le monde",
+            "meaning": "所有人，大家",
+            "usage": "固定表达，后接第三人称单数动词（tout le monde dit，非 disent）。这是学生常见错误。",
+            "exampleSentence": "À minuit, tout le monde dit: «Bonne année!»"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "quelques jours après + 名词",
+            "meaning": "……之后几天",
+            "usage": "quelques 表“几个、若干”，修饰可数名词复数。après 作介词，后接名词短语表时间先后。",
+            "exampleSentence": "Puis, quelques jours après Noël, c'est le nouvel an."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "sous + 名词",
+            "meaning": "在……下面",
+            "usage": "介词 sous 表空间位置“在……下方”。常见搭配：sous la table（桌子下），sous l'arbre（树下）。",
+            "exampleSentence": "Les enfants regardent les cadeaux sous l'arbre de Noël."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "toujours",
+            "partOfSpeech": "adv.",
+            "definition": "①总是，始终 ②还，仍然",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller toujours à pied",
+                    "vocabularyCollocationMeaning": "总是步行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être toujours là",
+                    "vocabularyCollocationMeaning": "还在那里"
+                }
+            ],
+            "synonymAnalysis": "toujours（总是/仍然）vs encore（还，再）vs souvent（经常）：toujours 强调无例外的持续性；encore 强调延续至今或重复；souvent 表频率高但非绝对。",
+            "derivedWords": [],
+            "useExplanation": "置于被修饰的动词之后（助动词时置于助动词与过去分词之间）。否定式 ne...plus 为其反义（不再）；ne...jamais（从不）也与之相对。"
+        },
+        {
+            "index": "2",
+            "vocabulary": "vélo",
+            "partOfSpeech": "n.m.",
+            "definition": "（俗）自行车",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à vélo",
+                    "vocabularyCollocationMeaning": "骑自行车去"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire du vélo",
+                    "vocabularyCollocationMeaning": "骑自行车（运动）"
+                }
+            ],
+            "synonymAnalysis": "vélo 为俗称（口语），bicyclette 为正式说法。考研语境中两者均可使用。",
+            "derivedWords": [],
+            "pluralForm": "vélos"
+        },
+        {
+            "index": "3",
+            "vocabulary": "pourquoi",
+            "partOfSpeech": "adv.",
+            "definition": "为什么",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Pourquoi + 问句",
+                    "vocabularyCollocationMeaning": "为什么……？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "C'est pourquoi...",
+                    "vocabularyCollocationMeaning": "正因如此……（表结果）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "用于直接或间接疑问句中。直接疑问：Pourquoi es-tu en retard?；间接疑问：Je ne sais pas pourquoi elle est en retard.（从句语序为陈述语序）"
+        },
+        {
+            "index": "4",
+            "vocabulary": "parce que",
+            "partOfSpeech": "loc.conj.",
+            "definition": "因为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parce que + 主语 + 动词",
+                    "vocabularyCollocationMeaning": "因为……（陈述原因）"
+                }
+            ],
+            "synonymAnalysis": "parce que vs car vs puisque：parce que 直接陈述原因，回答 pourquoi 的提问，最常用；car 引入解释性原因，语气较肯定，多用于书面；puisque 引入说话双方已知的原因，含“既然”之意。",
+            "derivedWords": [],
+            "useExplanation": "引导原因状语从句，后接陈述式。que 前如遇元音或哑音 h 开头的词，缩写为 parce qu'。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "anniversaire",
+            "partOfSpeech": "n.m.",
+            "definition": "①生日 ②周年纪念",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "bon anniversaire",
+                    "vocabularyCollocationMeaning": "生日快乐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fêter son anniversaire",
+                    "vocabularyCollocationMeaning": "庆祝生日"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cadeau d'anniversaire",
+                    "vocabularyCollocationMeaning": "生日礼物"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "anniversaires"
+        },
+        {
+            "index": "6",
+            "vocabulary": "vite",
+            "partOfSpeech": "adv.",
+            "definition": "①快，迅速 ②立刻，马上",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller vite",
+                    "vocabularyCollocationMeaning": "走得快"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire vite",
+                    "vocabularyCollocationMeaning": "快点做，赶快"
+                }
+            ],
+            "synonymAnalysis": "vite（副词，修饰动词）vs rapide（形容词，修饰名词/主语）：un train rapide（快车），Le train va vite（火车跑得快）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rapide",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "快速的，迅速的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rapidement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "迅速地"
+                }
+            ],
+            "useExplanation": "置于动词之后。重叠使用（vite, vite！）表催促语气，强调紧迫性，口语色彩浓。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "chercher",
+            "partOfSpeech": "vt.",
+            "definition": "①寻找 ②努力争取，谋求",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chercher qch./qn.",
+                    "vocabularyCollocationMeaning": "寻找某物／某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chercher à faire qch.",
+                    "vocabularyCollocationMeaning": "设法做某事，试图做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aller chercher qn.",
+                    "vocabularyCollocationMeaning": "去接某人"
+                }
+            ],
+            "synonymAnalysis": "chercher（寻找，强调过程）vs trouver（找到，强调结果）：两者互为过程与结果的关系，不可互换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "recherche",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "搜索；研究"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rechercher",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "寻找；研究"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "trouver",
+            "partOfSpeech": "vt.",
+            "definition": "①找到，发现 ②认为，觉得（+ 形容词/从句）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "trouver qch./qn.",
+                    "vocabularyCollocationMeaning": "找到某物／某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "trouver qch. + adj.",
+                    "vocabularyCollocationMeaning": "觉得某物……（如：trouver ça intéressant，觉得很有意思）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se trouver",
+                    "vocabularyCollocationMeaning": "位于，处于（某地）"
+                }
+            ],
+            "synonymAnalysis": "trouver vs découvrir：trouver 泛指找到/发现；découvrir 强调“首次发现”，多用于重大发现或揭露。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "trouvaille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "意外发现的好东西"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "montre",
+            "partOfSpeech": "n.f.",
+            "definition": "表，手表",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "porter une montre",
+                    "vocabularyCollocationMeaning": "戴手表"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ma montre avance/retarde",
+                    "vocabularyCollocationMeaning": "我的表走快了／慢了"
+                }
+            ],
+            "synonymAnalysis": "montre（手表）vs horloge（n.f. 挂钟、座钟）vs pendule（n.f. 摆钟）：三者均指计时工具，按大小和用途区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "montrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "展示，指出（与 montre 同词根）"
+                }
+            ],
+            "pluralForm": "montres"
+        },
+        {
+            "index": "10",
+            "vocabulary": "crayon",
+            "partOfSpeech": "n.m.",
+            "definition": "铅笔；彩色铅笔",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire au crayon",
+                    "vocabularyCollocationMeaning": "用铅笔写"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "crayon de couleur",
+                    "vocabularyCollocationMeaning": "彩色铅笔"
+                }
+            ],
+            "synonymAnalysis": "crayon（铅笔）vs stylo（自来水笔/圆珠笔）vs stylo bille（圆珠笔）：书写工具的区分。",
+            "derivedWords": [],
+            "pluralForm": "crayons"
+        },
+        {
+            "index": "11",
+            "vocabulary": "stylo",
+            "partOfSpeech": "n.m.",
+            "definition": "自来水笔；钢笔；圆珠笔",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire au stylo",
+                    "vocabularyCollocationMeaning": "用钢笔写"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "stylo bille",
+                    "vocabularyCollocationMeaning": "圆珠笔"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "stylos"
+        },
+        {
+            "index": "12",
+            "vocabulary": "gomme",
+            "partOfSpeech": "n.f.",
+            "definition": "①橡皮 ②树胶，橡胶",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "effacer avec une gomme",
+                    "vocabularyCollocationMeaning": "用橡皮擦掉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gomme arabique",
+                    "vocabularyCollocationMeaning": "阿拉伯树胶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "用橡皮擦去；涂上树胶"
+                }
+            ],
+            "pluralForm": "gommes"
+        },
+        {
+            "index": "13",
+            "vocabulary": "semaine",
+            "partOfSpeech": "n.f.",
+            "definition": "星期，周",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la semaine prochaine",
+                    "vocabularyCollocationMeaning": "下周"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la semaine dernière",
+                    "vocabularyCollocationMeaning": "上周"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en semaine",
+                    "vocabularyCollocationMeaning": "工作日（非周末）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "semaines"
+        },
+        {
+            "index": "14",
+            "vocabulary": "vraiment",
+            "partOfSpeech": "adv.",
+            "definition": "真地，确实地；非常，实在",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vraiment bien",
+                    "vocabularyCollocationMeaning": "真的很好"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Vraiment?",
+                    "vocabularyCollocationMeaning": "真的吗？（口语感叹）"
+                }
+            ],
+            "synonymAnalysis": "vraiment vs réellement vs effectivement：vraiment 最口语化，表强调确认；réellement 书面色彩更强；effectivement 表“确实如此”，常用于确认对方观点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vrai",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "真实的，真正的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vérité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "真相，真理"
+                }
+            ],
+            "useExplanation": "可置于动词之后，也可置于形容词或副词之前作程度副词。在疑问句中单独使用表诧异（Vraiment?）是口语常见用法。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "mois",
+            "partOfSpeech": "n.m.",
+            "definition": "月，月份",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le mois de décembre",
+                    "vocabularyCollocationMeaning": "十二月"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par mois",
+                    "vocabularyCollocationMeaning": "每月"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le mois dernier / prochain",
+                    "vocabularyCollocationMeaning": "上个月／下个月"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "mois（单复数同形）"
+        },
+        {
+            "index": "16",
+            "vocabulary": "fête",
+            "partOfSpeech": "n.f.",
+            "definition": "①节日，庆典 ②节日聚会，派对",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fêtes de fin d'année",
+                    "vocabularyCollocationMeaning": "年终节日（圣诞、新年等）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fête nationale",
+                    "vocabularyCollocationMeaning": "国庆节"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire la fête",
+                    "vocabularyCollocationMeaning": "参加聚会，狂欢"
+                }
+            ],
+            "synonymAnalysis": "fête（节日/庆典，泛指）vs célébration（n.f. 庆典，强调仪式性）vs festivité（n.f. 常用复数，节日活动）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fêter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "庆祝，欢度"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "festif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "节日的，喜庆的"
+                }
+            ],
+            "pluralForm": "fêtes"
+        },
+        {
+            "index": "17",
+            "vocabulary": "surtout",
+            "partOfSpeech": "adv.",
+            "definition": "①特别，尤其 ②最重要的是",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "surtout en hiver",
+                    "vocabularyCollocationMeaning": "尤其是在冬天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Surtout, ne fais pas ça!",
+                    "vocabularyCollocationMeaning": "千万不要那样做！（强调语气）"
+                }
+            ],
+            "synonymAnalysis": "surtout vs notamment vs en particulier：三者均表“尤其是”；surtout 最口语；notamment 和 en particulier 更书面，常见于议论文。",
+            "derivedWords": [],
+            "useExplanation": "置于所强调的成分之前；在否定祈使句中置于句首表“千万”，语气强烈。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "France",
+            "partOfSpeech": "n.f.",
+            "definition": "法国",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en France",
+                    "vocabularyCollocationMeaning": "在法国（阴性国名前用 en）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de France",
+                    "vocabularyCollocationMeaning": "来自法国的"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "français, e",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "法国的；法语的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "le français",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "法语"
+                }
+            ],
+            "pluralForm": ""
+        },
+        {
+            "index": "19",
+            "vocabulary": "là",
+            "partOfSpeech": "adv.",
+            "definition": "①这儿，那儿（指示地点）②这时，那时（指示时间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être là",
+                    "vocabularyCollocationMeaning": "在这儿／在场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "là-bas",
+                    "vocabularyCollocationMeaning": "那儿，远处那边"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "là-haut",
+                    "vocabularyCollocationMeaning": "在上面，在那上头"
+                }
+            ],
+            "synonymAnalysis": "là vs ici：ici 专指“这里”（靠近说话人）；là 既可指“那里”也可口语化地指“这里”，使用范围更广。",
+            "derivedWords": [],
+            "useExplanation": "可作名词后置指示词：ce livre-là（那本书）vs ce livre-ci（这本书）。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "enfant",
+            "partOfSpeech": "n.",
+            "definition": "孩子，儿童",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un enfant / une enfant",
+                    "vocabularyCollocationMeaning": "一个男孩／女孩（同形异性）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enfant unique",
+                    "vocabularyCollocationMeaning": "独生子女"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "attendre un enfant",
+                    "vocabularyCollocationMeaning": "怀孕"
+                }
+            ],
+            "synonymAnalysis": "enfant（泛指儿童）vs gamin/gamine（n. 口语，小鬼，小孩）vs gosse（n. 俗语，小孩）：正式场合用 enfant。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enfance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "童年，幼年时期"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enfantin",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "儿童的；幼稚的"
+                }
+            ],
+            "pluralForm": "enfants"
+        },
+        {
+            "index": "21",
+            "vocabulary": "sous",
+            "partOfSpeech": "prép.",
+            "definition": "①在……下面 ②在（某种条件／统治）下",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous la table",
+                    "vocabularyCollocationMeaning": "在桌子下面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sous la pluie",
+                    "vocabularyCollocationMeaning": "在雨中"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sous condition",
+                    "vocabularyCollocationMeaning": "在条件下"
+                }
+            ],
+            "synonymAnalysis": "sous（在……正下方）vs en dessous de（在……下方，范围更广）：sous 强调紧接其下，en dessous de 更泛指下方位置。",
+            "derivedWords": [],
+            "useExplanation": "与 sur（在……上面）相对。常见于固定短语：sous forme de（以……形式）、sous peu（不久）。"
+        },
+        {
+            "index": "22",
+            "vocabulary": "cadeau",
+            "partOfSpeech": "n.m.",
+            "definition": "①礼物 ②馈赠品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un cadeau à qn.",
+                    "vocabularyCollocationMeaning": "送某人礼物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cadeau d'anniversaire",
+                    "vocabularyCollocationMeaning": "生日礼物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cadeau de Noël",
+                    "vocabularyCollocationMeaning": "圣诞礼物"
+                }
+            ],
+            "synonymAnalysis": "cadeau vs présent（n.m.）：两者均表“礼物”，présent 更书面、正式，多用于文学语境；日常口语通常用 cadeau。",
+            "derivedWords": [],
+            "pluralForm": "cadeaux（x 结尾名词复数加 x）"
+        },
+        {
+            "index": "23",
+            "vocabulary": "donner",
+            "partOfSpeech": "vt.",
+            "definition": "①给，给予 ②提供，带来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "donner qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner sur",
+                    "vocabularyCollocationMeaning": "朝向，面向（窗户面朝……）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se donner du mal",
+                    "vocabularyCollocationMeaning": "费力气，努力"
+                }
+            ],
+            "synonymAnalysis": "donner vs offrir：donner 泛指“给”；offrir 特指“赠送（礼物）”，语气更正式，含有礼赠之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "don",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "礼物；天赋；捐赠"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "donnée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "数据；已知条件（常用复数 données）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "24",
+            "vocabulary": "quelque",
+            "partOfSpeech": "adj.",
+            "definition": "①几个，若干（复数）②某个，某一（单数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quelques jours",
+                    "vocabularyCollocationMeaning": "几天"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelque chose",
+                    "vocabularyCollocationMeaning": "某事，某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "quelque part",
+                    "vocabularyCollocationMeaning": "某处，某地"
+                }
+            ],
+            "synonymAnalysis": "quelques（几个，复数）vs plusieurs（多个，强调数量在两个以上）vs certains（某些，含有确定性）：quelques 只是表示数量少，不含确定性意味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "quelqu'un",
+                    "derivedWordPartOfSpeech": "pron.",
+                    "derivedWordMeaning": "某人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "quelque chose",
+                    "derivedWordPartOfSpeech": "pron.",
+                    "derivedWordMeaning": "某事，某物"
+                }
+            ],
+            "genderNumberVariation": "单数 quelque（不分阴阳性），复数 quelques",
+            "position": "置于名词之前作限定词"
+        },
+        {
+            "index": "25",
+            "vocabulary": "après",
+            "partOfSpeech": "prép.",
+            "definition": "①在……之后（时间）②在……后面（空间，较少用）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "après + 名词",
+                    "vocabularyCollocationMeaning": "在……之后"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "après tout",
+                    "vocabularyCollocationMeaning": "毕竟，终究"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "d'après",
+                    "vocabularyCollocationMeaning": "根据，按照"
+                }
+            ],
+            "synonymAnalysis": "après vs ensuite vs puis：après 是介词，后接名词；ensuite 和 puis 是副词，连接句子，表“然后”。",
+            "derivedWords": [],
+            "useExplanation": "作介词时后接名词；作副词时（= ensuite）单独使用。构成词组：après-midi（下午，n.m./f.）。"
+        },
+        {
+            "index": "26",
+            "vocabulary": "minuit",
+            "partOfSpeech": "n.m.",
+            "definition": "午夜，半夜十二点",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à minuit",
+                    "vocabularyCollocationMeaning": "在午夜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "messe de minuit",
+                    "vocabularyCollocationMeaning": "午夜弥撒（圣诞前夜）"
+                }
+            ],
+            "synonymAnalysis": "minuit（午夜12点）vs midi（n.m. 正午12点）：两者对应，都不加冠词用于时间表达（à midi, à minuit）。",
+            "derivedWords": [],
+            "pluralForm": "minuits（罕用）"
+        },
+        {
+            "index": "27",
+            "vocabulary": "penser",
+            "partOfSpeech": "vi./vt.",
+            "definition": "①想，思考 ②认为，觉得 ③想念，惦记",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "penser à qch./qn.",
+                    "vocabularyCollocationMeaning": "想到某事／惦记某人（vi. 用法）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "penser que + 从句",
+                    "vocabularyCollocationMeaning": "认为……（vt. 用法）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "penser de qch./qn.",
+                    "vocabularyCollocationMeaning": "对某事／某人的看法（多用于疑问）"
+                }
+            ],
+            "synonymAnalysis": "penser à（想到、惦记）vs penser de（对……有何看法）：前者表思念或惦记，后者表评价，常见于 Qu'est-ce que tu penses de...?",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pensée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "思想，念头"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "penseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "思想家"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "content",
+            "partOfSpeech": "adj.",
+            "definition": "①高兴的，满意的 ②满足的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être content(e) de qch./qn.",
+                    "vocabularyCollocationMeaning": "对某事／某人感到满意"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être content(e) de + inf.",
+                    "vocabularyCollocationMeaning": "很高兴做某事"
+                }
+            ],
+            "synonymAnalysis": "content vs heureux vs satisfait：content 侧重当下的愉悦感；heureux 表更深层的幸福感；satisfait 强调对结果的满足。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使满意"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "contentement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "满足感，满意"
+                }
+            ],
+            "genderNumberVariation": "阴性 contente，阳性复数 contents，阴性复数 contentes",
+            "position": "通常置于名词之后（作表语或后置定语）"
+        },
+        {
+            "index": "29",
+            "vocabulary": "formidable",
+            "partOfSpeech": "adj.",
+            "definition": "①绝妙的，了不起的 ②（罕）令人畏惧的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "C'est formidable!",
+                    "vocabularyCollocationMeaning": "太棒了！"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une idée formidable",
+                    "vocabularyCollocationMeaning": "一个了不起的想法"
+                }
+            ],
+            "synonymAnalysis": "formidable（口语，极好的）vs excellent（优秀的）vs extraordinaire（非凡的）：formidable 口语色彩最强，常用于感叹；其他两个更书面。注意英法“假朋友”：英语 formidable 表“令人生畏的”，法语现代口语义相反，为“极好的”。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴阳性同形 formidable，复数 formidables",
+            "position": "可前置（感情色彩强时）或后置，含义无明显变化"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Nous sommes en hiver et il neige aujourd'hui à Avignon. Alice est en retard parce que c'est son anniversaire: elle cherche sa montre partout, mais elle ne la trouve pas. À minuit, quelques jours après Noël, tout le monde dit «Bonne année!» et les enfants pensent déjà à leurs cadeaux du Jour de l'An. Quelle semaine formidable!",
+            "chineseTranslation": "现在是冬天，阿维尼翁今天下雪了。Alice迟到了，因为今天是她的生日——她到处找表，却怎么也找不到。圣诞节后几天，午夜时分，大家齐声说“新年快乐！”，孩子们的心思早已飞向元旦的礼物。真是精彩的一周！",
+            "fr2cnStrategy": "① «il neige» 为非人称句，译为“下雪了”，省去形式主语 il，符合中文习惯；② «être en retard» 译为“迟到了”，以动词短语替代法语形容词表语结构；③ «elle ne la trouve pas» 中的人称代词 la 指代 sa montre，翻译时显化为“表”，并以“怎么也……”强调否定语气，属增译；④ «à minuit, quelques jours après Noël» 时间状语组前置，符合汉语时间先于动作的叙述逻辑；⑤ «penser à leurs cadeaux» 译为“心思飞向礼物”，将介词短语转化为意象化动词短语，属词性转换与意译；⑥ «Quelle semaine formidable!» 感叹句保持感叹语气，formidable 译为“精彩的”，回避“了不起”的英语化表达。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "今天是她的生日，她非常高兴，因为她已经收到了礼物。",
+                "frenchTranslation": "Aujourd'hui, c'est son anniversaire. Elle est très contente parce qu'elle a déjà reçu ses cadeaux.",
+                "cn2frStrategy": "① “今天是她的生日”用 c'est + son anniversaire，注意主语用 c'est 而非 elle est；② “非常高兴”用 très contente，形容词需与主语 elle 性数一致（阴性加 e）；③ “已经收到了”需要复合过去时 a reçu，过去分词 reçu 来自不规则动词 recevoir；④ “因为”用 parce que，引导原因从句。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "在法国，十二月真的是一个节日月份，尤其是圣诞节那一周。",
+                "frenchTranslation": "En France, décembre est vraiment un mois de fêtes, surtout la semaine de Noël.",
+                "cn2frStrategy": "① “在法国”为阴性国名，介词用 en，不加冠词；② “真的是”用副词 vraiment 置于 est 之后强调；③ “节日月份”译为 un mois de fêtes，de 后接复数名词表类属；④ “尤其是……那一周”用 surtout + 名词短语，无需加动词，直接点明。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "孩子们总是骑自行车去上学，今天却因为下雪迟到了。",
+                "frenchTranslation": "Les enfants vont toujours à l'école à vélo, mais aujourd'hui ils sont en retard parce qu'il neige.",
+                "cn2frStrategy": "① “总是”用副词 toujours，置于动词 vont 之后；② “骑自行车”用 à vélo（人力交通工具用 à）；③ “去上学”用 aller à l'école，l'école 须加定冠词；④ “迟到”用固定短语 être en retard；⑤ “下雪”用非人称句 il neige，现在时表正在发生。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "午夜，大家互道新年快乐，孩子们心想：这真是美好的一周！",
+                "frenchTranslation": "À minuit, tout le monde dit «Bonne année!» et les enfants pensent: «Quelle semaine formidable!»",
+                "cn2frStrategy": "① “大家”用 tout le monde，后接第三人称单数动词 dit（非 disent），这是常见考点；② “互道新年快乐”用直接引语 dire + «Bonne année!»；③ “心想”用 penser，后接冒号引导直接引语；④ “这真是美好的一周”为感叹句，法语结构 Quelle + 名词 + 形容词！，形容词 formidable 后置。"
+            }
+        ]
+    }
+}

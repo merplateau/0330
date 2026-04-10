@@ -1,0 +1,627 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Le matin, à huit heures, Mme Blond sert le petit déjeuner à son mari et à ses enfants.",
+            "translatedSentence": "早晨八点，布隆夫人为她的丈夫和孩子们端上早餐。",
+            "sentenceStructure": "主语：Mme Blond；谓语：sert；直接宾语：le petit déjeuner；间接宾语：à son mari et à ses enfants；时间状语：Le matin, à huit heures。",
+            "grammarAnalysis": "① servir qch. à qn. 为固定搭配，意为“为某人端上/提供某物”，属于双宾语结构。② 时间状语 Le matin 和 à huit heures 叠加使用，前者表习惯，后者表具体时刻。③ 动词 sert 为 servir 的第三人称单数现在时，属不规则动词。",
+            "commonMistakes": "servir 后接双宾语时，直接宾语（食物）在前，间接宾语（人）用介词 à 引导在后。易错：将 servir 误作及物动词直接接人，如 *sert son mari。"
+        },
+        {
+            "index": 2,
+            "sentence": "M. Blond et les enfants boivent du café au lait, mais elle, elle boit du thé.",
+            "translatedSentence": "布隆先生和孩子们喝加了牛奶的咖啡，而她自己喝茶。",
+            "sentenceStructure": "并列句：主句① M. Blond et les enfants boivent du café au lait；转折连词 mais；主句② elle, elle boit du thé。",
+            "grammarAnalysis": "① du café au lait / du thé 均为部分冠词结构，表示不定量的饮料。② elle, elle 为强调代词结构，先用重读人称代词 elle 提前强调，再用主语人称代词 elle 引导动词，起对比强调作用。③ boire 为不规则动词，je bois, tu bois, il boit, nous buvons, vous buvez, ils boivent。",
+            "commonMistakes": "① 部分冠词 du / de la / de l' 不可省略，否则意义发生变化；否定句中需变为 de（pas de thé）。② elle, elle 的双写强调结构在汉语中无直接对应，需译出对比语气。"
+        },
+        {
+            "index": 3,
+            "sentence": "Et tous mangent du pain avec du beurre et des œufs.",
+            "translatedSentence": "大家都吃涂了黄油的面包和鸡蛋。",
+            "sentenceStructure": "主语：tous；谓语：mangent；宾语：du pain avec du beurre et des œufs。",
+            "grammarAnalysis": "① tous 作主语时为不定代词，意为“所有人，大家”，动词用第三人称复数。② du pain、du beurre、des œufs 均为部分冠词，表示不定量。③ avec 在此表示伴随关系，即“连同……一起”。",
+            "commonMistakes": "tous 作代词时，-s 发音（/tus/），与形容词 tout（不发 s）区分。另外 des œufs 在连读时 œufs 的 f 不发音（/dez‿ø/）。"
+        },
+        {
+            "index": 4,
+            "sentence": "Ils prennent leurs repas dans la salle à manger.",
+            "translatedSentence": "他们在饭厅用餐。",
+            "sentenceStructure": "主语：Ils；谓语：prennent；宾语：leurs repas；地点状语：dans la salle à manger。",
+            "grammarAnalysis": "① prendre un repas / ses repas 为固定搭配，意为“用餐”。② salle à manger 为固定名词词组，由 salle（厅）+ à + 动词不定式 manger 构成，表示该房间的用途，即“用来吃饭的厅”。",
+            "commonMistakes": "salle à manger 中 à 表示用途，不可替换为 de；类似结构有 machine à laver（洗衣机）、chambre à coucher（卧室）。"
+        },
+        {
+            "index": 5,
+            "sentence": "Ils mangent de la viande, beaucoup de légumes, mais jamais de poisson, parce qu'ils n'aiment pas le poisson.",
+            "translatedSentence": "他们吃肉，吃很多蔬菜，但从不吃鱼，因为他们不喜欢鱼。",
+            "sentenceStructure": "主句：Ils mangent de la viande, beaucoup de légumes, mais jamais de poisson；原因状语从句：parce qu'ils n'aiment pas le poisson。",
+            "grammarAnalysis": "① de la viande / beaucoup de légumes 为部分冠词与数量表达的交替使用；beaucoup de 后直接接名词，不加冠词。② jamais de poisson：否定副词 jamais 在无动词语境中单独修饰名词，此处省略了谓语 ne mangent，构成省略句；完整形式应为 ils ne mangent jamais de poisson。③ 否定句中部分冠词变为 de：ne mange pas de poisson。④ parce que 引导原因状语从句。",
+            "commonMistakes": "① beaucoup de 后接名词不加任何冠词（不说 beaucoup des légumes）。② 否定结构中 de la / du / des 均变为 de，如 pas de poisson，jamais de poisson。③ 注意 aimer + 定冠词表示一般性喜好（aimer le poisson = 喜欢鱼这种东西），而非吃某次具体的鱼。"
+        },
+        {
+            "index": 6,
+            "sentence": "Ils passent beaucoup de temps à table.",
+            "translatedSentence": "他们在餐桌旁度过很长时间。",
+            "sentenceStructure": "主语：Ils；谓语：passent；宾语：beaucoup de temps；地点状语：à table。",
+            "grammarAnalysis": "① passer du temps à qch. / à faire qch. 为固定搭配，意为“花时间在……上”，此处 à table 为固定表达，意为“在餐桌旁，用餐中”。② à table 不加冠词，为固定介词短语。",
+            "commonMistakes": "à table 为固定表达，不可说 *à la table；与 se mettre à table（入座）区分：前者表示状态（在用餐），后者表示动作（坐到桌前）。"
+        },
+        {
+            "index": 7,
+            "sentence": "Pour eux, le dîner en famille est souvent le plus grand plaisir de la journée.",
+            "translatedSentence": "对他们来说，家庭晚餐往往是一天中最大的乐趣。",
+            "sentenceStructure": "主语：le dîner en famille；谓语：est；表语：souvent le plus grand plaisir de la journée；主题状语：Pour eux。",
+            "grammarAnalysis": "① Pour eux 为介词短语作主题状语，表示“对他们来说”，置于句首，语气自然。② le plus grand plaisir 为最高级结构，le/la/les + plus + 形容词，意为“最……的”。③ de la journée 为限定范围的介词短语，修饰最高级。",
+            "commonMistakes": "最高级后的范围限定用 de（le plus grand plaisir de la journée），而非 dans；grand 前置，表示“伟大/重要的”，后置则表示“高大的”，此处前置表示抽象意义“最大的（乐趣）”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "servir qch. à qn.",
+            "meaning": "为某人端上/提供某物",
+            "usage": "servir 作及物动词时，直接宾语为食物或饮料，间接宾语为人，用 à 引导。书面口语均可用。",
+            "exampleSentence": "Mme Blond sert le petit déjeuner à son mari et à ses enfants."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "prendre le / un repas",
+            "meaning": "用餐，吃饭",
+            "usage": "固定搭配，prendre + repas。注意：prendre 在此不可替换为 manger（manger 直接接食物）。",
+            "exampleSentence": "Ils prennent leurs repas dans la salle à manger."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "passer du temps à + inf. / passer du temps à table",
+            "meaning": "花时间做某事 / 在餐桌旁消磨时间",
+            "usage": "passer + 时间 + à + 动词不定式；à table 为固定表达，不加冠词。",
+            "exampleSentence": "Ils passent beaucoup de temps à table."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "parler de qn. / qch.",
+            "meaning": "谈论某人/某事",
+            "usage": "parler 为不及物动词，接宾语必须加介词 de，不可直接接名词。",
+            "exampleSentence": "Ils parlent de leur travail, de leurs amis, de leurs chiens."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "faire bien la cuisine",
+            "meaning": "做得一手好菜，厨艺高超",
+            "usage": "固定表达，faire la cuisine 意为“做饭”，加副词 bien 表示“做得好”。",
+            "exampleSentence": "Mme Blond fait bien la cuisine."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "rentrer à + heure",
+            "meaning": "在……时间回来/回家",
+            "usage": "rentrer 为不及物动词，表示返回（尤指回家），后接时间状语直接说明时刻。",
+            "exampleSentence": "Le soir, M. Blond rentre à sept heures."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "déjeuner / dîner dans un restaurant",
+            "meaning": "在餐厅吃午饭/晚饭",
+            "usage": "déjeuner 和 dîner 既可作名词，也可作动词；作动词时直接使用，无需加 prendre。",
+            "exampleSentence": "Il déjeune dans un petit restaurant chinois tout près de son bureau."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "tout près de + lieu",
+            "meaning": "就在……旁边，离……很近",
+            "usage": "tout 在此强调副词 près，加强“近”的程度；tout près de 为固定搭配，后接地点名词。",
+            "exampleSentence": "Il déjeune dans un petit restaurant chinois tout près de son bureau."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "comme dessert",
+            "meaning": "作为甜点",
+            "usage": "comme 在此表示“作为，充当”，引出角色或功能，为固定口语表达。",
+            "exampleSentence": "Comme dessert, il y a des gâteaux et des fruits."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "après le repas",
+            "meaning": "饭后",
+            "usage": "固定时间表达，après + 定冠词 + repas，无需动词。",
+            "exampleSentence": "Après le repas, ils boivent du café."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "dîner en famille",
+            "meaning": "与家人共进晚餐，家庭晚餐",
+            "usage": "en famille 为固定介词短语，表示“在家人之中/与家人一起”，不加冠词。",
+            "exampleSentence": "Pour eux, le dîner en famille est souvent le plus grand plaisir de la journée."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "préparer un / des plat(s)",
+            "meaning": "准备菜肴",
+            "usage": "préparer 接具体饮食名词，表示烹饪准备行为；也可说 préparer un repas（准备一顿饭）。",
+            "exampleSentence": "Le dimanche, elle prépare toujours beaucoup de plats."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "servir",
+            "partOfSpeech": "vt.",
+            "definition": "①端上（饭菜）；供应（食物饮料）②为……服务；招待",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "servir qch. à qn.",
+                    "vocabularyCollocationMeaning": "为某人端上某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "servir le repas",
+                    "vocabularyCollocationMeaning": "端上饭菜"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se servir de qch.",
+                    "vocabularyCollocationMeaning": "使用某物；自己取用某物"
+                }
+            ],
+            "synonymAnalysis": "servir vs apporter：servir 强调“端上/服务”的整体行为，含有服务意味；apporter 仅表示“带来/拿来”，无服务含义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "service",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "服务；一套餐具；上菜"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "serveur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "服务员（男）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "serveuse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "服务员（女）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je sers, tu sers, il sert, nous servons, vous servez, ils servent",
+                "compoundPast": "j'ai servi",
+                "simpleFuture": "je servirai",
+                "memoryAids": "属于 -ir 类不规则动词，单数去 -r 后只剩词干 ser-，复数恢复 serv-；与 partir、sortir 变位规律相似（单数词干缩短）。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "thé",
+            "partOfSpeech": "n.m.",
+            "definition": "①茶；茶叶②下午茶（社交场合）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boire du thé",
+                    "vocabularyCollocationMeaning": "喝茶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "thé au lait",
+                    "vocabularyCollocationMeaning": "奶茶"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une tasse de thé",
+                    "vocabularyCollocationMeaning": "一杯茶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "thés"
+        },
+        {
+            "index": "3",
+            "vocabulary": "beurre",
+            "partOfSpeech": "n.m.",
+            "definition": "黄油；奶油",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "du pain avec du beurre",
+                    "vocabularyCollocationMeaning": "涂黄油的面包"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire revenir dans le beurre",
+                    "vocabularyCollocationMeaning": "用黄油煎炒"
+                }
+            ],
+            "synonymAnalysis": "beurre（黄油/奶油，动物性）vs huile（植物油）；法国烹饪常用 beurre，需注意区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "beurrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "涂黄油"
+                }
+            ],
+            "pluralForm": "beurres（较少用）"
+        },
+        {
+            "index": "4",
+            "vocabulary": "œuf",
+            "partOfSpeech": "n.m.",
+            "definition": "①蛋；鸡蛋②（生物学）卵",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un œuf dur",
+                    "vocabularyCollocationMeaning": "煮熟的鸡蛋"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des œufs brouillés",
+                    "vocabularyCollocationMeaning": "炒鸡蛋"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "œuf au plat",
+                    "vocabularyCollocationMeaning": "煎蛋"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "œufs（注意：单数 œuf 发音 /œf/，复数 œufs 发音 /ø/，f 不发音）"
+        },
+        {
+            "index": "5",
+            "vocabulary": "salle",
+            "partOfSpeech": "n.f.",
+            "definition": "①厅；室；大厅②（特定用途的）房间",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "salle à manger",
+                    "vocabularyCollocationMeaning": "饭厅，餐厅"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "salle de classe",
+                    "vocabularyCollocationMeaning": "教室"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "salle de bains",
+                    "vocabularyCollocationMeaning": "浴室"
+                }
+            ],
+            "synonymAnalysis": "salle 指有特定功能的较大房间；chambre 专指卧室；pièce 泛指任意一个房间。",
+            "derivedWords": [],
+            "pluralForm": "salles"
+        },
+        {
+            "index": "6",
+            "vocabulary": "riz",
+            "partOfSpeech": "n.m.",
+            "definition": "①米饭②大米",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger du riz",
+                    "vocabularyCollocationMeaning": "吃米饭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "riz au lait",
+                    "vocabularyCollocationMeaning": "米布丁"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "riz（不变）"
+        },
+        {
+            "index": "7",
+            "vocabulary": "poisson",
+            "partOfSpeech": "n.m.",
+            "definition": "①鱼②（作食材的）鱼肉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "manger du poisson",
+                    "vocabularyCollocationMeaning": "吃鱼"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pêcher du poisson",
+                    "vocabularyCollocationMeaning": "钓鱼"
+                }
+            ],
+            "synonymAnalysis": "poisson（鱼，泛指动物/食材）vs fruits de mer（海鲜，专指贝类虾蟹等）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "poissonnerie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "鱼店"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "poissonnier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "卖鱼的人"
+                }
+            ],
+            "pluralForm": "poissons"
+        },
+        {
+            "index": "8",
+            "vocabulary": "gâteau",
+            "partOfSpeech": "n.m.",
+            "definition": "①糕点；蛋糕②（口语）好事，好处",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un gâteau",
+                    "vocabularyCollocationMeaning": "做蛋糕"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "gâteau d'anniversaire",
+                    "vocabularyCollocationMeaning": "生日蛋糕"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "gâteaux（词尾 -au 的名词复数加 -x）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "rouge",
+            "partOfSpeech": "adj.",
+            "definition": "红色的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vin rouge",
+                    "vocabularyCollocationMeaning": "红葡萄酒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "feu rouge",
+                    "vocabularyCollocationMeaning": "红灯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rougir",
+                    "vocabularyCollocationMeaning": "变红；脸红"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rougir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变红；脸红"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rougeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "红色；红晕"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形：rouge（阳性/阴性），复数 rouges",
+            "position": "通常置于名词后；vin rouge（红酒），feu rouge（红灯）"
+        },
+        {
+            "index": "10",
+            "vocabulary": "parler",
+            "partOfSpeech": "vi.",
+            "definition": "①说话；讲话②谈论（parler de qch.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parler de qn. / qch.",
+                    "vocabularyCollocationMeaning": "谈论某人/某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parler à qn.",
+                    "vocabularyCollocationMeaning": "对某人说话"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "parler français / anglais",
+                    "vocabularyCollocationMeaning": "说法语/英语"
+                }
+            ],
+            "synonymAnalysis": "parler de（谈论某话题，偏内容）vs parler à（对某人说话，偏对象）；两者介词不可混用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "parole",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "话语；言辞"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "parlant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "能说话的；有声的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "travail",
+            "partOfSpeech": "n.m.",
+            "definition": "①工作；职业②劳动；劳作③（学术）作业；研究成果",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au travail",
+                    "vocabularyCollocationMeaning": "去上班"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chercher du travail",
+                    "vocabularyCollocationMeaning": "找工作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "travail à temps plein / partiel",
+                    "vocabularyCollocationMeaning": "全职/兼职工作"
+                }
+            ],
+            "synonymAnalysis": "travail（泛指工作/劳动，中性）vs emploi（职位，强调雇用关系）vs métier（职业，强调技能与行业）vs boulot（口语，活儿）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "travailler",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "工作；劳动"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "travailleur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "工人；劳动者"
+                }
+            ],
+            "pluralForm": "travaux（注意：不规则复数，词尾 -ail → -aux）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "chose",
+            "partOfSpeech": "n.f.",
+            "definition": "①事物；东西②事情；事件",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "toutes les choses",
+                    "vocabularyCollocationMeaning": "所有的事情"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelque chose",
+                    "vocabularyCollocationMeaning": "某事；某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "autre chose",
+                    "vocabularyCollocationMeaning": "其他事情"
+                }
+            ],
+            "synonymAnalysis": "chose（泛指事物，最常用）vs objet（物体，偏有形的物品）vs affaire（事务，偏正式或商业语境）。",
+            "derivedWords": [],
+            "pluralForm": "choses"
+        },
+        {
+            "index": "13",
+            "vocabulary": "intéressant",
+            "partOfSpeech": "adj.",
+            "definition": "有趣的；引人入胜的；有价值的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une chose intéressante",
+                    "vocabularyCollocationMeaning": "有趣的事情"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "trouver qch. intéressant",
+                    "vocabularyCollocationMeaning": "觉得某事有趣"
+                }
+            ],
+            "synonymAnalysis": "intéressant（有趣的，引起兴趣）vs amusant（有趣的，令人发笑）vs passionnant（令人着迷的，程度更强）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "intéresser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使感兴趣"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "intérêt",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "兴趣；利益"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "s'intéresser à",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "对……感兴趣"
+                }
+            ],
+            "genderNumberVariation": "阴性 intéressante，阳性复数 intéressants，阴性复数 intéressantes",
+            "position": "通常置于名词后；但也可置于名词前表示强调或文学语体。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "plat",
+            "partOfSpeech": "n.m.",
+            "definition": "①一盘菜；一道菜②盘子；餐盘",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préparer un plat",
+                    "vocabularyCollocationMeaning": "准备一道菜"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plat principal",
+                    "vocabularyCollocationMeaning": "主菜"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "plat du jour",
+                    "vocabularyCollocationMeaning": "每日特色菜"
+                }
+            ],
+            "synonymAnalysis": "plat（一道菜或盛菜的盘子）vs assiette（用于个人进食的碟子/盘）vs mets（书面语，菜肴）。",
+            "derivedWords": [],
+            "pluralForm": "plats"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Le matin, Mme Blond sert le petit déjeuner à toute la famille. Son mari et ses enfants boivent du café au lait, mais elle préfère le thé. À midi, M. Blond déjeune dans un petit restaurant chinois tout près de son bureau, parce qu'il aime beaucoup le riz et le poisson. Le soir, ils dînent ensemble en famille et passent beaucoup de temps à table. Pour eux, ce moment est souvent le plus grand plaisir de la journée.",
+            "chineseTranslation": "早晨，布隆夫人为全家人端上早餐。丈夫和孩子们喝加奶的咖啡，而她更喜欢喝茶。中午，布隆先生在单位附近的一家中餐馆吃午饭，因为他非常喜欢米饭和鱼。傍晚，一家人共聚晚餐，在餐桌旁度过很长时间。对他们来说，这一刻往往是一天中最大的乐趣。",
+            "fr2cnStrategy": "① servir le petit déjeuner à toute la famille 直译为“为全家人端上早餐”，保留双宾语结构的语义，译文流畅自然。② elle préfère le thé 处理为“她更喜欢喝茶”，增译“喝”字，符合汉语动宾搭配习惯（属于增译）。③ tout près de son bureau 译为“单位附近”，将 tout près de 的强调语气压缩处理，避免“非常靠近他的办公室”的翻译腔（属于减译+意译）。④ passent beaucoup de temps à table 译为“在餐桌旁度过很长时间”，à table 译为“在餐桌旁”以保留法语的具体场景感。⑤ le plus grand plaisir de la journée 为最高级结构，译为“一天中最大的乐趣”，语序调整为汉语惯用的“范围+最高级”顺序（语序调整）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "布隆夫人每天早上八点为家人端上早餐。",
+                "frenchTranslation": "Chaque matin à huit heures, Mme Blond sert le petit déjeuner à sa famille.",
+                "cn2frStrategy": "① “每天早上”译为 chaque matin，置于句首作时间状语。② “为家人端上早餐”用 servir qch. à qn. 的双宾语结构，直接宾语为食物，间接宾语用 à 引导。③ “家人”译为 sa famille（不说 ses familles，famille 通常作整体单数）。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "他们从不吃鱼，因为他们不喜欢鱼。",
+                "frenchTranslation": "Ils ne mangent jamais de poisson, parce qu'ils n'aiment pas le poisson.",
+                "cn2frStrategy": "① “从不”用 ne...jamais 否定结构，动词前加 ne，动词后加 jamais。② 否定句中不定量变为 de：pas de poisson / jamais de poisson（不可说 du poisson）。③ “不喜欢鱼”表示对鱼类整体不感兴趣，用定冠词 le poisson（泛指），而非部分冠词。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "晚上，他们在餐桌旁谈论工作和朋友。",
+                "frenchTranslation": "Le soir, ils parlent de leur travail et de leurs amis à table.",
+                "cn2frStrategy": "① “谈论”用 parler de，注意每个名词宾语前都需要介词 de（de leur travail et de leurs amis）。② “在餐桌旁”用固定表达 à table，不加冠词（不说 *à la table）。③ “他们的工作/朋友”中所有格形容词随主语 ils 用 leur/leurs，注意与名词的数的配合。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "对她来说，家庭晚餐是一天中最大的乐趣。",
+                "frenchTranslation": "Pour elle, le dîner en famille est le plus grand plaisir de la journée.",
+                "cn2frStrategy": "① “对她来说”用 pour + 重读人称代词 elle，置于句首。② “家庭晚餐”译为 le dîner en famille，en famille 不加冠词，为固定介词短语。③ “最大的乐趣”用最高级 le plus grand plaisir，范围“一天中”用 de la journée（不用 dans la journée）。④ 本句无 souvent（往往），与原文有意区分，考查去掉频率副词后的基本句型。"
+            }
+        ]
+    }
+}
