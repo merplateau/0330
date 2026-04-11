@@ -1,0 +1,960 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Il est considéré comme la plus importante épreuve cycliste du monde.",
+            "translatedSentence": "它被视为世界上最重要的自行车赛事。",
+            "sentenceStructure": "主语 Il — 谓语 est considéré（被动式）— 状语 comme la plus importante épreuve cycliste du monde（介词短语作表语补充）",
+            "grammarAnalysis": "① être considéré comme 为固定被动结构，意为“被看作、被认为是”。② la plus importante 为最高级结构，形容词置于名词前。③ du monde 为限定最高级范围的介词短语。",
+            "commonMistakes": "考生常将 considéré comme 与 considéré que 混淆：comme 后接名词短语，que 后接从句。此处 comme 不可省略，亦不可替换为 pour。"
+        },
+        {
+            "index": "2",
+            "sentence": "Le 1er juillet 1903, l'idée alors incroyable de Géo Lefèvre et Henri Desgrange, journaliste et directeur de L'Auto, voyait le jour : le premier Tour de France commençait de Montgeron.",
+            "translatedSentence": "1903年7月1日，《汽车报》记者兼主编热奥·勒费弗尔与亨利·德格朗日那个在当时堪称异想天开的设想终于成为现实：第一届环法自行车赛从蒙日龙出发，正式开始。",
+            "sentenceStructure": "主句为 l'idée ... voyait le jour，主语 l'idée 后跟长定语 de Géo Lefèvre et Henri Desgrange...；冒号后为解释性分句 le premier Tour de France commençait de Montgeron。",
+            "grammarAnalysis": "① voyait le jour 为未完成过去时，固定短语 voir le jour 意为“诞生、面世”。② journaliste et directeur de L'Auto 为 Henri Desgrange 的同位语，说明其身份。③ commençait 亦为未完成过去时，描述历史事件的背景状态。",
+            "commonMistakes": "voir le jour 是固定表达，不可直译为“看见白天”；未完成过去时在此处表示历史背景，考生须与简单过去时（文学过去时）区别运用。"
+        },
+        {
+            "index": "3",
+            "sentence": "Ils n'ont jamais pensé que le Tour de France fêterait bientôt son cent dixième anniversaire.",
+            "translatedSentence": "他们从未想到，环法自行车赛不久之后便会迎来第110届周年纪念。",
+            "sentenceStructure": "主句 Ils n'ont jamais pensé — 宾语从句 que le Tour de France fêterait bientôt son cent dixième anniversaire",
+            "grammarAnalysis": "① n'ont jamais pensé 为否定的复合过去时，jamais 置于助动词与过去分词之间。② 宾语从句中使用条件现在时 fêterait，因主句为过去时，从句表将来意义须用条件式（时态呼应）。③ cent dixième 为序数词，构成 110e。",
+            "commonMistakes": "时态呼应是考研高频考点：主句为过去时，从句中本应用将来时的内容须改为条件现在时（futur du passé）。考生常误用 fêtera（简单将来时）。"
+        },
+        {
+            "index": "4",
+            "sentence": "Le coureur le plus rapide au classement général porte «le maillot jaune».",
+            "translatedSentence": "总成绩排名最快的选手身穿“黄色领骑衫”。",
+            "sentenceStructure": "主语 Le coureur le plus rapide au classement général — 谓语 porte — 宾语 «le maillot jaune»",
+            "grammarAnalysis": "① le plus rapide 为形容词最高级，后置于名词 le coureur。② au classement général 为介词短语作状语，限定最高级的范围。③ porte 为现在时，表示惯常性事实。",
+            "commonMistakes": "最高级形容词后置时，冠词 le/la/les 须与名词的性数一致，不可省略；au classement général 中的 au = à + le，考生注意介词缩合。"
+        },
+        {
+            "index": "5",
+            "sentence": "Si un coureur l'obtient pour la dernière étape jusqu'à l'avenue des Champs-Élysées, il sera le champion.",
+            "translatedSentence": "如果某位选手在最后一个赛段直至香榭丽舍大道的比赛中仍保持领先，他就将成为冠军。",
+            "sentenceStructure": "条件状语从句 Si un coureur l'obtient pour la dernière étape jusqu'à l'avenue des Champs-Élysées — 主句 il sera le champion",
+            "grammarAnalysis": "① 真实条件句：Si + 现在时，主句用简单将来时（il sera）。② l'obtient 中 l' 为直接宾语代词，指代 le maillot jaune。③ jusqu'à 表示“直到……”，引导地点终点。",
+            "commonMistakes": "真实条件句中，si 引导的从句必须用现在时，不可用将来时（*Si un coureur l'obtiendra 为错误形式）。这是考研语法必考句型。"
+        },
+        {
+            "index": "6",
+            "sentence": "L'accueil des coureurs est l'occasion pour une ville ou un village de se retrouver à la Une de l'actualité pendant 24 heures, de recevoir la visite de 4 000 à 5 000 personnes environ.",
+            "translatedSentence": "迎接参赛选手的到来，是一座城市或乡村在24小时内登上新闻头版、接待约4000至5000名访客的难得机会。",
+            "sentenceStructure": "主语 L'accueil des coureurs — 谓语 est — 表语 l'occasion，后跟两个由 de 引导的不定式短语（de se retrouver... / de recevoir...）作 l'occasion 的补充说明。",
+            "grammarAnalysis": "① l'occasion de faire qch. 为固定结构，de 后接动词不定式。② se retrouver à la Une 中 se retrouver 为代词式动词，意为“出现在、置身于”。③ de 4 000 à 5 000 表示数量范围，介词 de...à... 表“从……到……”。",
+            "commonMistakes": "l'occasion de 后必须接不定式，不可接 que 从句（不同于 le fait que）。à la Une 为固定新闻用语，指报纸头版，常见于书面语。"
+        },
+        {
+            "index": "7",
+            "sentence": "Le lieu du Grand Départ du Tour de France change chaque année, et il n'est pas nécessairement dans une ville de France.",
+            "translatedSentence": "环法自行车赛大起点的地点每年都会变化，而且不一定在法国境内的城市。",
+            "sentenceStructure": "并列句：Le lieu ... change chaque année — et — il n'est pas nécessairement dans une ville de France",
+            "grammarAnalysis": "① chaque année 为时间状语，修饰动词 change。② nécessairement 为副词，n'est pas nécessairement 构成部分否定，意为“不一定”，区别于完全否定 n'est jamais。③ dans une ville de France 为地点状语。",
+            "commonMistakes": "pas nécessairement（不一定）≠ pas forcément（不必然），两者近义但语域略有差异；注意与完全否定 jamais 的区分。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être considéré comme + n.",
+            "meaning": "被视为……，被认为是……",
+            "usage": "固定被动结构，comme 后接名词短语；书面正式语体常用。注意区别于 être considéré que（后接从句，较少用）。",
+            "exampleSentence": "Il est considéré comme la plus importante épreuve cycliste du monde."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "voir le jour",
+            "meaning": "诞生；面世；成为现实",
+            "usage": "固定短语，主语可以是人或事物；常用于描述计划、作品、机构的创立。",
+            "exampleSentence": "L'idée de Géo Lefèvre et Henri Desgrange voyait le jour."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "prendre la route",
+            "meaning": "出发上路；踏上征程",
+            "usage": "固定表达，route 前不加冠词；口语书面均可使用。",
+            "exampleSentence": "Soixante coureurs-cyclistes prenaient la route de 2 500 km en six étapes."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "se tenir",
+            "meaning": "（活动）举行；举办",
+            "usage": "代词式动词，主语为活动、会议等，相当于 avoir lieu；常用于书面语。",
+            "exampleSentence": "Le Tour de France se tient tous les ans au mois de juillet en France."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "établir le classement",
+            "meaning": "确定排名；公布名次",
+            "usage": "établir 与 classement 的固定搭配，常用于体育赛事语境。",
+            "exampleSentence": "À la fin de chaque étape, on établit le classement de l'étape et le classement général."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "porter + vêtement",
+            "meaning": "穿着（衣物）；佩戴",
+            "usage": "porter 表示穿戴状态（非动作），区别于 mettre（穿上的动作）和 enlever（脱下）。",
+            "exampleSentence": "Le coureur le plus rapide au classement général porte «le maillot jaune»."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "à la Une (de l'actualité)",
+            "meaning": "登上（新闻）头版；成为头条",
+            "usage": "固定新闻用语，Une 大写；se retrouver à la Une 表示意外或意料之外地登上头版。",
+            "exampleSentence": "de se retrouver à la Une de l'actualité pendant 24 heures"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "l'occasion de faire qch.",
+            "meaning": "做某事的机会",
+            "usage": "l'occasion 后固定接 de + 不定式；区别于 la chance de（幸运）和 la possibilité de（可能性）。",
+            "exampleSentence": "L'accueil des coureurs est l'occasion pour une ville ou un village de se retrouver à la Une de l'actualité."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "être là pour faire qch.",
+            "meaning": "在场是为了做某事；专程来……",
+            "usage": "口语书面均用，强调目的；là 可替换为具体地点。",
+            "exampleSentence": "Les fanatiques sont là pour accueillir les vainqueurs."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "remporter + compétition/prix",
+            "meaning": "赢得（比赛/奖项）；夺冠",
+            "usage": "remporter 比 gagner 更正式，多用于书面语；后接比赛、奖杯等名词。",
+            "exampleSentence": "Alberto Contador a remporté son 3e Tour de France."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "à travers + lieu",
+            "meaning": "穿越……；遍及……",
+            "usage": "介词短语，表示穿越某地区或范围；区别于 en traversant（动词形式，更强调动态过程）。",
+            "exampleSentence": "Soixante coureurs-cyclistes prenaient la route de 2 500 km en six étapes à travers toute la France."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "fêter + anniversaire",
+            "meaning": "庆祝周年纪念",
+            "usage": "fêter 意为“庆祝”，比 célébrer 口语化；anniversaire 可指生日或周年纪念。",
+            "exampleSentence": "le Tour de France fêterait bientôt son cent dixième anniversaire"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "tour",
+            "partOfSpeech": "n.m.",
+            "definition": "①圈；旋转 ②环行；巡回 ③塔楼（此义为 n.f.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un tour",
+                    "vocabularyCollocationMeaning": "散步；转一圈"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tour à tour",
+                    "vocabularyCollocationMeaning": "轮流；交替"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à son tour",
+                    "vocabularyCollocationMeaning": "轮到他/她"
+                }
+            ],
+            "synonymAnalysis": "tour（n.m.）指圆形运动或巡回；circuit（n.m.）侧重封闭环形路线；tournée（n.f.）指巡回演出或访问。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tourisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "旅游业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "touriste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "游客"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "tourner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "转动；旋转"
+                }
+            ],
+            "pluralForm": "tours"
+        },
+        {
+            "index": "2",
+            "vocabulary": "cycliste",
+            "partOfSpeech": "adj.",
+            "definition": "①自行车运动的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compétition cycliste",
+                    "vocabularyCollocationMeaning": "自行车比赛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "épreuve cycliste",
+                    "vocabularyCollocationMeaning": "自行车赛事"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cycliste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "骑车的人；自行车运动员"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cyclisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "自行车运动"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "cycle",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "周期；自行车"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 cyclistes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "étape",
+            "partOfSpeech": "n.f.",
+            "definition": "①（赛程的）一段；一个赛段 ②阶段；步骤 ③中途停留地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par étapes",
+                    "vocabularyCollocationMeaning": "分阶段地；逐步地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "brûler les étapes",
+                    "vocabularyCollocationMeaning": "跳级；省略步骤（固定表达）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une étape importante",
+                    "vocabularyCollocationMeaning": "重要的阶段"
+                }
+            ],
+            "synonymAnalysis": "étape 侧重过程中的某一阶段；phase（n.f.）更常用于科学、医学语境；stade（n.m.）指发展阶段，也指体育场。",
+            "derivedWords": [],
+            "pluralForm": "étapes"
+        },
+        {
+            "index": "4",
+            "vocabulary": "considérer",
+            "partOfSpeech": "vt.",
+            "definition": "①看作；认为 ②考虑；审视 ③尊敬",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "considérer qn/qch. comme + n./adj.",
+                    "vocabularyCollocationMeaning": "将某人/某物视为……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "considérer que + indicatif",
+                    "vocabularyCollocationMeaning": "认为……（后接陈述式从句）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tout bien considéré",
+                    "vocabularyCollocationMeaning": "综合考虑之后"
+                }
+            ],
+            "synonymAnalysis": "considérer comme 与 trouver + adj. 均可表达“认为”，但 considérer 更正式；estimer 侧重主观判断，语气更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "considération",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "考虑；尊重"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "considérable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "相当大的；可观的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "considérablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "相当大地；显著地"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "épreuve",
+            "partOfSpeech": "n.f.",
+            "definition": "①比赛；赛事 ②考验；磨难 ③考试；测试",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre à l'épreuve",
+                    "vocabularyCollocationMeaning": "考验；检验"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "épreuve sportive",
+                    "vocabularyCollocationMeaning": "体育赛事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "surmonter une épreuve",
+                    "vocabularyCollocationMeaning": "克服磨难"
+                }
+            ],
+            "synonymAnalysis": "épreuve（比赛义）≈ compétition（n.f.），但 épreuve 更侧重单项赛事；concours（n.m.）专指竞争性考试或选拔赛。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "éprouver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "感受；体验；考验"
+                }
+            ],
+            "pluralForm": "épreuves"
+        },
+        {
+            "index": "6",
+            "vocabulary": "retransmettre",
+            "partOfSpeech": "vt.",
+            "definition": "①转播；传递 ②再次传送",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "retransmettre un match en direct",
+                    "vocabularyCollocationMeaning": "直播一场比赛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "retransmettre un message",
+                    "vocabularyCollocationMeaning": "转达一条消息"
+                }
+            ],
+            "synonymAnalysis": "retransmettre 侧重广播电视的转播；diffuser 更广泛，可指播出、传播；émettre 侧重信号的发射。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "retransmission",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "转播；重播"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "transmettre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "传递；传授"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je retransmets, tu retransmets, il retransmet, nous retransmettons, vous retransmettez, ils retransmettent",
+                "compoundPast": "j'ai retransmis",
+                "simpleFuture": "je retransmettrai",
+                "memoryAids": "与 mettre 变位完全一致，前缀 re- + trans- 不影响词干变化规律。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "incroyable",
+            "partOfSpeech": "adj.",
+            "definition": "①难以置信的；不可思议的 ②极为出色的（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est incroyable",
+                    "vocabularyCollocationMeaning": "真难以置信"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une histoire incroyable",
+                    "vocabularyCollocationMeaning": "一个令人难以置信的故事"
+                }
+            ],
+            "synonymAnalysis": "incroyable 强调逻辑上难以相信；invraisemblable 侧重不符合常理、不像真实的；extraordinaire 侧重非同寻常。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "incroyablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "难以置信地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "croire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "相信；认为"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "croyable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可信的（多用于否定）"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 incroyables",
+            "position": "通常置于名词之后；情感强调时也可前置"
+        },
+        {
+            "index": "8",
+            "vocabulary": "circuit",
+            "partOfSpeech": "n.m.",
+            "definition": "①环形路线；环形赛道 ②巡回；回路 ③（电）电路",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "circuit touristique",
+                    "vocabularyCollocationMeaning": "旅游环线"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "court-circuit",
+                    "vocabularyCollocationMeaning": "短路"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hors circuit",
+                    "vocabularyCollocationMeaning": "出局；被淘汰"
+                }
+            ],
+            "synonymAnalysis": "circuit 强调封闭的环形线路；parcours（n.m.）泛指路线或行程，不一定封闭；itinéraire（n.m.）侧重预先规划的路线。",
+            "derivedWords": [],
+            "pluralForm": "circuits"
+        },
+        {
+            "index": "9",
+            "vocabulary": "journalier",
+            "partOfSpeech": "adj.",
+            "definition": "①每日的；日常的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tâche journalière",
+                    "vocabularyCollocationMeaning": "日常任务"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étapes journalières",
+                    "vocabularyCollocationMeaning": "每日赛段"
+                }
+            ],
+            "synonymAnalysis": "journalier ≈ quotidien：两者均表示“每日的”，quotidien 更常用、更口语化；journalier 更强调日复一日的规律性，多用于书面或正式语体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "journal",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "报纸；日记"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "journée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "一天（的时间）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "journaliste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "记者"
+                }
+            ],
+            "genderNumberVariation": "阴性 journalière，复数 journaliers / journalières",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "participant",
+            "partOfSpeech": "n.m.",
+            "definition": "①参加者；参与者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les participants à la compétition",
+                    "vocabularyCollocationMeaning": "参赛者"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nombre de participants",
+                    "vocabularyCollocationMeaning": "参与人数"
+                }
+            ],
+            "synonymAnalysis": "participant 泛指参与者；concurrent（n.m.）特指竞赛中的选手；candidat（n.m.）侧重应试或候选人。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "participer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "参加；参与（participer à qch.）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "participation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "参与；参加"
+                }
+            ],
+            "pluralForm": "participants"
+        },
+        {
+            "index": "11",
+            "vocabulary": "classement",
+            "partOfSpeech": "n.m.",
+            "definition": "①名次；排名 ②排列；分类",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classement général",
+                    "vocabularyCollocationMeaning": "总排名"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "établir un classement",
+                    "vocabularyCollocationMeaning": "确定排名"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "classement par ordre alphabétique",
+                    "vocabularyCollocationMeaning": "按字母顺序排列"
+                }
+            ],
+            "synonymAnalysis": "classement 侧重排名结果；classifi­cation（n.f.）更侧重分类体系；rang（n.m.）指具体的名次、等级。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "classer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "分类；排名"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "classe",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "班级；阶级；等级"
+                }
+            ],
+            "pluralForm": "classements"
+        },
+        {
+            "index": "12",
+            "vocabulary": "maillot",
+            "partOfSpeech": "n.m.",
+            "definition": "①运动衫；球衣 ②紧身衣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maillot jaune",
+                    "vocabularyCollocationMeaning": "黄色领骑衫（环法赛领先者标志）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maillot de bain",
+                    "vocabularyCollocationMeaning": "泳衣"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "porter le maillot",
+                    "vocabularyCollocationMeaning": "穿着运动衫；身披球衣"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "maillots"
+        },
+        {
+            "index": "13",
+            "vocabulary": "champion",
+            "partOfSpeech": "n.m.",
+            "definition": "①冠军；得胜者 ②捍卫者；倡导者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "champion du monde",
+                    "vocabularyCollocationMeaning": "世界冠军"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se faire le champion de qch.",
+                    "vocabularyCollocationMeaning": "成为某事物的倡导者"
+                }
+            ],
+            "synonymAnalysis": "champion 指第一名；vainqueur（n.m.）泛指胜利者，不一定是第一名；recordman（n.m.）特指纪录保持者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "championnat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "锦标赛"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "championne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女冠军"
+                }
+            ],
+            "pluralForm": "champions"
+        },
+        {
+            "index": "14",
+            "vocabulary": "accueil",
+            "partOfSpeech": "n.m.",
+            "definition": "①迎接；接待 ②（服务台）前台；接待处 ③欢迎；反应",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire bon accueil à qn.",
+                    "vocabularyCollocationMeaning": "热情接待某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "hôte d'accueil",
+                    "vocabularyCollocationMeaning": "接待员"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "accueil chaleureux",
+                    "vocabularyCollocationMeaning": "热情的接待"
+                }
+            ],
+            "synonymAnalysis": "accueil（名词）强调接待行为；réception（n.f.）也指接待，但更常指正式的接待活动或酒店前台。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "accueillir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "迎接；接待"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "accueillant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "热情好客的"
+                }
+            ],
+            "pluralForm": "accueils"
+        },
+        {
+            "index": "15",
+            "vocabulary": "actualité",
+            "partOfSpeech": "n.f.",
+            "definition": "①新闻；时事 ②现实；当前状况",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "suivre l'actualité",
+                    "vocabularyCollocationMeaning": "关注时事新闻"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la Une de l'actualité",
+                    "vocabularyCollocationMeaning": "登上新闻头版"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "d'actualité",
+                    "vocabularyCollocationMeaning": "当下热门的；具有现实意义的"
+                }
+            ],
+            "synonymAnalysis": "actualité（复数 actualités）指一系列新闻事件；information（n.f.）更侧重信息本身；nouvelles（n.f.pl.）多指近况或消息。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "actuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "当前的；现实的（注意：不是“真实的”）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "actuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "目前；现在"
+                }
+            ],
+            "pluralForm": "actualités"
+        },
+        {
+            "index": "16",
+            "vocabulary": "spectacle",
+            "partOfSpeech": "n.m.",
+            "definition": "①演出；节目 ②景象；场面 ③（泛指）表演艺术",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller au spectacle",
+                    "vocabularyCollocationMeaning": "去看演出"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se donner en spectacle",
+                    "vocabularyCollocationMeaning": "出洋相；哗众取宠"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "spectacle vivant",
+                    "vocabularyCollocationMeaning": "现场表演"
+                }
+            ],
+            "synonymAnalysis": "spectacle 泛指各类演出和景象；représentation（n.f.）特指某一场具体的演出；show（n.m.）为英借词，较口语化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "spectateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "观众；旁观者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "spectaculaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "壮观的；引人注目的"
+                }
+            ],
+            "pluralForm": "spectacles"
+        },
+        {
+            "index": "17",
+            "vocabulary": "feu",
+            "partOfSpeech": "n.m.",
+            "definition": "①火 ②信号灯；红绿灯 ③枪火；炮火",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "feu d'artifice",
+                    "vocabularyCollocationMeaning": "烟花"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "feu rouge/vert",
+                    "vocabularyCollocationMeaning": "红灯/绿灯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre le feu à qch.",
+                    "vocabularyCollocationMeaning": "点燃某物"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "au coin du feu",
+                    "vocabularyCollocationMeaning": "在炉火旁"
+                }
+            ],
+            "synonymAnalysis": "feu 最通用；flamme（n.f.）特指火焰；incendie（n.m.）指大火、火灾。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "feuille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "叶子（词根不同，仅形近）"
+                }
+            ],
+            "pluralForm": "feux"
+        },
+        {
+            "index": "18",
+            "vocabulary": "départ",
+            "partOfSpeech": "n.m.",
+            "definition": "①出发；启程 ②起点 ③离职；离开",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au départ",
+                    "vocabularyCollocationMeaning": "起初；在出发时"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre son départ",
+                    "vocabularyCollocationMeaning": "出发；起跑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "point de départ",
+                    "vocabularyCollocationMeaning": "出发点；起点"
+                }
+            ],
+            "synonymAnalysis": "départ 侧重离开的动作或起点；commencement（n.m.）强调开始；début（n.m.）强调起始阶段。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "partir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "出发；离开"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "repartir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "重新出发；再次离开"
+                }
+            ],
+            "pluralForm": "départs"
+        },
+        {
+            "index": "19",
+            "vocabulary": "arrivée",
+            "partOfSpeech": "n.f.",
+            "definition": "①到达；抵达 ②终点 ③（人的）到来",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'arrivée",
+                    "vocabularyCollocationMeaning": "到达时；在终点"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ligne d'arrivée",
+                    "vocabularyCollocationMeaning": "终点线"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "heure d'arrivée",
+                    "vocabularyCollocationMeaning": "到达时间"
+                }
+            ],
+            "synonymAnalysis": "arrivée 与 départ 相对；destination（n.f.）强调目的地；aboutissement（n.m.）侧重努力之后的结果，较书面化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "arriver",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "到达；发生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "arrivant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "新来者；抵达者"
+                }
+            ],
+            "pluralForm": "arrivées"
+        },
+        {
+            "index": "20",
+            "vocabulary": "vainqueur",
+            "partOfSpeech": "n.m.",
+            "definition": "①胜利者；获胜者 ②优胜队（泛指）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "accueillir les vainqueurs",
+                    "vocabularyCollocationMeaning": "迎接胜利者"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sortir vainqueur de qch.",
+                    "vocabularyCollocationMeaning": "从某事中胜出"
+                }
+            ],
+            "synonymAnalysis": "vainqueur 泛指胜利者；champion 特指获得冠军的人；gagnant（n.m.）更口语化，用于彩票、游戏等场合。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vaincre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "战胜；克服"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vaincu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "失败者；被征服者"
+                }
+            ],
+            "pluralForm": "vainqueurs"
+        },
+        {
+            "index": "21",
+            "vocabulary": "distance",
+            "partOfSpeech": "n.f.",
+            "definition": "①距离；路程 ②间距；差距",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à distance",
+                    "vocabularyCollocationMeaning": "远程；保持距离地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tenir qn. à distance",
+                    "vocabularyCollocationMeaning": "与某人保持距离"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "parcourir une distance",
+                    "vocabularyCollocationMeaning": "走完一段路程"
+                }
+            ],
+            "synonymAnalysis": "distance 最通用；écart（n.m.）强调两者之间的差距或偏差；trajet（n.m.）指具体的行程路线。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "distant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "遥远的；冷漠的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "distancer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "拉开差距；甩开"
+                }
+            ],
+            "pluralForm": "distances"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Le Tour de France se tient tous les ans au mois de juillet. C'est une course par étapes journalières de 150 à 200 km, et les étapes les plus difficiles sont celles de montagne dans les Pyrénées et les Alpes. Le coureur le plus rapide au classement général porte «le maillot jaune». Si un coureur l'obtient pour la dernière étape jusqu'à l'avenue des Champs-Élysées, il sera le champion.",
+            "chineseTranslation": "环法自行车赛每年七月举行，赛程由每日150至200公里的分段赛组成，其中最艰难的赛段穿越比利牛斯山脉和阿尔卑斯山。总成绩领先的选手身穿黄色领骑衫。若某位选手在最后一个赛段直至香榭丽舍大道的比赛中始终保持领先，他便将成为最终冠军。",
+            "fr2cnStrategy": "① se tient tous les ans 处理为“每年举行”，省译代词式动词的反身成分，简洁自然；② étapes journalières de 150 à 200 km 中的 journalières 转化为前置状语“每日”，de...à... 保留为“150至200公里”，整体语序前移；③ celles de montagne 中 celles 为指示代词，指代前文 étapes，译时还原为“赛段”，避免指代不清；④ 最后一句条件句 Si...il sera 译为“若……便将……”，体现汉语假设句的表达习惯，并将 jusqu'à 的终点含义显化为“直至……的比赛中”。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "环法自行车赛被认为是世界上最重要的体育赛事之一。",
+                "frenchTranslation": "Le Tour de France est considéré comme l'une des épreuves sportives les plus importantes du monde.",
+                "cn2frStrategy": "① “被认为是”用被动结构 être considéré comme；② “最重要的……之一”译为 l'une des + 名词复数 + 最高级，此为考研高频表达；③ “体育赛事”用 épreuve sportive，比 compétition 更正式。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "这场比赛每年七月在法国举行，吸引了来自欧洲各地的参赛者。",
+                "frenchTranslation": "Cette compétition se tient chaque année au mois de juillet en France et attire des participants venus de toute l'Europe.",
+                "cn2frStrategy": "① “举行”用 se tenir（代词式动词），比 avoir lieu 更书面化；② “每年七月”用 chaque année au mois de juillet；③ “来自欧洲各地”用分词短语 venus de toute l'Europe，后置修饰名词 participants。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "每个赛段结束时，工作人员都会公布当日的排名和总排名。",
+                "frenchTranslation": "À la fin de chaque étape, on établit le classement de l'étape et le classement général.",
+                "cn2frStrategy": "① “每个赛段结束时”译为 À la fin de chaque étape，介词短语置于句首作时间状语；② “公布排名”用固定搭配 établir le classement；③ 主语用泛指代词 on，避免被动语态的冗余。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他们当初绝没想到，这项赛事很快就将迎来第110届纪念日。",
+                "frenchTranslation": "Ils n'ont jamais pensé que cette compétition fêterait bientôt son cent dixième anniversaire.",
+                "cn2frStrategy": "① “绝没想到”译为否定复合过去时 n'ont jamais pensé；② 宾语从句时态呼应：主句为过去时，从句中“将迎来”须用条件现在时 fêterait（futur du passé），不可用 fêtera；③ “第110届纪念日”译为 son cent dixième anniversaire，序数词需与名词性数一致。"
+            }
+        ]
+    }
+}
