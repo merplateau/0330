@@ -1,0 +1,841 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Je te présente madame Durant. Elle est ingénieur.",
+            "translatedSentence": "我来给你介绍杜朗夫人。她是工程师。",
+            "sentenceStructure": "第一句：主语 je — 间接宾语代词 te — 谓语 présente — 直接宾语 madame Durant。第二句为主系表结构：主语 Elle — 系动词 est — 表语 ingénieur。",
+            "grammarAnalysis": "① te 为第二人称单数间接宾语人称代词，须置于谓语动词之前。② 法语中 être 后跟职业名词作表语时，职业名词不加任何冠词（Elle est ingénieur，而非 Elle est une ingénieur）。",
+            "commonMistakes": "① 学生常在职业名词前误加不定冠词，写成 Elle est une ingénieur；② 容易忘记间接宾语代词 te 须前置于动词，而非放在句末。"
+        },
+        {
+            "index": "2",
+            "sentence": "Je m'appelle Jacques Rivière.",
+            "translatedSentence": "我叫雅克·里维埃尔。",
+            "sentenceStructure": "代词式动词结构：主语 je — 反身代词 m'（me 在元音前的省音形式）— 谓语 appelle — 表语（姓名）Jacques Rivière。",
+            "grammarAnalysis": "① s'appeler 为代词式动词，须根据主语添加相应反身代词（me/te/se/nous/vous/se）。② me 在元音 a 前发生省音，缩写为 m'（élision）。③ s'appeler 变位不规则：je/tu/il/ils 形式双写词尾辅音 l（j'appelle），nous/vous 保持单 l（nous appelons）。",
+            "commonMistakes": "① 漏写反身代词，误写成 je appelle；② 忽略省音规则，误写成 je me appelle；③ 误以为 s'appeler 是规则动词，忘记 je/tu/il/ils 形式须双写 l。"
+        },
+        {
+            "index": "3",
+            "sentence": "Quel est son nom?",
+            "translatedSentence": "他/她叫什么名字？",
+            "sentenceStructure": "疑问句结构（主谓倒装）：疑问形容词 quel（修饰 nom）— 系动词 est（倒装置于主语前）— 主语 son nom。",
+            "grammarAnalysis": "① quel 为疑问形容词，须与其修饰的名词性数一致：nom 为阳性单数，故用 quel（阳性单数形式）。② 此句采用主谓倒装疑问句式（inversion simple）。",
+            "commonMistakes": "① 混淆 quel（疑问形容词，须修饰名词）与 qui（疑问代词，代替人），此句问的是“名字”，应用 quel；② quel 的性数变化（quel/quelle/quels/quelles）容易出错。"
+        },
+        {
+            "index": "4",
+            "sentence": "Elle a six ans.",
+            "translatedSentence": "她六岁了。",
+            "sentenceStructure": "主语 Elle — 谓语 a（avoir 的第三人称单数现在时）— 宾语 six ans。",
+            "grammarAnalysis": "① 法语用 avoir（有）而非 être（是）表达年龄，结构为：主语 + avoir + 数字 + an(s)。② an 用于计数年龄；année 则强调年份的持续性或内容，两者不可混用。",
+            "commonMistakes": "受中文或英语影响，学生常误用 être 表达年龄，写成 Elle est six ans。法语年龄表达必须用 avoir，这是初级法语的高频考点。"
+        },
+        {
+            "index": "5",
+            "sentence": "Nous habitons rue des Ecoles.",
+            "translatedSentence": "我们住在学院路。",
+            "sentenceStructure": "主语 Nous — 谓语 habitons（habiter 的第一人称复数现在时）— 地点状语 rue des Ecoles（直接跟街道名，无需介词）。",
+            "grammarAnalysis": "① habiter 后接具体街道名时，直接跟名称，不需要任何介词。② 若接城市，须用 à（habiter à Paris）；若接阴性国家，须用 en（habiter en France）；若接阳性国家，须用 au（habiter au Japon）。",
+            "commonMistakes": "学生常在街道名前误加介词 à，写成 Nous habitons à rue des Ecoles。法语 habiter + 街道名时无需任何介词，属于固定搭配。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "présenter qn à qn",
+            "meaning": "把某人介绍给某人",
+            "usage": "及物动词结构，直接宾语为被介绍者，间接宾语用介词 à 引导。口语中常用间接宾语代词替代介词短语，如 je te présente...（te = à toi），省略后置 à 结构。",
+            "exampleSentence": "Je te présente madame Durant."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "se présenter",
+            "meaning": "自我介绍",
+            "usage": "代词式动词用法，无需宾语，主语自我介绍。正式场合可说 Permettez-moi de me présenter。与 présenter qn 的区别在于：se présenter 无宾语，présenter qn 有宾语。",
+            "exampleSentence": "Permettez-moi de me présenter."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "être + profession (sans article)",
+            "meaning": "是（某职业）",
+            "usage": "être 后直接跟职业名词，不加任何冠词。若加不定冠词 un/une，则带有“充当某种角色”的含义，语气上有所不同。表职业时无冠词为法语固定规则。",
+            "exampleSentence": "Elle est ingénieur. Je suis professeur."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "s'appeler + prénom/nom",
+            "meaning": "名叫，叫做",
+            "usage": "代词式动词，用于自我介绍或说明他人姓名，后直接跟人名，无需介词。注意变位不规则：je/tu/il/ils 形式双写 l（j'appelle），nous/vous 保持单 l（nous appelons）。",
+            "exampleSentence": "Je m'appelle Jacques Rivière."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "aller à l'école / au travail / à la maison",
+            "meaning": "去上学／去上班／回家",
+            "usage": "aller + à 表示前往某处，注意冠词缩合规则：à + le = au，à + la = à la，à + l' = à l'。école 为阴性单数，l'école 前有省音，故为 à l'école。",
+            "exampleSentence": "Elle va à l'école."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir + 数字 + an(s)",
+            "meaning": "……岁",
+            "usage": "法语用 avoir 而非 être 表达年龄，为固定结构。an 用于具体年龄计数，一岁以上复数加 s（six ans）。不可用 année 替换。",
+            "exampleSentence": "Elle a six ans."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "habiter + rue... / habiter à + ville / habiter en + pays",
+            "meaning": "住在……路；住在某城市；住在某国家",
+            "usage": "habiter 接街道名时直接跟名词，无需介词；接城市用 à；接阴性国家用 en；接阳性国家用 au。三种搭配须分别记忆。",
+            "exampleSentence": "Nous habitons rue des Ecoles."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "Quel est + nom?",
+            "meaning": "……是什么？",
+            "usage": "quel 与后接名词性数一致（quel/quelle/quels/quelles）。常用于询问姓名（Quel est votre nom?）、职业、地址等信息，为考研高频疑问句式。",
+            "exampleSentence": "Quel est son nom?"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "c'est + nom/pronom",
+            "meaning": "这是……，那是……",
+            "usage": "c'est 为 ce + est 的缩合形式，用于介绍或指代人和事物。复数形式为 ce sont。疑问式为 Qui est-ce?（问人）或 Qu'est-ce que c'est?（问物）。",
+            "exampleSentence": "C'est ma sœur."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "étudier bien / étudier + matière",
+            "meaning": "学习好；学习某学科",
+            "usage": "bien 为方式副词，置于动词之后修饰谓语动词。étudier 也可直接接学科名词作宾语（étudier le français），表示系统学习某学科。",
+            "exampleSentence": "Elle étudie bien."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "Vous habitez où? / Où habitez-vous?",
+            "meaning": "你们住在哪里？",
+            "usage": "où 为地点疑问副词。口语中常将 où 置于句末（非倒装式）；正式书面语用倒装式 Où habitez-vous?。两种形式均需掌握。",
+            "exampleSentence": "Vous habitez où?"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "présenter",
+            "partOfSpeech": "vt.",
+            "definition": "①介绍（某人给某人）②展示，呈现③提交，递交；se présenter：自我介绍",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "présenter qn à qn",
+                    "vocabularyCollocationMeaning": "把某人介绍给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se présenter",
+                    "vocabularyCollocationMeaning": "自我介绍"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "présenter ses excuses",
+                    "vocabularyCollocationMeaning": "道歉，表示歉意"
+                }
+            ],
+            "synonymAnalysis": "présenter 侧重正式介绍或展示；introduire 侧重引导某人进入某一场合，语气更正式；montrer 为口语，表示“让人看、指给看”。三者侧重不同，不可随意互换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "présentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "介绍；展示；演示"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "présentateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（节目）主持人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "je",
+            "partOfSpeech": "pron.",
+            "definition": "我（第一人称单数主格人称代词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Je suis...",
+                    "vocabularyCollocationMeaning": "我是……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Je m'appelle...",
+                    "vocabularyCollocationMeaning": "我叫……"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "主格人称代词，只用作句子主语。在元音或哑音 h 开头的动词前缩写为 j'（省音），如 j'habite、j'aime。不可用作宾语（宾语用 me）或介词宾语（用强调式 moi，如 c'est moi）。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "te",
+            "partOfSpeech": "pron.",
+            "definition": "你（第二人称单数直接宾语或间接宾语人称代词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Je te présente...",
+                    "vocabularyCollocationMeaning": "我给你介绍……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Je t'aime.",
+                    "vocabularyCollocationMeaning": "我爱你。"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "第二人称单数宾语代词，兼作直接宾语（Je te vois — 我看见你）和间接宾语（Je te parle — 我和你说话）。在元音前省音为 t'（Je t'aime）。肯定命令句中位于动词后，用强调式 toi（Regarde-toi!）。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "elle",
+            "partOfSpeech": "pron.",
+            "definition": "她；它（第三人称单数阴性主格人称代词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Elle est...",
+                    "vocabularyCollocationMeaning": "她是……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est elle",
+                    "vocabularyCollocationMeaning": "是她"
+                }
+            ],
+            "synonymAnalysis": "elle（主格）与 la（直接宾语）、lui（间接宾语）、elle（强调式）是同一人称的不同格形式，须注意区分。如：Je la vois.（直接宾语）/ Je lui parle.（间接宾语）/ C'est elle.（强调式）。",
+            "derivedWords": [],
+            "useExplanation": "用作第三人称单数阴性主语，既可指女性（她），也可指阴性名词所指的事物（它）。强调式和介词后也用 elle（C'est elle. / avec elle）。阳性对应形式为 il。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "ingénieur",
+            "partOfSpeech": "n.m.",
+            "definition": "工程师",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être ingénieur",
+                    "vocabularyCollocationMeaning": "是工程师（être 后职业名词不加冠词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ingénieur en informatique",
+                    "vocabularyCollocationMeaning": "计算机工程师"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ingénieur civil",
+                    "vocabularyCollocationMeaning": "土木工程师"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ingénierie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "工程学；工程技术"
+                }
+            ],
+            "pluralForm": "ingénieurs"
+        },
+        {
+            "index": "6",
+            "vocabulary": "enchanté",
+            "partOfSpeech": "adj.m.",
+            "definition": "①非常高兴的，幸会的（初次见面用语）②着迷的，被迷住的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Enchanté(e) de faire votre connaissance.",
+                    "vocabularyCollocationMeaning": "很高兴认识您。（正式初次见面套语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être enchanté de + inf.",
+                    "vocabularyCollocationMeaning": "对做某事感到非常高兴"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Enchanté, monsieur/madame.",
+                    "vocabularyCollocationMeaning": "幸会，先生/女士。（独立感叹用法）"
+                }
+            ],
+            "synonymAnalysis": "enchanté 在初次见面场合相当于 ravi（高兴的）或 heureux（幸福的），但 enchanté 更常用于正式介绍场合的礼貌寒暄；ravi 使用范围更广，也可用于其他表达喜悦的语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enchanter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使着迷；使高兴"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enchantement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "魔法；着迷；欣喜"
+                }
+            ],
+            "genderNumberVariation": "阴性 enchantée，阳性复数 enchantés，阴性复数 enchantées；规则变化（阴性 +e，复数 +s）",
+            "position": "通常作表语（être enchanté）或独立感叹语使用，置于名词前的定语用法罕见。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "s'appeler",
+            "partOfSpeech": "v.pron.",
+            "definition": "①叫做，名叫②被称为",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Je m'appelle + nom",
+                    "vocabularyCollocationMeaning": "我叫……（自我介绍）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Comment vous appelez-vous?",
+                    "vocabularyCollocationMeaning": "您叫什么名字？（正式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Comment tu t'appelles?",
+                    "vocabularyCollocationMeaning": "你叫什么名字？（非正式）"
+                }
+            ],
+            "synonymAnalysis": "s'appeler 专指姓名；se nommer 同义但更书面、更正式；avoir pour nom 为最正式的书面表达，常见于文学或法律文本。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je m'appelle, tu t'appelles, il/elle s'appelle, nous nous appelons, vous vous appelez, ils/elles s'appellent",
+                "compoundPast": "je me suis appelé(e)；助动词为 être，过去分词随主语性数变化（appelé / appelée / appelés / appelées）",
+                "simpleFuture": "je m'appellerai, tu t'appelleras, il/elle s'appellera, nous nous appellerons, vous vous appellerez, ils/elles s'appelleront",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "重读音节前（je/tu/il/ils 形式）双写词尾辅音 l；非重读音节（nous/vous 形式）保持单 l。简单将来时词干与重读形式相同，亦双写 l（appell-）。类似规律的动词：jeter（jette/jetons，双写 t）。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "professeur",
+            "partOfSpeech": "n.m.",
+            "definition": "①教师（中学及大学阶段）②教授",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être professeur",
+                    "vocabularyCollocationMeaning": "是教师（être 后职业名词不加冠词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "professeur de français",
+                    "vocabularyCollocationMeaning": "法语老师"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "professeur d'université",
+                    "vocabularyCollocationMeaning": "大学教授"
+                }
+            ],
+            "synonymAnalysis": "professeur 泛指中学至大学的教师和教授；instituteur/institutrice 专指小学教师；enseignant 为较泛的书面语，泛指所有教育从业者。三者适用教育阶段不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "professorat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "教师职业；教师资格"
+                }
+            ],
+            "pluralForm": "professeurs"
+        },
+        {
+            "index": "9",
+            "vocabulary": "quel",
+            "partOfSpeech": "adj.m.",
+            "definition": "①什么样的（疑问形容词）②多么……的（感叹形容词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Quel est + nom?",
+                    "vocabularyCollocationMeaning": "……是什么？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Quelle heure est-il?",
+                    "vocabularyCollocationMeaning": "现在几点？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Quel beau temps!",
+                    "vocabularyCollocationMeaning": "多好的天气啊！（感叹句）"
+                }
+            ],
+            "synonymAnalysis": "quel（疑问/感叹形容词）须修饰名词，性数与所修饰名词一致；qu'est-ce que（疑问代词短语）则独立使用于主谓结构之前。注意区分：Quel est ton nom?（quel 修饰 nom）vs Qu'est-ce que c'est?（qu'est-ce que 独立使用）。",
+            "derivedWords": [],
+            "genderNumberVariation": "阳性单数 quel，阴性单数 quelle，阳性复数 quels，阴性复数 quelles；四种形式发音均为 [kɛl]",
+            "position": "疑问形容词，须置于其修饰名词之前；或通过倒装句与名词发生关联（如 Quel est son nom?）。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "son",
+            "partOfSpeech": "adj.m.",
+            "definition": "他的；她的；它的（第三人称单数所有格形容词，阳性单数形式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "son nom / sa mère / ses parents",
+                    "vocabularyCollocationMeaning": "他/她的名字／母亲／父母"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "son école",
+                    "vocabularyCollocationMeaning": "他/她的学校（école 为阴性，但元音前用 son）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ses amis",
+                    "vocabularyCollocationMeaning": "他/她的朋友们（复数用 ses）"
+                }
+            ],
+            "synonymAnalysis": "son/sa/ses 均为第三人称单数所有格形容词，随被修饰名词的性数变化，而非随物主性别变化：阳性单数用 son，阴性单数用 sa（但阴性名词以元音或哑音 h 开头时用 son，如 son école），复数用 ses。注意与 leur/leurs（第三人称复数所有格）区分。",
+            "derivedWords": [],
+            "genderNumberVariation": "阳性单数 son，阴性单数 sa（元音/哑音 h 前改用 son），复数 ses；随被修饰名词的性数变化",
+            "position": "所有格形容词，须置于其修饰名词之前。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "nom",
+            "partOfSpeech": "n.m.",
+            "definition": "①名字，姓名②姓氏③名词（语法术语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "nom de famille",
+                    "vocabularyCollocationMeaning": "姓氏"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Quel est votre nom?",
+                    "vocabularyCollocationMeaning": "您叫什么名字？"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au nom de",
+                    "vocabularyCollocationMeaning": "以……的名义"
+                }
+            ],
+            "synonymAnalysis": "nom 泛指姓名，也常单指姓氏；prénom 特指名（first name）；法语姓名顺序通常为“名 + 姓”（prénom + nom de famille）。注意 nom 与 prénom 的区分是法语初学者常见混淆点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "命名；任命"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "renommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "重新命名；重新任命"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "dénommer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "称为，叫做"
+                }
+            ],
+            "pluralForm": "noms"
+        },
+        {
+            "index": "12",
+            "vocabulary": "à",
+            "partOfSpeech": "prép.",
+            "definition": "①在（某地点，表静态）②去，到（表方向）③在（某时间点）④（引导间接宾语或动词补语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à + lieu",
+                    "vocabularyCollocationMeaning": "去……（地方）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "habiter à + ville",
+                    "vocabularyCollocationMeaning": "住在某城市"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à + heure précise",
+                    "vocabularyCollocationMeaning": "在……点（时刻）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "à l'école / au bureau",
+                    "vocabularyCollocationMeaning": "在学校／在办公室"
+                }
+            ],
+            "synonymAnalysis": "à 表静态“在”或动态“去”；en 多用于国家（阴性）、交通方式等；dans 表示在内部（dans la salle）；sur 表示在……上面。à 与 dans 均可表位置，但 à 更泛指，dans 更强调内部空间。",
+            "derivedWords": [],
+            "useExplanation": "à 与定冠词缩合：à + le = au，à + les = aux；à + la 和 à + l' 不缩合。à 用途极广，须结合具体动词搭配记忆（parler à qn，donner qch. à qn，aller à...等）。"
+        },
+        {
+            "index": "13",
+            "vocabulary": "école",
+            "partOfSpeech": "n.f.",
+            "definition": "①学校（泛指）②小学③流派，学派",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à l'école",
+                    "vocabularyCollocationMeaning": "上学，去学校"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "école primaire",
+                    "vocabularyCollocationMeaning": "小学"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "école maternelle",
+                    "vocabularyCollocationMeaning": "幼儿园"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "grande école",
+                    "vocabularyCollocationMeaning": "法国精英高校（如综合理工学院）"
+                }
+            ],
+            "synonymAnalysis": "école 泛指学校，尤指中小学；collège 指初中（法国教育体系中的 6e 至 3e）；lycée 指高中；université 指大学。四者对应法国不同教育阶段。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écolier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "小学生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "scolaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "学校的，学业的"
+                }
+            ],
+            "pluralForm": "écoles"
+        },
+        {
+            "index": "14",
+            "vocabulary": "déjà",
+            "partOfSpeech": "adv.",
+            "definition": "①已经（表动作已完成或状态已达到）②曾经（表过去经历）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Elle va déjà à l'école.",
+                    "vocabularyCollocationMeaning": "她已经上学了。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir déjà fait qch.",
+                    "vocabularyCollocationMeaning": "已经做过某事（复合时态中置于助动词与过去分词之间）"
+                }
+            ],
+            "synonymAnalysis": "déjà 与 encore 相对：déjà 表“已经”（强调动作已发生），encore 表“还/仍然”（强调动作持续）。否定结构：ne...pas encore（还没有）vs ne...plus（不再）。此对立是考研常考语义辨析点。",
+            "derivedWords": [],
+            "useExplanation": "简单时态中通常置于动词之后（Elle va déjà...）；复合时态中置于助动词与过去分词之间（Elle a déjà mangé）。在疑问句中可表示“是否曾经”（Est-ce que vous avez déjà visité Paris? = 您去过巴黎吗？）。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "oui",
+            "partOfSpeech": "adv.",
+            "definition": "是，是的（肯定答词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Oui, bien sûr.",
+                    "vocabularyCollocationMeaning": "是的，当然。"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Oui, c'est ça.",
+                    "vocabularyCollocationMeaning": "是的，就是这样。"
+                }
+            ],
+            "synonymAnalysis": "oui 用于回答肯定陈述句或一般疑问句；si 用于反驳否定疑问句或否定陈述（Tu ne viens pas? — Si! = 不，我来！）。两者不可混用，oui/si 的区分是法语考研重点语法项。",
+            "derivedWords": [],
+            "useExplanation": "通常独立使用或置于句首，表示对上文的肯定回应。正式场合可强调说 Oui, monsieur / madame。注意：在否定疑问句之后必须用 si 而非 oui，这是法语特有规则，汉语和英语中均无此区分。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "an",
+            "partOfSpeech": "n.m.",
+            "definition": "①年（计时单位）②岁（年龄）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir + 数字 + an(s)",
+                    "vocabularyCollocationMeaning": "……岁"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par an",
+                    "vocabularyCollocationMeaning": "每年"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'an dernier / l'an prochain",
+                    "vocabularyCollocationMeaning": "去年／明年"
+                }
+            ],
+            "synonymAnalysis": "an 与 année 均表“年”，但用法不同：an 用于计数（trois ans）或与 dernier/prochain/chaque 搭配，强调数量；année 强调年份的持续性或内容（pendant des années，une bonne année）。二者的区分是法语考研常考知识点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "annuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "每年的，年度的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "anniversaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "生日；周年纪念日"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "annuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "每年地，年度地"
+                }
+            ],
+            "pluralForm": "ans"
+        },
+        {
+            "index": "17",
+            "vocabulary": "étudier",
+            "partOfSpeech": "vt.",
+            "definition": "①学习，研究②细察，审视③研究（某课题或问题）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "étudier le français",
+                    "vocabularyCollocationMeaning": "学习法语"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étudier à l'université",
+                    "vocabularyCollocationMeaning": "在大学学习（vi. 用法，不接宾语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "étudier un problème",
+                    "vocabularyCollocationMeaning": "研究一个问题"
+                }
+            ],
+            "synonymAnalysis": "étudier 侧重系统地学习或研究某一学科；apprendre 侧重通过练习、记忆或经历习得（apprendre une leçon = 背课文）；réviser 指复习已学内容。三者语义有细微差别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "学习；研究；研究报告"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "étudiant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "大学生"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "habiter",
+            "partOfSpeech": "vt.",
+            "definition": "①住，居住（在某地）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "habiter à + ville",
+                    "vocabularyCollocationMeaning": "住在某城市"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "habiter en + pays (fém.)",
+                    "vocabularyCollocationMeaning": "住在某阴性国家"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "habiter rue...",
+                    "vocabularyCollocationMeaning": "住在某街道（直接跟街道名，无介词）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "habiter au + pays (masc.)",
+                    "vocabularyCollocationMeaning": "住在某阳性国家"
+                }
+            ],
+            "synonymAnalysis": "habiter 与 vivre 均可表居住，但 habiter 更侧重具体居所（habiter une maison = 住在一栋房子里）；vivre 更广泛，也可表“生活”（vivre heureux = 幸福地生活）。rester 表暂时停留，与 habiter 所表示的定居含义不同。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "habitant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "居民，居住者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "habitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "住所，住宅"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "où",
+            "partOfSpeech": "adv.",
+            "definition": "①在哪里，到哪里（疑问副词）②在那里，到那里（关系副词，引导定语从句）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Vous habitez où? / Où habitez-vous?",
+                    "vocabularyCollocationMeaning": "你们住在哪里？"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le pays où j'habite",
+                    "vocabularyCollocationMeaning": "我居住的国家（关系副词引导定语从句）"
+                }
+            ],
+            "synonymAnalysis": "où 用于地点（在哪里/那里）；quand 用于时间（什么时候）；comment 用于方式（怎样）；pourquoi 用于原因（为什么）。注意 où 作关系副词时可替代先行词指示的地点介词短语（la ville où il habite = la ville dans laquelle il habite）。",
+            "derivedWords": [],
+            "useExplanation": "作疑问副词时，可置于句末（口语：Vous habitez où?）或句首并配合倒装（正式：Où habitez-vous?）。作关系副词时，引导地点或时间定语从句，替代先行词所指的地点（la maison où il habite）或时间（le jour où il est arrivé）。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "nous",
+            "partOfSpeech": "pron.",
+            "definition": "我们（第一人称复数人称代词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "Nous habitons...",
+                    "vocabularyCollocationMeaning": "我们住在……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec nous",
+                    "vocabularyCollocationMeaning": "和我们一起"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chez nous",
+                    "vocabularyCollocationMeaning": "在我们家；在我们国家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "nous 兼作主格（Nous sommes étudiants.）、宾格（Il nous voit.）和强调代词（C'est nous.）。在口语中，nous 作主语常被 on 替代（On habite ici. = 我们住在这里。），但书面语仍以 nous 为主。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "rue",
+            "partOfSpeech": "n.f.",
+            "definition": "①街，街道②路",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "habiter rue...",
+                    "vocabularyCollocationMeaning": "住在……路（直接跟街道名，无介词）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans la rue",
+                    "vocabularyCollocationMeaning": "在街上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rue piétonne",
+                    "vocabularyCollocationMeaning": "步行街"
+                }
+            ],
+            "synonymAnalysis": "rue 指两侧有建筑的街道（最通用）；avenue 指宽阔的林荫大道；boulevard 指更宽阔的大道（常有绿化带）；chemin 指小路或乡间小道。四者宽窄和环境有所不同。",
+            "derivedWords": [],
+            "pluralForm": "rues"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Bonjour, permettez-moi de me présenter: je m'appelle Pierre Dupont et je suis ingénieur. Je vous présente aussi ma collègue, madame Chen. Elle est professeur et elle étudie encore le français. Nous habitons tous les deux rue des Lilas. Elle a vingt-huit ans et travaille déjà depuis trois ans.",
+            "chineseTranslation": "您好，请允许我自我介绍：我叫皮埃尔·杜邦，是一名工程师。我也来为您介绍我的同事陈女士。她是一名教师，目前还在学习法语。我们两人都住在紫丁香街。她今年二十八岁，已经工作了三年。",
+            "fr2cnStrategy": "① permettez-moi de me présenter 为固定礼貌表达，意译为“请允许我自我介绍”，而非生硬的直译“允许我来介绍我自己”；② je suis ingénieur / elle est professeur 职业表达无冠词，中文译出时自然补充“一名”，属于增译；③ elle étudie encore le français 中 encore 表“还/仍在”，译为“目前还在学习”，需注意与 déjà（已经）的语义区别；④ tous les deux 意为“两者都”，译为“两人都”，调整了语序并补充量词；⑤ travaille déjà depuis trois ans 法语用现在时表持续至今的动作，中文换用“已经工作了三年”，属于时态转换与词性转换（法语动词短语 → 中文动宾结构）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "您好，我叫王芳，我是大学教授。很高兴认识您。",
+                "frenchTranslation": "Bonjour, je m'appelle Wang Fang et je suis professeur d'université. Enchanté(e) de faire votre connaissance.",
+                "cn2frStrategy": "① “我叫……”用 s'appeler 的代词式变位 je m'appelle，注意双写 l；② “大学教授”用 professeur d'université，être 后职业名词不加冠词；③ “很高兴认识您”用 Enchanté(e) de faire votre connaissance，为固定初次见面表达，括号内的 e 视说话者性别决定是否保留。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "她叫什么名字？她叫安娜·博蒙，已经在学校念书了。",
+                "frenchTranslation": "Quel est son nom? Elle s'appelle Anna Beaumont. Elle étudie déjà à l'école.",
+                "cn2frStrategy": "① “叫什么名字”用疑问形容词结构 Quel est son nom?，quel 须与 nom（阳性单数）保持一致；② “她叫……”用 Elle s'appelle...，代词式动词须加反身代词 s'；③ “已经在学校念书了”中“已经”用 déjà，置于动词 étudie 之后；“在学校”用 à l'école，注意 à + l' 的省音缩合形式。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "你们住在哪里？我们住在北京路二十三号。",
+                "frenchTranslation": "Vous habitez où? Nous habitons au 23, rue de Pékin.",
+                "cn2frStrategy": "① “住在哪里”用疑问副词 où 置于句末的口语疑问句式 Vous habitez où?（正式书面语用 Où habitez-vous?）；② 法语地址格式为“门牌号 + rue + 街道名”，门牌号前用 au（à + le 的缩合），故为 au 23；③ habiter + 街道名时不加介词，这是固定用法。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "这是我的朋友马克。他是工程师，今年三十岁。",
+                "frenchTranslation": "Je vous présente mon ami Marc. Il est ingénieur. Il a trente ans.",
+                "cn2frStrategy": "① “这是我的朋友”用 Je vous présente...（正式介绍），比 C'est mon ami... 更符合介绍语境；② “他是工程师”用 Il est ingénieur，être 后职业名词无冠词；③ “今年三十岁”用 Il a trente ans，年龄必须用 avoir 而非 être；④ 将原句拆分为三个简洁的法语短句，避免一句话过长，符合法语口语表达习惯（拆句处理）。"
+            }
+        ]
+    }
+}
