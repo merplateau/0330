@@ -1,0 +1,1210 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Un village comme ceux qu'on voit sur les cartes postales avec de grandes maisons aux murs épais, et à l'entrée du village, un château du XVe siècle.",
+            "translatedSentence": "这是一个就像明信片上看到的那种村庄——大屋厚墙，村口矗立着一座十五世纪的古堡。",
+            "sentenceStructure": "这是一个名词短语句，主干为 Un village，后接由 comme 引导的比较状语从句 ceux qu'on voit sur les cartes postales，再接介词短语 avec de grandes maisons aux murs épais 作修饰，最后以破折号引出同位语 un château du XVe siècle。",
+            "grammarAnalysis": "① comme ceux que 为关系从句，ceux 指代前文同类名词 villages。② aux murs épais 为名词短语作后置定语，aux = à + les，表示“具有某特征”的所属关系。③ 整句为名词性省略句，无主谓结构，常见于描述性文体。",
+            "commonMistakes": "aux murs épais 中的 aux 易被误解为介词“向”，实为“具有……特征”的所属介词结构。ceux 须与前文 village 对应，注意代词的指代关系。"
+        },
+        {
+            "index": "2",
+            "sentence": "Avec eux aussi, il a formé un groupe qui essaie de rendre le village célèbre en France.",
+            "translatedSentence": "同样也是与他们一起，他组建了一个致力于让这座村庄在法国声名远播的团体。",
+            "sentenceStructure": "主句为 il a formé un groupe，其后接由 qui 引导的定语从句 qui essaie de rendre le village célèbre en France，修饰 groupe。句首 Avec eux aussi 为介词短语作状语。",
+            "grammarAnalysis": "① rendre + 名词 + 形容词：使某物/某人处于某状态，为固定结构。② essayer de + 不定式：尝试做某事。③ qui 引导的限定性定语从句，先行词为 groupe。",
+            "commonMistakes": "rendre + 名词 + 形容词结构中，形容词须与宾语性数一致。注意 essayer de faire qch. 和 essayer à faire qch. 的区别，前者才是正确搭配。"
+        },
+        {
+            "index": "3",
+            "sentence": "Mais tous les habitants ne voient pas ceci du même œil.",
+            "translatedSentence": "但并非所有的村民对此都持有相同的看法。",
+            "sentenceStructure": "主语为 tous les habitants，谓语为 ne voient pas，宾语为 ceci，介词短语 du même œil 作方式状语。",
+            "grammarAnalysis": "① 部分否定：否定句中含泛指形容词 tout 时，否定的是 tout，意为“并非所有……”，而非全部否定。② voir qch. du même œil：对某事持相同看法，固定表达。③ ceci 为近指代词，指代上文提到的具体事物。",
+            "commonMistakes": "学生易将此句误译为“所有居民都不这么看”（全部否定），实为部分否定“并非所有人都……”。法语中 tous...ne...pas 与 ne...pas...tous 均表部分否定，需与英语 all...not 区分理解。"
+        },
+        {
+            "index": "4",
+            "sentence": "Pour certains, il est impossible que le tourisme empêche les jeunes de quitter le village.",
+            "translatedSentence": "对于一部分人来说，旅游业根本不可能阻止年轻人离开村子。",
+            "sentenceStructure": "主句为非人称句 il est impossible，que 引导主语从句 que le tourisme empêche les jeunes de quitter le village，作形式主语 il 的真实主语。",
+            "grammarAnalysis": "① il est impossible que + 虚拟式：固定句型，表达主观判断，从句动词须用现在虚拟式。② empêcher qn. de faire qch.：阻止某人做某事，固定搭配。③ certains 用作代词，表示“一部分人”，与 d'autres 对应。",
+            "commonMistakes": "il est impossible que 后必须接虚拟式，许多学生误用直陈式。empêcher de 的介词固定为 de，不可换用 à。"
+        },
+        {
+            "index": "5",
+            "sentence": "Si vous gardiez seulement ce paysage, notre village disparaîtrait bientôt.",
+            "translatedSentence": "如果你们只保留这片风景，我们的村子很快就会消亡。",
+            "sentenceStructure": "条件状语从句 Si vous gardiez seulement ce paysage 作条件，主句 notre village disparaîtrait bientôt 表示假设结果。",
+            "grammarAnalysis": "① 非真实条件句（第二类条件句）：si 从句用未完成过去时（imparfait），主句用简单条件式（conditionnel présent），表示与现实相反或实现可能性较小的假设。② garder 在此语境中意为“保留，保持”。③ disparaître 为不规则动词，条件式词干为 disparaîtr-。",
+            "commonMistakes": "学生常将条件句时态搞混：si 从句绝不能用条件式，只能用陈述式各时态。第二类条件句固定搭配为：si + 未完成过去时，主句 + 简单条件式。"
+        },
+        {
+            "index": "6",
+            "sentence": "Le maire n'a pas tort: un château, même un château du XVe siècle comme celui de Ferrières, a peu de poids devant les besoins essentiels en ressources.",
+            "translatedSentence": "市长说得不错：一座城堡，哪怕是像费里耶尔的那座十五世纪古堡，在资源的基本需求面前也显得无足轻重。",
+            "sentenceStructure": "主句为 un château a peu de poids，句中插入 même un château du XVe siècle comme celui de Ferrières 作同位语加强语气，介词短语 devant les besoins essentiels en ressources 作状语。",
+            "grammarAnalysis": "① ne pas avoir tort：说得对，没有错，固定表达（双重否定表肯定含义）。② même + 名词：甚至……，用于强调让步关系。③ avoir peu de poids：分量轻，重要性低，固定搭配。④ devant 此处表示“面对，在……面前”，引申为比较或对照。",
+            "commonMistakes": "avoir tort 与 avoir raison 是一对反义固定搭配，不可用 être 替换。devant 此处为比喻义“面对”，学生易误译为空间方位“在……前面”。"
+        },
+        {
+            "index": "7",
+            "sentence": "Il est bien difficile d'examiner ce problème. Qui gagnera la partie: ceux qui défendent le passé ou ceux qui se tournent vers l'industrie moderne?",
+            "translatedSentence": "这个问题确实很难评判。谁将赢得这场较量：是捍卫传统的人，还是转向现代工业的人？",
+            "sentenceStructure": "第一句为非人称句，il est bien difficile de + 不定式。第二句为特殊疑问句，主语为 qui，谓语为 gagnera，宾语为 la partie；冒号后为同位语解释 qui 的所指：两个由 ceux qui 引导的定语从句构成的并列结构。",
+            "grammarAnalysis": "① il est difficile de + 不定式：做某事是困难的，非人称句型。② se tourner vers qch.：转向……，代词式动词固定搭配。③ gagnera 为简单将来时，表示将来的事实或推测。④ ceux qui + 从句：那些……的人，固定结构。",
+            "commonMistakes": "la partie 此处意为“一局较量/比赛”，非“部分”，需结合上下文理解。se tourner vers 为代词式动词，se 不可省略。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "sans cesse",
+            "meaning": "不断地，不停地",
+            "usage": "固定副词短语，置于动词之后或句尾，语体中性，口笔语均可使用。注意与 sans arrêt 近义但 sans cesse 更书面。",
+            "exampleSentence": "des musiciens viennent sans cesse jouer pendant l'été pour les habitants de Ferrières"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "s'intéresser à qch./qn.",
+            "meaning": "对……感兴趣",
+            "usage": "代词式动词，固定接介词 à，不可换用其他介词。注意与 intéresser qn.（使某人感兴趣）区分：后者为及物动词，主语为令人感兴趣的事物。",
+            "exampleSentence": "Olivier Cèbe, le propriétaire du château, s'intéresse beaucoup à l'histoire de l'art."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "rendre + n. + adj.",
+            "meaning": "使……处于某种状态",
+            "usage": "固定结构，rendre 后接名词宾语和形容词补语，形容词须与宾语性数保持一致。常用于书面语。",
+            "exampleSentence": "un groupe qui essaie de rendre le village célèbre en France"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "voir qch. du même œil",
+            "meaning": "对某事持相同看法",
+            "usage": "固定惯用表达，常用于否定句 ne pas voir qch. du même œil，表示“看法不同”。",
+            "exampleSentence": "Mais tous les habitants ne voient pas ceci du même œil."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "empêcher qn. de faire qch.",
+            "meaning": "阻止某人做某事",
+            "usage": "及物动词固定搭配，介词固定为 de，不可替换为 à。宾语为人称代词时置于 empêcher 之前。",
+            "exampleSentence": "il est impossible que le tourisme empêche les jeunes de quitter le village"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "redonner la vie à qch./qn.",
+            "meaning": "使……重焕生机，使……复苏",
+            "usage": "固定短语，redonner（重新给予）+ 名词 la vie + 介词 à。多用于书面语或正式语体。",
+            "exampleSentence": "les habitants du village espèrent redonner la vie à Ferrières"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "faire venir qn./qch.",
+            "meaning": "使……前来，招来，引进",
+            "usage": "使役结构 faire + 不定式，宾语置于不定式之后（名词）或 faire 之前（代词）。",
+            "exampleSentence": "Si l'on commence à exploiter ce métal, on fera venir des ouvriers avec leur famille."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "avoir tort",
+            "meaning": "不对，有错，错误",
+            "usage": "固定搭配，与 avoir raison（有道理）相对。不可用 être 替换 avoir。否定形式 ne pas avoir tort 即“说得对”。",
+            "exampleSentence": "Le maire n'a pas tort."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avoir le droit de faire qch.",
+            "meaning": "有权利做某事",
+            "usage": "固定搭配，de 后接动词不定式。否定形式 ne pas avoir le droit de 表示“无权做某事”或“不允许做某事”。",
+            "exampleSentence": "Personne n'aura le droit d'y toucher."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "se tourner vers qch./qn.",
+            "meaning": "转向……，朝……方向发展",
+            "usage": "代词式动词，固定接介词 vers，表示方向或趋向（具体或抽象）。se 不可省略。",
+            "exampleSentence": "ceux qui se tournent vers l'industrie moderne"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "sans tarder",
+            "meaning": "立即，毫不迟疑地",
+            "usage": "固定副词短语，tarder 为动词不定式，固定与 sans 搭配构成副词短语，置于动词之后。",
+            "exampleSentence": "Il nous faut transformer sans tarder notre village en une ville d'industrie."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "transformer qch. en qch.",
+            "meaning": "将……变为……，把……转化为……",
+            "usage": "固定动词搭配，介词固定为 en，不可替换为 à 或 dans。",
+            "exampleSentence": "Il nous faut transformer sans tarder notre village en une ville d'industrie."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "faire des recherches",
+            "meaning": "进行研究，开展调查",
+            "usage": "固定名词搭配，研究对象用介词 sur 引出：faire des recherches sur qch.。注意 recherche（研究）与 cherche（寻找动作）的区别。",
+            "exampleSentence": "des ingénieurs y ont fait des recherches et ont trouvé un métal rare"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "être classé comme + n.",
+            "meaning": "被列为……，被归类为……",
+            "usage": "被动结构，classé 为过去分词，后接 comme + 名词表示类别。常用于正式或书面语境。",
+            "exampleSentence": "Le château et son paysage doivent être classés comme monuments historiques."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "tranquille",
+            "partOfSpeech": "adj.",
+            "definition": "①安静的，平静的 ②安心的，放心的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vie tranquille",
+                    "vocabularyCollocationMeaning": "平静的生活"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rester tranquille",
+                    "vocabularyCollocationMeaning": "保持安静"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "soyez tranquille",
+                    "vocabularyCollocationMeaning": "请放心"
+                }
+            ],
+            "synonymAnalysis": "tranquille vs calme：两者均表“安静/平静”，tranquille 侧重无烦扰、令人放心的状态；calme 侧重无声响、情绪稳定。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tranquillement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "平静地，安静地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tranquillité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安静，平静，安宁"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "tranquilliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使安心，使平静"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 tranquilles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "2",
+            "vocabulary": "postal",
+            "partOfSpeech": "adj.",
+            "definition": "①邮政的，邮寄的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "carte postale",
+                    "vocabularyCollocationMeaning": "明信片"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "code postal",
+                    "vocabularyCollocationMeaning": "邮政编码"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "service postal",
+                    "vocabularyCollocationMeaning": "邮政服务"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "poste",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "邮局；邮政"
+                }
+            ],
+            "genderNumberVariation": "阴性 postale，阳性复数 postaux，阴性复数 postales",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "mur",
+            "partOfSpeech": "n.m.",
+            "definition": "①墙，壁 ②障碍（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "murs épais",
+                    "vocabularyCollocationMeaning": "厚墙"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire le mur",
+                    "vocabularyCollocationMeaning": "翻墙，擅自外出（口语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mur du son",
+                    "vocabularyCollocationMeaning": "音障"
+                }
+            ],
+            "synonymAnalysis": "mur vs paroi：mur 泛指建筑外墙或隔墙；paroi 指岩壁、容器内壁等自然或技术性壁面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "muraille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "高大厚实的城墙"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "murer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "用墙围住，封堵"
+                }
+            ],
+            "pluralForm": "murs"
+        },
+        {
+            "index": "4",
+            "vocabulary": "château",
+            "partOfSpeech": "n.m.",
+            "definition": "①城堡 ②庄园，别墅（尤指酒庄）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "château fort",
+                    "vocabularyCollocationMeaning": "要塞城堡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "château de sable",
+                    "vocabularyCollocationMeaning": "沙堡"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bâtir des châteaux en Espagne",
+                    "vocabularyCollocationMeaning": "痴心妄想（俗语）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "châteaux"
+        },
+        {
+            "index": "5",
+            "vocabulary": "confortable",
+            "partOfSpeech": "adj.",
+            "definition": "①舒适的，舒服的 ②宽裕的（引申义，如收入）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vie confortable",
+                    "vocabularyCollocationMeaning": "舒适的生活"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fauteuil confortable",
+                    "vocabularyCollocationMeaning": "舒适的扶手椅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "majorité confortable",
+                    "vocabularyCollocationMeaning": "较大多数，宽裕的多数"
+                }
+            ],
+            "synonymAnalysis": "confortable 不指人的感受（人感到舒服用 à l'aise 或 bien），只修饰物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "confortablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "舒适地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "confort",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "舒适，便利设施"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 confortables",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "art",
+            "partOfSpeech": "n.m.",
+            "definition": "①艺术 ②技艺，技巧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "histoire de l'art",
+                    "vocabularyCollocationMeaning": "艺术史"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "œuvre d'art",
+                    "vocabularyCollocationMeaning": "艺术作品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "beaux-arts",
+                    "vocabularyCollocationMeaning": "美术，美术学院"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "artiste",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "艺术家"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "artistique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "艺术的，艺术性的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "artisanal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "手工艺的"
+                }
+            ],
+            "pluralForm": "arts"
+        },
+        {
+            "index": "7",
+            "vocabulary": "musicien",
+            "partOfSpeech": "n.m.",
+            "definition": "①音乐家，乐手",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "musicien professionnel",
+                    "vocabularyCollocationMeaning": "职业音乐家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "musicien de rue",
+                    "vocabularyCollocationMeaning": "街头艺人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "musique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "音乐"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "musical",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "音乐的"
+                }
+            ],
+            "pluralForm": "musiciens（阴性形式 musicienne，复数 musiciennes）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "cesse",
+            "partOfSpeech": "n.f.",
+            "definition": "①终止，停止（仅用于固定短语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans cesse",
+                    "vocabularyCollocationMeaning": "不断地，不停地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "n'avoir de cesse que",
+                    "vocabularyCollocationMeaning": "不达目的誓不罢休"
+                }
+            ],
+            "synonymAnalysis": "sans cesse vs sans arrêt vs continuellement：三者均表“不停地”，sans cesse 较书面；sans arrêt 口语色彩更强；continuellement 侧重持续不断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cesser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "停止，终止"
+                }
+            ],
+            "pluralForm": "（该词几乎仅用于单数固定短语中）",
+            "useExplanation": "cesse 几乎不单独使用，主要出现在固定短语 sans cesse 和 n'avoir de cesse que 中。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "touriste",
+            "partOfSpeech": "n.m./n.f.",
+            "definition": "①观光者，游客，旅游者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "touriste étranger",
+                    "vocabularyCollocationMeaning": "外国游客"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "afflux de touristes",
+                    "vocabularyCollocationMeaning": "游客涌入"
+                }
+            ],
+            "synonymAnalysis": "touriste vs voyageur：touriste 指以观光娱乐为目的的旅游者；voyageur 泛指旅行者，不强调目的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tourisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "旅游业，旅游"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "touristique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "旅游的，观光的"
+                }
+            ],
+            "pluralForm": "touristes"
+        },
+        {
+            "index": "10",
+            "vocabulary": "ceci",
+            "partOfSpeech": "pron.",
+            "definition": "①这，这个（近指中性代词，指即将提到或刚刚提及的事物）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "voir ceci du même œil",
+                    "vocabularyCollocationMeaning": "对此持相同看法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ceci dit",
+                    "vocabularyCollocationMeaning": "话虽如此（过渡语）"
+                }
+            ],
+            "synonymAnalysis": "ceci vs cela/ça：ceci 为近指，指即将说到的内容，或书面语中刚提及的内容；cela/ça 为远指，指已经提及或较远的事物；口语中常以 ça 代替两者。",
+            "derivedWords": [],
+            "useExplanation": "ceci 为中性代词，无性数变化，不能修饰名词，只能独立使用作主语或宾语。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "œil",
+            "partOfSpeech": "n.m.",
+            "definition": "①眼睛 ②目光，眼光 ③（引申）观点，看法",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "du même œil",
+                    "vocabularyCollocationMeaning": "以相同的眼光，持相同看法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'œil nu",
+                    "vocabularyCollocationMeaning": "用肉眼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "coup d'œil",
+                    "vocabularyCollocationMeaning": "一瞥，扫视"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "avoir l'œil",
+                    "vocabularyCollocationMeaning": "眼尖，观察力强"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "yeux（不规则复数，yeux 指眼睛，œils 仅用于某些技术术语）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "impossible",
+            "partOfSpeech": "adj.",
+            "definition": "①不可能的，办不到的 ②难以忍受的，极为麻烦的（口语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "il est impossible que + subj.",
+                    "vocabularyCollocationMeaning": "……是不可能的（后接虚拟式）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il est impossible de faire qch.",
+                    "vocabularyCollocationMeaning": "不可能做某事（后接不定式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "enfant impossible",
+                    "vocabularyCollocationMeaning": "令人头疼的孩子（口语）"
+                }
+            ],
+            "synonymAnalysis": "impossible vs impensable：impossible 强调客观上无法实现；impensable 强调难以想象、超乎想象。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "possibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "可能性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "possible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可能的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "impossibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不可能性，无法实现"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 impossibles",
+            "position": "通常置于名词之后；用于非人称句型 il est impossible que/de 时不修饰名词"
+        },
+        {
+            "index": "13",
+            "vocabulary": "justement",
+            "partOfSpeech": "adv.",
+            "definition": "①正好，恰好 ②公正地，有理由地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "et justement",
+                    "vocabularyCollocationMeaning": "而且恰好，正好"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est justement ce que...",
+                    "vocabularyCollocationMeaning": "这正是……"
+                }
+            ],
+            "synonymAnalysis": "justement vs précisément：两者均可表“正好”，justement 更口语化，还可表示“公正地”；précisément 更书面，强调精确性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "juste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "公正的；准确的；刚好的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "justice",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "公正，正义；司法"
+                }
+            ],
+            "useExplanation": "justement 可置于句首、句中或句尾，作句子副词时修饰整个句子，表示“恰好如此”；作方式副词时修饰动词，表示“公正地”。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "métal",
+            "partOfSpeech": "n.m.",
+            "definition": "①金属",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "métal rare",
+                    "vocabularyCollocationMeaning": "稀有金属"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "métal précieux",
+                    "vocabularyCollocationMeaning": "贵金属"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "industrie des métaux",
+                    "vocabularyCollocationMeaning": "金属工业"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "métallique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "金属的，金属制的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "métallurgie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "冶金学，冶金业"
+                }
+            ],
+            "pluralForm": "métaux（不规则复数）"
+        },
+        {
+            "index": "15",
+            "vocabulary": "maire",
+            "partOfSpeech": "n.m.",
+            "definition": "①市长，镇长，村长",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "maire de la ville",
+                    "vocabularyCollocationMeaning": "市长"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bureau du maire",
+                    "vocabularyCollocationMeaning": "市长办公室；市政厅"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mairie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "市政厅，市长职位"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "municipal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "市政的，城市的"
+                }
+            ],
+            "pluralForm": "maires"
+        },
+        {
+            "index": "16",
+            "vocabulary": "exploiter",
+            "partOfSpeech": "vt.",
+            "definition": "①开发，开采 ②经营，管理 ③剥削（贬义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "exploiter un métal",
+                    "vocabularyCollocationMeaning": "开采金属"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "exploiter une entreprise",
+                    "vocabularyCollocationMeaning": "经营一家企业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exploiter qn.",
+                    "vocabularyCollocationMeaning": "剥削某人"
+                }
+            ],
+            "synonymAnalysis": "exploiter vs extraire：exploiter 泛指开发利用资源；extraire 更强调提取、采掘的具体动作。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exploitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "开采；经营；剥削"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "exploitant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "经营者，开采者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "basket-ball",
+            "partOfSpeech": "n.m.",
+            "definition": "①篮球（运动）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "terrain de basket-ball",
+                    "vocabularyCollocationMeaning": "篮球场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "jouer au basket-ball",
+                    "vocabularyCollocationMeaning": "打篮球"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "basket-balls（口语中常简称 basket）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "volley-ball",
+            "partOfSpeech": "n.m.",
+            "definition": "①排球（运动）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jouer au volley-ball",
+                    "vocabularyCollocationMeaning": "打排球"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "terrain de volley-ball",
+                    "vocabularyCollocationMeaning": "排球场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "volley-balls（口语中常简称 volley）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "exprimer",
+            "partOfSpeech": "vt.",
+            "definition": "①（用语言）表达，表现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "exprimer ses sentiments",
+                    "vocabularyCollocationMeaning": "表达感情"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'exprimer",
+                    "vocabularyCollocationMeaning": "表达（思想、感情）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'exprimer en français",
+                    "vocabularyCollocationMeaning": "用法语表达"
+                }
+            ],
+            "synonymAnalysis": "exprimer vs dire：exprimer 强调通过语言、表情、行为等手段传递情感或思想；dire 仅指言语表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "expression",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "表达，表情；短语"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "expressif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富有表现力的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "creuser",
+            "partOfSpeech": "vt.",
+            "definition": "①挖，掘 ②使加深，使加剧（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "creuser un trou",
+                    "vocabularyCollocationMeaning": "挖一个洞"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "creuser un fossé",
+                    "vocabularyCollocationMeaning": "拉大差距，加深鸿沟"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se creuser la tête",
+                    "vocabularyCollocationMeaning": "绞尽脑汁（口语）"
+                }
+            ],
+            "synonymAnalysis": "creuser vs fouiller：creuser 指挖掘出空间；fouiller 侧重翻找、搜查。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "creusement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "挖掘，开凿"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "classer",
+            "partOfSpeech": "vt.",
+            "definition": "①归类，分类，分级 ②列为（文物保护单位等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "classer qch. comme monument historique",
+                    "vocabularyCollocationMeaning": "将某物列为历史古迹"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "classer des documents",
+                    "vocabularyCollocationMeaning": "对文件进行归档分类"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se classer premier",
+                    "vocabularyCollocationMeaning": "排名第一"
+                }
+            ],
+            "synonymAnalysis": "classer vs classifier：classer 更常用，泛指归类、整理；classifier 偏学术，指建立分类体系。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "classement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "分类，排名"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "classe",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "类别；班级；课"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "classique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "经典的，古典的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "historique",
+            "partOfSpeech": "adj.",
+            "definition": "①历史的，历史上的 ②具有历史意义的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "monument historique",
+                    "vocabularyCollocationMeaning": "历史古迹，历史纪念建筑"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "centre historique",
+                    "vocabularyCollocationMeaning": "历史中心区"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "événement historique",
+                    "vocabularyCollocationMeaning": "历史事件"
+                }
+            ],
+            "synonymAnalysis": "historique vs d'histoire：historique 为形容词，最常用；d'histoire 仅限于“历史课/历史书”等名词修饰。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "histoire",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "历史；故事"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "historien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "历史学家"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 historiques",
+            "position": "通常置于名词之后；置于名词前时含有强调“具有历史意义的”之意"
+        },
+        {
+            "index": "23",
+            "vocabulary": "parc",
+            "partOfSpeech": "n.m.",
+            "definition": "①公园 ②（自然）保护区，公园（如国家公园）③停车场（parc de stationnement）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parc national",
+                    "vocabularyCollocationMeaning": "国家公园"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parc naturel",
+                    "vocabularyCollocationMeaning": "自然公园"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "parc d'attractions",
+                    "vocabularyCollocationMeaning": "游乐园"
+                }
+            ],
+            "synonymAnalysis": "parc vs jardin：parc 面积更大，多指城市公园或自然保护区；jardin 指较小的花园或植物园。",
+            "derivedWords": [],
+            "pluralForm": "parcs"
+        },
+        {
+            "index": "24",
+            "vocabulary": "tarder",
+            "partOfSpeech": "vi.",
+            "definition": "①耽搁，拖延，迟到",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sans tarder",
+                    "vocabularyCollocationMeaning": "立即，毫不拖延"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tarder à faire qch.",
+                    "vocabularyCollocationMeaning": "迟迟不做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il me tarde de faire qch.",
+                    "vocabularyCollocationMeaning": "我迫不及待想做某事"
+                }
+            ],
+            "synonymAnalysis": "tarder vs retarder：tarder（不及物）指主体自身拖延；retarder（及物/不及物）可表示使他人/他物延迟。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "retard",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "迟到，延误；落后"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "retarder",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "推迟，延误"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "25",
+            "vocabulary": "tort",
+            "partOfSpeech": "n.m.",
+            "definition": "①过错，错误 ②不对，错（用于固定短语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir tort",
+                    "vocabularyCollocationMeaning": "不对，有错"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à tort",
+                    "vocabularyCollocationMeaning": "错误地，无理地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à tort et à travers",
+                    "vocabularyCollocationMeaning": "胡乱地，不加思考地"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "donner tort à qn.",
+                    "vocabularyCollocationMeaning": "认为某人有错，判定某人错误"
+                }
+            ],
+            "synonymAnalysis": "avoir tort vs avoir raison：反义搭配，分别表示“犯错/错误”和“有理/正确”，两者均用 avoir，不可替换为 être。",
+            "derivedWords": [],
+            "pluralForm": "torts"
+        },
+        {
+            "index": "26",
+            "vocabulary": "poids",
+            "partOfSpeech": "n.m.",
+            "definition": "①重量，重 ②重要性，分量（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir du poids",
+                    "vocabularyCollocationMeaning": "有分量，有影响力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "peu de poids",
+                    "vocabularyCollocationMeaning": "分量轻，重要性低"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "poids lourd",
+                    "vocabularyCollocationMeaning": "重型卡车；重量级（拳击）"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "perdre du poids",
+                    "vocabularyCollocationMeaning": "减重"
+                }
+            ],
+            "synonymAnalysis": "poids vs importance：poids 比 importance 更形象，常用于对比或权衡语境中，含隐喻意味。",
+            "derivedWords": [],
+            "pluralForm": "poids（单复数同形）"
+        },
+        {
+            "index": "27",
+            "vocabulary": "ressource",
+            "partOfSpeech": "n.f.",
+            "definition": "①资源（常用复数 ressources）②资金，收入（复数）③应变能力，办法（引申义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ressources naturelles",
+                    "vocabularyCollocationMeaning": "自然资源"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ressources humaines",
+                    "vocabularyCollocationMeaning": "人力资源"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "manquer de ressources",
+                    "vocabularyCollocationMeaning": "缺乏资源/资金"
+                }
+            ],
+            "synonymAnalysis": "ressource vs moyen：ressource 侧重可利用的物质或能力储备；moyen 更宽泛，指手段、方法或资金。",
+            "derivedWords": [],
+            "pluralForm": "ressources"
+        },
+        {
+            "index": "28",
+            "vocabulary": "défendre",
+            "partOfSpeech": "vt.",
+            "definition": "①保卫，保护 ②捍卫，维护（观点、权利等）③禁止（接 de + 不定式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "défendre qn./qch.",
+                    "vocabularyCollocationMeaning": "保卫某人/某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "défendre le passé",
+                    "vocabularyCollocationMeaning": "捍卫传统，守护过去"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il est défendu de faire qch.",
+                    "vocabularyCollocationMeaning": "禁止做某事"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "se défendre",
+                    "vocabularyCollocationMeaning": "自我辩护；自卫；（口语）还行，凑合"
+                }
+            ],
+            "synonymAnalysis": "défendre vs protéger：défendre 更强调主动对抗外部威胁；protéger 强调提供保护、防止伤害。défendre 还有“禁止”义，protéger 则无。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "défense",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "防御，保护；禁止；辩护"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "défenseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "捍卫者，辩护人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je défends, tu défends, il défend, nous défendons, vous défendez, ils défendent",
+                "compoundPast": "j'ai défendu",
+                "simpleFuture": "je défendrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -dre 类动词，类似 vendre, attendre；第三人称单数不加 -t（il défend 非 il défendt）。"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Ferrières est un vieux village tranquille de 850 habitants dans le Sud de la France. Bien que les habitants mènent une vie calme et confortable, tous ne voient pas l'avenir du village du même œil. Pour certains, il est impossible que le tourisme seul empêche les jeunes de quitter le village. Sans tarder, il faudrait transformer ce village en une ville d'industrie. Mais ceux qui défendent le passé s'y opposent fermement: le château et son paysage doivent être classés comme monuments historiques.",
+            "chineseTranslation": "费里耶尔是法国南部一个宁静的小村庄，共有850位居民。尽管村民们过着安逸舒适的生活，他们对村庄未来的看法却并不一致。一部分人认为，单靠旅游业根本不可能留住年轻人。因此，他们主张应当立即着手将这座村庄改造为工业城镇。然而，那些守护传统的人坚决反对：城堡及其周围的风景理应被列为历史古迹，加以保护。",
+            "fr2cnStrategy": "① tous ne voient pas...du même œil 为部分否定，译为“看法并不一致”，避免逐词直译带来的歧义；② il est impossible que + 虚拟式从句，译时转化为“根本不可能……”的强调句式，体现语气；③ Sans tarder 译为“立即着手”，增译“着手”以使中文动作指向明确（增译）；④ ceux qui défendent le passé 译为“那些守护传统的人”，将关系从句转化为“那些……的人”的中文惯用结构；⑤ doivent être classés comme 被动式转化为主动语态“理应被列为……加以保护”，增译“加以保护”以使语义完整（增译补全）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "这座十五世纪的城堡吸引着来自远方的游客，不断为村庄带来活力。",
+                "frenchTranslation": "Ce château du XVe siècle attire des touristes venus de loin et redonne sans cesse de la vie au village.",
+                "cn2frStrategy": "① “来自远方的”译为后置分词短语 venus de loin，符合法语定语后置原则；② “不断带来活力”拆分为 redonne sans cesse de la vie，固定搭配 redonner la vie à qch. 与 sans cesse 的结合；③ “吸引……并且带来……”两个并列动作用 et 连接，保持句子简洁。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "并非所有的村民都赞成开采这种稀有金属，因为矿场就在城堡对面。",
+                "frenchTranslation": "Tous les habitants ne sont pas d'accord pour exploiter ce métal rare, car la mine se trouverait juste en face du château.",
+                "cn2frStrategy": "① “并非所有……都”用部分否定结构 tous...ne...pas；② “赞成做某事”用 être d'accord pour + 不定式；③ “矿场在城堡对面”用 en face de 固定介词短语；④ 此处用条件式 se trouverait 体现说话者对此情况的转述或不确定态度（语气调整）。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "市长认为，保护历史风景固然重要，但资源需求才是当务之急。",
+                "frenchTranslation": "Le maire pense que, même s'il est important de protéger le paysage historique, les besoins essentiels en ressources passent avant tout.",
+                "cn2frStrategy": "① “固然……但……”用让步结构 même si + 直陈式，表示承认前提但强调后果；② “当务之急”意译为 passer avant tout（优先于一切）；③ “保护历史风景”中“历史”作定语，译为形容词后置 paysage historique；④ 原句“资源需求”译为 les besoins essentiels en ressources，en 引出名词类别。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "谁将赢得这场较量，是捍卫传统的人，还是转向现代工业的人？",
+                "frenchTranslation": "Qui gagnera la partie: ceux qui défendent le passé ou ceux qui se tournent vers l'industrie moderne?",
+                "cn2frStrategy": "① “较量”意译为 la partie（一局比赛，课文固定表达），而非字面翻译为 combat；② “捍卫传统的人”和“转向现代工业的人”分别用 ceux qui + 动词从句，为法语常用结构；③ se tourner vers 为固定搭配，注意代词式动词 se 不可省略；④ 句子整体为特殊疑问句，疑问词 qui 置于句首，动词用简单将来时表未来。"
+            }
+        ]
+    }
+}
