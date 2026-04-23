@@ -1,0 +1,1378 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Tel est le rêve du laboratoire de chimie verte Biotec, installé à Emmerich, en Allemagne.",
+            "translatedSentence": "这就是绿色化学实验室Biotec的梦想，该实验室位于德国埃默里希。",
+            "sentenceStructure": "主句为 tel est le rêve...，其中 tel 作表语置于句首形成倒装；installé à Emmerich 为过去分词短语作后置定语修饰 laboratoire。",
+            "grammarAnalysis": "① tel 作泛指代词，此处作表语前置引发主谓倒装（tel est + 主语）。② installé 为过去分词作后置定语，修饰 laboratoire，性数与之一致（阳性单数）。",
+            "commonMistakes": "tel 前置引发倒装时，学生常误将其理解为形容词，或忽略倒装结构。此句等同于 Le rêve... est tel，但前置 tel 更具文学性和强调效果。"
+        },
+        {
+            "index": 2,
+            "sentence": "Il s'agit d'inventer la chimie du carbone végétal, résume Isabelle Tharaud, vice-présidente de Biotec, cela favorise la protection de notre environnement.",
+            "translatedSentence": "「我们要做的是发明植物碳化学，」Biotec副总裁伊莎贝尔·塔罗总结道，「这有利于保护我们的环境。」",
+            "sentenceStructure": "两个独立主句，用逗号分隔。第一句：主语 il（非人称）— 谓语 s'agit de — 补语 inventer la chimie du carbone végétal；résume Isabelle Tharaud 为插入语（引语动词倒装）；第二句：主语 cela — 谓语 favorise — 宾语 la protection de notre environnement。",
+            "grammarAnalysis": "① il s'agit de + infinitif 为非人称固定句型，意为「涉及……」「要做的是……」。② résume Isabelle Tharaud 为引语动词倒装结构，常见于新闻体法语，动词置于主语之前。③ favoriser + 名词，意为「有利于」，及物动词。",
+            "commonMistakes": "il s'agit de 后接名词或不定式，学生常误用 il s'agit que + 从句（错误）。引语中的动词倒装（résume Isabelle Tharaud）是书面法语的固定用法，不可在口语中随意模仿。"
+        },
+        {
+            "index": 3,
+            "sentence": "Ils peuvent se décomposer en moins de 90 jours.",
+            "translatedSentence": "它们能够在不到90天内分解。",
+            "sentenceStructure": "主语 ils（指代 sacs en plastique）— 情态动词 peuvent — 不定式 se décomposer — 时间状语 en moins de 90 jours。",
+            "grammarAnalysis": "① se décomposer 为代词式动词，表示「（自行）分解」，区别于及物动词 décomposer（使分解）。② en moins de + 时间，表示「在不到……的时间内」，强调时限短。③ pouvoir + 不定式表示能力或可能性。",
+            "commonMistakes": "se décomposer（自行分解）与 décomposer qch.（分解某物）用法不同，前者为代词式，后者为及物。en moins de 与 dans moins de 易混淆：en moins de 强调完成所需时长，dans moins de 则强调将来时间点。"
+        },
+        {
+            "index": 4,
+            "sentence": "Le problème est de fabriquer un produit aussi solide que celui qui est issu du pétrole, cela est particulièrement difficile pour les sacs en plastique du fait de leur extrême minceur.",
+            "translatedSentence": "问题在于如何生产出与石油衍生品同样坚固的产品，这对塑料袋而言尤为困难，因为塑料袋极其轻薄。",
+            "sentenceStructure": "主句：le problème est de fabriquer...；aussi...que 引出比较状语从句；第二个独立主句 cela est particulièrement difficile pour...；du fait de leur extrême minceur 为原因短语。",
+            "grammarAnalysis": "① le problème est de + infinitif：表语不定式结构，说明问题所在。② aussi + adj. + que + pronom relatif：同等比较结构，关系代词 qui 指代 celui。③ celui qui est issu du pétrole：celui 为指示代词，替代前文出现的名词，qui 引导限制性定语从句。④ du fait de + nom：原因介词短语，意为「由于」。⑤ issu de：形容词短语，意为「来自……」「源于……」。",
+            "commonMistakes": "issu de 常被误认为动词，实为形容词（过去分词来源），需与主语保持性数一致。celui 作指示代词必须后接关系从句或介词短语，不可单独使用。"
+        },
+        {
+            "index": 5,
+            "sentence": "Malgré les difficultés rencontrées, le plastique végétal dispose de plusieurs caractéristiques particulières.",
+            "translatedSentence": "尽管遭遇重重困难，植物塑料仍具备多项独特性能。",
+            "sentenceStructure": "malgré 引导让步状语短语 malgré les difficultés rencontrées；主句：主语 le plastique végétal — 谓语 dispose de — 宾语 plusieurs caractéristiques particulières。",
+            "grammarAnalysis": "① malgré + nom/pronom：介词，引导让步，等同于 en dépit de，后不接从句（区别于 bien que + 虚拟式）。② rencontrées 为过去分词作后置定语，修饰 difficultés，性数一致（阴性复数）。③ disposer de + nom：固定搭配，意为「拥有，具备」。",
+            "commonMistakes": "学生常混淆 malgré（介词，后接名词）与 bien que（连词，后接虚拟式从句）。disposer de 的介词必须是 de，不可替换为 avoir（avoir 直接接宾语，disposer de 则需介词）。"
+        },
+        {
+            "index": 6,
+            "sentence": "Selon Biotec, pour la France, seul le remplacement de la totalité des produits pétroliers dans les sacs nécessiterait l'utilisation de 4% des surfaces agricoles françaises.",
+            "translatedSentence": "据Biotec称，仅在法国，若要将袋类产品中的石油成分全部替换，仅需占用法国4%的农业用地。",
+            "sentenceStructure": "状语 selon Biotec 和 pour la France 置于句首；主语为 seul le remplacement de la totalité des produits pétroliers dans les sacs；谓语 nécessiterait（条件式现在时）；宾语 l'utilisation de 4% des surfaces agricoles françaises。",
+            "grammarAnalysis": "① nécessiterait 为条件式现在时（conditionnel présent），此处表示假设或委婉语气（新闻体常用条件式表示未经证实的信息，体现信源距离感）。② seul 前置修饰名词，表「仅仅，只有」。③ la totalité de + nom：「全部的……」，比 tout 更正式。",
+            "commonMistakes": "新闻法语中条件式现在时常表「据称/据报道」，并非真正的假设，学生往往误译为「将会」。seul 前置时是副词/形容词，意为「仅仅」，后置时意为「孤独的」，须注意位置差异。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "en marche",
+            "meaning": "在进行中，运转中",
+            "usage": "固定短语，作表语或后置状语。常与 être / mettre 搭配：être en marche（在运转），mettre en marche（启动）。",
+            "exampleSentence": "Ce projet est déjà en marche."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "il s'agit de + inf./nom",
+            "meaning": "涉及……；问题是……；要做的是……",
+            "usage": "非人称固定句型，主语永远是 il，后接不定式或名词。不可说 il s'agit que + 从句。",
+            "exampleSentence": "Il s'agit d'inventer la chimie du carbone végétal."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "parvenir à + inf.",
+            "meaning": "成功做到……；终于……",
+            "usage": "间接及物动词，à 后接动词不定式。强调经过努力才达成，语气比 réussir à 更正式。",
+            "exampleSentence": "nous pensons parvenir à 100% en 2015"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "du fait de + nom",
+            "meaning": "由于，因为",
+            "usage": "介词短语，引导原因状语，后接名词或代词，不接从句。语气比 parce que 更正式，常见于书面语。",
+            "exampleSentence": "cela est particulièrement difficile pour les sacs en plastique du fait de leur extrême minceur."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "disposer de + nom",
+            "meaning": "拥有，具备",
+            "usage": "间接及物动词，介词固定为 de，不可替换。强调「手头有，可支配」，比 avoir 更正式。",
+            "exampleSentence": "le plastique végétal dispose de plusieurs caractéristiques particulières."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "à épaisseur égale",
+            "meaning": "在厚度相同的情况下",
+            "usage": "固定短语，属于「à + nom + adj.」结构，表示在某一参数相同条件下进行比较，常用于科技文体。",
+            "exampleSentence": "À épaisseur égale, sa densité est supérieure."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "doux au toucher",
+            "meaning": "触感柔和，摸起来柔软",
+            "usage": "固定搭配，au toucher 是「au + nom verbal」结构，表感官体验方式，类似还有 doux à l'oreille（悦耳）。",
+            "exampleSentence": "le plastique végétal est doux au toucher et moins glissant."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "être issu de + nom",
+            "meaning": "来自……，源于……，由……产生",
+            "usage": "形容词短语（过去分词形容词化），后接介词 de。需与主语保持性数一致。",
+            "exampleSentence": "un produit aussi solide que celui qui est issu du pétrole"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "nécessiter + nom",
+            "meaning": "需要……，必须有……",
+            "usage": "及物动词，直接接名词宾语，不需介词，语体较正式，多见于书面语和科技文体。",
+            "exampleSentence": "seul le remplacement de la totalité des produits pétroliers dans les sacs nécessiterait l'utilisation de 4% des surfaces agricoles françaises."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "permettre de + inf.",
+            "meaning": "允许做……，使得能够……",
+            "usage": "及物动词，后接 de + 不定式。主语可以是人或物，当主语为物时多译为「使……成为可能」。",
+            "exampleSentence": "il devrait permettre d'utiliser un produit plus propre que le pétrole."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "selon + nom",
+            "meaning": "据……，根据……",
+            "usage": "介词，后接信息来源（人名、机构名），常置于句首作状语。新闻体频繁使用，表示转述。",
+            "exampleSentence": "Selon Biotec, pour la France, seul le remplacement de la totalité des produits pétroliers dans les sacs nécessiterait l'utilisation de 4% des surfaces agricoles françaises."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "de 50% à 100% plus cher",
+            "meaning": "贵50%到100%",
+            "usage": "表示百分比比较的固定结构：de X% à Y% plus/moins + adj.，其中 plus cher 为比较级。",
+            "exampleSentence": "le coût du sac vert: de 50% à 100% plus cher."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "plastique",
+            "partOfSpeech": "n.m.",
+            "definition": "①塑料 ②塑料制品",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sac en plastique",
+                    "vocabularyCollocationMeaning": "塑料袋"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "matière plastique",
+                    "vocabularyCollocationMeaning": "塑料材料"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "objet en plastique",
+                    "vocabularyCollocationMeaning": "塑料制品"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "plastifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "塑封，覆上塑料膜"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "plasticité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "可塑性"
+                }
+            ],
+            "pluralForm": "plastiques",
+            "genderNumberVariation": "",
+            "position": ""
+        },
+        {
+            "index": "2",
+            "vocabulary": "remplacement",
+            "partOfSpeech": "n.m.",
+            "definition": "①替代，替换 ②代替（人）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le remplacement de A par B",
+                    "vocabularyCollocationMeaning": "用B替代A"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "assurer le remplacement",
+                    "vocabularyCollocationMeaning": "负责替岗"
+                }
+            ],
+            "synonymAnalysis": "remplacement vs substitution：remplacement 更通用；substitution 更正式，常见于科学或法律语境，强调功能上的等量替换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "remplacer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "替代，代替"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "remplaçant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "替代者，替补"
+                }
+            ],
+            "pluralForm": "remplacements",
+            "genderNumberVariation": "",
+            "position": ""
+        },
+        {
+            "index": "3",
+            "vocabulary": "pétrole",
+            "partOfSpeech": "n.m.",
+            "definition": "石油",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "issu du pétrole",
+                    "vocabularyCollocationMeaning": "源自石油的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "produit pétrolier",
+                    "vocabularyCollocationMeaning": "石油产品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "nappe de pétrole",
+                    "vocabularyCollocationMeaning": "油层；海面浮油"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pétrolier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "石油的，石油业的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pétrolière",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "石油的（阴性形式）"
+                }
+            ],
+            "pluralForm": "pétroles"
+        },
+        {
+            "index": "4",
+            "vocabulary": "fabriquer",
+            "partOfSpeech": "vt.",
+            "definition": "①生产，制造 ②（口语）做，干（某事）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fabriquer un produit",
+                    "vocabularyCollocationMeaning": "生产一种产品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fabriquer des objets en plastique",
+                    "vocabularyCollocationMeaning": "生产塑料制品"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fabriqué en + pays/matière",
+                    "vocabularyCollocationMeaning": "在……生产；由……制成"
+                }
+            ],
+            "synonymAnalysis": "fabriquer vs produire vs manufacturer：fabriquer 强调手工或工厂制作具体物品；produire 更宽泛，包括农产品、艺术品等；manufacturer 为更正式书面词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fabrication",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "制造，生产"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fabricant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "制造商，厂家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "fabrique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "工厂（较旧式用法）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "rêve",
+            "partOfSpeech": "n.m.",
+            "definition": "①梦，睡梦 ②梦想，幻想",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un rêve",
+                    "vocabularyCollocationMeaning": "做梦"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réaliser son rêve",
+                    "vocabularyCollocationMeaning": "实现梦想"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de rêve",
+                    "vocabularyCollocationMeaning": "梦幻般的，理想的（后置形容词用法）"
+                }
+            ],
+            "synonymAnalysis": "rêve vs songe：songe 为文学性/诗歌用词，表睡梦或幻象；rêve 为通用词，可指睡梦或白日梦/理想。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rêver",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "做梦；梦想"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rêveur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "爱做梦的；梦幻般的"
+                }
+            ],
+            "pluralForm": "rêves"
+        },
+        {
+            "index": "6",
+            "vocabulary": "laboratoire",
+            "partOfSpeech": "n.m.",
+            "definition": "①实验室 ②研究所，研究机构",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "laboratoire de chimie",
+                    "vocabularyCollocationMeaning": "化学实验室"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler en laboratoire",
+                    "vocabularyCollocationMeaning": "在实验室工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "laboratoires"
+        },
+        {
+            "index": "7",
+            "vocabulary": "chimie",
+            "partOfSpeech": "n.f.",
+            "definition": "化学",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "chimie verte",
+                    "vocabularyCollocationMeaning": "绿色化学"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chimie du carbone végétal",
+                    "vocabularyCollocationMeaning": "植物碳化学"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cours de chimie",
+                    "vocabularyCollocationMeaning": "化学课"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chimique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "化学的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chimiste",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "化学家"
+                }
+            ],
+            "pluralForm": "chimies"
+        },
+        {
+            "index": "8",
+            "vocabulary": "inventer",
+            "partOfSpeech": "vt.",
+            "definition": "①发明，创造 ②编造，虚构",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inventer une machine",
+                    "vocabularyCollocationMeaning": "发明一台机器"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "inventer une histoire",
+                    "vocabularyCollocationMeaning": "编造一个故事"
+                }
+            ],
+            "synonymAnalysis": "inventer vs découvrir：inventer 指创造出原本不存在的东西；découvrir 指发现原本存在但未被知晓的事物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "invention",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "发明；创造"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inventeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发明家"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "inventif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有创造力的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "carbone",
+            "partOfSpeech": "n.m.",
+            "definition": "碳（化学元素）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "carbone végétal",
+                    "vocabularyCollocationMeaning": "植物碳"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "empreinte carbone",
+                    "vocabularyCollocationMeaning": "碳足迹"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dioxyde de carbone",
+                    "vocabularyCollocationMeaning": "二氧化碳"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "carbonique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "碳的，含碳的"
+                }
+            ],
+            "pluralForm": "carbones"
+        },
+        {
+            "index": "10",
+            "vocabulary": "végétal",
+            "partOfSpeech": "adj.",
+            "definition": "①植物的，植物性的 ②（n.m.）植物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "matière végétale",
+                    "vocabularyCollocationMeaning": "植物性材料"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plastique végétal",
+                    "vocabularyCollocationMeaning": "植物塑料"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "huile végétale",
+                    "vocabularyCollocationMeaning": "植物油"
+                }
+            ],
+            "synonymAnalysis": "végétal vs végétarien：végétal 指「植物性的」（源于植物）；végétarien 指「素食的」（人的饮食方式）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "végétation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "植被，草木"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "végéter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "生长缓慢；（喻）碌碌无为"
+                }
+            ],
+            "genderNumberVariation": "阴性 végétale，阳性复数 végétaux，阴性复数 végétales",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "11",
+            "vocabulary": "résumer",
+            "partOfSpeech": "vt.",
+            "definition": "①概述，摘要 ②总结",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "résumer un texte",
+                    "vocabularyCollocationMeaning": "概述一篇文章"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "résumer la situation",
+                    "vocabularyCollocationMeaning": "总结情况"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se résumer à qch.",
+                    "vocabularyCollocationMeaning": "可以归结为……"
+                }
+            ],
+            "synonymAnalysis": "résumer vs synthétiser：résumer 侧重简化已有内容；synthétiser 侧重将多个来源整合为统一结论。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "résumé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "摘要，概述"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "produire",
+            "partOfSpeech": "vt.",
+            "definition": "①生产，制造 ②产生，引起 ③出产",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "produire des sacs en plastique",
+                    "vocabularyCollocationMeaning": "生产塑料袋"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "produire un effet",
+                    "vocabularyCollocationMeaning": "产生效果"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se produire",
+                    "vocabularyCollocationMeaning": "发生（事件）"
+                }
+            ],
+            "synonymAnalysis": "produire vs fabriquer：produire 更宽泛，可用于农产品、能源、效果等；fabriquer 更强调工厂制造具体物品的过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "production",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生产；产量；作品"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "producteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "生产者；制片人"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "productif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "多产的；有成效的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je produis, tu produis, il produit, nous produisons, vous produisez, ils produisent",
+                "compoundPast": "j'ai produit",
+                "simpleFuture": "je produirai",
+                "memoryAids": "属于 -uire 类不规则动词，与 conduire、traduire、construire 变位规律相同。"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "contenir",
+            "partOfSpeech": "vt.",
+            "definition": "①包含，容纳 ②抑制，控制",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "contenir 40% de matière végétale",
+                    "vocabularyCollocationMeaning": "含有40%的植物性材料"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contenir sa colère",
+                    "vocabularyCollocationMeaning": "抑制愤怒"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ce livre contient...",
+                    "vocabularyCollocationMeaning": "这本书包含……"
+                }
+            ],
+            "synonymAnalysis": "contenir vs inclure：contenir 侧重物理或抽象的「容纳」；inclure 侧重「纳入某集合或范围之中」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contenu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "内容；含量"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conteneur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "集装箱；容器"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je contiens, tu contiens, il contient, nous contenons, vous contenez, ils contiennent",
+                "compoundPast": "j'ai contenu",
+                "simpleFuture": "je contiendrai",
+                "memoryAids": "与 tenir、obtenir、maintenir 同属 -tenir 族不规则动词，词干变化规律一致。"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "matière",
+            "partOfSpeech": "n.f.",
+            "definition": "①材料，物质 ②（学校）学科 ③题材，主题",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "matière végétale",
+                    "vocabularyCollocationMeaning": "植物性材料"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "matière première",
+                    "vocabularyCollocationMeaning": "原材料"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en matière de",
+                    "vocabularyCollocationMeaning": "在……方面，关于……"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "matières grasses",
+                    "vocabularyCollocationMeaning": "脂肪（营养学）"
+                }
+            ],
+            "synonymAnalysis": "matière vs substance vs matériau：matière 最宽泛；substance 偏重化学/科学语境中的「物质」；matériau（复数 matériaux）专指建筑或工业材料。",
+            "derivedWords": [],
+            "pluralForm": "matières"
+        },
+        {
+            "index": "15",
+            "vocabulary": "décomposer",
+            "partOfSpeech": "vt.",
+            "definition": "①分解，使腐烂 ②拆分，分析",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se décomposer en 90 jours",
+                    "vocabularyCollocationMeaning": "在90天内分解"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "décomposer une phrase",
+                    "vocabularyCollocationMeaning": "分析一个句子"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "décomposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "分解；腐烂"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "pot",
+            "partOfSpeech": "n.m.",
+            "definition": "①罐，壶，瓶 ②锅",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pot de yaourt",
+                    "vocabularyCollocationMeaning": "酸奶罐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pot de fleurs",
+                    "vocabularyCollocationMeaning": "花盆"
+                }
+            ],
+            "synonymAnalysis": "pot vs flacon vs boîte：pot 为广口容器（罐、壶）；flacon 为小瓶（细口）；boîte 为盒子或罐头。",
+            "derivedWords": [],
+            "pluralForm": "pots"
+        },
+        {
+            "index": "17",
+            "vocabulary": "yaourt",
+            "partOfSpeech": "n.m.",
+            "definition": "酸奶",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pot de yaourt",
+                    "vocabularyCollocationMeaning": "一罐酸奶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "yaourt nature",
+                    "vocabularyCollocationMeaning": "原味酸奶"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "yaourts"
+        },
+        {
+            "index": "18",
+            "vocabulary": "flacon",
+            "partOfSpeech": "n.m.",
+            "definition": "小瓶（细口，用于香水、药品等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "flacon de parfum",
+                    "vocabularyCollocationMeaning": "香水瓶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "flacon en verre",
+                    "vocabularyCollocationMeaning": "玻璃小瓶"
+                }
+            ],
+            "synonymAnalysis": "flacon vs bouteille vs pot：flacon 细口小瓶；bouteille 通用瓶子；pot 广口罐。",
+            "derivedWords": [],
+            "pluralForm": "flacons"
+        },
+        {
+            "index": "19",
+            "vocabulary": "parvenir",
+            "partOfSpeech": "vi.",
+            "definition": "①到达，抵达 ②成功达到，实现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parvenir à + inf.",
+                    "vocabularyCollocationMeaning": "成功做到……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parvenir à destination",
+                    "vocabularyCollocationMeaning": "到达目的地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire parvenir qch. à qn.",
+                    "vocabularyCollocationMeaning": "将某物转交给某人"
+                }
+            ],
+            "synonymAnalysis": "parvenir à vs réussir à：两者均可表「成功做某事」，但 parvenir à 更强调克服困难后的到达；réussir à 更日常，强调能力上的成功。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je parviens, tu parviens, il parvient, nous parvenons, vous parvenez, ils parviennent",
+                "compoundPast": "je suis parvenu(e)",
+                "simpleFuture": "je parviendrai",
+                "memoryAids": "属于 -venir 族不规则动词，与 venir、devenir、revenir、prévenir 变位完全一致；助动词用 être。"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "délai",
+            "partOfSpeech": "n.m.",
+            "definition": "①期限，时限 ②（给予的）宽限时间，延期",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans les délais",
+                    "vocabularyCollocationMeaning": "在规定期限内"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un long délai",
+                    "vocabularyCollocationMeaning": "漫长的等待时间"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans délai",
+                    "vocabularyCollocationMeaning": "立刻，毫不拖延"
+                }
+            ],
+            "synonymAnalysis": "délai vs date limite：délai 指允许完成某事的时间段；date limite 指最后截止日期（时间点）。",
+            "derivedWords": [],
+            "pluralForm": "délais"
+        },
+        {
+            "index": "21",
+            "vocabulary": "solide",
+            "partOfSpeech": "adj.",
+            "definition": "①坚固的，结实的 ②可靠的，扎实的 ③（n.m.）固体",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un produit solide",
+                    "vocabularyCollocationMeaning": "坚固的产品"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une base solide",
+                    "vocabularyCollocationMeaning": "扎实的基础"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à l'état solide",
+                    "vocabularyCollocationMeaning": "固态"
+                }
+            ],
+            "synonymAnalysis": "solide vs résistant vs robuste：solide 最通用；résistant 强调抵抗外力的能力；robuste 强调整体结构的强壮。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "solidité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "坚固性，牢固性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "solidifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使固化，使变坚固"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 solides",
+            "position": "通常置于名词之后；前置时含强调意味"
+        },
+        {
+            "index": "22",
+            "vocabulary": "issu",
+            "partOfSpeech": "adj.",
+            "definition": "来自……的，由……产生的，出身于……的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "issu du pétrole",
+                    "vocabularyCollocationMeaning": "来自石油的，石油衍生的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "issu d'une famille modeste",
+                    "vocabularyCollocationMeaning": "出身贫寒家庭"
+                }
+            ],
+            "synonymAnalysis": "issu de vs provenant de：两者均表来源，issu de 更强调出身或起源（人或物）；provenant de 更强调物理来源地点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "issue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "出口；结局；解决办法"
+                }
+            ],
+            "genderNumberVariation": "阴性 issue，阳性复数 issus，阴性复数 issues",
+            "position": "通常置于名词之后，后跟介词 de"
+        },
+        {
+            "index": "23",
+            "vocabulary": "minceur",
+            "partOfSpeech": "n.f.",
+            "definition": "①薄度，纤细 ②纤细（人的身材）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "extrême minceur",
+                    "vocabularyCollocationMeaning": "极度轻薄"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la minceur de sa silhouette",
+                    "vocabularyCollocationMeaning": "她纤细的身形"
+                }
+            ],
+            "synonymAnalysis": "minceur vs finesse：minceur 强调薄或瘦；finesse 强调精细度或细腻感。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mince",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "薄的；纤细的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "amincir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变薄；使显瘦"
+                }
+            ],
+            "pluralForm": "minceurs"
+        },
+        {
+            "index": "24",
+            "vocabulary": "caractéristique",
+            "partOfSpeech": "n.f.",
+            "definition": "①性能，特点，特征 ②（adj.）有特征的，典型的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "caractéristiques particulières",
+                    "vocabularyCollocationMeaning": "独特的性能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une caractéristique de qch.",
+                    "vocabularyCollocationMeaning": "某物的一个特点"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "trait caractéristique",
+                    "vocabularyCollocationMeaning": "典型特征"
+                }
+            ],
+            "synonymAnalysis": "caractéristique vs propriété vs qualité：caractéristique 强调识别性特征；propriété 侧重物理/化学属性；qualité 偏向优点或品质。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "caractériser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "表征，是……的特点"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "caractère",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "性格；特征；字符"
+                }
+            ],
+            "pluralForm": "caractéristiques"
+        },
+        {
+            "index": "25",
+            "vocabulary": "épaisseur",
+            "partOfSpeech": "n.f.",
+            "definition": "①厚度 ②浓度，密度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à épaisseur égale",
+                    "vocabularyCollocationMeaning": "在厚度相同的情况下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mesurer l'épaisseur",
+                    "vocabularyCollocationMeaning": "测量厚度"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "épais",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "厚的；浓的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "épaissir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使变厚，使变浓"
+                }
+            ],
+            "pluralForm": "épaisseurs"
+        },
+        {
+            "index": "26",
+            "vocabulary": "densité",
+            "partOfSpeech": "n.f.",
+            "definition": "①密度 ②稠密程度，人口密度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "densité supérieure",
+                    "vocabularyCollocationMeaning": "更高的密度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "densité de population",
+                    "vocabularyCollocationMeaning": "人口密度"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dense",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "密集的；密度大的"
+                }
+            ],
+            "pluralForm": "densités"
+        },
+        {
+            "index": "27",
+            "vocabulary": "doux",
+            "partOfSpeech": "adj.",
+            "definition": "①柔和的，温和的 ②甜的 ③温柔的（人）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "doux au toucher",
+                    "vocabularyCollocationMeaning": "触感柔和"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "eau douce",
+                    "vocabularyCollocationMeaning": "淡水"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un climat doux",
+                    "vocabularyCollocationMeaning": "温和的气候"
+                }
+            ],
+            "synonymAnalysis": "doux vs tendre vs moelleux：doux 侧重触感或性情的柔和；tendre 侧重嫩或温情；moelleux 侧重食物或材质的松软。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "douceur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "柔和；温和；甜蜜"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "adoucir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使柔和；使缓和"
+                }
+            ],
+            "genderNumberVariation": "阴性 douce，阳性复数 doux，阴性复数 douces",
+            "position": "通常置于名词之后；eau douce（淡水）为固定短语前置无意义变化"
+        },
+        {
+            "index": "28",
+            "vocabulary": "glissant",
+            "partOfSpeech": "adj.",
+            "definition": "①滑的，光滑的 ②（喻）棘手的，难以把握的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sol glissant",
+                    "vocabularyCollocationMeaning": "滑溜的地面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "terrain glissant",
+                    "vocabularyCollocationMeaning": "（喻）棘手的领域"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "glisser",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "滑动；滑倒"
+                }
+            ],
+            "genderNumberVariation": "阴性 glissante，复数 glissants/glissantes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "29",
+            "vocabulary": "fusion",
+            "partOfSpeech": "n.f.",
+            "definition": "①融化，熔解 ②合并，融合",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "température de fusion",
+                    "vocabularyCollocationMeaning": "熔点，融化温度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fusion d'entreprises",
+                    "vocabularyCollocationMeaning": "企业合并"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "fusion nucléaire",
+                    "vocabularyCollocationMeaning": "核聚变"
+                }
+            ],
+            "synonymAnalysis": "fusion vs dissolution：fusion 指固体受热变为液体；dissolution 指固体溶于液体中。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fusionner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "合并；融合"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fondre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "融化，熔化（fusion 对应的动词）"
+                }
+            ],
+            "pluralForm": "fusions"
+        },
+        {
+            "index": "30",
+            "vocabulary": "décomposition",
+            "partOfSpeech": "n.f.",
+            "definition": "①分解 ②腐烂，腐败",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "décomposition chimique",
+                    "vocabularyCollocationMeaning": "化学分解"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en état de décomposition",
+                    "vocabularyCollocationMeaning": "处于腐烂状态"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "décomposer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "分解；使腐烂"
+                }
+            ],
+            "pluralForm": "décompositions"
+        },
+        {
+            "index": "31",
+            "vocabulary": "énergie",
+            "partOfSpeech": "n.f.",
+            "definition": "①能源，能量 ②精力，活力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "économiser de l'énergie",
+                    "vocabularyCollocationMeaning": "节约能源"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "source d'énergie",
+                    "vocabularyCollocationMeaning": "能量来源"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "énergie renouvelable",
+                    "vocabularyCollocationMeaning": "可再生能源"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "énergique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "精力充沛的；强有力的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "énergétique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "能量的，能源的"
+                }
+            ],
+            "pluralForm": "énergies"
+        },
+        {
+            "index": "32",
+            "vocabulary": "coûteux",
+            "partOfSpeech": "adj.",
+            "definition": "昂贵的，代价高的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "moins coûteux",
+                    "vocabularyCollocationMeaning": "价格更低的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une opération coûteuse",
+                    "vocabularyCollocationMeaning": "代价高昂的行动"
+                }
+            ],
+            "synonymAnalysis": "coûteux vs cher vs onéreux：cher 最通用；coûteux 偏书面语，侧重「代价高」；onéreux 最正式，多用于法律和经济文体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "coût",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "费用，成本"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "coûter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "花费，值……钱"
+                }
+            ],
+            "genderNumberVariation": "阴性 coûteuse，阳性复数 coûteux，阴性复数 coûteuses",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "33",
+            "vocabulary": "obstacle",
+            "partOfSpeech": "n.m.",
+            "definition": "①障碍，阻碍 ②（体育）障碍物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "principal obstacle à qch.",
+                    "vocabularyCollocationMeaning": "……的主要障碍"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "surmonter un obstacle",
+                    "vocabularyCollocationMeaning": "克服障碍"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire obstacle à",
+                    "vocabularyCollocationMeaning": "阻碍……"
+                }
+            ],
+            "synonymAnalysis": "obstacle vs difficulté vs entrave：obstacle 为具体或抽象的障碍物；difficulté 更广泛，指困难；entrave 正式，多用于法律或书面语，强调束缚。",
+            "derivedWords": [],
+            "pluralForm": "obstacles"
+        },
+        {
+            "index": "34",
+            "vocabulary": "coût",
+            "partOfSpeech": "n.m.",
+            "definition": "费用，成本",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le coût du sac",
+                    "vocabularyCollocationMeaning": "袋子的成本"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réduire les coûts",
+                    "vocabularyCollocationMeaning": "降低成本"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "coût de la vie",
+                    "vocabularyCollocationMeaning": "生活成本"
+                }
+            ],
+            "synonymAnalysis": "coût vs prix：prix 指「价格」（市场标价）；coût 指「成本」（生产/经营所需的代价），更偏向生产或经营角度。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "coûter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "花费，值……钱"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "coûteux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "昂贵的，代价高的"
+                }
+            ],
+            "pluralForm": "coûts"
+        },
+        {
+            "index": "35",
+            "vocabulary": "nécessiter",
+            "partOfSpeech": "vt.",
+            "definition": "需要，必须有",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "nécessiter l'utilisation de qch.",
+                    "vocabularyCollocationMeaning": "需要使用某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cette situation nécessite une réaction rapide",
+                    "vocabularyCollocationMeaning": "这种情况需要迅速应对"
+                }
+            ],
+            "synonymAnalysis": "nécessiter vs avoir besoin de vs requérir：nécessiter 最正式，多用于书面；avoir besoin de 日常口语；requérir 书面法律语体。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nécessaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "必要的，必需的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "nécessité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "必要性；需要"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Biotec, un laboratoire de chimie verte installé en Allemagne, a réussi à produire des sacs en plastique qui contiennent 40% de matière végétale et peuvent se décomposer en moins de 90 jours. Malgré les difficultés rencontrées, le plastique végétal dispose de plusieurs caractéristiques particulières: il est doux au toucher, moins glissant, et sa décomposition demande moins d'énergie. Cependant, le principal obstacle à la vente reste son coût élevé, de 50% à 100% plus cher que le plastique traditionnel.",
+            "chineseTranslation": "Biotec是一家设于德国的绿色化学实验室，已成功研制出含有40%植物性材料的塑料袋，这种袋子可以在不到90天内自然分解。尽管研发过程困难重重，植物塑料仍展现出多项独特优势：触感柔和、不易打滑，且分解过程消耗的能量更少。然而，阻碍其销售的主要问题仍是成本——比传统塑料高出50%到100%。",
+            "fr2cnStrategy": "① installé en Allemagne 为后置分词定语，翻译时前置为「设于德国的」，语序调整；② qui contiennent 40%... et peuvent se décomposer 为定语从句，翻译时拆分为独立分句「这种袋子可以……」，属于拆句处理；③ Malgré 让步短语翻译为「尽管……仍……」，保留对比张力；④ dispose de plusieurs caractéristiques 翻译为「展现出多项独特优势」，词性转换（名词→动词短语）；⑤ sa décomposition demande moins d'énergie 中抽象名词 décomposition 转化为动词「分解过程消耗」，体现法汉转换中名词→动词的常见策略；⑥ son coût élevé, de 50% à 100% plus cher 用破折号引出补充说明，使中文更具节奏感。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "这家实验室的目标是用植物性材料取代石油，从而更好地保护环境。",
+                "frenchTranslation": "L'objectif de ce laboratoire est de remplacer le pétrole par des matières végétales afin de mieux protéger l'environnement.",
+                "cn2frStrategy": "① 「目标是……」用表语不定式结构 l'objectif est de + inf.；② 「用A取代B」用 remplacer B par A（注意介词顺序：remplacer A par B，即 A 被 B 取代）；③ 「从而」表结果目的，用 afin de + inf.；④ 「更好地」用副词比较级 mieux。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "尽管目前成本较高，但随着使用量增加，这种产品的价格将会下降。",
+                "frenchTranslation": "Malgré un coût élevé pour l'instant, le prix de ce produit diminuera quand son utilisation deviendra plus grande.",
+                "cn2frStrategy": "① 「尽管……」用 malgré + 名词短语，不用 bien que（后者需虚拟式）；② 「随着……」用时间从句 quand + 将来时；③ 法语中时间从句（quand）引导将来事件时，从句谓语用简单将来时，不用现在时（这是汉译法的重要考点）；④ 「价格将会下降」用简单将来时 diminuera。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "在厚度相同的情况下，植物塑料的密度比石油制品更高，且触感更加柔和。",
+                "frenchTranslation": "À épaisseur égale, la densité du plastique végétal est supérieure à celle des produits issus du pétrole, et il est plus doux au toucher.",
+                "cn2frStrategy": "① 「在厚度相同的情况下」直接使用课文固定短语 à épaisseur égale；② 「密度更高」用形容词比较级 supérieure à，注意 supérieur/inférieur 不用 plus...que，直接接 à；③ 「石油制品」用 les produits issus du pétrole，issu de 需性数一致（produits 阳性复数，无变化）；④ 「celle」指示代词代替前文提到的 densité，避免重复。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "据Biotec称，若要在法国完全实现这一替代，仅需占用4%的农业用地。",
+                "frenchTranslation": "Selon Biotec, pour réaliser totalement ce remplacement en France, il ne faudrait que 4% des surfaces agricoles françaises.",
+                "cn2frStrategy": "① 「据……称」用 selon + 名词置于句首；② 「若要……」用不定式短语 pour + inf. 表目的/条件，简洁于 si l'on voulait + 条件句；③ 「仅需」用 il ne faut que + 名词，条件式 ne faudrait que 与课文语气一致，体现新闻体条件式用法；④ 「农业用地」用课文原词 surfaces agricoles。"
+            }
+        ]
+    }
+}

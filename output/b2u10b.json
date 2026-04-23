@@ -1,0 +1,966 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Conçus en 1998, les travaux commencèrent en 2001 et furent terminés en 2007.",
+            "translatedSentence": "工程于1998年设计，2001年动工，2007年竣工。",
+            "sentenceStructure": "Conçus en 1998 为过去分词短语作状语，修饰主语 les travaux；主句为 les travaux commencèrent en 2001 et furent terminés en 2007，由 et 连接两个并列谓语。",
+            "grammarAnalysis": "① conçus 是 concevoir 的过去分词，与主语 les travaux（阳性复数）性数一致；此处表被动含义（工程被设计），为分词短语作状语的用法。② furent terminés 为简单过去时被动语态（être + 过去分词）。③ commencèrent 为 commencer 的简单过去时第三人称复数。",
+            "commonMistakes": "学生易将开头的 Conçus 误认为是谓语动词，实为过去分词短语；另需注意 furent terminés 是被动语态而非主动。"
+        },
+        {
+            "index": 2,
+            "sentence": "Cette longue période d'études lui permit d'acquérir deux diplômes, l'un d'ingénieur et l'autre d'architecte.",
+            "translatedSentence": "这段漫长的求学经历使他取得了两个学位，一个是工程师文凭，另一个是建筑师文凭。",
+            "sentenceStructure": "主语 Cette longue période d'études，谓语 permit，间接宾语 lui，直接宾语为不定式短语 d'acquérir deux diplômes；后接同位语 l'un d'ingénieur et l'autre d'architecte 解释两个学位。",
+            "grammarAnalysis": "① permettre à qn. de faire qch. 为固定结构，此处代词 lui 替代间接宾语，置于动词前。② l'un...l'autre 为固定搭配，表示“一个……另一个……”。③ permit 为 permettre 简单过去时第三人称单数。",
+            "commonMistakes": "l'un...l'autre 仅用于两者之间的对举；三者及以上应用 l'un...les autres 或 l'un...l'autre...le troisième。注意 permettre 的间接宾语不可省略。"
+        },
+        {
+            "index": 3,
+            "sentence": "Grâce à ses idées et sa créativité, Paul Andreu fut choisi pour le Grand Théâtre national de Chine.",
+            "translatedSentence": "凭借其独到的构思和创造力，保罗·安德鲁被选中承担中国国家大剧院的设计工作。",
+            "sentenceStructure": "Grâce à ses idées et sa créativité 为介词短语作原因状语；主句 Paul Andreu fut choisi 为简单过去时被动语态；pour le Grand Théâtre national de Chine 为目的/用途状语。",
+            "grammarAnalysis": "① Grâce à 表积极原因，意为“多亏了，得益于”，与 à cause de（消极原因）相对。② fut choisi 为简单过去时被动语态（être + 过去分词），过去分词与主语性数一致（choisi，阳性单数）。",
+            "commonMistakes": "Grâce à 和 à cause de 均可译为“由于”，但前者用于积极结果，后者用于消极结果，不可混用。"
+        },
+        {
+            "index": 4,
+            "sentence": "Mais on se rappelait cependant qu'il fut critiqué en 2004, dès qu'une partie du terminal 2E de l'aéroport de Roissy se fut effondrée.",
+            "translatedSentence": "然而，人们仍然记得他曾在2004年遭受批评，那是在戴高乐机场2E航站楼的一部分坍塌之后不久。",
+            "sentenceStructure": "主句 on se rappelait cependant，后接 que 引导的宾语从句；宾语从句中主语 il，谓语 fut critiqué（简单过去时被动）；其后 dès que 引导时间状语从句，从句谓语为 se fut effondrée（先过去时）。",
+            "grammarAnalysis": "① se rappelait 为未完成过去时，表示持续的记忆状态。② fut critiqué 为简单过去时被动语态。③ dès que + 先过去时（passé antérieur）：se fut effondrée，表示在主句动作发生之前已完成的动作，为书面语用法，常与简单过去时连用。④ s'effondrer 为代词式动词，表示自身坍塌。",
+            "commonMistakes": "先过去时（passé antérieur）是考研较难的时态，由 avoir/être 的简单过去时 + 过去分词构成，仅用于书面语，通常在 dès que、aussitôt que、quand 等时间连词后与简单过去时搭配，表示“一……就……”。学生常与愈过去时（plus-que-parfait）混淆。"
+        },
+        {
+            "index": 5,
+            "sentence": "La municipalité de Beijing annonça que les premiers spectacles auraient lieu en automne 2007.",
+            "translatedSentence": "北京市政府宣布，首批演出将于2007年秋季举行。",
+            "sentenceStructure": "主句 La municipalité de Beijing annonça，后接 que 引导的宾语从句；从句主语 les premiers spectacles，谓语 auraient lieu（条件式现在时），时间状语 en automne 2007。",
+            "grammarAnalysis": "① 宾语从句中使用条件式现在时（conditionnel présent）表示过去将来时，是时态呼应（concordance des temps）规则的体现：主句为过去时（annonça），从句中对应“将来”用条件式现在时。② avoir lieu 为固定短语，意为“举行，发生”，不可替换为 se passer 等。",
+            "commonMistakes": "时态呼应是考研常考点：主句为过去时时，从句中本应用将来时（futur simple）的地方需改为条件式现在时（conditionnel présent）。学生常直接写 auront lieu，忽略时态呼应。"
+        },
+        {
+            "index": 6,
+            "sentence": "Enfin il fut choisi pour construire un autre très gros projet : Oceanus de Macao dont le plus grand casino d'Asie.",
+            "translatedSentence": "最终，他被选中承建另一个超大型项目——澳门的综合娱乐城“澳门大洋城”，其中包括亚洲最大的赌场。",
+            "sentenceStructure": "主句 il fut choisi pour construire un autre très gros projet，冒号后为同位语 Oceanus de Macao，其后 dont 引导关系从句修饰 Oceanus de Macao，le plus grand casino d'Asie 为从句谓语部分（省略了 est）。",
+            "grammarAnalysis": "① fut choisi 为简单过去时被动语态。② pour + 不定式表目的。③ dont 为关系代词，替代 de + 先行词，此处 dont le plus grand casino d'Asie 相当于 et son plus grand casino est en Asie，dont 表领属关系。",
+            "commonMistakes": "dont 引导的关系从句中，dont 替代 de + 名词，后接完整的句子结构（主语+谓语），即 dont + 主语 + 谓语；不可写为 dont est le plus grand casino d'Asie（语序错误）。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "à côté de + lieu",
+            "meaning": "在……旁边，紧邻……",
+            "usage": "介词短语，表示位置，后接名词或代词。注意区分 à côté de（旁边）和 près de（附近，范围更大）。",
+            "exampleSentence": "construit juste à côté du Palais de l'Assemblée nationale populaire"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "faire ses études à / dans",
+            "meaning": "在……就读，在……完成学业",
+            "usage": "固定表达，études 用复数，介词视语境用 à（+学校专有名词）或 dans（+普通名词）。",
+            "exampleSentence": "Il fit ses études successivement à l'École polytechnique, à l'École des Ponts et chaussées et à l'École des Beaux-Arts."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "permettre à qn. de faire qch.",
+            "meaning": "使某人得以做某事",
+            "usage": "固定结构：permettre + 间接宾语（à qn.）+ de + 不定式。人称代词作间接宾语时前置动词：lui/leur permit de faire。",
+            "exampleSentence": "Cette longue période d'études lui permit d'acquérir deux diplômes."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "rejoindre + qch./qn.",
+            "meaning": "加入（组织）；与……重聚；回到（岗位）",
+            "usage": "直接及物动词，不加介词，宾语可为人或机构。",
+            "exampleSentence": "En 1968, il rejoignit la Société des aéroports de Paris."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "depuis lors",
+            "meaning": "从那时起，此后",
+            "usage": "副词短语，书面语色彩，相当于 depuis ce moment-là，通常置于句首或句中。",
+            "exampleSentence": "Depuis lors, ses œuvres se trouvèrent dans plusieurs pays."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être élu membre de",
+            "meaning": "被选为……成员",
+            "usage": "élire + 表语结构，表语前不加冠词；élu 为过去分词，被动语态中与主语性数一致。",
+            "exampleSentence": "Paul Andreu fut élu membre de l'Académie des beaux-arts en 1996."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "recevoir + prix / récompense",
+            "meaning": "获得（奖项）",
+            "usage": "直接及物动词，固定搭配，比 gagner 更正式，多用于书面奖项场合。",
+            "exampleSentence": "il reçut en décembre 2006 le Grand Prix de l'Académie internationale d'architecture."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "pour l'ensemble de son œuvre",
+            "meaning": "因其全部作品，以表彰其整体成就",
+            "usage": "固定表达，常用于颁奖场合，pour 表原因/依据，l'ensemble de 意为“全部，整体”。",
+            "exampleSentence": "il reçut le Grand Prix de l'Académie internationale d'architecture pour l'ensemble de son œuvre."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "grâce à + n.",
+            "meaning": "多亏，得益于（积极原因）",
+            "usage": "表积极原因，后接名词短语；与 à cause de（消极原因）相对，不可混用。",
+            "exampleSentence": "Grâce à ses idées et sa créativité, Paul Andreu fut choisi pour le Grand Théâtre national de Chine."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "tenir à + inf. / n.",
+            "meaning": "坚持要；重视；在意",
+            "usage": "代词式动词，后接不定式或名词。表示主动坚持或强调某事的重要性。",
+            "exampleSentence": "la Chine avait immédiatement tenu à préciser que la conception du Grand Théâtre national n'avait rien à voir avec l'aéroport parisien"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "n'avoir rien à voir avec",
+            "meaning": "与……毫无关系",
+            "usage": "固定否定搭配，avoir à voir avec 意为“与……有关”，加 rien 表示完全无关。书面口语均可用。",
+            "exampleSentence": "la conception du Grand Théâtre national n'avait rien à voir avec l'aéroport parisien"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "avoir lieu",
+            "meaning": "举行，发生",
+            "usage": "固定短语，主语通常为事件、活动，不可用 se passer 替换（后者多指偶发事件）；无被动形式。",
+            "exampleSentence": "les premiers spectacles auraient lieu en automne 2007"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "être choisi pour + inf.",
+            "meaning": "被选中来（做某事）",
+            "usage": "被动结构，choisir qn. pour faire qch. 的被动式；pour 后接动词不定式表目的。",
+            "exampleSentence": "il fut choisi pour construire un autre très gros projet"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "concevoir",
+            "partOfSpeech": "vt.",
+            "definition": "①设计，构思 ②理解，领会 ③怀（孕）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "concevoir un projet",
+                    "vocabularyCollocationMeaning": "构思一个方案"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "concevoir un bâtiment",
+                    "vocabularyCollocationMeaning": "设计一座建筑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mal concevoir qch.",
+                    "vocabularyCollocationMeaning": "对某事理解有误"
+                }
+            ],
+            "synonymAnalysis": "concevoir vs créer：concevoir 强调在脑中构思、设计的过程；créer 强调从无到有的创造行为，结果导向更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conception",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "构思，设计；观念，概念"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concepteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "设计者，构思者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "concept",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "概念，观念"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je conçois, tu conçois, il conçoit, nous concevons, vous concevez, ils conçoivent",
+                "compoundPast": "j'ai conçu",
+                "simpleFuture": "je concevrai",
+                "imperfect": "je concevais（词干 conceiv-）",
+                "memoryAids": "属于 -cevoir 类动词，与 recevoir、apercevoir、décevoir 变位规律相同；过去分词均为 -çu（conçu, reçu, aperçu, déçu）。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "palais",
+            "partOfSpeech": "n.m.",
+            "definition": "①宫殿，宫 ②大型公共建筑（如法院、剧院等）③上腭",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le Palais de l'Élysée",
+                    "vocabularyCollocationMeaning": "爱丽舍宫（法国总统府）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "palais de justice",
+                    "vocabularyCollocationMeaning": "法院大楼"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "palais des sports",
+                    "vocabularyCollocationMeaning": "体育馆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "palais（单复数同形，词尾已有 s）"
+        },
+        {
+            "index": "3",
+            "vocabulary": "assemblée",
+            "partOfSpeech": "n.f.",
+            "definition": "①议会，议院 ②大会，集会 ③（与会）人员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'Assemblée nationale",
+                    "vocabularyCollocationMeaning": "（法国）国民议会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'Assemblée nationale populaire",
+                    "vocabularyCollocationMeaning": "（中国）全国人民代表大会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une assemblée générale",
+                    "vocabularyCollocationMeaning": "全体大会，股东大会"
+                }
+            ],
+            "synonymAnalysis": "assemblée vs réunion：assemblée 指规模较大的正式集会或政治机构；réunion 泛指一般性会议或聚会，规模较小。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "assembler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "召集，聚集；组装"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'assembler",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "聚集，集合"
+                }
+            ],
+            "pluralForm": "assemblées"
+        },
+        {
+            "index": "4",
+            "vocabulary": "brillant",
+            "partOfSpeech": "adj.",
+            "definition": "①杰出的，出色的 ②闪亮的，发光的 ③（颜色）鲜艳的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un étudiant brillant",
+                    "vocabularyCollocationMeaning": "一个优秀的学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une carrière brillante",
+                    "vocabularyCollocationMeaning": "辉煌的职业生涯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un avenir brillant",
+                    "vocabularyCollocationMeaning": "光明的前途"
+                }
+            ],
+            "synonymAnalysis": "brillant vs excellent：brillant 侧重闪耀、出众，带有光彩夺目之感；excellent 侧重质量上的优秀，较为中性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "briller",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "闪耀；出色，表现突出"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "brillamment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "出色地，精彩地"
+                }
+            ],
+            "genderNumberVariation": "阴性 brillante，阳性复数 brillants，阴性复数 brillantes",
+            "position": "通常置于名词之后；但在 un brillant étudiant 等抽象赞美语境中也可前置。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "chaussée",
+            "partOfSpeech": "n.f.",
+            "definition": "①马路，行车道 ②路基，堤道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'École des Ponts et Chaussées",
+                    "vocabularyCollocationMeaning": "（法国）国立路桥学校"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "traverser la chaussée",
+                    "vocabularyCollocationMeaning": "穿越马路"
+                }
+            ],
+            "synonymAnalysis": "chaussée vs route vs rue：chaussée 特指供车辆行驶的路面部分；route 指连接城市的公路；rue 指城市中的街道。",
+            "derivedWords": [],
+            "pluralForm": "chaussées"
+        },
+        {
+            "index": "6",
+            "vocabulary": "diplômé",
+            "partOfSpeech": "adj.",
+            "definition": "①有文凭的，持有学位的 ②（作名词用）持证人，毕业生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être diplômé de + école",
+                    "vocabularyCollocationMeaning": "毕业于……（学校）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un diplômé d'ingénieur",
+                    "vocabularyCollocationMeaning": "工程师学位持有者"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "diplôme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "文凭，学位证书"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "diplômer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "授予文凭"
+                }
+            ],
+            "genderNumberVariation": "阴性 diplômée，阳性复数 diplômés，阴性复数 diplômées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "7",
+            "vocabulary": "rejoindre",
+            "partOfSpeech": "vt.",
+            "definition": "①加入（组织、团体）②与……重聚，追上 ③回到（工作岗位）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rejoindre une société",
+                    "vocabularyCollocationMeaning": "加入一家公司"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rejoindre qn.",
+                    "vocabularyCollocationMeaning": "与某人重聚；追上某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rejoindre son poste",
+                    "vocabularyCollocationMeaning": "返回工作岗位"
+                }
+            ],
+            "synonymAnalysis": "rejoindre vs intégrer：rejoindre 侧重“回归”或“加入”的动态过程；intégrer 更强调融入并成为其中一员的状态。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je rejoins, tu rejoins, il rejoint, nous rejoignons, vous rejoignez, ils rejoignent",
+                "compoundPast": "j'ai rejoint",
+                "simpleFuture": "je rejoindrai",
+                "memoryAids": "属于 -joindre 类动词，与 joindre、adjoindre、disjoindre 变位相同；注意过去分词 rejoint 无词尾 e。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "lors",
+            "partOfSpeech": "adv.",
+            "definition": "那时，当时（书面语）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "depuis lors",
+                    "vocabularyCollocationMeaning": "从那时起"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lors de + n.",
+                    "vocabularyCollocationMeaning": "在……期间，于……之时"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dès lors",
+                    "vocabularyCollocationMeaning": "从那时起；因此"
+                }
+            ],
+            "synonymAnalysis": "lors de vs pendant vs au moment de：lors de 为书面语，指某一特定时刻或事件期间；pendant 较口语化，强调持续时间段；au moment de 强调恰在某动作发生的瞬间。",
+            "derivedWords": [],
+            "useExplanation": "lors 单独使用时为副词，意为“那时”，较为古旧；现代法语中多以 depuis lors、lors de、dès lors 等固定短语形式出现，具有书面语色彩。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "aérogare",
+            "partOfSpeech": "n.f.",
+            "definition": "①航站楼 ②（市区）航空候机站",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'aérogare du Kansai",
+                    "vocabularyCollocationMeaning": "关西国际机场航站楼"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aérogare internationale",
+                    "vocabularyCollocationMeaning": "国际航站楼"
+                }
+            ],
+            "synonymAnalysis": "aérogare vs terminal vs aéroport：aéroport 指整个机场；aérogare 特指供旅客使用的候机楼/航站楼；terminal 与 aérogare 含义相近，均指航站楼，在现代法语中 terminal 更常用。",
+            "derivedWords": [],
+            "pluralForm": "aérogares"
+        },
+        {
+            "index": "10",
+            "vocabulary": "arche",
+            "partOfSpeech": "n.f.",
+            "definition": "①拱门，拱形建筑 ②（桥的）桥拱 ③（圣经中的）方舟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'Arche de la Défense",
+                    "vocabularyCollocationMeaning": "（巴黎）拉德芳斯新凯旋门"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'arche de Noé",
+                    "vocabularyCollocationMeaning": "诺亚方舟"
+                }
+            ],
+            "synonymAnalysis": "arche vs arc：arc 泛指弧形或弓形；arche 特指建筑中的拱门结构，或方舟（宗教含义）。",
+            "derivedWords": [],
+            "pluralForm": "arches"
+        },
+        {
+            "index": "11",
+            "vocabulary": "défense",
+            "partOfSpeech": "n.f.",
+            "definition": "①防守，防卫 ②禁止 ③（法律）辩护 ④（固有名词）拉德芳斯（巴黎商务区）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "défense nationale",
+                    "vocabularyCollocationMeaning": "国防"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "défense de fumer",
+                    "vocabularyCollocationMeaning": "禁止吸烟"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la Défense",
+                    "vocabularyCollocationMeaning": "（巴黎）拉德芳斯区"
+                }
+            ],
+            "synonymAnalysis": "défense vs protection：défense 强调主动抵御或禁止；protection 强调被动保护免受伤害。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "défendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "保卫；禁止；辩护"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "défenseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "捍卫者；辩护律师"
+                }
+            ],
+            "pluralForm": "défenses"
+        },
+        {
+            "index": "12",
+            "vocabulary": "terminal",
+            "partOfSpeech": "n.m.",
+            "definition": "①终点站 ②（机场）航站楼 ③（计算机）终端",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le terminal 2E",
+                    "vocabularyCollocationMeaning": "2E航站楼"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "terminal pétrolier",
+                    "vocabularyCollocationMeaning": "石油终端港"
+                }
+            ],
+            "synonymAnalysis": "terminal vs aérogare：两者均可指机场航站楼，terminal 在当代更通用，也可指火车、港口等交通终点站。",
+            "derivedWords": [],
+            "pluralForm": "terminaux（不规则复数）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "tunnel",
+            "partOfSpeech": "n.m.",
+            "definition": "①地道，隧道 ②（比喻）困难时期，低谷",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le tunnel sous la Manche",
+                    "vocabularyCollocationMeaning": "英吉利海峡隧道"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voir le bout du tunnel",
+                    "vocabularyCollocationMeaning": "看到隧道尽头（比喻度过难关）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "tunnels"
+        },
+        {
+            "index": "14",
+            "vocabulary": "élire",
+            "partOfSpeech": "vt.",
+            "definition": "①选举，推选 ②（正式/书面）选择（住所）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être élu membre de",
+                    "vocabularyCollocationMeaning": "被选为……成员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "élire domicile",
+                    "vocabularyCollocationMeaning": "定居，选定居所（法律用语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "élire qn. président",
+                    "vocabularyCollocationMeaning": "选举某人为主席/总统"
+                }
+            ],
+            "synonymAnalysis": "élire vs voter pour：élire 是“选举出”的结果动词；voter pour 表示“投票支持”的过程动作。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "élection",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "选举"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "élu",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "当选者，民选官员"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "électeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "选民，投票人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'élis, tu élis, il élit, nous élisons, vous élisez, ils élisent",
+                "compoundPast": "j'ai élu",
+                "simpleFuture": "j'élirai",
+                "memoryAids": "属于 -lire 类动词，与 lire（je lis）变位规律相同；注意过去分词 élu（不是 élit）。"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "effondrer",
+            "partOfSpeech": "vt.",
+            "definition": "①使坍塌，使倒塌 ②使崩溃，使瓦解",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'effondrer",
+                    "vocabularyCollocationMeaning": "坍塌，倒塌；（人）精神崩溃"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'effondrer en larmes",
+                    "vocabularyCollocationMeaning": "突然号啕大哭"
+                }
+            ],
+            "synonymAnalysis": "s'effondrer vs tomber：s'effondrer 强调整体性崩塌，程度更剧烈；tomber 指一般性倒下。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "effondrement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "坍塌，崩溃"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "préciser",
+            "partOfSpeech": "vt.",
+            "definition": "①明确说明，指明 ②详细说明，补充说明",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préciser que + proposition",
+                    "vocabularyCollocationMeaning": "明确指出……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "préciser les détails",
+                    "vocabularyCollocationMeaning": "说明细节"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tenir à préciser",
+                    "vocabularyCollocationMeaning": "坚持要说明"
+                }
+            ],
+            "synonymAnalysis": "préciser vs expliquer vs clarifier：préciser 侧重补充说明具体细节；expliquer 侧重阐述原因或过程；clarifier 侧重消除模糊，使之清晰。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "précis",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "精确的，明确的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "précision",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "精确，精度；详细说明"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "précisément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "确切地，正好"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "conception",
+            "partOfSpeech": "n.f.",
+            "definition": "①构思，设计 ②观念，概念，思想",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la conception d'un bâtiment",
+                    "vocabularyCollocationMeaning": "建筑的设计构思"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conception assistée par ordinateur",
+                    "vocabularyCollocationMeaning": "计算机辅助设计（CAO）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une conception du monde",
+                    "vocabularyCollocationMeaning": "世界观"
+                }
+            ],
+            "synonymAnalysis": "conception vs idée：conception 更正式，指系统性的构思或设计过程；idée 更口语，指一般性想法。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concevoir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "设计，构思"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concept",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "概念"
+                }
+            ],
+            "pluralForm": "conceptions"
+        },
+        {
+            "index": "18",
+            "vocabulary": "danger",
+            "partOfSpeech": "n.m.",
+            "definition": "①危险，危害 ②险情，威胁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "présenter un danger",
+                    "vocabularyCollocationMeaning": "造成危险"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en danger",
+                    "vocabularyCollocationMeaning": "处于危险中"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hors de danger",
+                    "vocabularyCollocationMeaning": "脱离危险"
+                }
+            ],
+            "synonymAnalysis": "danger vs risque：danger 指客观存在的危险；risque 指可能发生的风险，偏向概率层面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dangereux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "危险的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dangereusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "危险地"
+                }
+            ],
+            "pluralForm": "dangers"
+        },
+        {
+            "index": "19",
+            "vocabulary": "municipalité",
+            "partOfSpeech": "n.f.",
+            "definition": "①市政府，市政当局 ②市区，市域",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la municipalité de Beijing",
+                    "vocabularyCollocationMeaning": "北京市政府"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les élus de la municipalité",
+                    "vocabularyCollocationMeaning": "市政府民选官员"
+                }
+            ],
+            "synonymAnalysis": "municipalité vs mairie：mairie 指市政厅（建筑物或机构）；municipalité 更广泛，指整个市政体系或行政区域。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "municipal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "市政的，市立的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "commune",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "市镇（法国最基层行政单位）"
+                }
+            ],
+            "pluralForm": "municipalités"
+        },
+        {
+            "index": "20",
+            "vocabulary": "inauguration",
+            "partOfSpeech": "n.f.",
+            "definition": "①落成典礼，开幕式 ②（正式）启用，开始",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inauguration d'un bâtiment",
+                    "vocabularyCollocationMeaning": "建筑物落成典礼"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cérémonie d'inauguration",
+                    "vocabularyCollocationMeaning": "开幕仪式"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "discours d'inauguration",
+                    "vocabularyCollocationMeaning": "就职演说"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inaugurer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "为……举行落成典礼；开始，开创"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inaugural",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "就职的，开幕的"
+                }
+            ],
+            "pluralForm": "inaugurations"
+        },
+        {
+            "index": "21",
+            "vocabulary": "gymnase",
+            "partOfSpeech": "n.m.",
+            "definition": "①体育馆，健身房 ②（瑞士、德国等）文理中学",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le gymnase de Guangdong",
+                    "vocabularyCollocationMeaning": "广东体育馆"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aller au gymnase",
+                    "vocabularyCollocationMeaning": "去健身房"
+                }
+            ],
+            "synonymAnalysis": "gymnase vs stade：gymnase 指室内体育馆或健身房；stade 指有跑道的室外运动场/体育场。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gymnaste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "体操运动员"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gymnastique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "体操，体育"
+                }
+            ],
+            "pluralForm": "gymnases"
+        },
+        {
+            "index": "22",
+            "vocabulary": "administratif",
+            "partOfSpeech": "adj.",
+            "definition": "①行政的，管理的 ②行政程序繁琐的（口语，略带贬义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "centre administratif",
+                    "vocabularyCollocationMeaning": "行政中心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "document administratif",
+                    "vocabularyCollocationMeaning": "行政文件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tribunal administratif",
+                    "vocabularyCollocationMeaning": "行政法庭"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "administration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "行政，管理；政府机构"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "administrateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "管理者，行政人员"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "administrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "管理，行政管辖"
+                }
+            ],
+            "genderNumberVariation": "阴性 administrative，阳性复数 administratifs，阴性复数 administratives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "23",
+            "vocabulary": "casino",
+            "partOfSpeech": "n.m.",
+            "definition": "①赌场 ②（海滨、温泉）娱乐场，综合休闲中心",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le plus grand casino d'Asie",
+                    "vocabularyCollocationMeaning": "亚洲最大的赌场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "jouer au casino",
+                    "vocabularyCollocationMeaning": "在赌场赌博"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "casinos"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Conçus en 1998, les travaux commencèrent en 2001 et furent terminés en 2007. Grâce à ses idées et sa créativité, Paul Andreu fut choisi pour le Grand Théâtre national de Chine. Cette longue période d'études lui permit d'acquérir deux diplômes, l'un d'ingénieur et l'autre d'architecte. La municipalité de Beijing annonça que les premiers spectacles auraient lieu en automne 2007.",
+            "chineseTranslation": "工程于1998年完成设计，2001年正式动工，至2007年竣工。凭借独到的创意与设计才华，保罗·安德鲁被选中承担中国国家大剧院的设计工作。这段漫长的求学经历使他先后取得了工程师和建筑师两个学位。北京市政府宣布，首批演出将于2007年秋季举行。",
+            "fr2cnStrategy": "① Conçus en 1998 为过去分词短语作状语，将其前置并补充主语“工程”，调整语序译为“工程于1998年完成设计”，属于增译和语序调整；② Grâce à 表积极原因，译为“凭借”，比直译“多亏”更自然；③ lui permit d'acquérir 含使役义，译为“使他……取得”，保留动词结构；④ l'un d'ingénieur et l'autre d'architecte 为同位语，译为“工程师和建筑师两个学位”，将两个分项合并，减少重复，属于减译整合；⑤ auraient lieu（条件式现在时作过去将来）译为“将……举行”，体现时态呼应的翻译处理。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "多亏了他的创造力，这座建筑被选为该市最重要的文化工程之一。",
+                "frenchTranslation": "Grâce à sa créativité, ce bâtiment fut choisi comme l'un des projets culturels les plus importants de la ville.",
+                "cn2frStrategy": "① “多亏了”用 Grâce à + n.，置于句首；② “被选为”用被动语态 fut choisi comme，简单过去时与上下文一致；③ “最重要的……之一”用 l'un des + 形容词最高级 + n. 结构，注意形容词后置。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "这段求学经历使他有机会在多个国家从事建筑设计工作。",
+                "frenchTranslation": "Cette période d'études lui permit de travailler dans plusieurs pays en tant qu'architecte.",
+                "cn2frStrategy": "① “使他有机会做……”用 permettre à qn. de faire qch.，人称代词 lui 前置；② “从事建筑设计工作”用 travailler en tant qu'architecte 表达职业身份；③ “在多个国家”用 dans plusieurs pays，介词用 dans 而非 à（多个国家用 dans）。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "市政府宣布，落成典礼将于明年春天举行。",
+                "frenchTranslation": "La municipalité annonça que la cérémonie d'inauguration aurait lieu au printemps de l'année suivante.",
+                "cn2frStrategy": "① “市政府”译为 la municipalité，比 le gouvernement 更精确；② 时态呼应：主句 annonça 为简单过去时，从句“将……举行”需用条件式现在时 aurait lieu，而非将来时；③ avoir lieu 为“举行”的固定搭配；④ “明年”在过去叙述语境中译为 l'année suivante（而非 l'année prochaine）。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他于1996年当选为法兰西美术院院士，并因其全部建筑作品获得了一项国际大奖。",
+                "frenchTranslation": "Il fut élu membre de l'Académie des beaux-arts en 1996 et reçut un grand prix international pour l'ensemble de ses œuvres architecturales.",
+                "cn2frStrategy": "① “当选为……成员”用 être élu membre de，être élu 为被动，membre 前不加冠词；② “因……获得”中原因用 pour，表依据；③ “全部作品”用 pour l'ensemble de ses œuvres，固定搭配；④ 两个并列动词均用简单过去时，用 et 连接，保持时态一致。"
+            }
+        ]
+    }
+}

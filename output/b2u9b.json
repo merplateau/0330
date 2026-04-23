@@ -1,0 +1,954 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Marie Curie fut incontestablement la femme de science la plus célèbre.",
+            "translatedSentence": "玛丽·居里无疑是最著名的女科学家。",
+            "sentenceStructure": "主语 Marie Curie — 系动词 fut — 表语 la femme de science la plus célèbre；最高级定语后置修饰 femme。",
+            "grammarAnalysis": "① fut 为 être 的简单过去时，用于叙述历史事实；② la plus célèbre 为最高级结构，形容词后置修饰 femme de science；③ incontestablement 为副词，修饰整个谓语，置于谓语前强调语气。",
+            "commonMistakes": "注意最高级结构中定冠词的性数一致：la femme...la plus célèbre，两个 la 均为阴性单数，不可省略前一个。勿将 fut 误认为 être 的条件式。"
+        },
+        {
+            "index": 2,
+            "sentence": "Polonaise, née à Varsovie le 7 novembre 1867, elle décida d'aller à Paris en 1891 pour y poursuivre ses études en sciences physiques et en mathématiques, quand elle avait fini ses études au lycée à Varsovie, car l'université de Varsovie n'autorisait pas en effet l'accès des femmes à l'université.",
+            "translatedSentence": "她是波兰人，1867年11月7日生于华沙，1891年决定前往巴黎攻读物理和数学，彼时她已在华沙完成高中学业，因为华沙大学实际上不允许女性进入大学就读。",
+            "sentenceStructure": "主句：elle décida d'aller à Paris en 1891 pour y poursuivre ses études；前置同位语：Polonaise, née à Varsovie le 7 novembre 1867（描述主语身份）；时间状语从句：quand elle avait fini ses études au lycée；原因状语从句：car l'université de Varsovie n'autorisait pas...。",
+            "grammarAnalysis": "① Polonaise, née... 为前置分词/形容词短语，作主语的同位语；② décider de + inf. 固定搭配；③ pour y poursuivre 目的状语，y 代指 Paris；④ quand 引导时间状语从句，从句时态用愈过去时（avait fini）表示先于主句动作完成；⑤ car 引导原因从句，比 parce que 更正式，多用于书面语。",
+            "commonMistakes": "① quand 从句用愈过去时（plus-que-parfait）而非复合过去时，因为“完成高中学业”先于“决定去巴黎”；② y 代替地点 à Paris，位于动词前，初学者易遗漏；③ car 后不能用于回答问题，只能引导补充说明原因的从句。"
+        },
+        {
+            "index": 3,
+            "sentence": "En 1896, elle fut classée première à l'agrégation de physique.",
+            "translatedSentence": "1896年，她在物理教师资格考试中名列第一。",
+            "sentenceStructure": "时间状语 En 1896 — 主语 elle — 被动语态 fut classée — 补语 première — 地点状语 à l'agrégation de physique。",
+            "grammarAnalysis": "① fut classée 为被动语态简单过去时，由 être（简单过去时）+ 过去分词构成；② première 作表语补语，与主语 elle（阴性）保持性数一致；③ à l'agrégation 表示“在……考试中”，介词 à 表示场合或范围。",
+            "commonMistakes": "被动语态过去分词须与主语性数一致：elle（阴性）→ classée（加 e）；若主语为阳性则为 classé。勿将 fut 与复合过去时混淆，此处为文学语体的简单过去时。"
+        },
+        {
+            "index": 4,
+            "sentence": "Pour avoir isolé du radium métallique et déterminé sa masse atomique, elle reçut le prix Nobel de chimie le 10 décembre 1911.",
+            "translatedSentence": "由于成功分离出金属镭并测定了其原子质量，她于1911年12月10日荣获诺贝尔化学奖。",
+            "sentenceStructure": "原因状语：Pour avoir isolé...et déterminé...（不定式完成式表先行原因）— 主句：elle reçut le prix Nobel de chimie le 10 décembre 1911。",
+            "grammarAnalysis": "① pour + infinitif passé 表示原因，意为“由于（已经）做了某事”，不定式完成式（avoir + p.p.）表示该动作先于主句发生；② isoler du radium 中 du 为部分冠词；③ reçut 为 recevoir 的简单过去时。",
+            "commonMistakes": "pour + infinitif passé 表原因（因为做了……）与 pour + infinitif présent 表目的（为了做……）须严格区分：前者不定式用完成式，强调先行动作；后者用现在式，强调将来意图。"
+        },
+        {
+            "index": 5,
+            "sentence": "Elle fut aussi la première femme à siéger à l'Académie des Sciences.",
+            "translatedSentence": "她也是第一位在科学院任职的女性。",
+            "sentenceStructure": "主语 Elle — 系动词 fut — 表语 la première femme — 不定式补语 à siéger à l'Académie des Sciences。",
+            "grammarAnalysis": "① la première femme à + inf. 是固定结构，表示”第一个做某事的……”，形容词最高级后接 à + 不定式作补充说明；② siéger 为不规则动词，本义”坐”，引申义”任职、占有席位”；③ à l'Académie des Sciences 为地点状语。",
+            "commonMistakes": "la première/dernière/seule + n. + à + inf. 结构中，介词必须用 à，不可用 de 或 pour。此结构在考研翻译中高频出现，需熟练掌握。"
+        },
+        {
+            "index": 6,
+            "sentence": "Enfin, elle fut la première femme à entrer au Panthéon en 1995 en reconnaissance de son œuvre scientifique et de ses mérites.",
+            "translatedSentence": "最终，她于1995年以其科学成就和个人功绩为由，成为第一位进入先贤祠的女性。",
+            "sentenceStructure": "主句：elle fut la première femme à entrer au Panthéon en 1995；方式/原因状语：en reconnaissance de son œuvre scientifique et de ses mérites。",
+            "grammarAnalysis": "① la première femme à entrer 结构同上（最高级 + à + inf.）；② en reconnaissance de 为固定介词短语，意为“以……为认可/作为对……的认可”；③ œuvre 此处为 n.f.，指”（科学）成就/著作”。",
+            "commonMistakes": "en reconnaissance de 易与 avec reconnaissance（感激地）混淆：前者表”作为对……的认可/嘉奖”，后接名词；后者表态度副词，修饰动词。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "décider de faire qch.",
+            "meaning": "决定做某事",
+            "usage": "décider 后接 de + 不定式，de 不可省略，也不可换成 à。",
+            "exampleSentence": "elle décida d'aller à Paris en 1891 pour y poursuivre ses études"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "poursuivre ses études (en qch.)",
+            "meaning": "继续（某方面的）学业",
+            "usage": "poursuivre 表”继续、追求”，ses études 为固定搭配；专业方向用介词 en。",
+            "exampleSentence": "pour y poursuivre ses études en sciences physiques et en mathématiques"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "autoriser qn. à faire qch.",
+            "meaning": "允许某人做某事",
+            "usage": "autoriser 后接间接宾语（人）+ à + 不定式；否定式 ne pas autoriser 表禁止。",
+            "exampleSentence": "l'université de Varsovie n'autorisait pas en effet l'accès des femmes à l'université"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "être reçu(e) à (un examen)",
+            "meaning": "通过（某考试）",
+            "usage": "recevoir 的被动式，à 后接考试名称；反义为 échouer à / être refusé(e) à。",
+            "exampleSentence": "Elle fut reçue à la licence en physique en 1893"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "être classé(e) premier/première (à qch.)",
+            "meaning": "名列第一（在……考试/排名中）",
+            "usage": "classer 的被动式；序数词与主语性数一致，à 后接考试或竞赛名称。",
+            "exampleSentence": "elle fut classée première à l'agrégation de physique"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "au cours de qch.",
+            "meaning": "在……过程中，在……期间",
+            "usage": "介词短语，后接名词，相当于 pendant，但更强调过程性；常用于书面语。",
+            "exampleSentence": "Au cours de ses recherches, Marie Curie découvrit en 1898 le thorium"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "en collaboration avec qn.",
+            "meaning": "与某人合作",
+            "usage": "固定介词短语，collaboration 前无冠词；相当于 avec la collaboration de qn.。",
+            "exampleSentence": "en collaboration avec Gustave Bémont, les Curie découvrirent le radium"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "couronner qn./qch. par/de qch.",
+            "meaning": "用……奖励/表彰；为……加冕",
+            "usage": "couronner 后接直接宾语（人或事），par 后接奖励内容；也可用被动式 être couronné(e) par。",
+            "exampleSentence": "Ses découvertes de la radioactivité naturelle furent couronnées par le prix Nobel de physique"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "occuper un poste (à responsabilités)",
+            "meaning": "担任（要职）",
+            "usage": "occuper 表”占据、担任”，poste 后可加形容词或介词短语修饰；是描述职务的正式表达。",
+            "exampleSentence": "la première femme à occuper un poste à responsabilités dans l'enseignement supérieur"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "pour avoir fait qch.",
+            "meaning": "由于（已经）做了某事",
+            "usage": "pour + 不定式完成式，表示先行原因，区别于 pour + 不定式现在式（表目的）。",
+            "exampleSentence": "Pour avoir isolé du radium métallique et déterminé sa masse atomique, elle reçut le prix Nobel de chimie"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "en reconnaissance de qch.",
+            "meaning": "作为对……的认可；以表彰……",
+            "usage": "固定介词短语，后接名词；常用于正式场合，表彰某人的贡献或功绩。",
+            "exampleSentence": "elle fut la première femme à entrer au Panthéon en 1995 en reconnaissance de son œuvre scientifique et de ses mérites"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "nommer qn. + titre/fonction",
+            "meaning": "任命某人担任……职务",
+            "usage": "nommer 直接及物，宾语后接职务名称（不加冠词）；被动式 être nommé(e) + 职务。",
+            "exampleSentence": "Marie Curie fut nommée Directrice du laboratoire de physique et de chimie"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "incontestablement",
+            "partOfSpeech": "adv.",
+            "definition": "无可争辩地，不容置疑地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "incontestablement le meilleur",
+                    "vocabularyCollocationMeaning": "无疑是最好的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est incontestablement vrai",
+                    "vocabularyCollocationMeaning": "这无疑是真的"
+                }
+            ],
+            "synonymAnalysis": "incontestablement vs indéniablement vs indiscutablement：三者均表”无可争辩地”，可互换；incontestablement 最常见，indéniablement 更强调”无法否认”，indiscutablement 强调”无可辩驳”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "incontestable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无可争辩的，不容置疑的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "contester",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "争辩，质疑"
+                }
+            ],
+            "useExplanation": "副词，通常置于被修饰的形容词或动词前，语体正式，多见于书面语。"
+        },
+        {
+            "index": "2",
+            "vocabulary": "Polonais",
+            "partOfSpeech": "n.m.",
+            "definition": "①波兰人（男性）②（小写）波兰语",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un Polonais / une Polonaise",
+                    "vocabularyCollocationMeaning": "一个波兰男人/波兰女人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "polonais",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "波兰的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "Pologne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "波兰（国名）"
+                }
+            ],
+            "pluralForm": "Polonais（阳性复数同形）；阴性单数 Polonaise，阴性复数 Polonaises"
+        },
+        {
+            "index": "3",
+            "vocabulary": "autoriser",
+            "partOfSpeech": "vt.",
+            "definition": "①准许，允许 ②授权",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "autoriser qn. à faire qch.",
+                    "vocabularyCollocationMeaning": "允许某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "autoriser qch.",
+                    "vocabularyCollocationMeaning": "批准某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être autorisé(e) à",
+                    "vocabularyCollocationMeaning": "被允许做……"
+                }
+            ],
+            "synonymAnalysis": "autoriser vs permettre：两者均表”允许”；permettre 更常用，语体中性；autoriser 更正式，常用于官方或制度性许可。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "autorisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "许可，批准"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "autorité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "权威，当局"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "agrégation",
+            "partOfSpeech": "n.f.",
+            "definition": "①（法国）大学教师资格考试（agrégation）②聚合，集合",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passer l'agrégation",
+                    "vocabularyCollocationMeaning": "参加大学教师资格考试"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être reçu(e) à l'agrégation",
+                    "vocabularyCollocationMeaning": "通过大学教师资格考试"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "agrégé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "通过大学教师资格考试者"
+                }
+            ],
+            "pluralForm": "agrégations"
+        },
+        {
+            "index": "5",
+            "vocabulary": "thorium",
+            "partOfSpeech": "n.m.",
+            "definition": "（化学元素）钍",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "découvrir le thorium",
+                    "vocabularyCollocationMeaning": "发现钍"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "thoriums（罕用）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "radioactif",
+            "partOfSpeech": "adj.m.",
+            "definition": "放射性的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une matière radioactive",
+                    "vocabularyCollocationMeaning": "放射性物质"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des déchets radioactifs",
+                    "vocabularyCollocationMeaning": "放射性废料"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "radioactivité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "放射性"
+                }
+            ],
+            "genderNumberVariation": "阴性 radioactive，阳性复数 radioactifs，阴性复数 radioactives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "7",
+            "vocabulary": "polonium",
+            "partOfSpeech": "n.m.",
+            "definition": "（化学元素）钋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "découvrir le polonium",
+                    "vocabularyCollocationMeaning": "发现钋"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "poloniums（罕用）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "radium",
+            "partOfSpeech": "n.m.",
+            "definition": "（化学元素）镭",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "isoler le radium",
+                    "vocabularyCollocationMeaning": "分离镭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "radium métallique",
+                    "vocabularyCollocationMeaning": "金属镭"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "radiums（罕用）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "découverte",
+            "partOfSpeech": "n.f.",
+            "definition": "①发现（行为）②发现物，新发现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une découverte",
+                    "vocabularyCollocationMeaning": "有所发现，取得新发现"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la découverte de qch.",
+                    "vocabularyCollocationMeaning": "……的发现"
+                }
+            ],
+            "synonymAnalysis": "découverte vs invention：découverte 指发现已客观存在之物（如元素、规律）；invention 指发明创造出原本不存在之物（如机器、方法）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "découvrir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "发现"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "découvreur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发现者"
+                }
+            ],
+            "pluralForm": "découvertes"
+        },
+        {
+            "index": "10",
+            "vocabulary": "radioactivité",
+            "partOfSpeech": "n.f.",
+            "definition": "放射性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la radioactivité naturelle",
+                    "vocabularyCollocationMeaning": "天然放射性"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étudier la radioactivité",
+                    "vocabularyCollocationMeaning": "研究放射性"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "radioactif",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "放射性的"
+                }
+            ],
+            "pluralForm": "radioactivités（罕用）"
+        },
+        {
+            "index": "11",
+            "vocabulary": "couronner",
+            "partOfSpeech": "vt.",
+            "definition": "①给……颁奖，表彰 ②为……加冕 ③（比喻）为……画上圆满的句号",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "couronner qn. par/de qch.",
+                    "vocabularyCollocationMeaning": "用……奖励某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être couronné(e) par le prix Nobel",
+                    "vocabularyCollocationMeaning": "荣获诺贝尔奖"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "couronner un effort",
+                    "vocabularyCollocationMeaning": "为努力画上圆满句号"
+                }
+            ],
+            "synonymAnalysis": "couronner vs récompenser：couronner 更正式，多指颁发重要奖项或最高荣誉；récompenser 语体中性，泛指奖励。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "couronne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "王冠；花冠"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "couronnement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "加冕；顶点"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "chaire",
+            "partOfSpeech": "n.f.",
+            "definition": "①教授职位 ②讲台，讲坛",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "occuper la chaire de qch.",
+                    "vocabularyCollocationMeaning": "担任……学科教授职位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chaire de physique",
+                    "vocabularyCollocationMeaning": "物理学教授席位"
+                }
+            ],
+            "synonymAnalysis": "chaire vs chaise vs siège：chaire 专指教授职位或讲坛；chaise 普通椅子；siège 泛指座位或席位（也可指职务）。三者形近，须注意区分。",
+            "derivedWords": [],
+            "pluralForm": "chaires"
+        },
+        {
+            "index": "13",
+            "vocabulary": "responsabilité",
+            "partOfSpeech": "n.f.",
+            "definition": "①责任，职责 ②（事故等的）责任",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir la responsabilité de qch.",
+                    "vocabularyCollocationMeaning": "负责某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "poste à responsabilités",
+                    "vocabularyCollocationMeaning": "要职，责任重大的职位"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prendre ses responsabilités",
+                    "vocabularyCollocationMeaning": "承担责任"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "responsable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "负责任的；应负责任的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "irresponsabilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不负责任"
+                }
+            ],
+            "pluralForm": "responsabilités"
+        },
+        {
+            "index": "14",
+            "vocabulary": "isoler",
+            "partOfSpeech": "vt.",
+            "definition": "①使隔离，使孤立 ②分离，提取（化学）③隔绝（声音、热量等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "isoler qn. de qch./qn.",
+                    "vocabularyCollocationMeaning": "将某人与……隔离"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "isoler un élément chimique",
+                    "vocabularyCollocationMeaning": "分离一种化学元素"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'isoler",
+                    "vocabularyCollocationMeaning": "将自己隔离；独处"
+                }
+            ],
+            "synonymAnalysis": "isoler vs séparer：isoler 强调完全切断联系，使处于孤立状态；séparer 泛指分开、分离，不一定是孤立。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "isolation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "隔离；绝缘"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "isolement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "孤立，孤独"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "isolé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "孤立的，偏僻的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "métallique",
+            "partOfSpeech": "adj.m.",
+            "definition": "①金属的，金属制的 ②（声音）金属般的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "radium métallique",
+                    "vocabularyCollocationMeaning": "金属镭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "voix métallique",
+                    "vocabularyCollocationMeaning": "金属质感的声音"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "métal",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "金属"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "métallurgie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "冶金学"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形 métallique，复数 métalliques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "16",
+            "vocabulary": "déterminer",
+            "partOfSpeech": "vt.",
+            "definition": "①确定，测定 ②决定，促使 ③限定，界定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "déterminer la masse atomique",
+                    "vocabularyCollocationMeaning": "测定原子质量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "déterminer qn. à faire qch.",
+                    "vocabularyCollocationMeaning": "促使某人做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se déterminer à",
+                    "vocabularyCollocationMeaning": "下定决心做……"
+                }
+            ],
+            "synonymAnalysis": "déterminer vs définir vs fixer：déterminer 强调通过分析、测量得出结论；définir 强调给出定义或界定范围；fixer 强调固定、确定（日期、价格等）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "détermination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "确定；决心"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "déterminé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "坚定的；确定的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "masse",
+            "partOfSpeech": "n.f.",
+            "definition": "①（物理）质量 ②大量，大批 ③群众，大众 ④（物体的）团，块",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "masse atomique",
+                    "vocabularyCollocationMeaning": "原子质量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en masse",
+                    "vocabularyCollocationMeaning": "大批地，成群地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les masses populaires",
+                    "vocabularyCollocationMeaning": "人民群众"
+                }
+            ],
+            "synonymAnalysis": "masse vs poids：物理学上，masse（质量）是物体固有属性，不随位置变化；poids（重量）是质量与重力加速度的乘积，随位置变化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "massif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "大量的；结实的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "massifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使大众化"
+                }
+            ],
+            "pluralForm": "masses"
+        },
+        {
+            "index": "18",
+            "vocabulary": "atomique",
+            "partOfSpeech": "adj.m.",
+            "definition": "①原子的 ②原子能的，核的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "masse atomique",
+                    "vocabularyCollocationMeaning": "原子质量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bombe atomique",
+                    "vocabularyCollocationMeaning": "原子弹"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "énergie atomique",
+                    "vocabularyCollocationMeaning": "原子能"
+                }
+            ],
+            "synonymAnalysis": "atomique vs nucléaire：在现代法语中，nucléaire 更常用于描述核能、核武器；atomique 在历史语境和物理学术语中仍保留使用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "atome",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "原子"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形 atomique，复数 atomiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "19",
+            "vocabulary": "nommer",
+            "partOfSpeech": "vt.",
+            "definition": "①给……命名，起名 ②任命，委任 ③提名",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "nommer qn. + 职务",
+                    "vocabularyCollocationMeaning": "任命某人担任……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être nommé(e) directeur/directrice",
+                    "vocabularyCollocationMeaning": "被任命为主任/主任（女）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se nommer",
+                    "vocabularyCollocationMeaning": "名叫，被称为"
+                }
+            ],
+            "synonymAnalysis": "nommer vs appeler vs désigner：nommer 既可表”命名”也可表”任命”；appeler 侧重”称呼”；désigner 侧重”指定、指派”，更正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nomination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "任命；提名"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "nom",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "名字，名称"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "ès",
+            "partOfSpeech": "prép.",
+            "definition": "关于，在……方面（专用于学位、资格名称前，为古语缩合形式）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "doctorat ès sciences",
+                    "vocabularyCollocationMeaning": "理学博士学位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "licence ès lettres",
+                    "vocabularyCollocationMeaning": "文学学士学位"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "ès 是古法语 en les 的缩合形式，现代法语中仅保留于学位和资格的正式名称中，如 docteur ès sciences（理学博士）。不可用于其他语境。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "siéger",
+            "partOfSpeech": "vi.",
+            "definition": "①位于，设于（机构）②占有席位，任职 ③开会，举行会议",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "siéger à l'Académie",
+                    "vocabularyCollocationMeaning": "在科学院任职"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le tribunal siège à Paris",
+                    "vocabularyCollocationMeaning": "法庭设在巴黎"
+                }
+            ],
+            "synonymAnalysis": "siéger vs occuper un siège：siéger 为动词，更正式；occuper un siège 意思相近，但侧重”占据”这一状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "siège",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "座位；席位；所在地"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je siège, tu sièges, il siège, nous siégeons, vous siégez, ils siègent",
+                "compoundPast": "j'ai siégé",
+                "simpleFuture": "je siégerai",
+                "memoryAids": "属于 -ger 动词，在 nous 人称加 e 保持发音；词干中 è/é 交替，类似 céder, espérer。"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "académie",
+            "partOfSpeech": "n.f.",
+            "definition": "①科学院，学术院 ②学院（教育机构）③大区教育局",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'Académie des Sciences",
+                    "vocabularyCollocationMeaning": "（法国）科学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'Académie française",
+                    "vocabularyCollocationMeaning": "法兰西学术院"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "académique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "学术的，学院的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "académicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "院士"
+                }
+            ],
+            "pluralForm": "académies"
+        },
+        {
+            "index": "23",
+            "vocabulary": "reconnaissance",
+            "partOfSpeech": "n.f.",
+            "definition": "①承认，认可 ②感谢，感激 ③（军事）侦察",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en reconnaissance de qch.",
+                    "vocabularyCollocationMeaning": "作为对……的认可/表彰"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "témoigner sa reconnaissance à qn.",
+                    "vocabularyCollocationMeaning": "向某人表示感谢"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avec reconnaissance",
+                    "vocabularyCollocationMeaning": "感激地"
+                }
+            ],
+            "synonymAnalysis": "reconnaissance vs gratitude：两者均表”感谢”；reconnaissance 兼有”认可、承认”之义，范围更广；gratitude 专指感激之情，语气更深沉。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reconnaître",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "认出；承认"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "reconnaissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "感激的"
+                }
+            ],
+            "pluralForm": "reconnaissances"
+        },
+        {
+            "index": "24",
+            "vocabulary": "mérite",
+            "partOfSpeech": "n.m.",
+            "definition": "①功绩，功劳 ②优点，价值",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le mérite de faire qch.",
+                    "vocabularyCollocationMeaning": "有……的功劳"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "selon ses mérites",
+                    "vocabularyCollocationMeaning": "按功行赏"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "Ordre du Mérite",
+                    "vocabularyCollocationMeaning": "功勋勋章"
+                }
+            ],
+            "synonymAnalysis": "mérite vs vertu：mérite 侧重通过努力获得的功绩或价值；vertu 侧重道德品质或美德。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mériter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "值得，应得"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "mérité",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "应得的，当之无愧的"
+                }
+            ],
+            "pluralForm": "mérites"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Née à Varsovie en 1867, Marie Curie décida d'aller à Paris pour y poursuivre ses études en sciences physiques, car l'université de Varsovie n'autorisait pas l'accès des femmes. Au cours de ses recherches, elle découvrit le thorium, une matière radioactive. Pour avoir isolé du radium métallique et déterminé sa masse atomique, elle reçut le prix Nobel de chimie en 1911. Enfin, elle fut la première femme à entrer au Panthéon en reconnaissance de son œuvre scientifique et de ses mérites.",
+            "chineseTranslation": "玛丽·居里1867年生于华沙，此后决定前往巴黎攻读物理学，因为华沙大学不允许女性入学。在研究过程中，她发现了一种放射性物质——钍。由于成功分离出金属镭并测定了其原子质量，她于1911年荣获诺贝尔化学奖。最终，她以卓越的科学成就和个人功绩成为第一位进入先贤祠的女性。",
+            "fr2cnStrategy": "① Née à Varsovie en 1867 为前置分词短语，译为“1867年生于华沙”，调整至句首，符合汉语时间顺序习惯；② pour y poursuivre ses études 中的 y 代指巴黎，翻译时省略代词，直接译出语义；③ car 引导的原因从句译为“因为……”，直接后置，保持逻辑顺序；④ Pour avoir isolé...et déterminé... 不定式完成式表先行原因，译为“由于……”加动词结构，体现先行性；⑤ en reconnaissance de son œuvre scientifique et de ses mérites 为名词短语，转换为“以……”的介词短语，增译”卓越”以符合汉语表达习惯；⑥ 最后一句 la première femme à entrer 结构译为“第一位进入……的女性”，语序与原文一致。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "华沙大学不允许女性就读，因此她决定去巴黎继续深造。",
+                "frenchTranslation": "L'université de Varsovie n'autorisait pas l'accès des femmes, c'est pourquoi elle décida de poursuivre ses études à Paris.",
+                "cn2frStrategy": "① “不允许女性就读”用 n'autorisait pas l'accès des femmes，autoriser 固定搭配；② “因此”用 c'est pourquoi 引导结果从句，置于句首，语气明确；③ “继续深造”用 poursuivre ses études，避免直译”继续学习”为 continuer à apprendre（过于口语）；④ décider de + inf. 固定结构，de 不可省略。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "在研究过程中，她与丈夫合作发现了放射性元素钋。",
+                "frenchTranslation": "Au cours de ses recherches, elle découvrit le polonium, un élément radioactif, en collaboration avec son mari.",
+                "cn2frStrategy": "① “在研究过程中”译为 au cours de ses recherches，是固定介词短语，不可用 pendant ses recherches（语体偏口语）；② “与……合作”用 en collaboration avec，置于句末作状语；③ 钋（polonium）后加同位语 un élément radioactif，补充说明，体现增译策略；④ 简单过去时 découvrit 用于叙述历史事件。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "她两度荣获诺贝尔奖，成为科学史上独一无二的人物。",
+                "frenchTranslation": "Elle fut couronnée deux fois par le prix Nobel, devenant ainsi une figure unique dans l'histoire des sciences.",
+                "cn2frStrategy": "① “荣获诺贝尔奖”用 être couronné(e) par le prix Nobel 被动式，比 recevoir 更文雅正式；② “成为“使用现在分词 devenant 作结果状语，ainsi 加强逻辑连接；③ “独一无二的人物”译为 une figure unique，figure 在此为“人物、典型”义，避免直译 une personne unique（语体平淡）；④ dans l'histoire des sciences 是固定表达。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "1995年，她的遗骸被迁入先贤祠，以表彰她对科学的杰出贡献。",
+                "frenchTranslation": "En 1995, ses restes furent transférés au Panthéon en reconnaissance de ses contributions exceptionnelles à la science.",
+                "cn2frStrategy": "① 被动语态 furent transférés 对应汉语”被迁入”；② “以表彰……”用 en reconnaissance de，是本课核心固定短语；③ “杰出贡献”译为 contributions exceptionnelles，比 grandes contributions 更正式，符合书面语体；④ 时间状语 En 1995 置于句首，符合法语叙述文体习惯。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1008 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Quand au printemps 1983, les Français apprirent qu'un certain Ieoh Ming Pei était chargé de transformer le Grand Louvre, ce fut une grande surprise.",
+            "translatedSentence": "1983年春天，当法国人得知一位名叫贝聿铭的人受命改造卢浮宫时，他们大为震惊。",
+            "sentenceStructure": "主句为 ce fut une grande surprise，由 Quand 引导的时间状语从句 les Français apprirent que... 作为背景铺垫，que 后接间接宾语从句 un certain Ieoh Ming Pei était chargé de transformer le Grand Louvre。",
+            "grammarAnalysis": "① apprirent 为 apprendre 的简单过去时，用于书面叙述；② être chargé de + inf. 为被动结构，意为\u201c被委以……的任务\u201d；③ ce fut 为 c'est 的简单过去时，用于强调。",
+            "commonMistakes": "注意 ce fut 不可写作 c'était：前者（简单过去时）表示一个确切发生的事实，后者（未完成过去时）表示持续状态。此处强调\u201c震惊\u201d是一个明确的事件，应用简单过去时。"
+        },
+        {
+            "index": 2,
+            "sentence": "Cet architecte, bien célèbre aux Etats-Unis, à Hongkong ou à Pékin, n'était pas du tout connu en France.",
+            "translatedSentence": "这位建筑师在美国、香港或北京早已声名大噪，在法国却完全籍籍无名。",
+            "sentenceStructure": "主句为 Cet architecte n'était pas du tout connu en France，插入语 bien célèbre aux Etats-Unis, à Hongkong ou à Pékin 作补充说明。",
+            "grammarAnalysis": "① bien célèbre 中 bien 作副词修饰形容词，加强语气，意为“非常”；② n'était pas du tout connu 为未完成过去时的否定被动结构；③ pas du tout 为强否定，意为“完全不”。",
+            "commonMistakes": "pas du tout 与 pas encore、pas non plus 等否定副词搭配须区分：pas du tout 强调程度之零；不可误用 ne...pas du tout 为 ne...pas tellement（不怎么）。"
+        },
+        {
+            "index": 3,
+            "sentence": "Son enfance, il la passa à Hongkong et à Shanghai où son père dirigeait la Banque de Chine.",
+            "translatedSentence": "他的童年是在香港和上海度过的，当时他父亲在中国银行任职。",
+            "sentenceStructure": "主句采用宾语前置结构：Son enfance 提前作话题，il la passa 中 la 为前置宾语代词指代 son enfance；où son père dirigeait la Banque de Chine 为关系从句，修饰地点 Shanghai。",
+            "grammarAnalysis": "① 宾语前置（dislocation à gauche）是法语口语及文学语体中常见的强调结构；② la 为直接宾语代词，指代前置名词 son enfance；③ où 引导关系从句，表示地点；④ dirigeait 为未完成过去时，表示当时持续的状态。",
+            "commonMistakes": "宾语前置时，主句中必须保留对应的宾语代词（la），不可省略。学生常漏写代词，写成 Son enfance, il passa...，这是错误的。"
+        },
+        {
+            "index": 4,
+            "sentence": "Son choix était fait: à Oxford ou Cambridge, il préférait Harvard et sa faculté d'architecture.",
+            "translatedSentence": "他已经做出了选择：牛津和剑桥他都不选，他更青睐哈佛大学及其建筑学院。",
+            "sentenceStructure": "冒号前为总括句 Son choix était fait，冒号后为解释说明。解释句使用了 préférer qch à qch 句型，其中 à qch（à Oxford ou Cambridge）被提前至句首以保持句子平衡。",
+            "grammarAnalysis": "① 课文注释指出此处使用了 préférer qch à qch（喜欢前者而非后者）句型；② 为了句子平衡，介词短语 à Oxford ou Cambridge 被前置；③ préférait 为未完成过去时，表示当时的倾向和态度。",
+            "commonMistakes": "préférer A à B 意为“比起B更喜欢A”，此处 A 为 Harvard，B 为 Oxford ou Cambridge。学生容易将介词搭配弄反，或误用 préférer A que B（该结构不存在）。"
+        },
+        {
+            "index": 5,
+            "sentence": "Dès qu'il eut proposé sa pyramide de verre, beaucoup de Français protestèrent contre ce projet «étrange».",
+            "translatedSentence": "他刚刚提出玻璃金字塔方案，许多法国人就对这个“奇特”的方案提出了抗议。",
+            "sentenceStructure": "Dès que 引导时间状语从句，主句为 beaucoup de Français protestèrent contre ce projet。",
+            "grammarAnalysis": "① Dès que + 先过去时（antérieur du passé）：il eut proposé 为先过去时，表示时间从句的动作先于主句动作完成；② 主句 protestèrent 为简单过去时；③ 先过去时的构成：助动词简单过去时 + 过去分词（eut + proposé）。",
+            "commonMistakes": "先过去时（passé antérieur）是考研重点难点，仅用于书面语，且只出现在 dès que、aussitôt que、quand、lorsque 等时间连词引导的从句中，表示从句动作先于简单过去时主句动作完成。学生常误用复合过去时替代。"
+        },
+        {
+            "index": 6,
+            "sentence": "Pour que vive le Louvre, il fallut l'adapter à notre temps.",
+            "translatedSentence": "为了让卢浮宫焕发生机，就必须让它与时俱进。",
+            "sentenceStructure": "Pour que 引导目的状语从句，主句为 il fallut l'adapter à notre temps，其中 il 为非人称主语，l' 指代 le Louvre。",
+            "grammarAnalysis": "① pour que 后接虚拟式：vive 为 vivre 的现在虚拟式第三人称单数（vivre → il vive）；② il fallut 为 falloir 的简单过去时，非人称结构；③ l'adapter à notre temps 为不定式短语充当宾语。",
+            "commonMistakes": "pour que 引导的目的从句必须用虚拟式，不可用直陈式。注意 vivre 现在虚拟式 vive 与直陈现在时 vit 的区分。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être chargé de faire qch.",
+            "meaning": "被委以做某事的任务；负责做某事",
+            "usage": "被动结构，de 后接动词不定式。主动形式为 charger qn de faire qch.（委托某人做某事）。",
+            "exampleSentence": "un certain Ieoh Ming Pei était chargé de transformer le Grand Louvre"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "conseiller à qn de faire qch.",
+            "meaning": "建议某人做某事",
+            "usage": "间接及物动词结构，à + 人，de + 不定式。注意与 conseiller qch. à qn.（向某人推荐某物）的区别。",
+            "exampleSentence": "son père lui conseilla de partir pour Londres pour devenir ingénieur"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "se sentir attiré par qch./qn.",
+            "meaning": "对……感到向往；被……所吸引",
+            "usage": "代词式动词结构，par 引导吸引来源；注意区分 attiré par（被动吸引）与 intéressé par（对……感兴趣）。",
+            "exampleSentence": "I. M. Pei se sentait attiré par l'Amérique"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "préférer A à B",
+            "meaning": "比起B更喜欢A",
+            "usage": "固定句型，A 为更喜欢的对象，B 为被放弃的选项。不可用 que 替代 à。",
+            "exampleSentence": "il préférait Harvard et sa faculté d'architecture (à Oxford ou Cambridge)"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "ne pas accepter qch. tout à fait",
+            "meaning": "不完全接受……",
+            "usage": "tout à fait 作程度副词，否定句中表示“并非完全”；肯定句中意为“完全，的确”。",
+            "exampleSentence": "il ne l'accepte pas tout à fait"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "propre à qn./qch.",
+            "meaning": "某人/某物特有的",
+            "usage": "形容词 propre 后置时意为“特有的、本身的”；前置时意为“干净的”。此处为后置用法。",
+            "exampleSentence": "un style qui lui est propre"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "chercher à faire qch.",
+            "meaning": "试图做某事；努力做某事",
+            "usage": "chercher 后接 à + 不定式，表示努力或尝试。注意与 essayer de faire qch. 近义但语气稍弱。",
+            "exampleSentence": "il chercha à créer une nouvelle langue pour l'architecture chinoise"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "retourner aux sources",
+            "meaning": "回归本源；追溯根源",
+            "usage": "固定表达，aux sources 为复数，字面意为“回到源泉”，引申为“寻根、回归本源”。",
+            "exampleSentence": "Pei retourna aux sources de son enfance"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "s'intéresser à qch./qn.",
+            "meaning": "对……感兴趣",
+            "usage": "代词式动词，固定搭配介词 à；不可用 pour 或 en 替代。",
+            "exampleSentence": "I. M. Pei s'intéresse toujours aux musées"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "ne pas hésiter à faire qch.",
+            "meaning": "毫不犹豫地做某事",
+            "usage": "hésiter à + inf. 表示“犹豫于做某事”；否定形式 ne pas hésiter à 表示果断行动，语气积极。",
+            "exampleSentence": "François Mitterrand, président de la France, n'hésita pas à lui laisser l'avenir du Grand Louvre"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "à la fois A et B",
+            "meaning": "既A又B；同时A和B",
+            "usage": "固定结构，连接两个形容词或名词，表示同时具有两种特质。",
+            "exampleSentence": "il se sentit à la fois fier et inquiet"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "protester contre qch.",
+            "meaning": "对……提出抗议；反对……",
+            "usage": "不及物动词 protester 固定搭配介词 contre；注意区分 protester contre（抗议反对）与 s'opposer à（反对）。",
+            "exampleSentence": "beaucoup de Français protestèrent contre ce projet"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "tenir sa promesse",
+            "meaning": "遵守诺言；信守承诺",
+            "usage": "固定搭配，tenir + 表示承诺类名词（promesse, parole, engagement）。反义表达为 manquer à sa promesse。",
+            "exampleSentence": "François Mitterrand tint bien sa promesse"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "s'élever au centre de qch.",
+            "meaning": "矗立在……中央；耸立于……中心",
+            "usage": "s'élever 作“耸立、矗立”义时为不及物代词式动词；au centre de 表示位置关系。",
+            "exampleSentence": "la pyramide, maison de lumière, s'élève au centre de la cour Napoléon"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "adapter qch. à qch.",
+            "meaning": "使……适应……；将……改造以适合……",
+            "usage": "及物动词，固定搭配 à；区分 adapter（使适应）与 adopter（采纳）这对形近词。",
+            "exampleSentence": "il fallut l'adapter à notre temps"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "architecte",
+            "partOfSpeech": "n.m.",
+            "definition": "建筑师",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "architecte célèbre",
+                    "vocabularyCollocationMeaning": "著名建筑师"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vie d'architecte",
+                    "vocabularyCollocationMeaning": "建筑师生涯"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "architecture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "建筑学；建筑风格"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "architectural",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "建筑（学）的"
+                }
+            ],
+            "pluralForm": "architectes"
+        },
+        {
+            "index": "2",
+            "vocabulary": "surprise",
+            "partOfSpeech": "n.f.",
+            "definition": "①惊讶；②使人惊讶的事物；意外之事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une grande surprise",
+                    "vocabularyCollocationMeaning": "巨大的惊喜/惊讶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec surprise",
+                    "vocabularyCollocationMeaning": "惊讶地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par surprise",
+                    "vocabularyCollocationMeaning": "出其不意地"
+                }
+            ],
+            "synonymAnalysis": "surprise vs étonnement：surprise 侧重突然性，指出乎意料的惊讶；étonnement 侧重惊奇的程度，可持续更长时间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "surprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使惊讶；出其不意"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "surprenant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人惊讶的"
+                }
+            ],
+            "pluralForm": "surprises"
+        },
+        {
+            "index": "3",
+            "vocabulary": "pont",
+            "partOfSpeech": "n.m.",
+            "definition": "①桥，桥梁 ②（节假日之间的）连休日",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "construire un pont",
+                    "vocabularyCollocationMeaning": "建造一座桥"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire le pont",
+                    "vocabularyCollocationMeaning": "（在两个假日之间）连休"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "ponts"
+        },
+        {
+            "index": "4",
+            "vocabulary": "beauté",
+            "partOfSpeech": "n.f.",
+            "definition": "①美，美丽 ②美人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "beauté des jardins",
+                    "vocabularyCollocationMeaning": "园林之美"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en beauté",
+                    "vocabularyCollocationMeaning": "漂亮地；出色地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "produit de beauté",
+                    "vocabularyCollocationMeaning": "美容产品"
+                }
+            ],
+            "synonymAnalysis": "beauté vs beauté：beauté 为抽象名词，表示美的特质；beau/belle 为对应形容词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "beau / belle",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "美丽的，漂亮的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "embellir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "美化；使变美"
+                }
+            ],
+            "pluralForm": "beautés"
+        },
+        {
+            "index": "5",
+            "vocabulary": "conseiller",
+            "partOfSpeech": "vt.",
+            "definition": "①建议，劝告 ②推荐",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conseiller à qn de faire qch.",
+                    "vocabularyCollocationMeaning": "建议某人做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conseiller qch. à qn.",
+                    "vocabularyCollocationMeaning": "向某人推荐某物"
+                }
+            ],
+            "synonymAnalysis": "conseiller vs recommander：conseiller 侧重给出建议或意见；recommander 更强调郑重推荐，语气更正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conseil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "建议；忠告；委员会"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "顾问；参事"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "faculté",
+            "partOfSpeech": "n.f.",
+            "definition": "①（大学的）学院 ②能力，才能 ③官能，感觉能力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faculté d'architecture",
+                    "vocabularyCollocationMeaning": "建筑学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faculté de médecine",
+                    "vocabularyCollocationMeaning": "医学院"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faculté d'adaptation",
+                    "vocabularyCollocationMeaning": "适应能力"
+                }
+            ],
+            "synonymAnalysis": "faculté vs école：faculté 专指大学下设的学院；école 可指各类学校，也可指独立的专业学院（如 École polytechnique）。",
+            "derivedWords": [],
+            "pluralForm": "facultés"
+        },
+        {
+            "index": "7",
+            "vocabulary": "respecter",
+            "partOfSpeech": "vt.",
+            "definition": "①尊敬，尊重 ②遵守，遵从",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "respecter ses maîtres",
+                    "vocabularyCollocationMeaning": "尊敬师长"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "respecter la loi",
+                    "vocabularyCollocationMeaning": "遵守法律"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se faire respecter",
+                    "vocabularyCollocationMeaning": "赢得尊重"
+                }
+            ],
+            "synonymAnalysis": "respecter vs admirer：respecter 强调对人格、权威或规则的尊重；admirer 侧重对才华、成就的钦佩。两者在课文中并用：admire et respecte。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "respect",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "尊重；敬意"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "respectable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "值得尊敬的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "respectueux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "恭敬的，尊重的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "profond",
+            "partOfSpeech": "adj.",
+            "definition": "①深的；②深刻的，深远的 ③（睡眠）沉的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "influence profonde",
+                    "vocabularyCollocationMeaning": "深远的影响"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pensée profonde",
+                    "vocabularyCollocationMeaning": "深刻的思想"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sommeil profond",
+                    "vocabularyCollocationMeaning": "沉睡"
+                }
+            ],
+            "synonymAnalysis": "profond vs approfondi：profond 指内在深度（深刻的），为固有属性；approfondi 指经过深入研究后的（深入的），强调过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "profondeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "深度；深刻"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "profondément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "深深地；深刻地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "approfondir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加深；深入研究"
+                }
+            ],
+            "genderNumberVariation": "阴性 profonde，阳性复数 profonds，阴性复数 profondes",
+            "position": "通常置于名词之后；但 profonde nuit（深夜）、profond ennui（深深的厌倦）等少数抽象搭配可前置。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "millier",
+            "partOfSpeech": "n.m.",
+            "definition": "千，千数，约千个",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "des milliers de",
+                    "vocabularyCollocationMeaning": "数千……；成千上万的……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au milieu de ces milliers de...",
+                    "vocabularyCollocationMeaning": "在数千……之中"
+                }
+            ],
+            "synonymAnalysis": "millier vs mille：mille 是确切数词（一千），millier 是约数名词（大约一千、千数）。des milliers de 表示“数以千计的”，是夸张或约数表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mille",
+                    "derivedWordPartOfSpeech": "num.",
+                    "derivedWordMeaning": "一千（确切数）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "million",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "百万"
+                }
+            ],
+            "pluralForm": "milliers"
+        },
+        {
+            "index": "10",
+            "vocabulary": "source",
+            "partOfSpeech": "n.f.",
+            "definition": "①源，根源，来源 ②泉水，水源",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "retourner aux sources",
+                    "vocabularyCollocationMeaning": "回归本源"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "source d'inspiration",
+                    "vocabularyCollocationMeaning": "灵感来源"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "eau de source",
+                    "vocabularyCollocationMeaning": "泉水"
+                }
+            ],
+            "synonymAnalysis": "source vs origine：source 侧重“来源处、发源地”，常用于抽象（灵感之源）或具体（泉水）；origine 侧重“起源、出身”，更常指历史或血统来源。",
+            "derivedWords": [],
+            "pluralForm": "sources"
+        },
+        {
+            "index": "11",
+            "vocabulary": "civilisation",
+            "partOfSpeech": "n.f.",
+            "definition": "文化，文明",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "civilisation chinoise",
+                    "vocabularyCollocationMeaning": "中华文明"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "histoire de la civilisation",
+                    "vocabularyCollocationMeaning": "文明史"
+                }
+            ],
+            "synonymAnalysis": "civilisation vs culture：civilisation 强调物质与精神层面综合发展的成就，范围更宏观；culture 侧重精神、艺术、价值观等精神层面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "civiliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使文明化，开化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "civilisé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "文明的，有教养的"
+                }
+            ],
+            "pluralForm": "civilisations"
+        },
+        {
+            "index": "12",
+            "vocabulary": "transformation",
+            "partOfSpeech": "n.f.",
+            "definition": "①改造，改建 ②改变，转变",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "transformation du bâtiment",
+                    "vocabularyCollocationMeaning": "建筑改造"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "transformation sociale",
+                    "vocabularyCollocationMeaning": "社会变革"
+                }
+            ],
+            "synonymAnalysis": "transformation vs changement：transformation 强调形态或性质的根本性改变；changement 更泛指一般性变化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "transformer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "改造，改建；使转变"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "se transformer",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "转变，变成"
+                }
+            ],
+            "pluralForm": "transformations"
+        },
+        {
+            "index": "13",
+            "vocabulary": "presque",
+            "partOfSpeech": "adv.",
+            "definition": "几乎，差不多",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "presque tous",
+                    "vocabularyCollocationMeaning": "几乎所有"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "presque jamais",
+                    "vocabularyCollocationMeaning": "几乎从不"
+                }
+            ],
+            "synonymAnalysis": "presque vs à peu près：presque 表示接近但未到（差一点就……），常带有微弱的遗憾或强调；à peu près 表示大约，更中性，常用于数量估算。",
+            "derivedWords": [],
+            "useExplanation": "presque 通常置于被修饰的形容词、副词或限定词之前；修饰 jamais、rien、personne 等否定词时，与 ne 搭配构成近否定结构：il ne vient presque jamais（他几乎从不来）。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "président",
+            "partOfSpeech": "n.",
+            "definition": "①总统 ②主席，会长，董事长",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "président de la République",
+                    "vocabularyCollocationMeaning": "共和国总统"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "président de la France",
+                    "vocabularyCollocationMeaning": "法国总统"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "président-directeur général (PDG)",
+                    "vocabularyCollocationMeaning": "董事长兼总经理"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "présider",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "主持，担任主席"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "présidence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "总统职位；主席职务；任期"
+                }
+            ],
+            "pluralForm": "présidents"
+        },
+        {
+            "index": "15",
+            "vocabulary": "hésiter",
+            "partOfSpeech": "vi.",
+            "definition": "①犹豫，迟疑 ②踌躇，拿不定主意",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "hésiter à faire qch.",
+                    "vocabularyCollocationMeaning": "犹豫于做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ne pas hésiter à faire qch.",
+                    "vocabularyCollocationMeaning": "毫不犹豫地做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hésiter entre A et B",
+                    "vocabularyCollocationMeaning": "在A和B之间举棋不定"
+                }
+            ],
+            "synonymAnalysis": "hésiter vs tergiverser：hésiter 为常用词，表示一般性的犹豫；tergiverser 语气更强，指不断拖延、转弯抹角地回避决定，偏书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hésitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "犹豫，迟疑"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "fier",
+            "partOfSpeech": "adj.",
+            "definition": "①骄傲的，自豪的 ②傲慢的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être fier de qch./qn.",
+                    "vocabularyCollocationMeaning": "为……感到自豪"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "fier et inquiet",
+                    "vocabularyCollocationMeaning": "既自豪又忐忑"
+                }
+            ],
+            "synonymAnalysis": "fier de（自豪于）表积极情感；fier（傲慢的）置于名词后时含贬义，需结合语境判断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fierté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "骄傲，自豪；傲慢"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fièrement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "自豪地；傲慢地"
+                }
+            ],
+            "genderNumberVariation": "阴性 fière，阳性复数 fiers，阴性复数 fières",
+            "position": "通常置于名词之后；前置时语气更强烈，有时含讽刺意味（un fier menteur 一个十足的骗子）。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "pyramide",
+            "partOfSpeech": "n.f.",
+            "definition": "金字塔；棱锥体",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pyramide de verre",
+                    "vocabularyCollocationMeaning": "玻璃金字塔"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pyramide des âges",
+                    "vocabularyCollocationMeaning": "人口年龄金字塔（图）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "pyramides"
+        },
+        {
+            "index": "18",
+            "vocabulary": "protester",
+            "partOfSpeech": "vi.",
+            "definition": "①抗议，提出异议 ②反对",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "protester contre qch.",
+                    "vocabularyCollocationMeaning": "对……提出抗议"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "protester de son innocence",
+                    "vocabularyCollocationMeaning": "声称自己无罪"
+                }
+            ],
+            "synonymAnalysis": "protester contre（抗议反对）侧重公开表态；s'opposer à（反对）更强调立场的对立，不一定公开表达。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "protestation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "抗议，异议"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "protestant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "新教徒（注意与“抗议者”区分）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "étrange",
+            "partOfSpeech": "adj.",
+            "definition": "①古怪的，奇特的 ②陌生的，异样的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "projet étrange",
+                    "vocabularyCollocationMeaning": "奇特的方案"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chose étrange",
+                    "vocabularyCollocationMeaning": "奇怪的事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "il est étrange que + subj.",
+                    "vocabularyCollocationMeaning": "奇怪的是……"
+                }
+            ],
+            "synonymAnalysis": "étrange vs bizarre：étrange 侧重令人感到陌生或不可思议；bizarre 更强调怪异、反常，含有更强的负面或不可理解的色彩。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "étrangement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "奇怪地，奇特地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "étranger",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "外国的；陌生的"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 étranges",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "20",
+            "vocabulary": "installer",
+            "partOfSpeech": "vt.",
+            "definition": "①安置，安装 ②布置，设置",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "installer qch. à/dans un endroit",
+                    "vocabularyCollocationMeaning": "将某物安装在某处"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'installer",
+                    "vocabularyCollocationMeaning": "定居；安顿下来"
+                }
+            ],
+            "synonymAnalysis": "installer vs placer：installer 强调固定安装或正式设置；placer 更泛指“放置”，不一定涉及安装。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "installation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安装；设施；定居"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "promesse",
+            "partOfSpeech": "n.f.",
+            "definition": "①诺言，许诺 ②前景，希望",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tenir la promesse",
+                    "vocabularyCollocationMeaning": "遵守诺言"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire une promesse",
+                    "vocabularyCollocationMeaning": "作出承诺"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "manquer à sa promesse",
+                    "vocabularyCollocationMeaning": "违背诺言"
+                }
+            ],
+            "synonymAnalysis": "promesse vs engagement：promesse 为日常口语用词；engagement 更正式，含有约束力更强的承诺意味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "promettre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "承诺，答应"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "prometteur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有前途的，有希望的"
+                }
+            ],
+            "pluralForm": "promesses"
+        },
+        {
+            "index": "22",
+            "vocabulary": "sous-sol",
+            "partOfSpeech": "n.m.",
+            "definition": "①地下建筑物，地下室 ②地基，地层",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous-sol d'un musée",
+                    "vocabularyCollocationMeaning": "博物馆地下室"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au sous-sol",
+                    "vocabularyCollocationMeaning": "在地下室"
+                }
+            ],
+            "synonymAnalysis": "sous-sol vs cave：sous-sol 泛指建筑地下层；cave 特指储存酒、食品等的地窖。",
+            "derivedWords": [],
+            "pluralForm": "sous-sols"
+        },
+        {
+            "index": "23",
+            "vocabulary": "public",
+            "partOfSpeech": "n.m.",
+            "definition": "①公众，大众 ②观众，听众",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'ouvrir au public",
+                    "vocabularyCollocationMeaning": "向公众开放"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grand public",
+                    "vocabularyCollocationMeaning": "广大公众"
+                }
+            ],
+            "synonymAnalysis": "public（n.m. 公众）与 public/publique（adj. 公共的）同形，需根据词性和语境判断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "public / publique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "公共的，公开的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "publiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "公开地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "publier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "发表，出版"
+                }
+            ],
+            "pluralForm": "publics"
+        },
+        {
+            "index": "24",
+            "vocabulary": "adapter",
+            "partOfSpeech": "vt.",
+            "definition": "①使适应，使适合 ②改编（作品）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "adapter qch. à qch.",
+                    "vocabularyCollocationMeaning": "使某物适应某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'adapter à qch.",
+                    "vocabularyCollocationMeaning": "适应某事物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "adapter un roman au cinéma",
+                    "vocabularyCollocationMeaning": "将小说改编成电影"
+                }
+            ],
+            "synonymAnalysis": "adapter vs adopter：两词形近易混。adapter 意为“使适应、改编”；adopter 意为“采纳、收养”。注意区分！",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adaptation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "适应；改编"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "adaptable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可适应的；可改编的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Né en 1917 à Suzhou, cette Venise chinoise, Ieoh Ming Pei passa son enfance à Hongkong et à Shanghai. Bien que son père lui eût conseillé de partir pour Londres, il se sentait attiré par l'Amérique et choisit Harvard. Modeste, il développa un style qui lui était propre, car pour lui, l'architecture est avant tout un art populaire. Dès qu'il eut proposé sa pyramide de verre pour le Grand Louvre, beaucoup de Français protestèrent contre ce projet étrange. Mais François Mitterrand tint sa promesse: aujourd'hui, la pyramide s'élève au centre de la cour Napoléon, et le Grand Louvre s'est ouvert au public.",
+            "chineseTranslation": "贝聿铭1917年生于苏州——那座被称为“东方威尼斯”的城市——童年在香港和上海度过。尽管父亲曾建议他去伦敦，他却对美国情有独钟，最终选择了哈佛大学。他为人谦逊，逐渐形成了自己独特的风格，因为在他看来，建筑首先是一门大众的艺术。然而，当他为卢浮宫提出玻璃金字塔方案时，许多法国人立即对这个“奇特”的设计提出了抗议。但密特朗总统信守了承诺：如今，金字塔矗立在拿破仑庭院的中央，大卢浮宫也向公众敞开了大门。",
+            "fr2cnStrategy": "① “cette Venise chinoise”为同位语，译为插入语“那座被称为'东方威尼斯'的城市”，加“东方”是增译，使中文读者更易理解；② “Bien que...eût conseillé”为虚拟式过去时的让步从句，译为“尽管……曾建议”，时态用“曾”体现先于主句；③ “un style qui lui était propre”直译为“他自己特有的风格”，调整为“自己独特的风格”，减少定语堆叠；④ “Dès qu'il eut proposé”（先过去时）突出时间上的紧迫性，译为“当……一提出……立即”，将语法意义转化为汉语副词；⑤ “tint sa promesse”以信守诺言为转折，用冒号引出结果，对应法语原文的冒号结构，保留语篇逻辑。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "父亲建议他去伦敦学工程，但他更喜欢美国，而不是英国。",
+                "frenchTranslation": "Son père lui conseilla de partir pour Londres pour étudier l'ingénierie, mais il préférait l'Amérique à l'Angleterre.",
+                "cn2frStrategy": "① “建议他做某事”用 conseiller à qn de faire qch. 结构，注意间接宾语 lui；② “更喜欢A而不是B”用 préférer A à B，注意 à 而非 que；③ 两个分句用 mais 连接，前者用简单过去时（叙述事件），后者用未完成过去时（描述态度状态）。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "他毫不犹豫地接受了这个改造卢浮宫的任务，尽管这个项目充满争议。",
+                "frenchTranslation": "Il n'hésita pas à accepter la mission de transformer le Grand Louvre, bien que ce projet fût très contesté.",
+                "cn2frStrategy": "① “毫不犹豫地做某事”用 ne pas hésiter à + inf.；② “尽管”引导让步从句，用 bien que + 虚拟式：contesté → fût contesté（être 虚拟式未完成时）；③ “充满争议”意译为 très contesté（被强烈反对的），属于词性转换（动词化处理）。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这位建筑师在美国几乎人人皆知，在法国却完全陌生。",
+                "frenchTranslation": "Cet architecte était connu de presque tous les Américains, mais il n'était pas du tout connu en France.",
+                "cn2frStrategy": "① “人人皆知”译为 connu de presque tous les Américains，用 de + 复数名词表示认知主体；② “完全陌生/不认识”用 ne...pas du tout connu 强否定；③ 两个分句构成对比，用 mais 连接，两者均用未完成过去时描述过去状态。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "为了让这座博物馆与时俱进，就必须对它进行改造。",
+                "frenchTranslation": "Pour que ce musée vive avec son temps, il fallait l'adapter à l'époque.",
+                "cn2frStrategy": "① “为了让……”用 pour que + 虚拟式：vivre → vive（第三人称单数虚拟式现在时）；② “与时俱进”意译为 vivre avec son temps（字面：随时代而活），是法语习惯表达；③ “必须对它进行改造”用非人称结构 il fallait + inf.，l' 为宾语代词指代博物馆；④ “时代”此处用 l'époque 而非 le temps，避免与前文重复。"
+            }
+        ]
+    }
+}

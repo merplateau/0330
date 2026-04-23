@@ -1,0 +1,1065 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Vous m'entendez? Est-ce que vous m'entendez? Je ne contrôle plus l'avion!",
+            "translatedSentence": "你们听得到我吗？你们听得到我说话吗？我已经无法控制飞机了！",
+            "sentenceStructure": "三个独立的简单句：① Vous m'entendez? ② Est-ce que vous m'entendez? ③ Je ne contrôle plus l'avion! 其中①②为疑问句，③为否定句。",
+            "grammarAnalysis": "① m'entendez 中的 m' 是间接宾语代词，置于动词前。② Est-ce que 引导的疑问句，为疑问句的标准形式之一。③ ne...plus 构成否定结构，表示“不再……”，否定词夹住动词。",
+            "commonMistakes": "ne...plus 与 ne...pas 的区别：ne...pas 表一般否定；ne...plus 强调动作或状态的终止，即「曾经能控制，现在不再能控制」。注意 plus 在此读作 [ply]，不与后面连读。"
+        },
+        {
+            "index": 2,
+            "sentence": "Ils étaient inquiets, mais ils gardaient leur sang-froid.",
+            "translatedSentence": "他们忧心忡忡，但仍保持着冷静。",
+            "sentenceStructure": "并列复合句，由 mais 连接两个简单句：① Ils étaient inquiets ② ils gardaient leur sang-froid。",
+            "grammarAnalysis": "① 两个动词均为未完成过去时（imparfait），表示过去持续的状态。② sang-froid 为复合名词，阳性，此处作直接宾语。③ garder son sang-froid 为固定搭配。",
+            "commonMistakes": "未完成过去时在此表示过去某段时间内持续的状态，而非一次性动作，不可换用复合过去时。注意 sang-froid 中 sang 的 -g 不发音，froid 读 [fʁwa]。"
+        },
+        {
+            "index": 3,
+            "sentence": "Dans l'avion, Jacqueline Auriol venait de perdre connaissance.",
+            "translatedSentence": "飞机上，雅克琳娜·奥里奥尔刚刚失去了知觉。",
+            "sentenceStructure": "简单句，主语 Jacqueline Auriol，谓语为 venait de perdre（近过去时），宾语 connaissance。",
+            "grammarAnalysis": "① venir de + 不定式构成近过去时（passé récent），表示「刚刚完成」某一动作，此处 venait de 为未完成过去时形式，表示在过去某一时刻「刚刚」发生。② perdre connaissance 为固定搭配，意为「失去知觉」。",
+            "commonMistakes": "venir de + inf. 是近过去结构，要与 venir + inf.（来做某事，表目的）区分开。近过去时在过去语境中用未完成过去时形式 venait de，而非现在时的 vient de。"
+        },
+        {
+            "index": 4,
+            "sentence": "Avant de perdre tout à fait connaissance, la jeune femme avait pris une mesure, mais ça n'avait pas marché.",
+            "translatedSentence": "在完全失去知觉之前，这位年轻女士采取了一项措施，但无济于事。",
+            "sentenceStructure": "主句为 la jeune femme avait pris une mesure，前置 Avant de perdre tout à fait connaissance 作时间状语，后接 mais ça n'avait pas marché 作转折分句。",
+            "grammarAnalysis": "① Avant de + 不定式：表示「在……之前」，要求不定式的主语与主句主语一致。② 两个动词均用过去完成时（plus-que-parfait），表示在叙事主线（复合过去时）之前已发生的动作，体现时态的先后关系。③ marcher 此处为不及物动词，意为「奏效，管用」。",
+            "commonMistakes": "Avant de + inf. 要求主从句主语相同；若主语不同，应改用 avant que + 虚拟式从句。过去完成时在此体现回溯，学生容易误用复合过去时。"
+        },
+        {
+            "index": 5,
+            "sentence": "Que pouvait-elle contre l'avion? Rien! Quelle aide pouvaient-ils apporter pour elle? Rien!",
+            "translatedSentence": "她又能拿飞机怎么办呢？什么都做不了！他们又能给她什么帮助呢？什么都没有！",
+            "sentenceStructure": "两个反问句，均采用倒装语序：① Que pouvait-elle contre l'avion（主语 elle 与动词 pouvait 倒装）② Quelle aide pouvaient-ils apporter pour elle（主语 ils 与动词 pouvaient 倒装）。",
+            "grammarAnalysis": "① 疑问代词 Que 作宾语置于句首，引发主谓倒装。② Quelle aide 为疑问形容词短语，修饰宾语 aide，置于句首。③ 两句均用未完成过去时，与叙事时态一致。",
+            "commonMistakes": "疑问词置于句首引发主谓倒装时，若主语为名词，倒装形式为「疑问词 + 名词主语 + 动词 + 代词复指主语」，此处主语为代词，直接倒装即可。"
+        },
+        {
+            "index": 6,
+            "sentence": "Jacqueline Auriol criait avec joie que la vie était belle, que le paysage était magnifique.",
+            "translatedSentence": "雅克琳娜·奥里奥尔欣喜若狂地呼喊着：生活是美好的，风景是壮丽的。",
+            "sentenceStructure": "主句为 Jacqueline Auriol criait avec joie，后接两个由 que 引导的宾语从句：① que la vie était belle ② que le paysage était magnifique。",
+            "grammarAnalysis": "① crier que 后接宾语从句，从句动词用陈述式，反映客观陈述的内容。② 从句中的时态为未完成过去时，与主句时态保持一致（时态呼应）。③ avec joie 作方式状语。",
+            "commonMistakes": "crier、dire、penser 等言说/思维动词后接 que 从句时，从句动词用陈述式，而非虚拟式。注意时态呼应：主句为过去时，从句须改为相应的过去时。"
+        },
+        {
+            "index": 7,
+            "sentence": "Enfin au mois de mai 1955, on décida qu'à partir du 1er juillet, les records féminins ne seraient plus approuvés.",
+            "translatedSentence": "终于，在1955年5月，有关方面决定从7月1日起，不再承认女性打破的纪录。",
+            "sentenceStructure": "主句为 on décida，后接由 que 引导的宾语从句：à partir du 1er juillet, les records féminins ne seraient plus approuvés。",
+            "grammarAnalysis": "① décider que 后接宾语从句，从句用虚拟式或条件式。此处从句动词 seraient approuvés 为条件式现在时，表示主句动作（决定）之后将要发生的情况，体现过去将来时。② seraient approuvés 为被动语态（条件式现在时）：助动词 être 的条件式 + 过去分词。③ ne...plus 否定结构，表「不再」。",
+            "commonMistakes": "言说/决定类动词（décider, dire, annoncer）后接宾语从句时，若需表达「过去时间点以后将发生的事」，从句用条件式现在时（过去将来时），而非简单将来时。"
+        },
+        {
+            "index": 8,
+            "sentence": "Jacqueline Auriol pensa qu'il ne lui restait qu'un mois pour trouver un avion rapide et saisir l'occasion de battre le record une fois pour toutes.",
+            "translatedSentence": "雅克琳娜·奥里奥尔意识到，她只剩下一个月的时间来找到一架快速飞机，抓住这个机会，一劳永逸地打破纪录。",
+            "sentenceStructure": "主句为 Jacqueline Auriol pensa，后接 que 引导的宾语从句，从句主干为 il ne lui restait qu'un mois，后接两个并列不定式短语 pour trouver... et saisir...。",
+            "grammarAnalysis": "① ne...que 构成限制性否定，意为「只……」，此处 ne...restait qu'un mois 即「只剩一个月」。② il restait + 时间 + à qn. 为非人称句型，表「某人还剩……（时间）」。③ pour + 不定式表目的。④ une fois pour toutes 为固定短语，意为「一劳永逸地」。",
+            "commonMistakes": "ne...que 是限制性表达而非否定，翻译时不要译为「不……」。il restait 中 il 为形式主语（非人称用法），真正的主语是 un mois。"
+        },
+        {
+            "index": 9,
+            "sentence": "Elle avait gagné la partie, à force de volonté et de courage.",
+            "translatedSentence": "凭借意志力与勇气，她赢得了这场较量。",
+            "sentenceStructure": "简单句，主语 Elle，谓语 avait gagné（过去完成时），宾语 la partie，后置状语 à force de volonté et de courage。",
+            "grammarAnalysis": "① 过去完成时（plus-que-parfait）在此表示在叙事过去时间点之前已经完成的结果。② à force de + n./inf. 为固定介词短语，表「凭借大量的……；由于……」。③ gagner la partie 为固定搭配，意为「赢得较量/比赛」。",
+            "commonMistakes": "à force de 后可接名词（à force de travail）或动词不定式（à force de travailler），表示通过大量付出取得结果，与 grâce à（幸亏，侧重外部条件）区别：à force de 强调主观努力程度。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "garder son sang-froid",
+            "meaning": "保持冷静",
+            "usage": "固定短语，sang-froid 为复合名词（阳性），字面义为「冷血」，引申为「沉着冷静」。动词常用 garder 或 conserver；反义为 perdre son sang-froid（失去冷静）。",
+            "exampleSentence": "Ils étaient inquiets, mais ils gardaient leur sang-froid."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "venir de + inf.",
+            "meaning": "刚刚（做某事）",
+            "usage": "近过去时结构。现在时语境用 vient de；过去叙述语境用 venait de（未完成过去时形式），表示在过去某时刻「刚刚」完成的动作。",
+            "exampleSentence": "Jacqueline Auriol venait de perdre connaissance."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "perdre connaissance",
+            "meaning": "失去知觉，昏厥",
+            "usage": "固定搭配，connaissance 此处无冠词。反义为 reprendre connaissance / revenir à soi（恢复知觉）。",
+            "exampleSentence": "Dans l'avion, Jacqueline Auriol venait de perdre connaissance."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "revenir à soi",
+            "meaning": "恢复知觉，苏醒",
+            "usage": "代词式动词固定表达，与 perdre connaissance 对应。课文中以 revint à elle 的形式出现，注意人称代词随主语变化。",
+            "exampleSentence": "Lorsqu'elle revint à elle, l'avion tombait."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "prendre une mesure",
+            "meaning": "采取措施",
+            "usage": "固定搭配，mesure 可用单数或复数（prendre des mesures）。与 prendre des précautions（采取预防措施）区别：mesure 更侧重具体应对行动。",
+            "exampleSentence": "la jeune femme avait pris une mesure, mais ça n'avait pas marché."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "appuyer sur qch.",
+            "meaning": "按压……；踩……",
+            "usage": "不及物动词搭配 sur，表示向某物施压。常用于按按钮、踩踏板等场景。与 appuyer qch. sur qch.（把……靠在……上）区别：前者为 v.i.，后者为 v.t.。",
+            "exampleSentence": "L'avion tombe, j'appuie sur ma gauche."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "sauter de qch.",
+            "meaning": "从……跳出/下来",
+            "usage": "不及物动词，固定搭配 de 表示离开的起点。此外 sauter 还可作不及物动词表「爆炸」（La bombe a sauté.）。",
+            "exampleSentence": "Elle sauta de l'avion."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "établir un record",
+            "meaning": "创造纪录",
+            "usage": "固定搭配。与 battre un record（打破纪录）、dépasser un record（超越纪录）组成一组相关表达，注意区分：établir 侧重「首次创立」，battre 侧重「超越他人纪录」。",
+            "exampleSentence": "Jacqueline Cochrane établit le record du monde féminin de vitesse avec 765 km/h."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "battre un record",
+            "meaning": "打破纪录",
+            "usage": "固定搭配，与 établir un record 区别：battre 强调超越已有纪录；porter un record à + 数值（把纪录提高到……）也是课文中出现的相关表达。",
+            "exampleSentence": "En 1951, sur un Mistral, Jacqueline Auriol le battit avec 818 km/h."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "saisir l'occasion de + inf.",
+            "meaning": "抓住机会做某事",
+            "usage": "固定搭配，de 后接动词不定式。近义表达：profiter de l'occasion pour + inf.（利用机会……）。saisir 强调把握一次性机会，带有迫切感。",
+            "exampleSentence": "saisir l'occasion de battre le record une fois pour toutes"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "une fois pour toutes",
+            "meaning": "一劳永逸地；只此一次",
+            "usage": "固定副词短语，修饰动词，表示彻底解决某事，此后不再需要重复。口语和书面语均可使用。",
+            "exampleSentence": "saisir l'occasion de battre le record une fois pour toutes"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "à force de + n./inf.",
+            "meaning": "凭借……；由于大量……",
+            "usage": "固定介词短语，后接名词或动词不定式，强调通过大量的付出或努力取得结果。与 grâce à 区别：à force de 突出主观努力的程度，grâce à 侧重外部条件或他人的帮助。",
+            "exampleSentence": "Elle avait gagné la partie, à force de volonté et de courage."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "à partir de + date/moment",
+            "meaning": "从……起，自……开始",
+            "usage": "固定介词短语，后接时间名词或表时间的词组，标明动作或状态的起始时间点，常用于正式书面语。",
+            "exampleSentence": "on décida qu'à partir du 1er juillet, les records féminins ne seraient plus approuvés."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "retarder qch.",
+            "meaning": "推迟某事；耽搁",
+            "usage": "及物动词，宾语为事件或动作名词。与 reporter qch.（改期，通常意味着另定日期）区别：retarder 仅指延后，不一定另定时间。",
+            "exampleSentence": "Il n'était plus possible de retarder son vol."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "jeu",
+            "partOfSpeech": "n.m.",
+            "definition": "①游戏，玩耍 ②赌博 ③比赛，竞赛 ④（乐器等的）演奏，表演",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jeu de cartes",
+                    "vocabularyCollocationMeaning": "纸牌游戏"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "jeu avec la mort",
+                    "vocabularyCollocationMeaning": "与死神的较量，玩命"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "gagner la partie",
+                    "vocabularyCollocationMeaning": "赢得较量"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "jouer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "玩，游戏；演奏；赌博"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "joueur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "玩家；赌徒"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "jouet",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "玩具"
+                }
+            ],
+            "pluralForm": "jeux"
+        },
+        {
+            "index": "2",
+            "vocabulary": "contrôler",
+            "partOfSpeech": "vt.",
+            "definition": "①控制，掌控 ②检查，核查 ③克制（情绪）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "contrôler l'avion",
+                    "vocabularyCollocationMeaning": "控制飞机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contrôler ses émotions",
+                    "vocabularyCollocationMeaning": "控制自己的情绪"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "contrôler un billet",
+                    "vocabularyCollocationMeaning": "检查票据"
+                }
+            ],
+            "synonymAnalysis": "contrôler vs maîtriser：contrôler 侧重「掌控运行、检验核查」；maîtriser 更强调「彻底压制或驾驭」，如 maîtriser un incendie（控制火势）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contrôle",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "控制；检查；考核"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "contrôleur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "检票员；监察员"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "sol",
+            "partOfSpeech": "n.m.",
+            "definition": "①土地，土壤 ②地面，地板 ③（音乐）sol音",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au sol",
+                    "vocabularyCollocationMeaning": "在地面上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "toucher le sol",
+                    "vocabularyCollocationMeaning": "触地，落地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sol natal",
+                    "vocabularyCollocationMeaning": "故土"
+                }
+            ],
+            "synonymAnalysis": "sol vs terre：sol 更侧重「地面、地板」等具体表面；terre 范围更广，可指「大地、土壤、地球」。",
+            "derivedWords": [],
+            "pluralForm": "sols"
+        },
+        {
+            "index": "4",
+            "vocabulary": "inquiet",
+            "partOfSpeech": "adj.m.",
+            "definition": "①焦虑的，担心的 ②不安的，惶恐的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être inquiet de qch.",
+                    "vocabularyCollocationMeaning": "为某事担心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "regarder d'un air inquiet",
+                    "vocabularyCollocationMeaning": "用不安的眼神看"
+                }
+            ],
+            "synonymAnalysis": "inquiet vs anxieux：inquiet 通常指对具体事物的担心；anxieux 更倾向于描述普遍性的焦虑状态，程度更深。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inquiéter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使担心，使不安"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'inquiéter",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "感到担心，忧虑"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "inquiétude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "担忧，不安"
+                }
+            ],
+            "genderNumberVariation": "阴性 inquiète，阳性复数 inquiets，阴性复数 inquiètes",
+            "position": "通常置于名词之后作表语或后置定语"
+        },
+        {
+            "index": "5",
+            "vocabulary": "sang",
+            "partOfSpeech": "n.m.",
+            "definition": "①血，血液 ②血统，家族",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "garder son sang-froid",
+                    "vocabularyCollocationMeaning": "保持冷静"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sang-froid",
+                    "vocabularyCollocationMeaning": "冷静，沉着（复合名词，不变）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir le sang chaud",
+                    "vocabularyCollocationMeaning": "性格急躁，热血"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sanguin",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "血液的；血气旺盛的"
+                }
+            ],
+            "pluralForm": "sangs（罕用）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "sang-froid",
+            "partOfSpeech": "n.m.inv.",
+            "definition": "冷静，沉着，镇定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "garder son sang-froid",
+                    "vocabularyCollocationMeaning": "保持冷静"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "perdre son sang-froid",
+                    "vocabularyCollocationMeaning": "失去冷静"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de sang-froid",
+                    "vocabularyCollocationMeaning": "冷静地；蓄意地"
+                }
+            ],
+            "synonymAnalysis": "sang-froid vs calme：sang-froid 特指在危险或紧张情境下保持的冷静，语气更强；calme 泛指一般意义上的平静。",
+            "derivedWords": [],
+            "useExplanation": "复合名词，inv. 表示单复数形式相同，不变化。与物主代词连用时，son/leur 随主语人称变化，但 sang-froid 本身不加 -s。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "silence",
+            "partOfSpeech": "n.m.",
+            "definition": "①寂静，安静 ②沉默，无声",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "garder le silence",
+                    "vocabularyCollocationMeaning": "保持沉默"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rompre le silence",
+                    "vocabularyCollocationMeaning": "打破沉默"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "le silence de mort",
+                    "vocabularyCollocationMeaning": "死一般的寂静"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "silencieux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "寂静的，沉默的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "silencieusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "静静地，无声地"
+                }
+            ],
+            "pluralForm": "silences"
+        },
+        {
+            "index": "8",
+            "vocabulary": "sens",
+            "partOfSpeech": "n.m.",
+            "definition": "①含义，意义 ②感觉，感官 ③方向，方向感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir le sens de qch.",
+                    "vocabularyCollocationMeaning": "有……的意识/感觉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dans le sens de",
+                    "vocabularyCollocationMeaning": "沿……方向"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en ce sens",
+                    "vocabularyCollocationMeaning": "在这个意义上"
+                }
+            ],
+            "synonymAnalysis": "sens vs signification：sens 可指含义、感官或方向，多义；signification 专指「语义含义」，词义更单一。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sensible",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "敏感的；明显的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sensibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "敏感性；感受力"
+                }
+            ],
+            "pluralForm": "sens（单复数同形）"
+        },
+        {
+            "index": "9",
+            "vocabulary": "vol",
+            "partOfSpeech": "n.m.",
+            "definition": "①飞，飞行 ②盗窃，偷窃",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "centre de vol",
+                    "vocabularyCollocationMeaning": "飞行中心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vol à voile",
+                    "vocabularyCollocationMeaning": "滑翔飞行"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vol à l'étalage",
+                    "vocabularyCollocationMeaning": "顺手牵羊（商店扒窃）"
+                }
+            ],
+            "synonymAnalysis": "vol（飞行）与 vol（盗窃）为同形异义词，需根据语境判断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "voler",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "飞；偷窃"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "voleur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "小偷"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "pilote",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "飞行员（相关词）"
+                }
+            ],
+            "pluralForm": "vols"
+        },
+        {
+            "index": "10",
+            "vocabulary": "appuyer",
+            "partOfSpeech": "vi.",
+            "definition": "①压，按，踩（appuyer sur） ②支撑，倚靠（appuyer qch. sur/contre） ③支持，支援（appuyer qn.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "appuyer sur un bouton",
+                    "vocabularyCollocationMeaning": "按按钮"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "appuyer sur le frein",
+                    "vocabularyCollocationMeaning": "踩刹车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "appuyer une candidature",
+                    "vocabularyCollocationMeaning": "支持某人的候选资格"
+                }
+            ],
+            "synonymAnalysis": "appuyer sur vs presser：两者均可表示「按压」，但 presser 更强调快速或连续按压的动作；appuyer 更侧重施力于某一点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "appui",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "支撑；支持，支援"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'appuie, tu appuies, il appuie, nous appuyons, vous appuyez, ils appuient",
+                "compoundPast": "j'ai appuyé",
+                "simpleFuture": "j'appuierai",
+                "memoryAids": "属于 -uyer 类动词，词干中 y 在哑音词尾前变为 i（类似 essuyer, ennuyer）：je/tu/il/ils 用 appui-，nous/vous 保留 appuy-。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "adieu",
+            "partOfSpeech": "interj.",
+            "definition": "永别了！再见！（含有诀别或长期分离之意）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dire adieu à qn.",
+                    "vocabularyCollocationMeaning": "向某人告别，与某人永别"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire ses adieux",
+                    "vocabularyCollocationMeaning": "告别，道别"
+                }
+            ],
+            "synonymAnalysis": "adieu vs au revoir：adieu 含有「此后可能不再相见」的诀别意味，语气沉重；au revoir 仅为一般道别，含「下次再见」之意，日常使用。",
+            "derivedWords": [],
+            "useExplanation": "作名词时为阳性，可复数：les adieux（告别仪式）。作感叹词时不变，置于句首或独立使用。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "voix",
+            "partOfSpeech": "n.f.",
+            "definition": "①声音，嗓音 ②（语法）语态（主动语态/被动语态）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à voix haute/basse",
+                    "vocabularyCollocationMeaning": "大声地/小声地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de vive voix",
+                    "vocabularyCollocationMeaning": "口头地，当面地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "voix active/passive",
+                    "vocabularyCollocationMeaning": "主动语态/被动语态"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "voix（单复数同形，以 -x 结尾不加 -s）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "tellement",
+            "partOfSpeech": "adv.",
+            "definition": "①如此，这样地（修饰形容词或副词） ②如此之多（修饰动词）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tellement calme",
+                    "vocabularyCollocationMeaning": "如此平静"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tellement que",
+                    "vocabularyCollocationMeaning": "如此……以至于……（引导结果从句）"
+                }
+            ],
+            "synonymAnalysis": "tellement vs si：两者均可修饰形容词/副词表「如此」，可互换；但 tellement 还可修饰动词（Il travaille tellement.），而 si 不能修饰动词。修饰名词时须用 tant de（非 si）：Il a tellement de courage.（口语）/ tant de courage（书面语）。",
+            "derivedWords": [],
+            "useExplanation": "置于所修饰的形容词、副词或动词之前（修饰形容词副词时）或动词之后（修饰动词时）。引导结果从句时用 tellement...que...结构。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "miracle",
+            "partOfSpeech": "n.m.",
+            "definition": "①奇迹 ②意想不到的好事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un miracle",
+                    "vocabularyCollocationMeaning": "创造奇迹"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par miracle",
+                    "vocabularyCollocationMeaning": "奇迹般地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un miracle de + n.",
+                    "vocabularyCollocationMeaning": "……的奇迹"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "miraculeux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "奇迹般的，不可思议的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "miraculeusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "奇迹般地"
+                }
+            ],
+            "pluralForm": "miracles"
+        },
+        {
+            "index": "15",
+            "vocabulary": "accident",
+            "partOfSpeech": "n.m.",
+            "definition": "①事故，意外 ②偶然事件",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir un accident",
+                    "vocabularyCollocationMeaning": "出事故"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans accident",
+                    "vocabularyCollocationMeaning": "安全地，无意外地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "accident de voiture",
+                    "vocabularyCollocationMeaning": "车祸"
+                }
+            ],
+            "synonymAnalysis": "accident vs incident：accident 指造成伤害或损失的严重意外；incident 指较小的、不一定有损失的事件或纠纷。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "accidentel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "偶然的，意外的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "accidentellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "偶然地，意外地"
+                }
+            ],
+            "pluralForm": "accidents"
+        },
+        {
+            "index": "16",
+            "vocabulary": "sauter",
+            "partOfSpeech": "vi.",
+            "definition": "①跳，跃 ②爆炸，爆破 ③跳过，略去",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sauter de joie",
+                    "vocabularyCollocationMeaning": "欢呼雀跃"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sauter par-dessus qch.",
+                    "vocabularyCollocationMeaning": "跳过某物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire sauter",
+                    "vocabularyCollocationMeaning": "使爆炸；（烹饪）快炒"
+                }
+            ],
+            "synonymAnalysis": "sauter vs bondir：sauter 泛指各种跳跃；bondir 强调弹跳或因惊吓/兴奋而猛地跳起，动感更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "saut",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "跳跃；跳水（运动项目）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "joie",
+            "partOfSpeech": "n.f.",
+            "definition": "①高兴，欢乐 ②欣慰，愉悦",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec joie",
+                    "vocabularyCollocationMeaning": "高兴地，欣然地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sauter de joie",
+                    "vocabularyCollocationMeaning": "欢呼雀跃"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à ma grande joie",
+                    "vocabularyCollocationMeaning": "令我十分高兴的是"
+                }
+            ],
+            "synonymAnalysis": "joie vs bonheur：joie 指某一时刻强烈的喜悦感；bonheur 指持久的幸福状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "joyeux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "高兴的，快乐的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "joyeusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "高兴地，欢快地"
+                }
+            ],
+            "pluralForm": "joies"
+        },
+        {
+            "index": "18",
+            "vocabulary": "peur",
+            "partOfSpeech": "n.f.",
+            "definition": "①害怕，恐惧 ②担心，忧虑",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir peur (de qch./qn.)",
+                    "vocabularyCollocationMeaning": "害怕（某事/某人）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire peur à qn.",
+                    "vocabularyCollocationMeaning": "使某人害怕"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de peur de + inf. / de peur que + subj.",
+                    "vocabularyCollocationMeaning": "唯恐，以免"
+                }
+            ],
+            "synonymAnalysis": "peur vs crainte：peur 指即时性的、本能的恐惧；crainte 更书面，指持续性的、较理性的忧虑或顾虑。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "peureux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "胆怯的，容易害怕的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apeuré",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "受了惊吓的，惊恐的"
+                }
+            ],
+            "pluralForm": "peurs"
+        },
+        {
+            "index": "19",
+            "vocabulary": "féminin",
+            "partOfSpeech": "adj.m.",
+            "definition": "①妇女的，女性的 ②母性的 ③（语法）阴性的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le genre féminin",
+                    "vocabularyCollocationMeaning": "（语法）阴性"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "record féminin",
+                    "vocabularyCollocationMeaning": "女子纪录"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "équipe féminine",
+                    "vocabularyCollocationMeaning": "女子队"
+                }
+            ],
+            "synonymAnalysis": "féminin vs féminine：注意阴阳性变化，作定语时须与名词性数一致。féminin 还作名词（le féminin）指「阴性」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "féminisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "女权主义，女性主义"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "féministe",
+                    "derivedWordPartOfSpeech": "n.m./adj.",
+                    "derivedWordMeaning": "女权主义者；女权主义的"
+                }
+            ],
+            "genderNumberVariation": "阴性 féminine，阳性复数 féminins，阴性复数 féminines",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "20",
+            "vocabulary": "dépasser",
+            "partOfSpeech": "vt.",
+            "definition": "①超过，超越 ②超出，超越（能力、理解等范围）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dépasser un record",
+                    "vocabularyCollocationMeaning": "超越纪录"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dépasser qn.",
+                    "vocabularyCollocationMeaning": "超过某人，超车"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cela me dépasse",
+                    "vocabularyCollocationMeaning": "这超出了我的理解"
+                }
+            ],
+            "synonymAnalysis": "dépasser vs surpasser：dépasser 侧重在数量、速度、位置上「超过」；surpasser 更强调在质量、水平上「超越、胜过」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dépassement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "超越；超出"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "approuver",
+            "partOfSpeech": "vt.",
+            "definition": "①承认，认可 ②批准，同意 ③证明，证实",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "approuver une décision",
+                    "vocabularyCollocationMeaning": "批准一项决定"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "approuver qn. de faire qch.",
+                    "vocabularyCollocationMeaning": "赞成某人做某事"
+                }
+            ],
+            "synonymAnalysis": "approuver vs accepter：approuver 侧重主动认可、赞同；accepter 侧重接受（可能含有勉强之意）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "approbation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "批准，认可，赞同"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "annoncer",
+            "partOfSpeech": "vt.",
+            "definition": "①宣布，宣告 ②预示，预告",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "annoncer une nouvelle",
+                    "vocabularyCollocationMeaning": "宣布一个消息"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "annoncer que + ind.",
+                    "vocabularyCollocationMeaning": "宣布……（接陈述式从句）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'annoncer bien/mal",
+                    "vocabularyCollocationMeaning": "开头良好/不顺"
+                }
+            ],
+            "synonymAnalysis": "annoncer vs déclarer：annoncer 侧重「告知、预告」某一消息；déclarer 更正式，侧重「正式声明、申报」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "annonce",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "通知；广告；宣布"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "annonceur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "播音员；广告商"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'annonce, tu annonces, il annonce, nous annonçons, vous annoncez, ils annoncent",
+                "compoundPast": "j'ai annoncé",
+                "simpleFuture": "j'annoncerai",
+                "memoryAids": "属于 -cer 类动词：在 a、o 前 c 变 ç，以保持 [s] 音（如 nous annonçons）。类似动词：commencer, avancer, lancer。"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "saisir",
+            "partOfSpeech": "vt.",
+            "definition": "①抓住，握住 ②理解，领悟 ③抓住（机会）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "saisir l'occasion",
+                    "vocabularyCollocationMeaning": "抓住机会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "saisir le sens de qch.",
+                    "vocabularyCollocationMeaning": "理解某事的含义"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "saisir qn. par le bras",
+                    "vocabularyCollocationMeaning": "抓住某人的手臂"
+                }
+            ],
+            "synonymAnalysis": "saisir vs attraper：saisir 侧重「一把抓住」，也可引申为「领悟」；attraper 侧重「追上并抓住」，如 attraper un voleur（抓住小偷）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "saisissant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "令人震惊的，引人注目的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "24",
+            "vocabulary": "retarder",
+            "partOfSpeech": "vt.",
+            "definition": "①推迟，延误 ②（钟表）走慢",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "retarder un vol",
+                    "vocabularyCollocationMeaning": "推迟航班"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "retarder de + durée",
+                    "vocabularyCollocationMeaning": "（钟表）慢……（时间）"
+                }
+            ],
+            "synonymAnalysis": "retarder vs reporter：retarder 指延后但不一定重新安排具体时间；reporter 指改期，通常另行安排新时间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "retard",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "迟到；延误；落后"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "en retard",
+                    "derivedWordPartOfSpeech": "loc.",
+                    "derivedWordMeaning": "迟到；落后"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Le 12 octobre, Jacqueline Auriol travaillait en plein ciel quand elle perdit tout à coup le contrôle de l'avion. Avant de perdre tout à fait connaissance, elle avait pris une mesure, mais ça n'avait pas marché. Lorsqu'elle revint à elle, l'avion tombait. Sa voix était tellement calme qu'elle semblait ne pas avoir peur du tout. Enfin, l'avion toucha le sol sans aucun accident. Elle avait gagné la partie, à force de volonté et de courage.",
+            "chineseTranslation": "10月12日，雅克琳娜·奥里奥尔正在高空执飞，突然失去了对飞机的控制。在彻底失去知觉之前，她曾采取过一项应急措施，却无济于事。当她再度苏醒时，飞机正急速下坠。她的声音平静得出奇，仿佛浑然不惧。终于，飞机安全落地，毫发无损。凭借着意志与勇气，她赢得了这场与死神的较量。",
+            "fr2cnStrategy": "① perdre le contrôle de l'avion 直译为「失去对飞机的控制」，改写为更自然的「失去了对飞机的控制」，进而精简为「失去了对飞机的控制」；② ça n'avait pas marché 口语化表达，直译「没有奏效」，意译为「无济于事」，更符合汉语表达习惯；③ lorsqu'elle revint à elle 字面为「她回到自身」，即「她恢复知觉」，根据语境译为「再度苏醒」；④ tellement calme qu'elle semblait ne pas avoir peur 结果状语从句，改写为「平静得出奇，仿佛浑然不惧」，用分句替代结果从句，避免翻译腔；⑤ sans aucun accident 双重否定加强意义，译为「毫发无损」，转换为成语表达。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他们虽然焦虑，但始终保持着冷静。",
+                "frenchTranslation": "Bien qu'ils fussent inquiets, ils gardaient toujours leur sang-froid.",
+                "cn2frStrategy": "① 「虽然」用 bien que 引导让步状语从句，从句动词须用虚拟式（fussent 为 être 的未完成虚拟式，与过去叙事语境搭配）；② 「始终」用 toujours 强调持续性；③ 「保持冷静」用固定搭配 garder son sang-froid，物主代词随主语变为 leur。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "她意识到自己只剩下几天时间来准备这次考试。",
+                "frenchTranslation": "Elle se rendit compte qu'il ne lui restait que quelques jours pour préparer cet examen.",
+                "cn2frStrategy": "① 「意识到」用 se rendre compte que，是固定代词式动词搭配，后接陈述式从句；② 「只剩下……时间」用 il ne...restait que + 时间 + à qn. 的非人称句型；③ 「来准备」表目的，用 pour + inf.；④ 主句采用复合过去时，从句使用未完成过去时（restait）表示当时的持续状态。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "有关部门宣布，从下个月起，这项纪录将不再有效。",
+                "frenchTranslation": "On annonça qu'à partir du mois prochain, ce record ne serait plus valable.",
+                "cn2frStrategy": "① 「有关部门」用泛指代词 on；② annoncer que 后接宾语从句，主句用简单过去时（annonça），从句须用条件式（serait）表示过去时间点之后将发生的情况（过去将来时）；③ 「从……起」用 à partir de；④ 「不再」用 ne...plus。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "凭借多年的努力，她终于打破了世界纪录，成为世界上跑得最快的女性。",
+                "frenchTranslation": "À force d'efforts pendant des années, elle a finalement battu le record du monde et est devenue la femme la plus rapide du monde.",
+                "cn2frStrategy": "① 「凭借多年的努力」用 à force d'efforts pendant des années，à force de 强调主观努力；② 「打破纪录」用固定搭配 battre le record；③ 「世界上跑得最快的女性」用最高级结构 la femme la plus rapide du monde，定冠词 la 重复使用是法语最高级规则；④ 两个并列动作用 et 连接，复合过去时保持时态一致。"
+            }
+        ]
+    }
+}
