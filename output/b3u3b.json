@@ -1,0 +1,1477 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Les «gagneurs» ne sont pas toujours les plus brillants, mais ils ont en commun certaines qualités.",
+            "translatedSentence": "「成功者」并非总是最出色的人，但他们拥有一些共同的品质。",
+            "sentenceStructure": "主句一：Les «gagneurs» ne sont pas toujours les plus brillants；主句二：ils ont en commun certaines qualités；两句由 mais 并列连接。",
+            "grammarAnalysis": "① ne...pas toujours 为部分否定，表示“并非总是”，注意与 ne...jamais（完全否定）的区别。② les plus brillants 为最高级，定冠词 les 随主语性数变化。③ avoir qch. en commun 为固定搭配，意为“共同拥有某物”。",
+            "commonMistakes": "ne...pas toujours 是部分否定，不能译为“总是不……”。avoir en commun 中 en commun 为固定短语，不可拆分或替换介词。"
+        },
+        {
+            "index": "2",
+            "sentence": "Voici sept conseils, tirés des travaux de Garfield, qui peuvent vous aider à donner le meilleur de vous-même.",
+            "translatedSentence": "以下是七条建议，摘自加菲尔德的研究成果，或许能帮助你充分发挥自身潜能。",
+            "sentenceStructure": "主句：Voici sept conseils；过去分词短语 tirés des travaux de Garfield 作后置定语修饰 conseils；关系从句 qui peuvent vous aider à donner le meilleur de vous-même 进一步修饰 conseils。",
+            "grammarAnalysis": "① voici 用于引出即将列举的内容，为介词性副词。② tirés de 为过去分词短语作后置定语，表被动含义。③ aider qn. à faire qch. 为固定结构。④ le meilleur de vous-même 意为“你自身最好的状态/潜力”，为固定表达。",
+            "commonMistakes": "tirés 作定语时须与被修饰名词 conseils（阳性复数）保持性数一致，变为 tirés 而非 tiré。donner le meilleur de soi-même 是固定短语，不可逐词直译。"
+        },
+        {
+            "index": "3",
+            "sentence": "On dit souvent que les grandes réussites appartiennent aux gens qui n'hésitent pas à aller en avant, ceux qui emportent du travail chez eux le soir, et s'y consacrent jusqu'à l'heure du coucher.",
+            "translatedSentence": "人们常说，巨大的成功属于那些勇往直前、晚上把工作带回家、一直忙到就寝时分的人。",
+            "sentenceStructure": "主句：On dit souvent que...；宾语从句：les grandes réussites appartiennent aux gens；gens 后接三个并列关系从句，分别由 qui n'hésitent pas、ceux qui emportent、et s'y consacrent 引出。",
+            "grammarAnalysis": "① appartenir à 为间接及物动词，后接间接宾语，aux = à + les。② n'hésiter pas à faire qch. 意为“毫不犹豫地做某事”。③ s'y consacrer 中 y 代替前文提到的“工作”，consacrer 为代词式动词，se consacrer à qch. 意为“专注于某事”。④ jusqu'à 表示“直到”，后接名词短语。",
+            "commonMistakes": "s'y consacrer 中的 y 代替 au travail，注意代词 y 代替 à + 事物的用法。ceux 为指示代词，与前文的 gens 呼应，不可遗漏。"
+        },
+        {
+            "index": "4",
+            "sentence": "Les gagneurs, au contraire, sont tous disposés à se donner du mal, mais dans des limites bien déterminées, car pour eux, le travail n'est pas tout.",
+            "translatedSentence": "成功者则恰恰相反，他们都愿意付出努力，但有着明确的边界，因为在他们看来，工作并非一切。",
+            "sentenceStructure": "主句：Les gagneurs sont tous disposés à se donner du mal；转折分句由 mais 引出，含介词短语 dans des limites bien déterminées；原因从句由 car 引导：le travail n'est pas tout。",
+            "grammarAnalysis": "① être disposé à faire qch. 意为“愿意/准备好做某事”，为固定结构。② se donner du mal 为固定短语，意为“费心费力、努力付出”。③ car 引导原因从句，语气比 parce que 更肯定，多用于书面语。④ n'est pas tout 为部分否定，表示“并非一切”。",
+            "commonMistakes": "être disposé à 后须接动词不定式，不可接名词。car 和 parce que 均表原因，但 car 不可置于句首，且更正式；parce que 可置于句首并可回答 pourquoi 的提问。"
+        },
+        {
+            "index": "5",
+            "sentence": "Ce qu'ils recherchent, c'est une satisfaction personnelle et non, simplement, des avantages matériels (augmentation de salaire, par exemple).",
+            "translatedSentence": "他们追求的是个人的成就感，而不仅仅是物质利益（比如加薪）。",
+            "sentenceStructure": "强调句结构：Ce que...c'est...；主语从句 Ce qu'ils recherchent 作主语，c'est 后接表语 une satisfaction personnelle et non...des avantages matériels。",
+            "grammarAnalysis": "① Ce que...c'est... 为强调句型，用于突出宾语，相当于“他们所追求的，正是……”。② et non 表示对比否定，意为“而不是”，比 mais pas 更正式。③ simplement 作副词，插入句中起强调限制作用。",
+            "commonMistakes": "Ce que 引导的是名词性从句（主语从句），不是关系从句，注意区分。et non 后省略了动词，需根据语境补全理解为“et non (rechercher) simplement”。"
+        },
+        {
+            "index": "6",
+            "sentence": "Nombre de gens ont un tel souci de la perfection que leur efficacité est finalement très faible.",
+            "translatedSentence": "许多人对完美的追求已到了如此痴迷的程度，以至于他们的工作效率到头来反而极低。",
+            "sentenceStructure": "主句：Nombre de gens ont un tel souci de la perfection；结果从句由 que 引出：leur efficacité est finalement très faible。tel...que 构成结果状语从句。",
+            "grammarAnalysis": "① Nombre de + 名词 意为“许多……”，相当于 beaucoup de，但更书面化，后接复数名词，谓语动词用复数。② tel...que 引导结果从句，tel 作定语修饰名词 souci，须与名词性数一致（un tel souci）。③ finalement 作副词，表示“最终、到头来”。",
+            "commonMistakes": "Nombre de 后须接复数名词，且谓语动词用复数（ont，而非 a）。tel 修饰名词时性数需与名词一致，如 une telle passion、de tels efforts。"
+        },
+        {
+            "index": "7",
+            "sentence": "Aussi les gagneurs sont-ils des gens qui désirent plutôt battre leurs propres records que vaincre leurs adversaires.",
+            "translatedSentence": "因此，成功者宁愿打破自己的纪录，而不是击败对手。",
+            "sentenceStructure": "Aussi 置于句首引发主谓倒装：les gagneurs sont-ils...；关系从句 qui désirent plutôt...que... 修饰 gens。",
+            "grammarAnalysis": "① Aussi 置于句首表示“因此”（非“也”），须引发主谓倒装，即 sont-ils 而非 ils sont。② plutôt...que 为固定结构，意为“宁愿……而非……”，后接两个对等成分。③ désirer + 不定式 意为“希望/想要做某事”。",
+            "commonMistakes": "句首的 Aussi 表因果（= c'est pourquoi），不表示“也”，两者含义截然不同。Aussi 表因果时必须倒装，这是考研常考点，须牢记。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "avoir qch. en commun",
+            "meaning": "共同拥有某事物",
+            "usage": "固定搭配，en commun 作状语，不可替换为其他介词。可用于人或事物主语。",
+            "exampleSentence": "ils ont en commun certaines qualités"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "aider qn. à faire qch.",
+            "meaning": "帮助某人做某事",
+            "usage": "固定结构，aider 后接直接宾语人，再接 à + 不定式；注意 à 不可省略。",
+            "exampleSentence": "qui peuvent vous aider à donner le meilleur de vous-même"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "donner le meilleur de soi-même",
+            "meaning": "充分发挥自身潜能，全力以赴",
+            "usage": "固定短语，soi-même 随主语变化（vous-même / toi-même / lui-même 等）。",
+            "exampleSentence": "qui peuvent vous aider à donner le meilleur de vous-même"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "n'hésiter pas à faire qch.",
+            "meaning": "毫不犹豫地做某事",
+            "usage": "固定结构，hésiter à 后接不定式，加 ne...pas 变为肯定含义（毫不犹豫）。",
+            "exampleSentence": "les gens qui n'hésitent pas à aller en avant"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se consacrer à qch./qn.",
+            "meaning": "专注于某事，致力于……",
+            "usage": "代词式动词，固定搭配 à，后接名词或不定式；y 可代替 à + 事物。",
+            "exampleSentence": "s'y consacrent jusqu'à l'heure du coucher"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être disposé(e) à faire qch.",
+            "meaning": "愿意做某事，准备好做某事",
+            "usage": "固定结构，disposé 作表语形容词，须与主语性数一致，后接 à + 不定式。",
+            "exampleSentence": "les gagneurs sont tous disposés à se donner du mal"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "se donner du mal",
+            "meaning": "费心费力，努力付出",
+            "usage": "固定短语，du mal 不可替换，不带宾语。若后接具体内容，用 se donner du mal pour faire qch.。",
+            "exampleSentence": "sont tous disposés à se donner du mal"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "tirer profit de qch.",
+            "meaning": "从某事中获益，利用某事",
+            "usage": "固定搭配，profit 前不加冠词；类似表达：profiter de qch.（更口语化）。",
+            "exampleSentence": "ils aiment leur métier, ils le font bien et en tirent profit"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avoir coutume de faire qch.",
+            "meaning": "习惯于做某事",
+            "usage": "固定结构，coutume 前不加冠词；书面语体，口语多用 avoir l'habitude de。",
+            "exampleSentence": "les gagneurs ont coutume d'étudier à l'avance des solutions possibles"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "de façon à faire qch.",
+            "meaning": "以便……，为了……",
+            "usage": "目的状语短语，强调方式或手段，后接不定式；近义：de manière à faire qch.、afin de faire qch.。",
+            "exampleSentence": "Ils en tirent au contraire des leçons, de façon à mieux faire à la prochaine occasion."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "au contraire",
+            "meaning": "相反，恰恰相反",
+            "usage": "副词性短语，常置于句首或句中，用于转折对比；注意与 par contre（然而，口语）区分，au contraire 语气更强。",
+            "exampleSentence": "Les gagneurs, au contraire, sont tous disposés à se donner du mal"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "plutôt...que...",
+            "meaning": "宁愿……而不……",
+            "usage": "固定结构，连接两个对等成分（名词、不定式或形容词），表示偏好或对比选择。",
+            "exampleSentence": "des gens qui désirent plutôt battre leurs propres records que vaincre leurs adversaires"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "en cas d'échec",
+            "meaning": "在失败的情况下，万一失败",
+            "usage": "固定介词短语，en cas de + 名词 表示“在……情况下”，常用于预设条件场景。",
+            "exampleSentence": "ils ont coutume d'étudier à l'avance des solutions possibles en cas d'échec"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "empêcher qn. de faire qch.",
+            "meaning": "阻止某人做某事",
+            "usage": "固定结构，empêcher 后接直接宾语人，再接 de + 不定式；注意介词为 de，不可用 à。",
+            "exampleSentence": "cette pensée nous empêche de donner notre pleine mesure"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "gagneur",
+            "partOfSpeech": "n.m.",
+            "definition": "①成功者，赢家 ②胜利者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un état d'esprit de gagneur",
+                    "vocabularyCollocationMeaning": "成功者的心态"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les gagneurs et les perdants",
+                    "vocabularyCollocationMeaning": "成功者与失败者"
+                }
+            ],
+            "synonymAnalysis": "gagneur vs vainqueur：gagneur 强调持续性的成功特质或人格特征；vainqueur 指某次竞争中的具体胜利者，更强调结果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "gagner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "赢得；挣得；获得"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "gain",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "收益，所得"
+                }
+            ],
+            "pluralForm": "gagneurs"
+        },
+        {
+            "index": "2",
+            "vocabulary": "brillant",
+            "partOfSpeech": "adj.",
+            "definition": "①杰出的，优秀的 ②发光的，光亮的 ③才华横溢的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un élève brillant",
+                    "vocabularyCollocationMeaning": "一个优秀的学生"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une carrière brillante",
+                    "vocabularyCollocationMeaning": "辉煌的职业生涯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "des yeux brillants",
+                    "vocabularyCollocationMeaning": "闪亮的眼睛"
+                }
+            ],
+            "synonymAnalysis": "brillant vs excellent：brillant 侧重光彩夺目、才华出众；excellent 侧重质量极高、表现卓越，更客观中性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "briller",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "发光；出众，表现突出"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "brillamment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "出色地，精彩地"
+                }
+            ],
+            "genderNumberVariation": "阴性 brillante，阳性复数 brillants，阴性复数 brillantes",
+            "position": "通常置于名词之后；偶尔前置时强调色彩更强，如 une brillante carrière。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "médecine",
+            "partOfSpeech": "n.f.",
+            "definition": "①医学 ②医术 ③药物（较少见）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "école de médecine",
+                    "vocabularyCollocationMeaning": "医学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "étudier la médecine",
+                    "vocabularyCollocationMeaning": "学医"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "médecine générale",
+                    "vocabularyCollocationMeaning": "全科医学"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "médecin",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "医生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "médical",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "医学的，医疗的"
+                }
+            ],
+            "pluralForm": "médecines"
+        },
+        {
+            "index": "4",
+            "vocabulary": "réussite",
+            "partOfSpeech": "n.f.",
+            "definition": "①成功，成就 ②（考试等的）通过",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une réussite brillante",
+                    "vocabularyCollocationMeaning": "辉煌的成功"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la réussite scolaire",
+                    "vocabularyCollocationMeaning": "学业成功"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "clé de la réussite",
+                    "vocabularyCollocationMeaning": "成功的钥匙"
+                }
+            ],
+            "synonymAnalysis": "réussite vs succès：两者均表“成功”，réussite 更强调结果的实现（某件事成功了）；succès 更强调成功带来的影响和声誉（获得成功、受到好评）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réussir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "成功；（考试）通过"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réussi",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "成功的，出色的"
+                }
+            ],
+            "pluralForm": "réussites"
+        },
+        {
+            "index": "5",
+            "vocabulary": "domaine",
+            "partOfSpeech": "n.m.",
+            "definition": "①领域，范围 ②（专业）领域 ③庄园，田产",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans le domaine de qch.",
+                    "vocabularyCollocationMeaning": "在某领域"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tous les domaines d'activité",
+                    "vocabularyCollocationMeaning": "各行各业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "domaine public",
+                    "vocabularyCollocationMeaning": "公共领域"
+                }
+            ],
+            "synonymAnalysis": "domaine vs secteur vs champ：domaine 最通用，指知识或活动的范围；secteur 多指经济、行业分区；champ 更偏向学术或思想领域。",
+            "derivedWords": [],
+            "pluralForm": "domaines"
+        },
+        {
+            "index": "6",
+            "vocabulary": "existence",
+            "partOfSpeech": "n.f.",
+            "definition": "①存在；生命 ②生活，生存状态",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'existence de qch.",
+                    "vocabularyCollocationMeaning": "某物的存在"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "mener une existence tranquille",
+                    "vocabularyCollocationMeaning": "过平静的生活"
+                }
+            ],
+            "synonymAnalysis": "existence vs vie：existence 偏哲学或抽象，强调“存在”这一状态；vie 更日常，指具体的生命或生活过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exister",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "存在"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "existentiel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "存在主义的；存在的"
+                }
+            ],
+            "pluralForm": "existences"
+        },
+        {
+            "index": "7",
+            "vocabulary": "conseil",
+            "partOfSpeech": "n.m.",
+            "definition": "①建议，劝告 ②顾问，咨询师 ③委员会，理事会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "donner un conseil à qn.",
+                    "vocabularyCollocationMeaning": "给某人提建议"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suivre les conseils de qn.",
+                    "vocabularyCollocationMeaning": "听从某人的建议"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "demander conseil à qn.",
+                    "vocabularyCollocationMeaning": "向某人征求建议"
+                }
+            ],
+            "synonymAnalysis": "conseil vs avis：conseil 是具有指导性的建议，通常来自有经验的人；avis 更偏向个人意见或看法，不一定有指导性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "建议；劝告"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "conseiller",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "顾问，咨询师"
+                }
+            ],
+            "pluralForm": "conseils"
+        },
+        {
+            "index": "8",
+            "vocabulary": "équilibrer",
+            "partOfSpeech": "vt.",
+            "definition": "①使平衡，使均衡 ②调节，协调",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "équilibrer son budget",
+                    "vocabularyCollocationMeaning": "使预算平衡"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vie équilibrée",
+                    "vocabularyCollocationMeaning": "平衡的生活"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "équilibre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "平衡，均衡"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "équilibré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "平衡的；心理健全的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "déséquilibrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使失去平衡"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "9",
+            "vocabulary": "faux",
+            "partOfSpeech": "adj.",
+            "definition": "①错误的，不正确的 ②虚假的，假冒的 ③走调的（音乐）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est faux",
+                    "vocabularyCollocationMeaning": "这是错误的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un faux ami",
+                    "vocabularyCollocationMeaning": "假朋友；（语言学）假同源词"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "chanter faux",
+                    "vocabularyCollocationMeaning": "唱歌走调"
+                }
+            ],
+            "synonymAnalysis": "faux vs incorrect vs erroné：faux 最常用，口语书面均可；incorrect 多指行为或语言不规范；erroné 为书面语，指基于错误信息而产生的判断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fausseté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "虚假，错误性"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "faussement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "错误地；虚假地"
+                }
+            ],
+            "genderNumberVariation": "阴性 fausse，阳性复数 faux，阴性复数 fausses",
+            "position": "通常置于名词之前，如 un faux document；置于名词后时多为表语用法。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "fatiguer",
+            "partOfSpeech": "vt.",
+            "definition": "①使疲劳，使劳累 ②使厌烦",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fatiguer qn.",
+                    "vocabularyCollocationMeaning": "使某人疲劳"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se fatiguer à faire qch.",
+                    "vocabularyCollocationMeaning": "费力地做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se fatiguer de qch.",
+                    "vocabularyCollocationMeaning": "对某事感到厌倦"
+                }
+            ],
+            "synonymAnalysis": "fatiguer vs épuiser：fatiguer 表一般疲劳；épuiser 程度更深，表精疲力竭。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fatigue",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "疲劳，疲倦"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fatigant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人疲劳的；令人厌烦的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "fatigué",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "疲劳的，疲倦的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "disposer",
+            "partOfSpeech": "vt.",
+            "definition": "①安排；布置 ②使准备好，使倾向于",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "disposer de qch.",
+                    "vocabularyCollocationMeaning": "拥有某物，可以使用某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être disposé à faire qch.",
+                    "vocabularyCollocationMeaning": "愿意/准备好做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "disposer les meubles",
+                    "vocabularyCollocationMeaning": "摆放家具"
+                }
+            ],
+            "synonymAnalysis": "disposer de vs avoir：disposer de 强调对资源的支配权和使用权；avoir 仅表示拥有，不强调支配性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "disposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "安排；倾向；才能"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "disposé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "愿意的；摆放好的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "limite",
+            "partOfSpeech": "n.f.",
+            "definition": "①界线，边界 ②限度，极限",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dans des limites raisonnables",
+                    "vocabularyCollocationMeaning": "在合理的限度内"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dépasser les limites",
+                    "vocabularyCollocationMeaning": "超出界限"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à la limite",
+                    "vocabularyCollocationMeaning": "极端情况下；勉强可以"
+                }
+            ],
+            "synonymAnalysis": "limite vs frontière：limite 指抽象或具体的极限、界限；frontière 特指国家或地区之间的地理边界。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "limiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "限制，限定"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "limité",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有限的，受限的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "illimité",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无限的，不受限制的"
+                }
+            ],
+            "pluralForm": "limites"
+        },
+        {
+            "index": "13",
+            "vocabulary": "déterminer",
+            "partOfSpeech": "vt.",
+            "definition": "①确定，决定 ②促使，使下决心",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "déterminer qch.",
+                    "vocabularyCollocationMeaning": "确定某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bien déterminé",
+                    "vocabularyCollocationMeaning": "明确界定的，坚定的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "déterminer qn. à faire qch.",
+                    "vocabularyCollocationMeaning": "促使某人做某事"
+                }
+            ],
+            "synonymAnalysis": "déterminer vs décider：déterminer 强调通过分析或推断得出结论；décider 强调主观意志上的决断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "détermination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "决心，意志；确定"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "déterminé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "坚定的；已确定的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "dossier",
+            "partOfSpeech": "n.m.",
+            "definition": "①档案，材料，卷宗 ②文件夹 ③专题报道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "étudier un dossier",
+                    "vocabularyCollocationMeaning": "研究一个案卷"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "laisser ses dossiers au bureau",
+                    "vocabularyCollocationMeaning": "把文件留在办公室"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "monter un dossier",
+                    "vocabularyCollocationMeaning": "整理建立档案"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "dossiers"
+        },
+        {
+            "index": "15",
+            "vocabulary": "rechercher",
+            "partOfSpeech": "vt.",
+            "definition": "①追求，寻求 ②搜寻，寻找",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rechercher qch.",
+                    "vocabularyCollocationMeaning": "追求某物，寻找某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rechercher la perfection",
+                    "vocabularyCollocationMeaning": "追求完美"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être recherché",
+                    "vocabularyCollocationMeaning": "受追捧的；被通缉的"
+                }
+            ],
+            "synonymAnalysis": "rechercher vs chercher：rechercher 含有更深入、持续探寻的意味，也常指有意识地追求某种价值；chercher 更日常，指一般性的寻找。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "recherche",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "研究；搜索；追求"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chercheur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "研究员，研究者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "matériel",
+            "partOfSpeech": "adj.",
+            "definition": "①物质的，物质上的 ②实际的，现实的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avantages matériels",
+                    "vocabularyCollocationMeaning": "物质利益"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aide matérielle",
+                    "vocabularyCollocationMeaning": "物质援助"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "conditions matérielles",
+                    "vocabularyCollocationMeaning": "物质条件"
+                }
+            ],
+            "synonymAnalysis": "matériel vs physique：matériel 指与物质财富或实物相关；physique 指物理上的或身体上的，两者不可互换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "matériel",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "设备，材料，物资"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "matière",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "物质；原材料；科目"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "matériellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "物质上地；实际上"
+                }
+            ],
+            "genderNumberVariation": "阴性 matérielle，阳性复数 matériels，阴性复数 matérielles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "17",
+            "vocabulary": "profit",
+            "partOfSpeech": "n.m.",
+            "definition": "①利益，好处 ②利润，收益",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tirer profit de qch.",
+                    "vocabularyCollocationMeaning": "从某事中获益"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au profit de qn.",
+                    "vocabularyCollocationMeaning": "为了某人的利益"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mettre à profit",
+                    "vocabularyCollocationMeaning": "充分利用"
+                }
+            ],
+            "synonymAnalysis": "profit vs bénéfice：profit 偏向抽象的利益或好处；bénéfice 多指具体的财务盈利。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "profitable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有益的；有利可图的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "profiter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "获益；利用（profiter de）"
+                }
+            ],
+            "pluralForm": "profits"
+        },
+        {
+            "index": "18",
+            "vocabulary": "mentalement",
+            "partOfSpeech": "adv.",
+            "definition": "在心里，精神上，心理上",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "répéter mentalement",
+                    "vocabularyCollocationMeaning": "在心里演练"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "calculer mentalement",
+                    "vocabularyCollocationMeaning": "心算"
+                }
+            ],
+            "synonymAnalysis": "mentalement vs psychologiquement：mentalement 侧重思维层面的心理活动；psychologiquement 更广，涉及情感与心理健康整体状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mental",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "精神的，心理的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "mentalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "心态，思维方式"
+                }
+            ],
+            "useExplanation": "副词，通常修饰动词，置于动词后或句尾；强调动作在心理/脑内层面发生，非物理层面。"
+        },
+        {
+            "index": "19",
+            "vocabulary": "lors de",
+            "partOfSpeech": "loc.prép.",
+            "definition": "在……时候，当……之际",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lors de la réunion",
+                    "vocabularyCollocationMeaning": "在开会期间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lors d'un événement important",
+                    "vocabularyCollocationMeaning": "在重要活动期间"
+                }
+            ],
+            "synonymAnalysis": "lors de vs au moment de vs pendant：lors de 偏书面，指某特定时刻或事件发生时；au moment de 更强调时间的精确点；pendant 强调持续时间段。",
+            "derivedWords": [],
+            "useExplanation": "介词短语，后接名词或名词短语；书面语体为主；不可接动词不定式（此时用 au moment de）。"
+        },
+        {
+            "index": "20",
+            "vocabulary": "réflexion",
+            "partOfSpeech": "n.f.",
+            "definition": "①思考，想法 ②反思，沉思 ③（物理）反射",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "après réflexion",
+                    "vocabularyCollocationMeaning": "经过考虑之后"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire une réflexion",
+                    "vocabularyCollocationMeaning": "作出评论（有时含批评意味）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sujet de réflexion",
+                    "vocabularyCollocationMeaning": "思考的主题"
+                }
+            ],
+            "synonymAnalysis": "réflexion vs pensée：réflexion 强调反复深思的过程；pensée 更泛，指任何思想或念头。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réfléchir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "思考，反思（réfléchir à qch.）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réfléchi",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "深思熟虑的；代词式的（语法）"
+                }
+            ],
+            "pluralForm": "réflexions"
+        },
+        {
+            "index": "21",
+            "vocabulary": "destiner",
+            "partOfSpeech": "vt.",
+            "definition": "①（准备）供……之用 ②注定，命中注定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "destiner qch. à qn.",
+                    "vocabularyCollocationMeaning": "把某物留给某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être destiné à faire qch.",
+                    "vocabularyCollocationMeaning": "注定要做某事；专门用于做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se destiner à",
+                    "vocabularyCollocationMeaning": "打算从事……"
+                }
+            ],
+            "synonymAnalysis": "destiner vs réserver：destiner 有命运或目的性的含义；réserver 更中性，表预留或保留。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "destination",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "目的地；用途"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "destinée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "命运，天命"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "efficacité",
+            "partOfSpeech": "n.f.",
+            "definition": "效率，功效，有效性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec efficacité",
+                    "vocabularyCollocationMeaning": "有效地，高效地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "améliorer l'efficacité",
+                    "vocabularyCollocationMeaning": "提高效率"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rechercher l'efficacité",
+                    "vocabularyCollocationMeaning": "追求效率"
+                }
+            ],
+            "synonymAnalysis": "efficacité vs efficience：efficacité 指达到目的的能力（有没有效果）；efficience 强调以最少资源达到目标（投入产出比），后者更偏经济、管理语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "efficace",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有效的，高效的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inefficace",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无效的，低效的"
+                }
+            ],
+            "pluralForm": "efficacités"
+        },
+        {
+            "index": "23",
+            "vocabulary": "perfection",
+            "partOfSpeech": "n.f.",
+            "definition": "①完美，完善 ②极致",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à la perfection",
+                    "vocabularyCollocationMeaning": "完美地，极好地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rechercher la perfection",
+                    "vocabularyCollocationMeaning": "追求完美"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "souci de la perfection",
+                    "vocabularyCollocationMeaning": "对完美的追求"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "parfait",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "完美的，完全的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "perfectionniste",
+                    "derivedWordPartOfSpeech": "n.m./adj.",
+                    "derivedWordMeaning": "完美主义者；完美主义的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "perfectionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使完善，使完美"
+                }
+            ],
+            "pluralForm": "perfections"
+        },
+        {
+            "index": "24",
+            "vocabulary": "erreur",
+            "partOfSpeech": "n.f.",
+            "definition": "①错误，失误 ②误差",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une erreur",
+                    "vocabularyCollocationMeaning": "犯错"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "corriger une erreur",
+                    "vocabularyCollocationMeaning": "纠正错误"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par erreur",
+                    "vocabularyCollocationMeaning": "误，由于错误"
+                }
+            ],
+            "synonymAnalysis": "erreur vs faute：erreur 多指无意犯下的错误；faute 更强调责任，带有过失或道德层面的含义，如 faute professionnelle（失职）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "erroné",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "错误的，不正确的（书面语）"
+                }
+            ],
+            "pluralForm": "erreurs"
+        },
+        {
+            "index": "25",
+            "vocabulary": "échec",
+            "partOfSpeech": "n.m.",
+            "definition": "①失败 ②（国际象棋）将军",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en cas d'échec",
+                    "vocabularyCollocationMeaning": "万一失败"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "subir un échec",
+                    "vocabularyCollocationMeaning": "遭遇失败"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "voué à l'échec",
+                    "vocabularyCollocationMeaning": "注定失败的"
+                }
+            ],
+            "synonymAnalysis": "échec vs défaite：échec 泛指任何事情上的失败；défaite 特指竞争或战争中的失败。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "échouer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "失败；（考试）不及格"
+                }
+            ],
+            "pluralForm": "échecs"
+        },
+        {
+            "index": "26",
+            "vocabulary": "consentir",
+            "partOfSpeech": "vi.",
+            "definition": "①同意，赞成（consentir à） ②答应，允许",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consentir à faire qch.",
+                    "vocabularyCollocationMeaning": "同意做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "consentir à un risque",
+                    "vocabularyCollocationMeaning": "同意承担风险"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "consentement mutuel",
+                    "vocabularyCollocationMeaning": "相互同意"
+                }
+            ],
+            "synonymAnalysis": "consentir vs accepter：consentir 更正式，强调主动同意，有让步之意；accepter 更中性，强调接受某事。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "consentement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "同意，许可"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je consens, tu consens, il consent, nous consentons, vous consentez, ils consentent",
+                "compoundPast": "j'ai consenti",
+                "simpleFuture": "je consentirai",
+                "memoryAids": "属于-ir不规则动词，类似 mentir / sentir / partir，复数词干为 consent-，但单数无词尾辅音。"
+            }
+        },
+        {
+            "index": "27",
+            "vocabulary": "risquer",
+            "partOfSpeech": "vt.",
+            "definition": "①冒险，冒……的风险 ②可能会（risquer de）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "risquer sa vie",
+                    "vocabularyCollocationMeaning": "冒生命危险"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "risquer de faire qch.",
+                    "vocabularyCollocationMeaning": "可能会做某事（带有负面预期）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "risquer le tout pour le tout",
+                    "vocabularyCollocationMeaning": "孤注一掷"
+                }
+            ],
+            "synonymAnalysis": "risquer vs oser：risquer 强调客观上存在的风险；oser 强调主观上的勇气和胆量（敢于）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "risque",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "风险，危险"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "risqué",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "冒险的，危险的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "28",
+            "vocabulary": "sécurité",
+            "partOfSpeech": "n.f.",
+            "definition": "①安全，安全感 ②保障，稳定",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rechercher la sécurité",
+                    "vocabularyCollocationMeaning": "寻求安全感"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sécurité sociale",
+                    "vocabularyCollocationMeaning": "社会保障"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en toute sécurité",
+                    "vocabularyCollocationMeaning": "安全地"
+                }
+            ],
+            "synonymAnalysis": "sécurité vs sûreté：sécurité 偏向主观安全感或系统性安全保障；sûreté 偏向客观上的无危险状态，也指警察机构（法国国家安全局）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sécuriser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使安全，使放心"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sécuritaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "安全方面的；治安的"
+                }
+            ],
+            "pluralForm": "sécurités"
+        },
+        {
+            "index": "29",
+            "vocabulary": "sous-estimer",
+            "partOfSpeech": "vt.",
+            "definition": "低估，轻视",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous-estimer ses capacités",
+                    "vocabularyCollocationMeaning": "低估自身能力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sous-estimer l'adversaire",
+                    "vocabularyCollocationMeaning": "轻视对手"
+                }
+            ],
+            "synonymAnalysis": "sous-estimer vs négliger：sous-estimer 特指对价值或能力的低估；négliger 泛指忽视或疏忽，含义更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "estimer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "估计；尊重"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "surestimer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "高估"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "capacité",
+            "partOfSpeech": "n.f.",
+            "definition": "①能力，才干 ②容量，容积",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir la capacité de faire qch.",
+                    "vocabularyCollocationMeaning": "有能力做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "capacité d'adaptation",
+                    "vocabularyCollocationMeaning": "适应能力"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à pleine capacité",
+                    "vocabularyCollocationMeaning": "以全部能力，满负荷"
+                }
+            ],
+            "synonymAnalysis": "capacité vs compétence：capacité 更广，指一般性的能力或潜力；compétence 更具体，指某专业领域内经过训练形成的技能。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "capable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有能力的（être capable de）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "incapable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无能力的，不能胜任的"
+                }
+            ],
+            "pluralForm": "capacités"
+        },
+        {
+            "index": "31",
+            "vocabulary": "tâche",
+            "partOfSpeech": "n.f.",
+            "definition": "①任务，工作 ②职责",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "accomplir une tâche",
+                    "vocabularyCollocationMeaning": "完成一项任务"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tâche difficile",
+                    "vocabularyCollocationMeaning": "困难的任务"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se mettre à la tâche",
+                    "vocabularyCollocationMeaning": "着手工作"
+                }
+            ],
+            "synonymAnalysis": "tâche vs mission vs devoir：tâche 指具体的工作任务；mission 含有使命感，范围更大；devoir 强调道义上的责任和义务。",
+            "derivedWords": [],
+            "pluralForm": "tâches"
+        },
+        {
+            "index": "32",
+            "vocabulary": "vaincre",
+            "partOfSpeech": "vt.",
+            "definition": "①战胜，克服 ②征服，打败",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vaincre ses adversaires",
+                    "vocabularyCollocationMeaning": "战胜对手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vaincre sa peur",
+                    "vocabularyCollocationMeaning": "克服恐惧"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vaincre les obstacles",
+                    "vocabularyCollocationMeaning": "克服障碍"
+                }
+            ],
+            "synonymAnalysis": "vaincre vs battre：vaincre 更正式，带有彻底征服之意，也可用于抽象困难；battre 更口语，常用于比赛或具体对抗。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vainqueur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "胜利者，征服者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "invincible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不可战胜的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je vaincs, tu vaincs, il vainc, nous vainquons, vous vainquez, ils vainquent",
+                "compoundPast": "j'ai vaincu",
+                "simpleFuture": "je vaincrai",
+                "memoryAids": "注意单数形式词干为 vainc-（结尾-cs, -cs, -c），复数转为 vainqu-；类似动词：convaincre（说服）变位完全相同。"
+            }
+        },
+        {
+            "index": "33",
+            "vocabulary": "adversaire",
+            "partOfSpeech": "n.",
+            "definition": "对手，敌人，反对者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vaincre ses adversaires",
+                    "vocabularyCollocationMeaning": "战胜对手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un adversaire redoutable",
+                    "vocabularyCollocationMeaning": "可怕的对手"
+                }
+            ],
+            "synonymAnalysis": "adversaire vs ennemi vs concurrent：adversaire 指竞争或对立关系中的对方，较中性；ennemi 含敌对、仇视意味；concurrent 专指同一竞争领域的竞争者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adverse",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "对立的，敌对的（书面语）"
+                }
+            ],
+            "pluralForm": "adversaires"
+        },
+        {
+            "index": "34",
+            "vocabulary": "inquiéter",
+            "partOfSpeech": "vt.",
+            "definition": "①使不安，使担心 ②打扰，烦扰",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'inquiéter de qch.",
+                    "vocabularyCollocationMeaning": "为某事担心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'inquiéter pour qn.",
+                    "vocabularyCollocationMeaning": "为某人担心"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ne t'inquiète pas",
+                    "vocabularyCollocationMeaning": "别担心"
+                }
+            ],
+            "synonymAnalysis": "s'inquiéter vs se préoccuper：s'inquiéter 更强调情绪上的不安和焦虑；se préoccuper 更理性，强调关注和重视某问题。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inquiétude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不安，担忧"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inquiet",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不安的，担心的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je m'inquiète, tu t'inquiètes, il s'inquiète, nous nous inquiétons, vous vous inquiétez, ils s'inquiètent",
+                "compoundPast": "je me suis inquiété(e)",
+                "simpleFuture": "je m'inquiéterai",
+                "memoryAids": "属于 -é_er 类词根变音动词，重音节 é 变为 è（类似 espérer, préférer）；复合过去时助动词用 être。"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Les gagneurs ne sont pas toujours les plus brillants, mais ils ont en commun certaines qualités. Ils sont tous disposés à se donner du mal, mais dans des limites bien déterminées, car pour eux, le travail n'est pas tout. Ce qu'ils recherchent, c'est une satisfaction personnelle et non, simplement, des avantages matériels. Ils ne considèrent pas leurs erreurs comme des échecs, mais en tirent au contraire des leçons, de façon à mieux faire à la prochaine occasion. Aussi sont-ils des gens qui désirent plutôt battre leurs propres records que vaincre leurs adversaires.",
+            "chineseTranslation": "「成功者」并非总是最出色的人，但他们拥有某些共同的品质。他们都愿意付出努力，但有着明确的边界，因为在他们看来，工作并非一切。他们追求的是个人的成就感，而不仅仅是物质利益。他们不把错误视为失败，而是从中汲取教训，以便下次做得更好。因此，他们宁愿打破自己的纪录，也不想着击败对手。",
+            "fr2cnStrategy": "① Les «gagneurs» 的引号表特定概念，译时保留书名号「 」以体现原文的强调意味。② ne...pas toujours 为部分否定，译为“并非总是”，切忌译为“总是不”。③ Ce qu'ils recherchent, c'est... 为强调句型，翻译时调整为“他们追求的是……”，突出强调重心；避免硬译为“他们所研究的，那是……”。④ et non, simplement 插入成分须处理为“而不仅仅是”，体现转折限定关系。⑤ de façon à mieux faire 翻译为目的状语“以便……做得更好”，属于词性转换（短语→汉语副词结构）。⑥ Aussi sont-ils 为因果倒装，译为“因此，他们……”，注意不译为“他们也是……”。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "许多人追求完美，但这种追求反而降低了他们的工作效率。",
+                "frenchTranslation": "Nombre de gens recherchent la perfection, mais ce souci finit par réduire leur efficacité.",
+                "cn2frStrategy": "① “许多人”用书面语 Nombre de gens（比 beaucoup de gens 更正式）。② “这种追求”转化为名词 ce souci，避免代词指代不清。③ “反而”用 finit par + 不定式 表示意外的最终结果，比直译更地道。④ “降低效率”用 réduire l'efficacité，亦可用 diminuer。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "成功者习惯于提前研究各种可能的解决方案，以便在失败时能够挽救局面。",
+                "frenchTranslation": "Les gagneurs ont coutume d'étudier à l'avance des solutions possibles, de façon à pouvoir sauver la situation en cas d'échec.",
+                "cn2frStrategy": "① “习惯于”用 avoir coutume de + 不定式，书面语固定表达。② “提前”用 à l'avance，置于动词后。③ “以便”用 de façon à + 不定式，表目的。④ “在失败时”用 en cas d'échec，介词短语表假设条件，比 si on échoue 更简洁正式。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "在重要比赛之前，他习惯在脑海中反复演练自己的每一个动作。",
+                "frenchTranslation": "Avant une compétition importante, il a coutume de répéter mentalement chacun de ses gestes.",
+                "cn2frStrategy": "① “在脑海中反复演练”精准对应课文表达 répéter mentalement，属于词汇迁移。② chacun de ses gestes 表示“他的每一个动作”，chacun de 为固定表达，接复数名词。③ 时间状语 Avant une compétition 置于句首，符合法语叙述习惯。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "我们不应该低估自己的能力，因为我们尚未确定自己真正的极限在哪里。",
+                "frenchTranslation": "Il ne faut pas sous-estimer nos capacités, car nous n'avons pas encore déterminé nos propres limites.",
+                "cn2frStrategy": "① “不应该”用非人称句型 il ne faut pas + 不定式，比 on ne doit pas 更正式。② “尚未”用 ne...pas encore，注意 encore 置于过去分词前（n'avons pas encore déterminé）。③ “真正的极限”译为 nos propres limites，propre 置于名词前表“自己的”，体现强调。④ 原因从句用 car（书面语），与课文风格一致。"
+            }
+        ]
+    }
+}
