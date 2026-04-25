@@ -1,0 +1,806 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Puisque ce sont les jeunes qui feront l'Europe de demain, il faut qu'on leur donne les moyens de la connaître.",
+            "translatedSentence": "既然正是年轻人将塑造未来的欧洲，就必须给他们了解欧洲的手段和途径。",
+            "sentenceStructure": "Puisque 引导的原因状语从句（ce sont les jeunes qui feront l'Europe de demain）+ 主句（il faut qu'on leur donne les moyens de la connaître）。主句中 il faut que 后接虚拟式 donne。",
+            "grammarAnalysis": "① Puisque 引导原因从句，语气带有「理所当然」的含义，比 parce que 更强调前提的已知性。② ce sont...qui 是强调句型，强调主语 les jeunes。③ feront 为简单将来时。④ il faut que + 虚拟式（donne）是考研核心句型。⑤ les moyens de + 不定式：做某事的手段/途径。",
+            "commonMistakes": "① 易将 Puisque 误译为“因为”，应译为“既然”，含有说话人认为对方已知该前提之意。② il faut que 后必须接虚拟式，不可接直陈式。③ leur 是间接宾语代词（给他们），la 是直接宾语代词（了解它=欧洲），不可混淆。"
+        },
+        {
+            "index": "2",
+            "sentence": "Un principe que l'Union européenne (UE) met en action en invitant élèves et apprentis à partir à la découverte des citoyens des autres pays membres.",
+            "translatedSentence": "这正是欧盟正在付诸实施的一项原则——邀请学生和学徒出发去探索其他成员国的公民生活。",
+            "sentenceStructure": "这是一个名词短语扩展句，核心名词 Un principe 后跟关系从句 que l'UE met en action，再接现在分词短语 en invitant...作方式状语。",
+            "grammarAnalysis": "① mettre en action：付诸实施，固定短语。② en + 现在分词构成副动词结构，表示方式：通过邀请……的方式。③ inviter qn à faire qch：邀请某人做某事，à 后接动词不定式。④ partir à la découverte de：出发去探索/发现……，固定表达。",
+            "commonMistakes": "① partir à la découverte de 是固定短语，不要拆开理解为「出发」+「到达发现之处」。② en invitant 是副动词，表示「通过邀请」的方式，不是独立从句。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il est nécessaire que les jeunes Européens connaissent mieux l'UE, donc, il vaut mieux qu'ils séjournent quelques temps dans un autre pays membre que le leur.",
+            "translatedSentence": "欧洲年轻人有必要更好地了解欧盟，因此，最好让他们在另一个成员国住上一段时间——一个与本国不同的成员国。",
+            "sentenceStructure": "两个并列主句，均以非人称结构引导：① Il est nécessaire que + 虚拟式；② il vaut mieux que + 虚拟式。donc 起承接作用。",
+            "grammarAnalysis": "① Il est nécessaire que + 虚拟式（connaissent）：……是必要的。② il vaut mieux que + 虚拟式（séjournent）：最好……，固定句型。③ que le leur：关系代词引导的比较从句，le leur = leur pays（他们自己的国家），物主代词的名词化用法。",
+            "commonMistakes": "① 两处虚拟式 connaissent 和 séjournent 与直陈式形式相同，易被忽视，但需意识到其语法身份。② le leur 是物主代词独立形式，指代 leur pays，而非形容词。"
+        },
+        {
+            "index": "4",
+            "sentence": "Mettant l'accent sur la dimension européenne de l'enseignement supérieur et finançant des actions de coopération entre des établissements, ce programme permet que les jeunes étudiants durant trois à douze mois dans un autre État et bénéficient pour cela d'une aide financière.",
+            "translatedSentence": "该项目着重强调高等教育的欧洲维度，并资助院校间的合作行动，使年轻学生得以在另一个欧盟国家学习三至十二个月，并为此获得经济援助。",
+            "sentenceStructure": "句首为两个并列现在分词短语（Mettant...et finançant...）作方式/原因状语，主句为 ce programme permet que...，后接虚拟式从句。",
+            "grammarAnalysis": "① 现在分词短语 Mettant l'accent sur...et finançant... 作状语，主语与主句主语一致（ce programme）。② mettre l'accent sur：强调，着重于。③ permettre que + 虚拟式：使……得以，允许……。④ bénéficier de：受益于，享有。",
+            "commonMistakes": "① 分词短语的隐含主语必须与主句主语一致（均为 ce programme），否则为悬垂分词错误。② permettre que 后接虚拟式，不接直陈式。"
+        },
+        {
+            "index": "5",
+            "sentence": "Ils ne le regrettent d'ailleurs pas, car l'expérience est riche sur le plan tant des apprentissages, notamment linguistiques, de l'emploi que du développement personnel.",
+            "translatedSentence": "况且他们并不后悔，因为这段经历在学习（尤其是语言学习）、就业以及个人成长等各方面都十分充实。",
+            "sentenceStructure": "主句 Ils ne le regrettent d'ailleurs pas，后跟 car 引导的原因从句。原因从句中含有 tant...que 关联结构。",
+            "grammarAnalysis": "① d'ailleurs：况且，再者，用于补充说明，常置于句中。② tant...que：既……又……，关联词组，连接并列成分。③ sur le plan de：在……方面，固定介词短语。④ notamment：尤其，特别是，副词，用于举例强调。",
+            "commonMistakes": "① tant...que 此处不是比较结构（不是“和……一样多”），而是关联并列（既……又……），需根据语境判断。② d'ailleurs 不等于 ailleurs（在别处），前者是副词短语表补充，后者是地点副词。"
+        },
+        {
+            "index": "6",
+            "sentence": "La France a mis en place, avec un an d'avance sur le calendrier prévu, le système «licence-master-doctorat», qui exige que les cours universitaires soient équilibrés et la reconnaissance des diplômes soit facilitée.",
+            "translatedSentence": "法国提前一年完成了预定计划，建立起“学士—硕士—博士”体系，该体系要求大学课程均衡设置，并使文凭的互认得到便利化。",
+            "sentenceStructure": "主句为 La France a mis en place...le système «LMD»，中间插入状语 avec un an d'avance sur le calendrier prévu，后接关系从句 qui exige que...（虚拟式）。",
+            "grammarAnalysis": "① mettre en place：建立，实施。② avec un an d'avance sur：比……提前一年，固定搭配。③ exiger que + 虚拟式：要求……，exiger 后的从句必须用虚拟式。④ soient équilibrés 和 soit facilitée 均为虚拟式被动态。",
+            "commonMistakes": "① exiger que 后必须用虚拟式，这是考研高频考点，不可用直陈式。② la reconnaissance des diplômes soit facilitée 是被动语态的虚拟式，注意 facilitée 的性数配合（与 reconnaissance n.f. 配合，加 e）。"
+        },
+        {
+            "index": "7",
+            "sentence": "Sont également concernés, sous certaines conditions, des jeunes diplômés et des demandeurs d'emploi intéressés eux aussi à un stage dans une entreprise trouvée au sein de l'UE.",
+            "translatedSentence": "在特定条件下，同样纳入该项目范围的还有应届毕业生，以及同样有意在欧盟内部某家企业实习的求职者。",
+            "sentenceStructure": "这是一个主谓倒装句，谓语 Sont concernés 置于主语 des jeunes diplômés et des demandeurs d'emploi 之前，后有过去分词短语 trouvée au sein de l'UE 作后置定语。",
+            "grammarAnalysis": "① 主谓倒装：Sont concernés + 主语，常见于书面语中表示罗列或补充。② être concerné par/à：被涉及，属于……范围。③ au sein de：在……内部，在……之中，书面语固定短语。④ intéressé à：对……感兴趣，有意于。",
+            "commonMistakes": "① 倒装结构中易误将 Sont concernés 理解为关系从句，应识别为完整谓语+倒装主语的结构。② intéressé à 表示“有意于/对……感兴趣”，区别于 intéressant（令人感兴趣的）和 intéressé par（被……所吸引）。"
+        },
+        {
+            "index": "8",
+            "sentence": "Il est possible que Comenius, Erasmus et Leonardo élargissent davantage leur application sur la période 2007-2013.",
+            "translatedSentence": "科美纽斯、伊拉斯谟和达芬奇项目有可能在2007至2013年间进一步扩大其适用范围。",
+            "sentenceStructure": "非人称结构 Il est possible que + 虚拟式从句（élargissent），从句主语为三个并列专有名词。",
+            "grammarAnalysis": "① Il est possible que + 虚拟式：……是有可能的，非人称句型，后接虚拟式。② élargir：扩大，拓展，第二组规则动词。③ davantage：更多，进一步，副词，修饰动词。④ sur la période de：在……时期内。",
+            "commonMistakes": "① Il est possible que 后须接虚拟式，而非直陈式将来时（易误用 élargiront）。② davantage 不能像 plus 一样后接 que 引导比较从句（*davantage que），注意用法限制。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "mettre en action",
+            "meaning": "付诸实施，使运转",
+            "usage": "固定短语，action 前无冠词；与 mettre en place（建立）、mettre en œuvre（实施）区分：mettre en action 强调使之运作起来，mettre en place 强调建立机制，mettre en œuvre 强调具体执行。",
+            "exampleSentence": "Un principe que l'Union européenne met en action en invitant élèves et apprentis à partir à la découverte des citoyens des autres pays membres."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "partir à la découverte de qch.",
+            "meaning": "出发去探索/发现某事物",
+            "usage": "固定表达，à la découverte de 为名词短语，常与 partir、aller 等位移动词搭配。",
+            "exampleSentence": "...en invitant élèves et apprentis à partir à la découverte des citoyens des autres pays membres."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "il vaut mieux que + subj.",
+            "meaning": "最好……",
+            "usage": "非人称固定句型，que 后必须接虚拟式。口语中可接不定式：il vaut mieux faire qch.（无主语变化时）。",
+            "exampleSentence": "...il vaut mieux qu'ils séjournent quelques temps dans un autre pays membre que le leur."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "mettre l'accent sur qch.",
+            "meaning": "强调……，着重于……",
+            "usage": "书面语常用表达，accent 前加定冠词 l'；近义表达：insister sur，souligner。",
+            "exampleSentence": "Mettant l'accent sur la dimension européenne de l'enseignement supérieur..."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "bénéficier de qch.",
+            "meaning": "享有……，受益于……，获得……",
+            "usage": "及物动词 + de，后接名词；主语通常为人或机构；注意 bénéficier de 是间接及物，不可省略 de。",
+            "exampleSentence": "...et bénéficient pour cela d'une aide financière."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se frotter à qch./qn.",
+            "meaning": "与……接触，磨合；体验（文化）",
+            "usage": "代词式动词，固定搭配 à；原义为「摩擦、碰触」，引申为「接触、体验」（尤指不同文化）；口语色彩较强。",
+            "exampleSentence": "...plus de 21 000 étudiants français prêts à se «frotter» à une autre culture que leur culture."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "sur le plan de qch.",
+            "meaning": "在……方面",
+            "usage": "固定介词短语，de 后接名词。与 en matière de（在……领域）、dans le domaine de（在……领域）近义，但 sur le plan de 更强调某一维度或层面。",
+            "exampleSentence": "...l'expérience est riche sur le plan tant des apprentissages, notamment linguistiques, de l'emploi que du développement personnel."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "mettre en place qch.",
+            "meaning": "建立，实施，推行（制度、机制）",
+            "usage": "固定短语，place 前无冠词；强调从无到有地建立某种机制或制度；与 mettre en action（使运转）区分。",
+            "exampleSentence": "La France a mis en place...le système «licence-master-doctorat»."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avec un an d'avance sur qch.",
+            "meaning": "比……提前一年",
+            "usage": "avance sur 后接比较基准（如 calendrier prévu）；类似结构：en avance sur qch.（比……超前）；反义：avec un an de retard sur（比……晚一年）。",
+            "exampleSentence": "La France a mis en place, avec un an d'avance sur le calendrier prévu, le système «licence-master-doctorat»."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "au sein de qch.",
+            "meaning": "在……内部，在……之中",
+            "usage": "书面语固定短语，后接名词；多用于抽象机构、组织、群体等语境，不用于具体物理空间（物理空间用 dans 或 à l'intérieur de）。",
+            "exampleSentence": "...un stage dans une entreprise trouvée au sein de l'UE..."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "contribuer à qch. / à faire qch.",
+            "meaning": "对……做出贡献；有助于……",
+            "usage": "后接名词或动词不定式（à + inf.）；主语可为人或事物；注意介词固定为 à，不可换用其他介词。",
+            "exampleSentence": "...dont l'une des missions est de contribuer au développement du marché du travail européen et de la libre circulation des travailleurs et des citoyens."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "envisager de faire qch.",
+            "meaning": "打算做某事，考虑做某事",
+            "usage": "envisager 后接 de + 不定式，表示计划或打算；近义：prévoir de，projeter de；注意 envisager de 与 envisager qch.（考量某事物）的区分。",
+            "exampleSentence": "Erasmus envisage de soutenir la circulation de trois millions d'étudiants de l'UE d'ici à 2011."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "d'ici à + date/période",
+            "meaning": "到……为止，在……之前",
+            "usage": "表示从现在到某个时间点的期限；d'ici à 后接时间名词或时间状语；口语中常省略为 d'ici + 时间。",
+            "exampleSentence": "Erasmus envisage de soutenir la circulation de trois millions d'étudiants de l'UE d'ici à 2011."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "principe",
+            "partOfSpeech": "n.m.",
+            "definition": "①原则；准则 ②原理；基本规律",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en principe",
+                    "vocabularyCollocationMeaning": "原则上，理论上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "par principe",
+                    "vocabularyCollocationMeaning": "出于原则"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "principe de base",
+                    "vocabularyCollocationMeaning": "基本原理"
+                }
+            ],
+            "synonymAnalysis": "principe vs règle：principe 强调指导思想层面的原则；règle 强调具体可操作的规则或规定。",
+            "derivedWords": [],
+            "pluralForm": "principes"
+        },
+        {
+            "index": "2",
+            "vocabulary": "apprenti",
+            "partOfSpeech": "n.m.",
+            "definition": "①学徒；见习生 ②初学者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apprenti menuisier",
+                    "vocabularyCollocationMeaning": "木工学徒"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contrat d'apprentissage",
+                    "vocabularyCollocationMeaning": "学徒合同"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apprentissage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "学习；职业培训；学徒期"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "学习；教导"
+                }
+            ],
+            "pluralForm": "apprentis（阴性：apprentie, apprenties）"
+        },
+        {
+            "index": "3",
+            "vocabulary": "séjourner",
+            "partOfSpeech": "vi.",
+            "definition": "①逗留；停留 ②居住（一段时间）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "séjourner à l'étranger",
+                    "vocabularyCollocationMeaning": "在国外逗留"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "séjourner quelques jours",
+                    "vocabularyCollocationMeaning": "停留几天"
+                }
+            ],
+            "synonymAnalysis": "séjourner vs habiter vs résider：séjourner 强调暂时性停留；habiter 指通常意义上的居住；résider 更正式，多用于行政语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "séjour",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "逗留；停留；客厅"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "financer",
+            "partOfSpeech": "vt.",
+            "definition": "①向……提供资金；资助 ②为……融资",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "financer un projet",
+                    "vocabularyCollocationMeaning": "资助一个项目"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "financer des études",
+                    "vocabularyCollocationMeaning": "资助学业"
+                }
+            ],
+            "synonymAnalysis": "financer vs subventionner：financer 泛指提供资金；subventionner 特指政府或机构以补贴形式资助。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "financement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "资金筹集；融资；资助"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "financier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "财政的；金融的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "finance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "财政；金融（复数 finances）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "financier",
+            "partOfSpeech": "adj.m.",
+            "definition": "①财政的；金融的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aide financière",
+                    "vocabularyCollocationMeaning": "经济援助；财政资助"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "marché financier",
+                    "vocabularyCollocationMeaning": "金融市场"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 financière，阳性复数 financiers，阴性复数 financières",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "enthousiaste",
+            "partOfSpeech": "adj.",
+            "definition": "①兴奋的；热烈的 ②热情的；充满激情的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être enthousiaste à l'idée de",
+                    "vocabularyCollocationMeaning": "对……的想法感到兴奋"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "accueil enthousiaste",
+                    "vocabularyCollocationMeaning": "热情的接待"
+                }
+            ],
+            "synonymAnalysis": "enthousiaste vs passionné：enthousiaste 强调热情洋溢的状态；passionné 强调深度痴迷某事物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enthousiasme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "热情；激情"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enthousiasmer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使充满热情，使激动"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 enthousiastes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "7",
+            "vocabulary": "frotter",
+            "partOfSpeech": "vt.",
+            "definition": "①摩擦；擦 ②（se frotter à）与……接触；体验",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "frotter le plancher",
+                    "vocabularyCollocationMeaning": "擦地板"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se frotter à une culture",
+                    "vocabularyCollocationMeaning": "接触/体验一种文化"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se frotter les mains",
+                    "vocabularyCollocationMeaning": "搓手（表示满意或期待）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "apprentissage",
+            "partOfSpeech": "n.m.",
+            "definition": "①学习；习得 ②职业培训；学徒培训 ③学徒期",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "apprentissage d'une langue",
+                    "vocabularyCollocationMeaning": "语言学习"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "centre d'apprentissage",
+                    "vocabularyCollocationMeaning": "培训中心"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "contrat d'apprentissage",
+                    "vocabularyCollocationMeaning": "学徒合同"
+                }
+            ],
+            "synonymAnalysis": "apprentissage vs formation：apprentissage 侧重习得过程（尤指技能和语言）；formation 侧重系统性教育或培训项目。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apprenti",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "学徒；见习生"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apprendre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "学习；教导"
+                }
+            ],
+            "pluralForm": "apprentissages"
+        },
+        {
+            "index": "9",
+            "vocabulary": "linguistique",
+            "partOfSpeech": "adj.",
+            "definition": "①语言的；语言学的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compétence linguistique",
+                    "vocabularyCollocationMeaning": "语言能力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "barrière linguistique",
+                    "vocabularyCollocationMeaning": "语言障碍"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "linguistique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "语言学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "linguiste",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "语言学家"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 linguistiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "reconnaissance",
+            "partOfSpeech": "n.f.",
+            "definition": "①感谢；感激 ②认出；辨认 ③承认；认可 ④侦察",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en reconnaissance de",
+                    "vocabularyCollocationMeaning": "为了感谢……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "reconnaissance des diplômes",
+                    "vocabularyCollocationMeaning": "文凭互认"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "témoigner de la reconnaissance à qn.",
+                    "vocabularyCollocationMeaning": "向某人表示感谢"
+                }
+            ],
+            "synonymAnalysis": "reconnaissance（感谢）vs gratitude：两者近义，但 gratitude 更强调内心深处的感激之情，reconnaissance 更常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reconnaître",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "认出；承认"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "reconnaissant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "感激的"
+                }
+            ],
+            "pluralForm": "reconnaissances"
+        },
+        {
+            "index": "11",
+            "vocabulary": "ambition",
+            "partOfSpeech": "n.f.",
+            "definition": "①雄心；抱负 ②野心；非分之想",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir l'ambition de faire qch.",
+                    "vocabularyCollocationMeaning": "有志于做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réaliser ses ambitions",
+                    "vocabularyCollocationMeaning": "实现抱负"
+                }
+            ],
+            "synonymAnalysis": "ambition vs aspiration：ambition 既可褒义（雄心）也可贬义（野心）；aspiration 通常为褒义，指崇高的渴望与志向。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ambitieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有雄心的；野心勃勃的"
+                }
+            ],
+            "pluralForm": "ambitions"
+        },
+        {
+            "index": "12",
+            "vocabulary": "adaptation",
+            "partOfSpeech": "n.f.",
+            "definition": "①适应；适合 ②改编；改写",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "adaptation à qch.",
+                    "vocabularyCollocationMeaning": "对……的适应"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adaptation cinématographique",
+                    "vocabularyCollocationMeaning": "电影改编"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adapter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使适应；改编"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'adapter",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "适应"
+                }
+            ],
+            "pluralForm": "adaptations"
+        },
+        {
+            "index": "13",
+            "vocabulary": "formation",
+            "partOfSpeech": "n.f.",
+            "definition": "①培养；教育；培训 ②形成；组建 ③编制；队形",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "formation professionnelle",
+                    "vocabularyCollocationMeaning": "职业培训"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "formation continue",
+                    "vocabularyCollocationMeaning": "继续教育"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "suivre une formation",
+                    "vocabularyCollocationMeaning": "接受培训"
+                }
+            ],
+            "synonymAnalysis": "formation vs éducation：formation 侧重职业技能培训；éducation 侧重广义的教育与素养培养。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "former",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "培训；培养；形成"
+                }
+            ],
+            "pluralForm": "formations"
+        },
+        {
+            "index": "14",
+            "vocabulary": "sein",
+            "partOfSpeech": "n.m.",
+            "definition": "①胸；胸部 ②（au sein de）在……内部；在……之中",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au sein de l'UE",
+                    "vocabularyCollocationMeaning": "在欧盟内部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au sein de la famille",
+                    "vocabularyCollocationMeaning": "在家庭内部"
+                }
+            ],
+            "synonymAnalysis": "au sein de vs dans：au sein de 更书面，强调某一整体内部；dans 用法更广，可用于物理空间和抽象语境。",
+            "derivedWords": [],
+            "pluralForm": "seins"
+        },
+        {
+            "index": "15",
+            "vocabulary": "contribuer",
+            "partOfSpeech": "vt.",
+            "definition": "①（contribuer à）对……做出贡献；有助于……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "contribuer au développement",
+                    "vocabularyCollocationMeaning": "为发展做贡献"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contribuer à faire qch.",
+                    "vocabularyCollocationMeaning": "有助于做某事"
+                }
+            ],
+            "synonymAnalysis": "contribuer à vs participer à：contribuer à 强调做出贡献、发挥作用；participer à 强调参与其中。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contribution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "贡献；捐款；税款"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "contributeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "贡献者；供稿人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "16",
+            "vocabulary": "rédaction",
+            "partOfSpeech": "n.f.",
+            "definition": "①起草；制定 ②编辑；编写 ③（学校作文）作文",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rédaction d'un rapport",
+                    "vocabularyCollocationMeaning": "报告的起草"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rédaction d'un journal",
+                    "vocabularyCollocationMeaning": "报纸编辑部；报纸的编写"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rédiger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "起草；撰写"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rédacteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "编辑；撰稿人"
+                }
+            ],
+            "pluralForm": "rédactions"
+        },
+        {
+            "index": "17",
+            "vocabulary": "bilingue",
+            "partOfSpeech": "adj.",
+            "definition": "①用两种语言的；双语的 ②会两种语言的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "journal bilingue",
+                    "vocabularyCollocationMeaning": "双语报纸"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "école bilingue",
+                    "vocabularyCollocationMeaning": "双语学校"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bilinguisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "双语现象；双语使用"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 bilingues",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "18",
+            "vocabulary": "notion",
+            "partOfSpeech": "n.f.",
+            "definition": "①观念；概念 ②（复数）基础知识；入门知识",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "notions de base",
+                    "vocabularyCollocationMeaning": "基础知识"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir des notions de qch.",
+                    "vocabularyCollocationMeaning": "对某事物有基本了解"
+                }
+            ],
+            "synonymAnalysis": "notion vs concept：notion 更日常，指一般性的认识或基本知识；concept 更学术，指体系化的抽象概念。",
+            "derivedWords": [],
+            "pluralForm": "notions"
+        },
+        {
+            "index": "19",
+            "vocabulary": "socle",
+            "partOfSpeech": "n.m.",
+            "definition": "①底座；基座 ②（引申）基础；共同基础",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "socle commun",
+                    "vocabularyCollocationMeaning": "共同基础；共同基准"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "socle de connaissances",
+                    "vocabularyCollocationMeaning": "知识基础"
+                }
+            ],
+            "synonymAnalysis": "socle vs base vs fondement：三者均有「基础」义，socle 更具体形象（底座），base 最常用，fondement 更抽象（根基、依据）。",
+            "derivedWords": [],
+            "pluralForm": "socles"
+        },
+        {
+            "index": "20",
+            "vocabulary": "envisager",
+            "partOfSpeech": "vt.",
+            "definition": "①考虑；打算 ②观察；审视",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "envisager de faire qch.",
+                    "vocabularyCollocationMeaning": "打算做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "envisager l'avenir",
+                    "vocabularyCollocationMeaning": "展望未来"
+                }
+            ],
+            "synonymAnalysis": "envisager vs prévoir：envisager de 强调主观意愿上的打算；prévoir 强调有计划地安排或预测。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Puisque ce sont les jeunes qui feront l'Europe de demain, il faut qu'on leur donne les moyens de la connaître. Le programme Erasmus, en mettant l'accent sur la dimension européenne de l'enseignement supérieur, permet que les jeunes étudiants séjournent trois à douze mois dans un autre État et bénéficient pour cela d'une aide financière. Ils ne le regrettent d'ailleurs pas, car l'expérience est riche sur le plan tant des apprentissages linguistiques que du développement personnel.",
+            "chineseTranslation": "既然正是年轻人将塑造未来的欧洲，就必须给他们了解欧洲的手段和途径。伊拉斯谟项目着重强调高等教育的欧洲维度，使年轻学生得以在另一个欧盟国家学习三至十二个月，并为此获得经济援助。况且他们并不后悔，因为这段经历在语言学习和个人成长方面都十分充实。",
+            "fr2cnStrategy": "① Puisque 强调已知前提，译为「既然」而非「因为」，体现语气差异。② ce sont...qui 强调句不必逐字译出「是……的」，用「正是」自然传达强调意味。③ il faut que + 虚拟式译为「必须……」，语气流畅。④ tant...que 关联结构译为「既……也……」或「……和……方面」，避免「无论……还是……」的条件语气混淆。⑤ d'ailleurs 译为「况且」，体现其补充说明的语气功能。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "欧盟正在实施多个项目，邀请学生出发探索其他成员国。",
+                "frenchTranslation": "L'Union européenne met en action plusieurs programmes en invitant des étudiants à partir à la découverte des autres pays membres.",
+                "cn2frStrategy": "① 「正在实施」用现在时 met en action，体现进行中的状态。② 「邀请……出发探索」使用 en invitant...à partir à la découverte de，副动词结构表示方式。③ 「其他成员国」译为 des autres pays membres，注意限定语后置。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "在这段经历中，学生们既能提升语言能力，又能促进个人成长。",
+                "frenchTranslation": "Durant cette expérience, les étudiants peuvent améliorer leurs compétences linguistiques et favoriser leur développement personnel.",
+                "cn2frStrategy": "① 「既……又……」可用 tant...que 结构，此处改为并列 et 以避免结构累赘。② 「提升语言能力」译为 améliorer les compétences linguistiques，注意 linguistique 后置。③ 「促进个人成长」译为 favoriser le développement personnel，development 为常用书面词。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "法国要求大学课程均衡设置，并使文凭的互认得到便利化。",
+                "frenchTranslation": "La France exige que les cours universitaires soient équilibrés et que la reconnaissance des diplômes soit facilitée.",
+                "cn2frStrategy": "① exiger que 后必须接虚拟式，两个并列从句均用虚拟式被动态：soient équilibrés 和 soit facilitée。② 第二个从句保留 que 不可省略（exiger que...et que...），这是考研易错点。③ la reconnaissance des diplômes 为抽象名词结构，翻译时可转化为「文凭互认」。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "该项目打算在2013年前，在欧盟内部进一步扩大其适用范围。",
+                "frenchTranslation": "Ce programme envisage d'élargir davantage son application au sein de l'UE d'ici à 2013.",
+                "cn2frStrategy": "① 「打算」用 envisager de + 不定式，注意介词 de 不可省略。② 「进一步」译为副词 davantage，置于动词之后修饰。③ 「在……内部」用书面语固定短语 au sein de。④ 「在……之前/到……为止」用 d'ici à + 年份，表示截止时间。"
+            }
+        ]
+    }
+}
