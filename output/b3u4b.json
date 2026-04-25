@@ -1,0 +1,1052 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Principal usage d'Internet, le courrier électronique est à la fois complément et concurrent du téléphone, de la télécopie et du courrier postal.",
+            "translatedSentence": "作为互联网的主要用途，电子邮件既是电话、传真和邮政信件的补充，又与它们形成竞争关系。",
+            "sentenceStructure": "句子以名词短语 Principal usage d'Internet 作为前置同位语，主句主语为 le courrier électronique，谓语为 est，表语为 à la fois complément et concurrent du téléphone, de la télécopie et du courrier postal。",
+            "grammarAnalysis": "① à la fois...et... 表示「既……又……」，连接两个并列成分。② concurrent du téléphone 中 du 为 de + le 的缩合形式，后续并列名词均省略冠词直接用 de。③ 句首名词短语作同位语，属于书面语中常见的倒装/提前结构。",
+            "commonMistakes": "à la fois 后连接的两个成分须语法对等；此处 complément 和 concurrent 均为名词，不可误译为形容词。另需注意 concurrent 是名词「竞争者」而非形容词，不要误译为「竞争的」。"
+        },
+        {
+            "index": 2,
+            "sentence": "Grâce à lui, on peut contacter n'importe qui en n'importe quel point du globe, transmettre et récupérer des textes, des images, des sons, pour le prix d'une communication locale.",
+            "translatedSentence": "借助电子邮件，人们可以联系世界上任何地方的任何人，收发文字、图片和声音，费用仅相当于一次本地通信。",
+            "sentenceStructure": "主句为 on peut contacter...transmettre et récupérer...，谓语动词 contacter、transmettre、récupérer 并列，均受情态动词 peut 支配；Grâce à lui 为原因状语，pour le prix d'une communication locale 为方式/条件状语。",
+            "grammarAnalysis": "① Grâce à 表示积极原因，意为「多亏了，借助于」。② n'importe qui 为不定代词「任何人」，n'importe quel + 名词为不定形容词「任何……」。③ pour le prix de 为固定短语，意为「以……的价格」。",
+            "commonMistakes": "n'importe qui（不定代词，不加名词）与 n'importe quel（不定形容词，后必须跟名词）须区分。Grâce à 表积极原因，若原因消极应改用 à cause de。"
+        },
+        {
+            "index": 3,
+            "sentence": "Au début d'Internet, on aurait pu craindre que l'écrit laisse la place à des pratiques surtout orales ou qu'on se limite à de brefs messages.",
+            "translatedSentence": "在互联网初期，人们本可能担忧书面表达会让位于口头交流，或者人们只局限于发简短的消息。",
+            "sentenceStructure": "主句为 on aurait pu craindre，其后由 que 引导两个并列宾语从句：que l'écrit laisse la place à... 和 qu'on se limite à de brefs messages。",
+            "grammarAnalysis": "① aurait pu craindre 为条件式过去时，表示过去本可能发生但实际未发生的情况（与过去事实相反的假设）。② craindre que 后接虚拟式，此处 laisse 和 se limite 均为现在虚拟式。③ se limiter à 为代词式动词，意为「局限于，仅限于」。",
+            "commonMistakes": "条件式过去时 aurait pu 表示「本可能」，不可译为简单的过去时。craindre que 引导的从句动词须用虚拟式，不可用直陈式。"
+        },
+        {
+            "index": 4,
+            "sentence": "C'est pourquoi on peut dire que la messagerie électronique aura été un bon moyen de redonner l'habitude d'écrire à de nombreux utilisateurs.",
+            "translatedSentence": "正因如此，我们可以说，电子邮件将会是让众多用户重新养成书写习惯的一种好方式。",
+            "sentenceStructure": "C'est pourquoi 引导结果分句，主句为 on peut dire，后接 que 引导的宾语从句；从句谓语为 aura été（前将来时）。",
+            "grammarAnalysis": "① C'est pourquoi 为结果连接语，意为「正因如此」，比 donc 语气更强。② aura été 为前将来时（futur antérieur），表示在将来某时间点之前已完成的动作，此处带有推测意味：「到那时将已经是……」。③ redonner l'habitude de + inf. 意为「重新给予……做某事的习惯」。",
+            "commonMistakes": "前将来时 aura été 不可与简单将来时 sera 混淆；前将来时强调动作的完成性或结果性。C'est pourquoi 后接陈述句，不引导从句，注意与 c'est pour ça que 区分使用语体。"
+        },
+        {
+            "index": 5,
+            "sentence": "Mais ce que je préfère, c'est cette communication directe, où l'on peut se laisser aller, choisir les gens, sans que cela ait de conséquence.",
+            "translatedSentence": "但我最喜欢的，是这种直接的交流方式——在这种方式中，人们可以放任自己、自主选择交流对象，而不必承担任何后果。",
+            "sentenceStructure": "主句采用 ce que...c'est... 的强调结构；où 引导关系从句修饰 communication directe；sans que 引导方式状语从句。",
+            "grammarAnalysis": "① ce que je préfère, c'est... 为强调句式，突出宾语。② où 在此作关系副词，指代前文 communication directe，相当于 dans laquelle。③ sans que 后接虚拟式，此处 ait 为 avoir 的现在虚拟式。④ se laisser aller 为固定表达，意为「放任自己，随心所欲」。",
+            "commonMistakes": "sans que 后必须用虚拟式，不可用直陈式；注意与 sans + 不定式的区别（sans que 主从句主语不同时使用）。où 作关系副词时指地点或抽象语境，此处指代抽象的「交流方式」。"
+        },
+        {
+            "index": 6,
+            "sentence": "Il y a des gens qui disent que le réseau enferme les jeunes dans un monde virtuel. Je pense que c'est au contraire une formidable ouverture sur la vie réelle.",
+            "translatedSentence": "有人说网络把年轻人关在了一个虚拟世界里。我认为恰恰相反，它是通向现实生活的绝佳窗口。",
+            "sentenceStructure": "第一句：Il y a des gens 为存在句，qui 引导定语从句修饰 gens，从句中再含 que 引导的宾语从句。第二句：主句为 Je pense，que 引导宾语从句，au contraire 为插入语。",
+            "grammarAnalysis": "① Il y a des gens qui... 为常见句型，表示「有人……」。② au contraire 为副词短语，意为「相反地」，此处作插入语加强对比语气。③ ouverture sur 为固定搭配，意为「通向……的开口/窗口」。",
+            "commonMistakes": "au contraire 作插入语时通常置于 c'est 之后，注意与 par contre（转折，书面语）区分：au contraire 强调与前文完全相反，par contre 仅表示转折对比。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "à la fois...et...",
+            "meaning": "既……又……",
+            "usage": "连接两个并列的名词、形容词或动词短语，强调两种性质并存。",
+            "exampleSentence": "le courrier électronique est à la fois complément et concurrent du téléphone"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "Grâce à qn./qch.",
+            "meaning": "多亏……，借助……",
+            "usage": "表示积极原因，后接名词或代词；对比 à cause de（消极原因）。",
+            "exampleSentence": "Grâce à lui, on peut contacter n'importe qui en n'importe quel point du globe."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "n'importe qui",
+            "meaning": "任何人",
+            "usage": "不定代词，单独使用，不跟名词；区别于 n'importe quel + 名词。",
+            "exampleSentence": "on peut contacter n'importe qui en n'importe quel point du globe"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "laisser la place à qch./qn.",
+            "meaning": "让位于……，被……取代",
+            "usage": "固定短语，主语通常为被取代的事物，à 后接取代者。",
+            "exampleSentence": "on aurait pu craindre que l'écrit laisse la place à des pratiques surtout orales"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se limiter à qch. / à faire qch.",
+            "meaning": "局限于……，仅限于做……",
+            "usage": "代词式动词，固定搭配介词 à；后可接名词或动词不定式。",
+            "exampleSentence": "on aurait pu craindre...qu'on se limite à de brefs messages"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir le plaisir de faire qch.",
+            "meaning": "有幸做某事，乐于做某事",
+            "usage": "固定结构，de 后接不定式；表示愉悦或正式场合的客套表达。",
+            "exampleSentence": "Beaucoup de fanatiques de l'électronique ont retrouvé le plaisir de rédiger pour correspondre avec leurs parents et amis dans le monde"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "joindre qn. en temps réel",
+            "meaning": "实时联系某人",
+            "usage": "joindre 作「联系、接通」时为及物动词，直接接人；en temps réel 为固定短语「实时地」。",
+            "exampleSentence": "on peut les joindre en temps réel"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "passer du temps à faire qch.",
+            "meaning": "花时间做某事",
+            "usage": "固定结构，à 后接动词不定式，表示将时间用于某活动。",
+            "exampleSentence": "ils passaient beaucoup de temps à discuter sur Internet"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "se laisser aller",
+            "meaning": "放任自己，随心所欲",
+            "usage": "固定短语，含有不加约束、顺其自然的含义，语境可褒可贬。",
+            "exampleSentence": "c'est cette communication directe, où l'on peut se laisser aller"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "sans que + 虚拟式",
+            "meaning": "而不……，在不……的情况下",
+            "usage": "sans que 后必须用虚拟式；主从句主语不同时用 sans que，主语相同时用 sans + 不定式。",
+            "exampleSentence": "sans que cela ait de conséquence"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "se familiariser avec qch.",
+            "meaning": "熟悉……，习惯于……",
+            "usage": "代词式动词，固定搭配 avec，强调逐渐熟悉的过程。",
+            "exampleSentence": "Il y a un an que je me suis familiarisée avec Internet."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "arriver à faire qch.",
+            "meaning": "终于能够做某事，成功做到某事",
+            "usage": "固定结构，arriver à + 不定式，强调经过努力最终实现；区别于 réussir à（成功做到，更强调结果）。",
+            "exampleSentence": "j'arrive à trouver énormément d'informations sur les stars"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "au contraire",
+            "meaning": "相反地，恰恰相反",
+            "usage": "副词短语，表示与前文内容完全相反；区别于 par contre（仅表转折，不强调对立）。口语书面均可用。",
+            "exampleSentence": "Je pense que c'est au contraire une formidable ouverture sur la vie réelle."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "être plein de qch.",
+            "meaning": "充满……",
+            "usage": "固定搭配，de 后接名词；plein 此处作表语形容词，与 rempli de 近义但更口语化。",
+            "exampleSentence": "mon courrier électronique est plein de messages"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "faire de l'argent de poche",
+            "meaning": "挣零花钱",
+            "usage": "固定表达，argent de poche 意为「零花钱」，faire 此处表示「挣得」。",
+            "exampleSentence": "J'ai travaillé dans des cybercafés pour me faire de l'argent de poche."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "usage",
+            "partOfSpeech": "n.m.",
+            "definition": "①用途，应用 ②使用，运用 ③习惯，惯例",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire usage de qch.",
+                    "vocabularyCollocationMeaning": "使用某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à l'usage de",
+                    "vocabularyCollocationMeaning": "供……使用"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "hors d'usage",
+                    "vocabularyCollocationMeaning": "报废，不能使用"
+                }
+            ],
+            "synonymAnalysis": "usage vs utilisation：usage 更强调用途、功能或习惯用法；utilisation 更强调具体的使用行为和过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "usager",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "用户，使用者（尤指公共服务）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "usuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "日常的，惯常的"
+                }
+            ],
+            "pluralForm": "usages"
+        },
+        {
+            "index": "2",
+            "vocabulary": "complément",
+            "partOfSpeech": "n.m.",
+            "definition": "①补足部分，补充 ②（语法）补语",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en complément de",
+                    "vocabularyCollocationMeaning": "作为……的补充"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "complément d'objet direct",
+                    "vocabularyCollocationMeaning": "直接宾语"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "complémentaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "补充的，互补的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "compléter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "补充，使完整"
+                }
+            ],
+            "pluralForm": "compléments"
+        },
+        {
+            "index": "3",
+            "vocabulary": "concurrent",
+            "partOfSpeech": "n.m.",
+            "definition": "①竞争者，对手 ②（考试）参赛者，应考者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "concurrent direct",
+                    "vocabularyCollocationMeaning": "直接竞争对手"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire face à la concurrence",
+                    "vocabularyCollocationMeaning": "面对竞争"
+                }
+            ],
+            "synonymAnalysis": "concurrent（竞争者）vs rival（对手）：concurrent 多用于商业、学术语境；rival 更强调个人竞争或对抗关系。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concurrence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "竞争"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concurrencer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "与……竞争"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "concurrentiel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "竞争性的"
+                }
+            ],
+            "pluralForm": "concurrents"
+        },
+        {
+            "index": "4",
+            "vocabulary": "télécopie",
+            "partOfSpeech": "n.f.",
+            "definition": "①传真 ②传真件",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "envoyer une télécopie",
+                    "vocabularyCollocationMeaning": "发一份传真"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "numéro de télécopie",
+                    "vocabularyCollocationMeaning": "传真号码"
+                }
+            ],
+            "synonymAnalysis": "télécopie 为正式书面用语；fax 为口语及通用表达，两者可互换。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "télécopieur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "传真机"
+                }
+            ],
+            "pluralForm": "télécopies"
+        },
+        {
+            "index": "5",
+            "vocabulary": "contacter",
+            "partOfSpeech": "vt.",
+            "definition": "与……接触，联系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "contacter qn. par téléphone",
+                    "vocabularyCollocationMeaning": "电话联系某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "contacter qn. par e-mail",
+                    "vocabularyCollocationMeaning": "通过邮件联系某人"
+                }
+            ],
+            "synonymAnalysis": "contacter vs joindre：两者均表「联系某人」；contacter 强调主动发起接触行为，joindre 更强调成功接通/联系上。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contact",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "联系，接触；联系人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "n'importe qui",
+            "partOfSpeech": "loc.",
+            "definition": "任何人，不论是谁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "parler à n'importe qui",
+                    "vocabularyCollocationMeaning": "与任何人交谈"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ce n'est pas n'importe qui",
+                    "vocabularyCollocationMeaning": "这可不是普通人，此人不简单"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "n'importe qui 为不定代词，单独使用，不接名词；区别于 n'importe quel + 名词（不管什么样的……）。在句中可作主语、宾语或介词宾语。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "n'importe quel",
+            "partOfSpeech": "loc.",
+            "definition": "不管什么样的，任何……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en n'importe quel point",
+                    "vocabularyCollocationMeaning": "在任何地点"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à n'importe quel moment",
+                    "vocabularyCollocationMeaning": "在任何时候"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "不定形容词短语，须后接名词，并与名词在性数上保持一致（quel/quelle/quels/quelles）。区别于不定代词 n'importe qui（任何人）和 n'importe quoi（任何事）。"
+        },
+        {
+            "index": "8",
+            "vocabulary": "globe",
+            "partOfSpeech": "n.m.",
+            "definition": "①地球，球体 ②（玻璃）球罩",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le globe terrestre",
+                    "vocabularyCollocationMeaning": "地球"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "parcourir le globe",
+                    "vocabularyCollocationMeaning": "环游地球"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans le monde entier / sur tout le globe",
+                    "vocabularyCollocationMeaning": "在全球范围内"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "global",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "全球的，整体的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "globalisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "全球化"
+                }
+            ],
+            "pluralForm": "globes"
+        },
+        {
+            "index": "9",
+            "vocabulary": "récupérer",
+            "partOfSpeech": "vt.",
+            "definition": "①接收，取回 ②恢复，收回 ③（口语）找回（数据、文件）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "récupérer des données",
+                    "vocabularyCollocationMeaning": "恢复/找回数据"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "récupérer ses affaires",
+                    "vocabularyCollocationMeaning": "取回自己的东西"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "récupérer ses forces",
+                    "vocabularyCollocationMeaning": "恢复体力"
+                }
+            ],
+            "synonymAnalysis": "récupérer vs retrouver：récupérer 强调重新取得或找回原本属于自己的东西；retrouver 更强调重新发现或找到失去的人或物。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "récupération",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "取回，恢复；回收"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je récupère, tu récupères, il récupère, nous récupérons, vous récupérez, ils récupèrent",
+                "compoundPast": "j'ai récupéré",
+                "simpleFuture": "je récupèrerai",
+                "memoryAids": "属于 é→è 变化的 -érer 动词，词干元音在哑音词尾前变为 è（如 espérer, considérer 类似）。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "limiter",
+            "partOfSpeech": "vt.",
+            "definition": "①限制，限定 ②划定（界限）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "limiter la vitesse",
+                    "vocabularyCollocationMeaning": "限制速度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se limiter à qch.",
+                    "vocabularyCollocationMeaning": "局限于……，满足于……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "limiter les dégâts",
+                    "vocabularyCollocationMeaning": "减少损失"
+                }
+            ],
+            "synonymAnalysis": "limiter vs restreindre：两者均表「限制」；limiter 更常用，语体中性；restreindre 更正式，多用于书面语，强调缩减范围。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "limite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "界限，限度，极限"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "limitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "限制，限定"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "illimité",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无限的，无限制的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "rédiger",
+            "partOfSpeech": "vt.",
+            "definition": "撰写，编写（文章、报告等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rédiger un article",
+                    "vocabularyCollocationMeaning": "撰写一篇文章"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rédiger un rapport",
+                    "vocabularyCollocationMeaning": "撰写报告"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rédiger un e-mail",
+                    "vocabularyCollocationMeaning": "写一封邮件"
+                }
+            ],
+            "synonymAnalysis": "rédiger vs écrire：rédiger 强调有意识地组织文字、起草成文，多用于正式或书面文体；écrire 使用范围更广，包括日常书写。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rédaction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "撰写，编辑；（学校）作文；编辑部"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rédacteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "编辑，撰稿人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je rédige, tu rédiges, il rédige, nous rédigeons, vous rédigez, ils rédigent",
+                "compoundPast": "j'ai rédigé",
+                "simpleFuture": "je rédigerai",
+                "memoryAids": "属于 -ger 动词，在 nous 人称及以 a/o 开头的词尾前须在 g 后加 e，如 nous rédigeons，其他人称正常。类似 manger, voyager。"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "joindre",
+            "partOfSpeech": "vt.",
+            "definition": "①连接，结合 ②联系，接通（人）③附上，随附",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "joindre qn. par téléphone",
+                    "vocabularyCollocationMeaning": "电话接通某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "joindre un document",
+                    "vocabularyCollocationMeaning": "附上文件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "joindre les deux bouts",
+                    "vocabularyCollocationMeaning": "勉强维持生计，收支相抵"
+                }
+            ],
+            "synonymAnalysis": "joindre（联系上）vs contacter（主动联系）：joindre 强调成功接通的结果，contacter 强调发起联系的动作。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "joint",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "附上的，连接的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "jonction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "连接，汇合"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je joins, tu joins, il joint, nous joignons, vous joignez, ils joignent",
+                "compoundPast": "j'ai joint",
+                "simpleFuture": "je joindrai",
+                "memoryAids": "与 craindre、peindre 同属 -indre/-oindre 类不规则动词，词干在复数人称中为 joign-，过去分词为 joint。"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "favori",
+            "partOfSpeech": "adj.",
+            "definition": "①心爱的，受宠的 ②最喜爱的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plat favori",
+                    "vocabularyCollocationMeaning": "最喜爱的菜肴"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être favori de qn.",
+                    "vocabularyCollocationMeaning": "是某人的心头好"
+                }
+            ],
+            "synonymAnalysis": "favori vs préféré：favori 含「受宠、受偏爱」之意，带有主观感情色彩；préféré 更中性，仅表「最喜欢的」。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 favorite，阳性复数 favoris，阴性复数 favorites",
+            "position": "通常置于名词之后，如 Internet est plutôt favori des jeunes。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "génial",
+            "partOfSpeech": "adj.",
+            "definition": "①绝妙的，极好的 ②有才华的，天才的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "c'est génial !",
+                    "vocabularyCollocationMeaning": "太棒了！"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une idée géniale",
+                    "vocabularyCollocationMeaning": "绝妙的主意"
+                }
+            ],
+            "synonymAnalysis": "génial vs excellent vs formidable：génial 更口语化，含有惊叹意味；excellent 较正式；formidable 程度强烈，书面口语均可。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "génie",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "天才；天赋；精灵"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "genialement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "天才地，绝妙地"
+                }
+            ],
+            "genderNumberVariation": "阴性 géniale，阳性复数 géniaux，阴性复数 géniales",
+            "position": "通常置于名词之后，如 une idée géniale；作表语时直接跟 être。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "ordinateur",
+            "partOfSpeech": "n.m.",
+            "definition": "电脑，计算机",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "allumer / éteindre l'ordinateur",
+                    "vocabularyCollocationMeaning": "开/关电脑"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ordinateur portable",
+                    "vocabularyCollocationMeaning": "笔记本电脑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "travailler sur ordinateur",
+                    "vocabularyCollocationMeaning": "用电脑工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "informatique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "信息技术，计算机科学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "informaticien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "信息技术人员，计算机专家"
+                }
+            ],
+            "pluralForm": "ordinateurs"
+        },
+        {
+            "index": "16",
+            "vocabulary": "cybercafé",
+            "partOfSpeech": "n.m.",
+            "definition": "网吧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller dans un cybercafé",
+                    "vocabularyCollocationMeaning": "去网吧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler dans un cybercafé",
+                    "vocabularyCollocationMeaning": "在网吧工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cybercafés"
+        },
+        {
+            "index": "17",
+            "vocabulary": "familiariser",
+            "partOfSpeech": "vt.",
+            "definition": "使习惯，使熟悉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "se familiariser avec qch.",
+                    "vocabularyCollocationMeaning": "熟悉……，习惯于……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "familiariser qn. avec qch.",
+                    "vocabularyCollocationMeaning": "使某人熟悉某事"
+                }
+            ],
+            "synonymAnalysis": "se familiariser avec vs s'habituer à：两者均表「习惯」；se familiariser 侧重从陌生到熟悉的认知过程，s'habituer 更强调行为或感受上的适应。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "familier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "熟悉的，亲切的；随便的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "familiarité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "熟悉；随便，失礼"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "univers",
+            "partOfSpeech": "n.m.",
+            "definition": "①宇宙 ②全球，世界 ③（某人的）天地，领域",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'univers entier",
+                    "vocabularyCollocationMeaning": "整个宇宙，全世界"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l'univers de qn.",
+                    "vocabularyCollocationMeaning": "某人的世界，某人的天地"
+                }
+            ],
+            "synonymAnalysis": "univers vs monde：univers 范围更大，可指宇宙；monde 通常指地球或人类社会。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "universel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "普遍的，通用的，全球的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "université",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "大学"
+                }
+            ],
+            "pluralForm": "univers（复数同形）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "colloque",
+            "partOfSpeech": "n.m.",
+            "definition": "研讨会，学术讨论会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "organiser un colloque",
+                    "vocabularyCollocationMeaning": "组织研讨会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "participer à un colloque",
+                    "vocabularyCollocationMeaning": "参加研讨会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "animer un colloque",
+                    "vocabularyCollocationMeaning": "主持研讨会"
+                }
+            ],
+            "synonymAnalysis": "colloque vs conférence vs séminaire：colloque 为小型学术研讨，参与者共同讨论某议题；conférence 通常为一人主讲的讲座或大型会议；séminaire 更偏向教学性质的研讨课。",
+            "derivedWords": [],
+            "pluralForm": "colloques"
+        },
+        {
+            "index": "20",
+            "vocabulary": "énormément",
+            "partOfSpeech": "adv.",
+            "definition": "极大地，非常地，大量地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "énormément de + n.",
+                    "vocabularyCollocationMeaning": "大量的……，非常多的……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler énormément",
+                    "vocabularyCollocationMeaning": "非常努力地工作"
+                }
+            ],
+            "synonymAnalysis": "énormément vs beaucoup：两者均表程度大，énormément 程度比 beaucoup 更强烈；énormément de + 名词可替换 beaucoup de，但语气更重。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "énorme",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "巨大的，大量的"
+                }
+            ],
+            "useExplanation": "副词，修饰动词或作 énormément de + 名词结构使用；置于被修饰动词之后，语体偏口语但书面亦可用。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "star",
+            "partOfSpeech": "n.f.",
+            "definition": "明星，杰出人物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "star de cinéma",
+                    "vocabularyCollocationMeaning": "电影明星"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "grande star",
+                    "vocabularyCollocationMeaning": "大明星"
+                }
+            ],
+            "synonymAnalysis": "star vs vedette：star 来自英语，多指电影、娱乐圈明星；vedette 为法语本词，含义更广，也可指舞台明星、军事哨兵等。",
+            "derivedWords": [],
+            "pluralForm": "stars"
+        },
+        {
+            "index": "22",
+            "vocabulary": "connexion",
+            "partOfSpeech": "n.f.",
+            "definition": "①连接，接通 ②（网络）连线，上网",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "connexion Internet",
+                    "vocabularyCollocationMeaning": "网络连接"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "établir une connexion",
+                    "vocabularyCollocationMeaning": "建立连接"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "connecter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "连接，接通"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "connecté",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "联网的，在线的"
+                }
+            ],
+            "pluralForm": "connexions"
+        },
+        {
+            "index": "23",
+            "vocabulary": "tournage",
+            "partOfSpeech": "n.m.",
+            "definition": "（电影）拍摄，摄制",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tournage de film",
+                    "vocabularyCollocationMeaning": "电影拍摄"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pendant le tournage",
+                    "vocabularyCollocationMeaning": "在拍摄期间"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tourner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "拍摄（电影）；转动"
+                }
+            ],
+            "pluralForm": "tournages"
+        },
+        {
+            "index": "24",
+            "vocabulary": "informaticien",
+            "partOfSpeech": "n.m.",
+            "definition": "信息处理专家，信息技术人员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler comme informaticien",
+                    "vocabularyCollocationMeaning": "作为信息技术人员工作"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "informatique",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "信息技术，计算机科学"
+                }
+            ],
+            "pluralForm": "informaticiens"
+        },
+        {
+            "index": "25",
+            "vocabulary": "cybercopain",
+            "partOfSpeech": "n.m.",
+            "definition": "网友",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir des cybercopains",
+                    "vocabularyCollocationMeaning": "有网友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cybercopains dans le monde entier",
+                    "vocabularyCollocationMeaning": "遍布全世界的网友"
+                }
+            ],
+            "synonymAnalysis": "cybercopain 为口语词汇，相当于 ami virtuel 或 ami en ligne；前缀 cyber- 表示「网络的、虚拟的」。",
+            "derivedWords": [],
+            "pluralForm": "cybercopains"
+        },
+        {
+            "index": "26",
+            "vocabulary": "virtuel",
+            "partOfSpeech": "adj.",
+            "definition": "①虚拟的 ②潜在的，可能的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "monde virtuel",
+                    "vocabularyCollocationMeaning": "虚拟世界"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réalité virtuelle",
+                    "vocabularyCollocationMeaning": "虚拟现实"
+                }
+            ],
+            "synonymAnalysis": "virtuel vs réel：两者为反义词，virtuel 指虚拟的或潜在的，réel 指真实的、现实的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "virtuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "虚拟地；实际上，几乎"
+                }
+            ],
+            "genderNumberVariation": "阴性 virtuelle，阳性复数 virtuels，阴性复数 virtuelles",
+            "position": "通常置于名词之后，如 monde virtuel。"
+        },
+        {
+            "index": "27",
+            "vocabulary": "contraire",
+            "partOfSpeech": "n.m.",
+            "definition": "对立面，反面，相反",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au contraire",
+                    "vocabularyCollocationMeaning": "相反地，恰恰相反"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le contraire de",
+                    "vocabularyCollocationMeaning": "……的反面"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "bien au contraire",
+                    "vocabularyCollocationMeaning": "恰恰相反（加强语气）"
+                }
+            ],
+            "synonymAnalysis": "au contraire vs par contre：au contraire 强调与前文内容完全对立；par contre 仅表转折对比，不一定完全相反，且更正式，多用于书面语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contrairement à",
+                    "derivedWordPartOfSpeech": "loc.",
+                    "derivedWordMeaning": "与……相反"
+                }
+            ],
+            "pluralForm": "contraires"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Principal usage d'Internet, le courrier électronique permet de contacter n'importe qui en n'importe quel point du globe pour le prix d'une communication locale. Au début, on aurait pu craindre que l'écrit laisse la place à des pratiques orales. Mais c'est au contraire une formidable ouverture: beaucoup d'internautes ont retrouvé le plaisir de rédiger, se familiarisant ainsi avec un outil qui aura été décisif pour la communication du XXIe siècle.",
+            "chineseTranslation": "电子邮件是互联网最主要的用途，它让人们得以以本地通话的费用联系到全球任何地方的任何人。初期，人们曾担心书面表达会被口头交流所取代。然而事实恰恰相反，这是一次绝佳的开放：许多网民重新找到了写作的乐趣，并在这一过程中逐渐熟悉了这一对二十一世纪通信举足轻重的工具。",
+            "fr2cnStrategy": "① Principal usage d'Internet 为前置同位语，翻译时将其转换为解释性定语「互联网最主要的用途」，使中文语序更自然。② on aurait pu craindre que 为条件式过去时，译为「曾担心」，体现「本可能发生但未发生」的语气。③ laisser la place à 译为「被……取代」，将被动含义从结构中显化。④ se familiarisant 为现在分词，表伴随动作，译为「并在这一过程中逐渐熟悉」，用增译手段补出「过程」这一语境。⑤ aura été décisif 为前将来时，表示将来时间点上已实现的结果，译为「举足轻重」，并在前加「对……而言」使语义完整。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "多亏了互联网，我们可以以低廉的费用联系到世界上任何地方的任何人。",
+                "frenchTranslation": "Grâce à Internet, nous pouvons contacter n'importe qui en n'importe quel point du globe pour un prix modique.",
+                "cn2frStrategy": "① 「多亏了」用 Grâce à 表达积极原因，注意不可用 à cause de。② 「任何人」用不定代词 n'importe qui，「任何地方」用 n'importe quel point du globe。③ 「低廉的费用」译为 pour un prix modique，其中 pour 表示「以……的代价」。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "一年前，她开始熟悉互联网，如今她已经能够在网上找到大量关于电影明星的信息。",
+                "frenchTranslation": "Il y a un an, elle a commencé à se familiariser avec Internet; maintenant, elle arrive à trouver énormément d'informations sur les stars de cinéma.",
+                "cn2frStrategy": "① 「一年前」用 il y a un an 表示过去时间点。② 「开始熟悉」用 commencer à se familiariser avec，注意 se familiariser 固定搭配 avec。③ 「能够找到」用 arriver à trouver 表示经努力终于实现。④ 「大量信息」用 énormément d'informations，注意 énormément de + 名词复数。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "有人认为网络将年轻人局限在虚拟世界里，但我认为恰恰相反，它是通向现实生活的窗口。",
+                "frenchTranslation": "Il y a des gens qui pensent que le réseau enferme les jeunes dans un monde virtuel, mais je pense que c'est au contraire une ouverture sur la vie réelle.",
+                "cn2frStrategy": "① 「有人认为」用 il y a des gens qui pensent que，避免直译「有人」为 quelqu'un。② 「局限在」用 enfermer dans，表示封闭、困锁之意。③ 「恰恰相反」用 au contraire 作插入语。④ 「通向……的窗口」用 ouverture sur，这是法语中的固定意象搭配。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他花了很多时间在网上与陌生人聊天，而不仅仅局限于发送简短的消息。",
+                "frenchTranslation": "Il passait beaucoup de temps à discuter avec des inconnus sur Internet, sans se limiter à de brefs messages.",
+                "cn2frStrategy": "① 「花时间做某事」用 passer du temps à + inf. 的固定结构，注意 à 后接不定式。② 「而不仅仅局限于」用 sans se limiter à，其中 sans + 不定式（主语相同）表示「在不……的情况下」。③ 「简短的消息」译为 de brefs messages，形容词 bref 置于名词前，并与名词性数一致（复数 brefs）。"
+            }
+        ]
+    }
+}
