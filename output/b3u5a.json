@@ -1,0 +1,1100 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Quelles sont les formations les plus «rentables», c'est-à-dire qui protègent le mieux contre le chômage sans pour autant coûter trop cher?",
+            "translatedSentence": "哪些专业方向最”划算”——也就是说，既能最有效地防范失业风险，又不至于花费太高？",
+            "sentenceStructure": "主句为疑问句 Quelles sont les formations les plus «rentables»，其后 c'est-à-dire 引出解释性定语从句 qui protègent le mieux contre le chômage，最后 sans pour autant coûter trop cher 为否定方式状语。",
+            "grammarAnalysis": "① 疑问句倒装结构 Quelles sont les formations...，形容词 quelles 作表语前置。② 关系从句 qui protègent le mieux contre le chômage 修饰 formations，protéger contre 为固定搭配。③ sans pour autant + infinitif 是固定结构，意为”却并不因此……”，强调动作不随之发生。",
+            "commonMistakes": "pour autant 常被误译为”因此”，但其实表示转折或限制，意为”就此，因此（常与否定连用，表示'却并不因此'）”。sans pour autant coûter cher 意为”却并不因此花费太高”，而非”不花太多钱”这种简单否定。"
+        },
+        {
+            "index": 2,
+            "sentence": "A l'heure où élever le niveau de qualification de tous est devenu un point majeur à propos de l'emploi et de la compétition économique, le diplôme sur le marché du travail est plus important qu'avant.",
+            "translatedSentence": "在提升全民资质水平已成为就业与经济竞争核心议题的当下，文凭在劳动力市场上比以往任何时候都更加重要。",
+            "sentenceStructure": "主句为 le diplôme sur le marché du travail est plus important qu'avant；A l'heure où 引导时间状语从句，该从句中又包含主语从句 élever le niveau de qualification de tous（不定式短语作主语）+ est devenu（谓语）+ un point majeur（表语）。",
+            "grammarAnalysis": "① à l'heure où 意为”在……的时候”，相当于 au moment où，où 作关系副词引导时间从句。② 不定式短语 élever le niveau de qualification de tous 整体充当主语，体现法语中不定式作主语的用法。③ un point majeur à propos de 固定搭配，意为”关于……的重要议题”。④ plus...qu'avant 比较结构。",
+            "commonMistakes": "à l'heure où 易与 à l'heure de + n. 混淆；前者接从句（où 是关系副词），后者接名词。另外注意 majeur 在此作”重要的”义，后置于名词，区别于前置时的”主要的”用法。"
+        },
+        {
+            "index": 3,
+            "sentence": "Sur vingt pays développés, nous arrivons en quinzième place seulement pour la part de la population active ayant un diplôme d'enseignement supérieur, très loin derrière la Grande-Bretagne, mais aussi après l'Australie, la Finlande ou encore le Canada.",
+            "translatedSentence": "在二十个发达国家中，就拥有高等教育文凭的劳动人口比例而言，我们仅排在第十五位，不仅远落后于英国，也落后于澳大利亚、芬兰乃至加拿大。",
+            "sentenceStructure": "主句为 nous arrivons en quinzième place seulement；介词短语 Sur vingt pays développés 作框架状语；pour la part... 介词短语作限定状语；现在分词短语 ayant un diplôme d'enseignement supérieur 修饰 population active；très loin derrière... 作补充说明状语。",
+            "grammarAnalysis": "① arriver en + 序数词 + place 是固定表达，意为”排在第……位”。② 现在分词 ayant 作后置定语，修饰 la population active，相当于 qui a。③ très loin derrière 表示”远远落后于”，是程度副词 + 介词结构的组合。④ ou encore 表示”乃至、甚至”，用于列举中加强语气。",
+            "commonMistakes": "序数词 quinzième 在表示排名时前置 en，即 arriver en quinzième place，不可用 à。另外 la part de la population active ayant... 中现在分词 ayant 作定语，学生常误将其理解为状语从句。"
+        },
+        {
+            "index": 4,
+            "sentence": "Il faut dire que nous venons de rattraper une partie de notre retard grâce au grand effort qui a été fait pour amener davantage de jeunes jusqu'au bac et aux études supérieures.",
+            "translatedSentence": "不得不说，得益于为推动更多年轻人完成高中会考并进入高等教育而付出的巨大努力，我们已经在一定程度上弥补了差距。",
+            "sentenceStructure": "主干为 nous venons de rattraper une partie de notre retard；il faut dire que 引导强调从句；grâce à 介词短语作原因状语；关系从句 qui a été fait 修饰 le grand effort；目的不定式 pour amener davantage de jeunes jusqu'au bac et aux études supérieures 表示努力的目的。",
+            "grammarAnalysis": "① venir de + infinitif 表示刚刚完成的动作（近过去时）。② grâce à 表示积极原因，意为”多亏了，得益于”，后接名词，区别于 à cause de（消极原因）。③ 被动式 qui a été fait 修饰 effort，由 faire + 主语完成。④ amener qn. jusqu'à + lieu/étape 意为”引导某人到达某阶段”。",
+            "commonMistakes": "grâce à 与 à cause de 均表原因，但 grâce à 用于正面结果，à cause de 用于负面结果，不可混用。另外 venir de + inf. 只在现在时或未完成过去时中表近过去，复合过去时中无此用法。"
+        },
+        {
+            "index": 5,
+            "sentence": "C'est la raison principale pour laquelle on peut dire que notre système d'éducation est moins parfait que le leur du point de vue économique.",
+            "translatedSentence": "这就是从经济角度可以说我们的教育体系不如他们完善的主要原因。",
+            "sentenceStructure": "强调句结构 C'est... pour laquelle...；主句表语为 la raison principale；关系代词 laquelle 替代 la raison，引导关系从句 on peut dire que notre système d'éducation est moins parfait que le leur du point de vue économique。",
+            "grammarAnalysis": "① pour laquelle 是介词 pour + 关系代词 laquelle 的组合，用于修饰阴性名词 la raison。② moins... que... 构成劣比结构。③ le leur 是所有格代词，代指 leur système d'éducation，避免重复。④ du point de vue de 意为”从……角度”，为固定介词短语。",
+            "commonMistakes": "关系代词 laquelle 前有介词 pour，不可替换为 que（que 不带介词）。所有格代词 le leur 的形式须与所代名词的性数一致，le leur 代替阳性单数名词 le système。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "protéger qn./qch. contre qch.",
+            "meaning": "保护某人/某物免受某事（的影响）",
+            "usage": "vt. 固定搭配，介词用 contre，表示对抗某种威胁或危险，不可用 de 替代（protéger de 也存在但搭配语境不同）。",
+            "exampleSentence": "les formations qui protègent le mieux contre le chômage"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "sans pour autant + infinitif",
+            "meaning": "却并不因此……",
+            "usage": "固定结构，表示前一动作发生，但后续预期结果并未随之发生，语气具转折性，常用于书面语。",
+            "exampleSentence": "qui protègent le mieux contre le chômage sans pour autant coûter trop cher"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "se passionner pour qch.",
+            "meaning": "对某事着迷，热衷于某事",
+            "usage": "代词式动词，固定搭配 pour，表示强烈的兴趣或热情。主动式 passionner qn. 意为”使某人产生强烈兴趣”。",
+            "exampleSentence": "La France se passionne pour les diplômes"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "en revanche",
+            "meaning": "相反地，另一方面",
+            "usage": "副词性短语，用于对比前后两种情况，语气中性，常用于书面语。区别于 par contre（口语色彩更强）。",
+            "exampleSentence": "la question des compétences concrètes, en revanche, ne passionne guère les foules"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "à propos de qch.",
+            "meaning": "关于……，就……而言",
+            "usage": "固定介词短语，后接名词，用于引入话题或补充说明。区别于 au sujet de（更正式）。",
+            "exampleSentence": "un point majeur à propos de l'emploi et de la compétition économique"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se situer en dessous / au-dessus de la moyenne",
+            "meaning": "处于平均水平以下／以上",
+            "usage": "固定搭配，se situer 表示”位于，处于某水平”，dessous/dessus 后需接 de。常用于数据比较语境。",
+            "exampleSentence": "la France se situe nettement en dessous de la moyenne quant au niveau d'éducation"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "venir de + infinitif",
+            "meaning": "刚刚（做了某事）",
+            "usage": "近过去时结构，仅用于现在时或未完成过去时语境，表示动作刚刚完成。",
+            "exampleSentence": "nous venons de rattraper une partie de notre retard"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "grâce à qch./qn.",
+            "meaning": "得益于……，多亏了……",
+            "usage": "表示积极原因的介词短语，后接名词或名词短语，结果须为正面。区别于 à cause de（用于负面结果）。",
+            "exampleSentence": "grâce au grand effort qui a été fait pour amener davantage de jeunes jusqu'au bac"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "amener qn. jusqu'à qch.",
+            "meaning": "引导／推动某人达到某阶段",
+            "usage": "vt. 固定搭配，amener + 人 + jusqu'à + 目标，强调过程性引导。区别于 emmener（带走，强调空间位移）。",
+            "exampleSentence": "pour amener davantage de jeunes jusqu'au bac et aux études supérieures"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "avoir du chemin à faire",
+            "meaning": "还有很长的路要走，还差得远",
+            "usage": "固定表达，字面义为”还有路要走”，引申为”还有很大差距/进步空间”，语体中性。",
+            "exampleSentence": "La France a encore du chemin à faire..."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "dans le but de + infinitif",
+            "meaning": "为了……，以……为目的",
+            "usage": "目的状语固定结构，后接不定式，语体较正式。与 pour + inf. 同义，但 dans le but de 书面色彩更强。",
+            "exampleSentence": "Dans le but d'améliorer l'Education nationale, l'Etat a investi plus qu'avant."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "investir dans qch.",
+            "meaning": "在某领域投资／投入",
+            "usage": "vt./vi. 后接 dans + 名词，表示资金或资源的投入。也可直接及物：investir des fonds（投入资金）。",
+            "exampleSentence": "l'Etat a investi plus qu'avant"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "du point de vue de qch.",
+            "meaning": "从……角度，从……观点来看",
+            "usage": "固定介词短语，后接名词，用于表明评价或分析的视角。同义表达：en termes de，sous l'angle de。",
+            "exampleSentence": "notre système d'éducation est moins parfait que le leur du point de vue économique"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "à titre d'exemple",
+            "meaning": "举例而言，以……为例",
+            "usage": "固定副词短语，用于引出具体例子，语体正式，常见于书面语和议论文。",
+            "exampleSentence": "A titre d'exemple, ce taux est de 55% en Australie"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "discipline",
+            "partOfSpeech": "n.f.",
+            "definition": "①学科，专业 ②纪律，规范",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "discipline scientifique",
+                    "vocabularyCollocationMeaning": "理工类学科"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "maintenir la discipline",
+                    "vocabularyCollocationMeaning": "维持纪律"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans les bonnes disciplines",
+                    "vocabularyCollocationMeaning": "在合适的专业方向上"
+                }
+            ],
+            "synonymAnalysis": "discipline（学科）vs matière：两者均指课程科目，discipline 更正式，多指高等教育或专业领域；matière 更口语，常用于中小学科目（les matières au lycée）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "disciplinaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "纪律的，学科的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "discipliner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "管教，约束"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indiscipline",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不守纪律，散漫"
+                }
+            ],
+            "pluralForm": "disciplines"
+        },
+        {
+            "index": "2",
+            "vocabulary": "rentable",
+            "partOfSpeech": "adj.",
+            "definition": "①有收益的，合算的 ②（投入）有效益的，划算的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "formation rentable",
+                    "vocabularyCollocationMeaning": "有回报的专业方向"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "investissement rentable",
+                    "vocabularyCollocationMeaning": "合算的投资"
+                }
+            ],
+            "synonymAnalysis": "rentable vs profitable：rentable 强调投入与产出的比例合算；profitable 更广泛，指有益、有利可图，可用于抽象事物（une expérience profitable）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rentabilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "收益性，盈利能力"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rente",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "收入，租金，年金"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 rentables",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "protéger",
+            "partOfSpeech": "vt.",
+            "definition": "①保护，防护 ②庇护，袒护",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "protéger qn./qch. contre qch.",
+                    "vocabularyCollocationMeaning": "保护某人/某物免受某事威胁"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "protéger l'environnement",
+                    "vocabularyCollocationMeaning": "保护环境"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se protéger de qch.",
+                    "vocabularyCollocationMeaning": "保护自己免受……"
+                }
+            ],
+            "synonymAnalysis": "protéger vs défendre：protéger 侧重主动防护，避免受到伤害；défendre 侧重抵御、抗击已有的威胁，语气更强烈。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "protection",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "保护，防护"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "protecteur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "保护性的；保护者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "protégé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "受保护的人，被庇护者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je protège, tu protèges, il protège, nous protégeons, vous protégez, ils protègent",
+                "compoundPast": "j'ai protégé",
+                "simpleFuture": "je protégerai",
+                "imperfect": "je protégeais（注意 nous protégions 保留 é）",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -éger 类动词，é 在哑音节前变 è，类似 céder、espérer；但 nous/vous 现在时保留 é。"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "chômage",
+            "partOfSpeech": "n.m.",
+            "definition": "①失业，失业现象 ②停工，停产",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être au chômage",
+                    "vocabularyCollocationMeaning": "处于失业状态"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "taux de chômage",
+                    "vocabularyCollocationMeaning": "失业率"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "indemnité de chômage",
+                    "vocabularyCollocationMeaning": "失业救济金"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chômer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "失业；停工"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chômeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "失业者"
+                }
+            ],
+            "pluralForm": "chômages（通常以单数使用）"
+        },
+        {
+            "index": "5",
+            "vocabulary": "passionner",
+            "partOfSpeech": "vt.",
+            "definition": "①使（某人）着迷，使产生强烈兴趣 ②（se passionner pour）热衷于，痴迷于",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passionner qn.",
+                    "vocabularyCollocationMeaning": "使某人着迷"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se passionner pour qch.",
+                    "vocabularyCollocationMeaning": "热衷于某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ne pas passionner les foules",
+                    "vocabularyCollocationMeaning": "无法引起大众兴趣"
+                }
+            ],
+            "synonymAnalysis": "passionner vs intéresser：passionner 程度更强，表示强烈的热情或着迷；intéresser 程度较弱，仅表示”引起兴趣”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "激情，热情；热爱的事物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "passionné",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "充满激情的，热衷的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "passionnant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人着迷的，激动人心的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "éducation",
+            "partOfSpeech": "n.f.",
+            "definition": "①教育，培养 ②教养，礼貌",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "système d'éducation",
+                    "vocabularyCollocationMeaning": "教育体系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "éducation nationale",
+                    "vocabularyCollocationMeaning": "国民教育（法国教育部管辖的公共教育体系）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "recevoir une bonne éducation",
+                    "vocabularyCollocationMeaning": "接受良好的教育／有良好的教养"
+                }
+            ],
+            "synonymAnalysis": "éducation vs formation：éducation 指广义的教育，包括品德培养；formation 侧重职业技能培训或某领域专业培养。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "éduquer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "教育，培养"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "éducateur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "教育工作者，教育者"
+                }
+            ],
+            "pluralForm": "éducations（通常以单数使用）"
+        },
+        {
+            "index": "7",
+            "vocabulary": "master",
+            "partOfSpeech": "n.m.",
+            "definition": "硕士学位（欧洲高等教育体系中的学位，相当于中国硕士）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "obtenir un master",
+                    "vocabularyCollocationMeaning": "获得硕士学位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "master en/de qch.",
+                    "vocabularyCollocationMeaning": "某领域的硕士"
+                }
+            ],
+            "synonymAnalysis": "master vs maîtrise：两者均指硕士层次，但 maîtrise 是旧称，现已基本被 master（符合博洛尼亚进程 LMD 体系）取代。",
+            "derivedWords": [],
+            "pluralForm": "masters"
+        },
+        {
+            "index": "8",
+            "vocabulary": "compétence",
+            "partOfSpeech": "n.f.",
+            "definition": "①能力，技能 ②职权范围，管辖范围",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compétences concrètes",
+                    "vocabularyCollocationMeaning": "具体能力，实际技能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir des compétences en qch.",
+                    "vocabularyCollocationMeaning": "在某方面具备能力"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dans les compétences de qn.",
+                    "vocabularyCollocationMeaning": "在某人的职权范围内"
+                }
+            ],
+            "synonymAnalysis": "compétence vs capacité：compétence 强调通过学习或经验获得的专业技能；capacité 更广泛，指先天或一般能力，也可指容量。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compétent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有能力的，称职的；有管辖权的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "incompétence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "无能，不称职"
+                }
+            ],
+            "pluralForm": "compétences"
+        },
+        {
+            "index": "9",
+            "vocabulary": "concret",
+            "partOfSpeech": "adj.",
+            "definition": "①具体的，实际的 ②实在的，有形的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compétences concrètes",
+                    "vocabularyCollocationMeaning": "实际技能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "exemple concret",
+                    "vocabularyCollocationMeaning": "具体例子"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "résultat concret",
+                    "vocabularyCollocationMeaning": "实际成果"
+                }
+            ],
+            "synonymAnalysis": "concret vs pratique：concret 强调有形、具体，与抽象相对；pratique 强调实用、可操作，与理论相对。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concrètement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "具体地，实际上"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concrétiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使具体化，实现"
+                }
+            ],
+            "genderNumberVariation": "阴性 concrète，阳性复数 concrets，阴性复数 concrètes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "revanche",
+            "partOfSpeech": "n.f.",
+            "definition": "①报复，复仇 ②（体育）复赛，回合",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en revanche",
+                    "vocabularyCollocationMeaning": "相反地，另一方面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prendre sa revanche sur qn.",
+                    "vocabularyCollocationMeaning": "向某人复仇／报复"
+                }
+            ],
+            "synonymAnalysis": "en revanche vs par contre：两者均表”另一方面/相反”，en revanche 书面语色彩更强；par contre 口语中更常用，但在正式写作中有时被认为不够规范。",
+            "derivedWords": [],
+            "pluralForm": "revanches"
+        },
+        {
+            "index": "11",
+            "vocabulary": "qualification",
+            "partOfSpeech": "n.f.",
+            "definition": "①资质，资格 ②（体育）晋级，资格赛",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "niveau de qualification",
+                    "vocabularyCollocationMeaning": "资质水平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "obtenir une qualification",
+                    "vocabularyCollocationMeaning": "获得资质"
+                }
+            ],
+            "synonymAnalysis": "qualification vs compétence：qualification 偏向通过考试或认证获得的正式资格；compétence 更侧重实际能力与技能。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "qualifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "描述为；使具备资格"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "qualifié",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有资格的，胜任的"
+                }
+            ],
+            "pluralForm": "qualifications"
+        },
+        {
+            "index": "12",
+            "vocabulary": "majeur",
+            "partOfSpeech": "adj.",
+            "definition": "①重要的，主要的 ②成年的（法律意义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un point majeur",
+                    "vocabularyCollocationMeaning": "一个重要议题"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un problème majeur",
+                    "vocabularyCollocationMeaning": "一个重大问题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être majeur",
+                    "vocabularyCollocationMeaning": "已成年"
+                }
+            ],
+            "synonymAnalysis": "majeur vs principal vs important：majeur 强调相对于其他事物更为重要，常用于书面语；principal 指”首要的、第一位的”，只有一个；important 为中性词，使用最广泛。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "majorité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "多数；成年"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "majeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "中指"
+                }
+            ],
+            "genderNumberVariation": "阴性 majeure，复数 majeurs / majeures",
+            "position": "通常置于名词之后；作”重要的”义时也可前置（un majeur problème 较少见）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "propos",
+            "partOfSpeech": "n.m.",
+            "definition": "①话，谈话（常用复数 des propos）②意图，目的（à propos de：关于）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à propos de qch.",
+                    "vocabularyCollocationMeaning": "关于某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tenir des propos",
+                    "vocabularyCollocationMeaning": "发表言论"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à propos",
+                    "vocabularyCollocationMeaning": "顺便说一下；恰当地"
+                }
+            ],
+            "synonymAnalysis": "à propos de vs au sujet de：两者均表”关于”，à propos de 更口语化；au sujet de 稍正式，多用于书面或正式场合。",
+            "derivedWords": [],
+            "pluralForm": "propos（形式不变，单复数同形）"
+        },
+        {
+            "index": "14",
+            "vocabulary": "compétition",
+            "partOfSpeech": "n.f.",
+            "definition": "①竞争，竞赛 ②（体育）比赛",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compétition économique",
+                    "vocabularyCollocationMeaning": "经济竞争"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "entrer en compétition avec qn.",
+                    "vocabularyCollocationMeaning": "与某人竞争"
+                }
+            ],
+            "synonymAnalysis": "compétition vs concurrence：compétition 更强调对抗性的竞争（体育或一般性）；concurrence 多指商业上的竞争关系（faire face à la concurrence）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compétitif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "竞争性的；有竞争力的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "compétiteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "竞争者，参赛者"
+                }
+            ],
+            "pluralForm": "compétitions"
+        },
+        {
+            "index": "15",
+            "vocabulary": "dessous",
+            "partOfSpeech": "adv.",
+            "definition": "在下面，在下方",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en dessous de",
+                    "vocabularyCollocationMeaning": "在……下面；低于"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ci-dessous",
+                    "vocabularyCollocationMeaning": "如下，下文"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "dessous 作副词单独使用意为”在下面”；常见搭配为介词短语 en dessous de + 名词，表示”低于某数值或水平”。与 dessus（在上面）构成对立。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "moyenne",
+            "partOfSpeech": "n.f.",
+            "definition": "①平均数，平均值 ②中等，一般水平",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au-dessus / en dessous de la moyenne",
+                    "vocabularyCollocationMeaning": "高于／低于平均水平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en moyenne",
+                    "vocabularyCollocationMeaning": "平均而言，平均地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "obtenir la moyenne",
+                    "vocabularyCollocationMeaning": "达到及格分（法国以10/20为及格）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "moyen",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "中等的，平均的"
+                }
+            ],
+            "pluralForm": "moyennes"
+        },
+        {
+            "index": "17",
+            "vocabulary": "part",
+            "partOfSpeech": "n.f.",
+            "definition": "①份额，比例 ②部分 ③方面",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la part de qch./qn.",
+                    "vocabularyCollocationMeaning": "……的份额／比例"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de la part de qn.",
+                    "vocabularyCollocationMeaning": "代表某人，由某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à part",
+                    "vocabularyCollocationMeaning": "除……之外；单独地"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "d'une part... d'autre part",
+                    "vocabularyCollocationMeaning": "一方面……另一方面"
+                }
+            ],
+            "synonymAnalysis": "part vs proportion：part 指具体的份额或分配；proportion 强调数量关系或比例关系，常用于统计比较。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "partager",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "分享，分配"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "partiel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "部分的，局部的"
+                }
+            ],
+            "pluralForm": "parts"
+        },
+        {
+            "index": "18",
+            "vocabulary": "rattraper",
+            "partOfSpeech": "vt.",
+            "definition": "①赶上，追上 ②弥补（损失、差距）③重新抓住",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rattraper son retard",
+                    "vocabularyCollocationMeaning": "弥补差距，赶上进度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se rattraper",
+                    "vocabularyCollocationMeaning": "重新站稳脚跟；弥补过失"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rattraper le temps perdu",
+                    "vocabularyCollocationMeaning": "弥补失去的时间"
+                }
+            ],
+            "synonymAnalysis": "rattraper vs rejoindre：rattraper 强调从后追上并弥补差距；rejoindre 更侧重到达同一地点或群体，不强调追赶过程。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "proportion",
+            "partOfSpeech": "n.f.",
+            "definition": "①比例，比率 ②规模，程度（常用复数）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "pour la proportion de",
+                    "vocabularyCollocationMeaning": "就……的比例而言"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en proportion de",
+                    "vocabularyCollocationMeaning": "与……成比例"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "toutes proportions gardées",
+                    "vocabularyCollocationMeaning": "按比例而言，相对地说"
+                }
+            ],
+            "synonymAnalysis": "proportion vs taux：proportion 是广义的比例；taux 更具体，多指统计学意义上的比率（taux de chômage 失业率）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "proportionnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "成比例的，相称的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "proportionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使成比例，使相称"
+                }
+            ],
+            "pluralForm": "proportions"
+        },
+        {
+            "index": "20",
+            "vocabulary": "type",
+            "partOfSpeech": "n.m.",
+            "definition": "①类型，型号 ②典型（人或物）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de type + adj./n.",
+                    "vocabularyCollocationMeaning": "……类型的，……式的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un type de formation",
+                    "vocabularyCollocationMeaning": "一种培训类型"
+                }
+            ],
+            "synonymAnalysis": "type vs genre vs sorte：type 最正式，多用于书面语和科技语境；genre 和 sorte 更口语，三者均可表”种类”，但 type 的分类更系统。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "typique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "典型的，有代表性的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "typiquement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "典型地"
+                }
+            ],
+            "pluralForm": "types"
+        },
+        {
+            "index": "21",
+            "vocabulary": "atteindre",
+            "partOfSpeech": "vt.",
+            "definition": "①达到，到达 ②达到（某数值）③触及，影响",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "atteindre un objectif",
+                    "vocabularyCollocationMeaning": "实现目标"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "atteindre un niveau",
+                    "vocabularyCollocationMeaning": "达到某一水平"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "atteindre un taux de",
+                    "vocabularyCollocationMeaning": "达到……的比率"
+                }
+            ],
+            "synonymAnalysis": "atteindre vs parvenir à：两者均表”到达/实现”，atteindre 更常见，直接及物；parvenir à 后接不定式，强调经过努力终于达到。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'atteins, tu atteins, il atteint, nous atteignons, vous atteignez, ils atteignent",
+                "compoundPast": "j'ai atteint",
+                "simpleFuture": "j'atteindrai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于 -eindre 类不规则动词，与 peindre、étreindre 变位规律相同；词干在复数人称中变为 -eign-。"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "investir",
+            "partOfSpeech": "vt.",
+            "definition": "①投资，投入（资金、精力）②（军事）包围，占领",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "investir dans qch.",
+                    "vocabularyCollocationMeaning": "在某领域投资"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "investir du temps/de l'argent",
+                    "vocabularyCollocationMeaning": "投入时间／金钱"
+                }
+            ],
+            "synonymAnalysis": "investir vs placer：investir 语义更广，指一般性投入；placer 更具体，专指金融意义上的资金存放或投资（placer de l'argent 存钱）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "investissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "投资，投入"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "investisseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "投资者"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "primaire",
+            "partOfSpeech": "adj.",
+            "definition": "①初级的，初等的 ②原始的，基本的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enseignement primaire",
+                    "vocabularyCollocationMeaning": "初等教育，小学教育"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "école primaire",
+                    "vocabularyCollocationMeaning": "小学"
+                }
+            ],
+            "synonymAnalysis": "primaire vs élémentaire：在教育语境中基本同义；élémentaire 有时更强调基础性，也用于形容事物的基本层面（les règles élémentaires）。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴阳同形，复数 primaires",
+            "position": "通常置于名词之前（école primaire 例外，置于名词之后）"
+        },
+        {
+            "index": "24",
+            "vocabulary": "secondaire",
+            "partOfSpeech": "adj.",
+            "definition": "①中等的，中级的（教育）②次要的，第二位的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enseignement secondaire",
+                    "vocabularyCollocationMeaning": "中等教育"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rôle secondaire",
+                    "vocabularyCollocationMeaning": "次要角色"
+                }
+            ],
+            "synonymAnalysis": "secondaire（次要的）vs mineur（较小的/未成年的）：两者均可表”次要”，但 mineur 偏向量或重要性更小，secondaire 强调层级或地位排在第二位。",
+            "derivedWords": [],
+            "genderNumberVariation": "阴阳同形，复数 secondaires",
+            "position": "教育语境中通常置于名词之后；作”次要的”义时多置于名词之后"
+        },
+        {
+            "index": "25",
+            "vocabulary": "au-dessus de",
+            "partOfSpeech": "loc.prép.",
+            "definition": "①在……上面，高于 ②超过（某数值或水平）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au-dessus de la moyenne",
+                    "vocabularyCollocationMeaning": "高于平均水平"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au-dessus de ses moyens",
+                    "vocabularyCollocationMeaning": "超出自己的能力范围"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "介词短语，后直接接名词。与 en dessous de 构成对立。注意 au-dessus de 和 au-dessus 的区别：前者接名词，后者单独作副词用。"
+        },
+        {
+            "index": "26",
+            "vocabulary": "majorité",
+            "partOfSpeech": "n.f.",
+            "definition": "①多数，大多数 ②成年（法律意义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la majorité de + n.",
+                    "vocabularyCollocationMeaning": "大多数……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à la majorité",
+                    "vocabularyCollocationMeaning": "以多数票"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "atteindre sa majorité",
+                    "vocabularyCollocationMeaning": "达到法定成年年龄"
+                }
+            ],
+            "synonymAnalysis": "majorité vs plupart：la majorité de 后可接单数或复数名词；la plupart de 后通常接复数名词，谓语动词用复数。两者均表”大多数”，plupart 更口语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "majoritaire",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "占多数的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "majeur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "成年的；重要的"
+                }
+            ],
+            "pluralForm": "majorités"
+        },
+        {
+            "index": "27",
+            "vocabulary": "coûteux",
+            "partOfSpeech": "adj.",
+            "definition": "昂贵的，耗资大的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "système coûteux",
+                    "vocabularyCollocationMeaning": "昂贵的体系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "très coûteux",
+                    "vocabularyCollocationMeaning": "非常昂贵"
+                }
+            ],
+            "synonymAnalysis": "coûteux vs cher：coûteux 更正式，多用于书面语，强调花费高；cher 更常用，口语书面均可，两者基本同义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "coûter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "花费，值……价钱"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "coût",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "费用，成本"
+                }
+            ],
+            "genderNumberVariation": "阴性 coûteuse，阳性复数 coûteux，阴性复数 coûteuses",
+            "position": "通常置于名词之后"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "La France se passionne pour les diplômes, mais la question des compétences concrètes, en revanche, ne passionne guère les foules. A l'heure où élever le niveau de qualification de tous est devenu un point majeur à propos de la compétition économique, le diplôme sur le marché du travail est plus important qu'avant. De toute façon, nous en sommes encore loin: seuls 37% des jeunes Français font des études supérieures. La France a encore du chemin à faire.",
+            "chineseTranslation": "法国人对文凭趋之若鹜，然而具体能力的问题却鲜少引起大众的热情。在提升全民资质水平已成为经济竞争核心议题的当下，文凭在劳动力市场上比以往更加举足轻重。但无论如何，差距依然不小：目前只有37%的法国年轻人接受高等教育。法国还有很长的路要走。",
+            "fr2cnStrategy": "① se passionner pour 译为”趋之若鹜”，将代词式动词转化为汉语习语，属词性与表达方式转换；② en revanche 处理为转折词”然而”，在汉语中显化逻辑关系（增译连接词）；③ À l'heure où... 长定语从句拆分为独立分句，整句以”在……的当下”作时间框架，避免”的的的”叠加；④ plus important qu'avant 意译为”比以往更加举足轻重”，使用四字成语增强文采（雅化处理）；⑤ nous en sommes encore loin 固定短语译为”差距依然不小”，避免直译”我们还差得很远”的生硬感（达）；⑥ La France a encore du chemin à faire 惯用语直接意译为”还有很长的路要走”，符合汉语表达习惯。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "哪些专业方向最能有效防范失业风险，同时又不会花费过高？",
+                "frenchTranslation": "Quelles sont les formations les plus efficaces pour protéger contre le chômage, sans pour autant coûter trop cher?",
+                "cn2frStrategy": "① “最能有效防范失业风险”用 les plus efficaces pour protéger contre le chômage 表达，将动词性表达转化为形容词最高级 + 不定式；② “同时又不会”用 sans pour autant + inf. 固定结构，体现法语中否定让步的惯用表达；③ 疑问句用 Quelles sont...? 倒装，符合法语书面疑问句规范。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "在二十个发达国家中，法国在高等教育文凭持有比例方面仅排第十五位，远落后于英国。",
+                "frenchTranslation": "Sur vingt pays développés, la France arrive en quinzième place seulement pour la part de la population active ayant un diplôme d'enseignement supérieur, très loin derrière la Grande-Bretagne.",
+                "cn2frStrategy": "① “在……中”用介词 sur 表示比较范围（sur vingt pays），而非 dans，属固定搭配；② “仅排第十五位”用 arriver en quinzième place seulement，seulement 后置于排名短语后强调”仅仅”；③ “高等教育文凭持有比例”通过 pour la part de la population active ayant un diplôme... 结构转化，现在分词 ayant 作后置定语。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "得益于政府付出的巨大努力，我们已经在一定程度上弥补了与其他国家的差距。",
+                "frenchTranslation": "Grâce aux grands efforts fournis par le gouvernement, nous venons de rattraper une partie de notre retard sur les autres pays.",
+                "cn2frStrategy": "① “得益于”用 grâce à（积极原因），不可用 à cause de；② “已经在一定程度上弥补了”用近过去时 venons de rattraper + une partie de，“一定程度上”通过 une partie de（部分）间接体现；③ “付出的巨大努力”转化为被动分词短语 les grands efforts fournis par，避免冗长从句。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "从经济角度来看，法国的教育体系在投入产出比方面仍不如英国完善。",
+                "frenchTranslation": "Du point de vue économique, le système d'éducation français est encore moins parfait que celui de la Grande-Bretagne en termes de rapport coût-efficacité.",
+                "cn2frStrategy": "① “从经济角度来看”用 du point de vue économique 固定短语，置于句首；② “不如……完善”用劣比结构 moins parfait que；③ “英国的”用所有格代词 celui de la Grande-Bretagne，避免重复 le système；④ “投入产出比”译为 rapport coût-efficacité（成本效益比），属专业表达的借用与增译。"
+            }
+        ]
+    }
+}

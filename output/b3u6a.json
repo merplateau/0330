@@ -1,0 +1,1063 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "«Gardienne du foyer», la femme a eu dans presque toutes les sociétés la responsabilité d'entretenir la maison et d'élever les enfants pendant que l'homme travaillait au-dehors.",
+            "translatedSentence": "作为“家庭守护者”，女性在几乎所有社会中都承担着照料家务和抚养子女的责任，而男性则在外工作。",
+            "sentenceStructure": "主句主语为 la femme，谓语为 a eu...la responsabilité，宾语为 de + 不定式（d'entretenir...et d'élever...），pendant que 引导时间状语从句（l'homme travaillait au-dehors）。",
+            "grammarAnalysis": "① 复合过去时 a eu 表示历史上延续至今的状态。② responsabilité de faire qch. 为固定结构，de 后接动词不定式。③ pendant que 引导同时发生的时间从句，动词用未完成过去时 travaillait，强调过去持续状态。",
+            "commonMistakes": "①容易误将开头的引语 «Gardienne du foyer» 视为主语，实际上它是同位语，真正主语是 la femme。② pendant que 后面的动词要求用未完成过去时，不能用复合过去时。"
+        },
+        {
+            "index": 2,
+            "sentence": "Si, en rentrant elles trouvent tout à faire à la maison, elles ont sans doute raison de vouloir «la libération».",
+            "translatedSentence": "如果她们回到家里发现一切家务都还等着她们来做，那她们想要“解放”无疑是有道理的。",
+            "sentenceStructure": "Si 引导条件状语从句（elles trouvent tout à faire à la maison），主句为 elles ont sans doute raison de vouloir «la libération»。en rentrant 为副动词短语，作时间状语。",
+            "grammarAnalysis": "① Si 引导条件句，条件从句用现在时，主句也用现在时，表示一般性条件。② avoir raison de faire qch. 为固定结构，意为“有理由做某事”。③ tout à faire 意为“所有事情都要做”，tout 作不定代词，à faire 为待完成的动作。④ en rentrant 为副动词，表示同时发生的动作。",
+            "commonMistakes": "① tout à faire 容易误译为“完全要做”，实际上 tout 指“所有的事情”，à faire 表示“待做的”。② avoir raison de 后面接动词不定式，不能接名词。"
+        },
+        {
+            "index": 3,
+            "sentence": "Pour les personnes qui voient la femme ainsi, son vrai et seul rôle le plus beau à assurer, c'est d'être mère.",
+            "translatedSentence": "对于那些持这种观点的人来说，女性最真实、最美好、也是唯一应当承担的角色，就是成为母亲。",
+            "sentenceStructure": "Pour les personnes qui voient la femme ainsi 为介词短语作状语，主句采用表语句型：son vrai et seul rôle le plus beau à assurer（主语）+ c'est（系动词）+ d'être mère（表语）。",
+            "grammarAnalysis": "① c'est de + 不定式：表语句型，强调主语所指代的内容。② rôle à assurer 中 à + 不定式作后置定语，修饰 rôle，表示“待承担的角色”。③ qui voient la femme ainsi 为限制性定语从句，修饰 personnes。",
+            "commonMistakes": "① à assurer 修饰 rôle，表示被动含义（需要承担的角色），容易被忽略或误译为主动。② son vrai et seul rôle le plus beau 中多个修饰语叠加，翻译时须注意语序的自然调整。"
+        },
+        {
+            "index": 4,
+            "sentence": "certains vont même jusqu'à dire qu'il n'y a pas plus de différence entre un homme et une femme qu'entre les couleurs des yeux et des cheveux de deux personnes.",
+            "translatedSentence": "某些人甚至主张，男女之间的差异并不比两个人眼睛和头发颜色的差异更大。",
+            "sentenceStructure": "主句为 certains vont même jusqu'à dire，宾语从句 qu'il n'y a pas plus de différence...qu'entre... 使用了比较结构。",
+            "grammarAnalysis": "① aller jusqu'à faire qch. 固定结构，意为“甚至到了……地步”，表示程度的极致。② ne...pas plus...que... 比较句型，表示“不比……更……”，否定比较。③ il n'y a pas 为非人称结构。",
+            "commonMistakes": "① ne...pas plus de A que de B 结构容易与肯定比较混淆，翻译时须明确是否定比较，即“差异不比……大”。② aller jusqu'à 后接动词不定式，不能接名词。"
+        },
+        {
+            "index": 5,
+            "sentence": "C'est également dans ce milieu que le mari aide le plus sa femme, sauf lorsqu'il est écrasé par les heures supplémentaires, une véritable catastrophe.",
+            "translatedSentence": "同样也是在这个阶层，丈夫对妻子的帮助最多——除非他被加班压垮，那才是真正的灾难。",
+            "sentenceStructure": "强调句型 C'est...que...，被强调成分为 dans ce milieu，主句原型为 le mari aide le plus sa femme dans ce milieu。sauf lorsqu'il est écrasé... 引导例外状语从句，une véritable catastrophe 为同位语。",
+            "grammarAnalysis": "① C'est...que 强调句，强调地点状语 dans ce milieu。② sauf lorsque 引导例外从句，意为“除非……”。③ être écrasé par 为被动结构，表示“被……压垮”。④ une véritable catastrophe 为 lorsqu'il est écrasé par les heures supplémentaires 的同位语，起强调和总结作用。",
+            "commonMistakes": "① C'est...que 强调句易与 c'est...qui 混淆：强调主语用 qui，强调其他成分用 que。② sauf lorsque 引导的是例外从句，不是条件从句，注意区分。"
+        },
+        {
+            "index": 6,
+            "sentence": "on est frappé du fait que beaucoup de garçons désirent que leur femme reste au foyer, et plus de filles demandent à continuer à travailler après leur mariage.",
+            "translatedSentence": "令人惊讶的是，许多男生希望自己的妻子留在家中，而更多的女生则要求婚后继续工作。",
+            "sentenceStructure": "主句 on est frappé du fait que... 中，du fait que 引导原因/内容从句，作 frappé 的补语。que 从句内部为并列结构：beaucoup de garçons désirent que...（虚拟式从句）和 plus de filles demandent à continuer à travailler。",
+            "grammarAnalysis": "① être frappé de/par qch. 固定结构，意为“对……感到震惊/惊讶”。② le fait que 引导名词性从句，从句动词用虚拟式。③ désirer que + 虚拟式：表示愿望的动词后接虚拟式从句，reste 为 rester 的现在虚拟式。④ demander à faire qch.：要求做某事，后接不定式；demander que + 虚拟式：要求某人做某事。",
+            "commonMistakes": "① désirer que 后必须用虚拟式，reste 是 rester 的现在虚拟式（第三人称单数），与直陈式现在时同形，容易被忽略。② demander à faire（自己要求做）和 demander que（要求别人做）后接结构不同，须注意区分。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "entretenir la maison",
+            "meaning": "维持家务，照料家庭",
+            "usage": "entretenir 接名词直接宾语，无需介词；也可用于 entretenir des relations（维系关系）、entretenir une conversation（维持对话）等搭配。",
+            "exampleSentence": "la femme a eu dans presque toutes les sociétés la responsabilité d'entretenir la maison"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "élever les enfants",
+            "meaning": "抚养、教育子女",
+            "usage": "élever + 人，指养育、培养；注意与 lever（举起）区分。书面口语均可用。",
+            "exampleSentence": "d'entretenir la maison et d'élever les enfants"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "travailler à l'extérieur",
+            "meaning": "在外工作",
+            "usage": "à l'extérieur 为固定介词短语，指在家庭以外的场所工作；对应 rester au foyer（留在家中）。",
+            "exampleSentence": "environ la moitié des femmes actives françaises travaillent à l'extérieur"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "avoir raison de faire qch.",
+            "meaning": "有理由做某事",
+            "usage": "固定结构，raison 后接 de + 不定式；反义为 avoir tort de faire qch.（没理由/不应当做某事）。",
+            "exampleSentence": "elles ont sans doute raison de vouloir «la libération»"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "dépendre de qn./qch.",
+            "meaning": "依赖……，取决于……",
+            "usage": "代词式变体为 s'en dépendre（较少用）；常见于描述依存关系。注意 dépendre de 不可省略介词 de。",
+            "exampleSentence": "elle est un être passif et dépend de l'homme"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir le sens de qch.",
+            "meaning": "有……感，擅长……",
+            "usage": "固定结构，表示某人具有某种能力或敏感度，如 avoir le sens du détail（注重细节）、avoir le sens de l'humour（有幽默感）。",
+            "exampleSentence": "elle est habile et a le sens du détail"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "être sous les ordres de qn.",
+            "meaning": "在某人的指挥下，听命于某人",
+            "usage": "固定介词结构，sous les ordres de + 人；书面语色彩较强，常用于职场、军事语境。",
+            "exampleSentence": "il faut qu'elle soit sous les ordres d'un patron qui la forme"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "mener à bien qch.",
+            "meaning": "顺利完成某事",
+            "usage": "固定短语，mener à bien + 名词；强调将某项任务做到圆满结束，多用于书面语。",
+            "exampleSentence": "elle ne pourra jamais avoir l'autorité ou mener à bien un travail personnel"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "s'opposer à qn./qch.",
+            "meaning": "反对……，与……对立",
+            "usage": "代词式动词，固定搭配 à；不可换用其他介词。s'y opposer 中 y 代替前文提及的事物。",
+            "exampleSentence": "D'autres s'y opposent: la femme est égale à l'homme"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "aller jusqu'à faire qch.",
+            "meaning": "甚至到了做……的地步",
+            "usage": "固定结构，直至某极端程度；jusqu'à 后接动词不定式，表示程度的递进或夸张。",
+            "exampleSentence": "certains vont même jusqu'à dire qu'il n'y a pas plus de différence..."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "lutter pour qch.",
+            "meaning": "为……而斗争",
+            "usage": "lutter 为不及物动词，固定搭配 pour + 名词/不定式，表示为某目标奋斗。",
+            "exampleSentence": "un groupe peu nombreux d'hommes et de femmes qui, luttant pour l'égalité des sexes, vont parfois un peu loin"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être favorable à qch./qn.",
+            "meaning": "赞成……，对……有好感",
+            "usage": "favorable 后接介词 à，不可用其他介词；形容词置于名词后。",
+            "exampleSentence": "on est favorable à l'idée d'égalité"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "sentir un frein à qch.",
+            "meaning": "感受到对……的阻力/制约",
+            "usage": "frein 本义“刹车、闸”，引申为“障碍、约束”，搭配 mettre un frein à（约束，抑制）。",
+            "exampleSentence": "on sent un frein très net dès qu'on parle d'application pratique"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "être frappé de/par qch.",
+            "meaning": "对……感到震惊/印象深刻",
+            "usage": "être frappé du fait que + 从句，表示“对……这一事实感到震惊”；du 为 de + le 的缩合形式。",
+            "exampleSentence": "on est frappé du fait que beaucoup de garçons désirent que leur femme reste au foyer"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "préciser ses conceptions",
+            "meaning": "明确说明自己的观点",
+            "usage": "préciser 作及物动词，直接接名词宾语；也可接 que 从句：préciser que...（说明……）。",
+            "exampleSentence": "Lorsqu'ils précisent leurs conceptions, on est frappé du fait que..."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "entretenir",
+            "partOfSpeech": "vt.",
+            "definition": "①维持，保持 ②维修，保养 ③赡养，供养",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entretenir la maison",
+                    "vocabularyCollocationMeaning": "照料家务"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "entretenir des relations avec qn.",
+                    "vocabularyCollocationMeaning": "与某人保持关系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "entretenir une route",
+                    "vocabularyCollocationMeaning": "维修一条道路"
+                }
+            ],
+            "synonymAnalysis": "entretenir vs maintenir：两者都有“维持”之意，entretenir 侧重日常的照料与养护，maintenir 则强调保持某种状态不变，语气更正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "entretien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "保养；交谈；面试"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j'entretiens, tu entretiens, il entretient, nous entretenons, vous entretenez, ils entretiennent",
+                "compoundPast": "j'ai entretenu",
+                "simpleFuture": "j'entretiendrai",
+                "memoryAids": "属于 tenir 类动词，与 tenir、obtenir、retenir、soutenir 变位规律相同。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "racine",
+            "partOfSpeech": "n.f.",
+            "definition": "①根，根部 ②根源，起源 ③（数学）根",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les racines d'un arbre",
+                    "vocabularyCollocationMeaning": "树根"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les racines culturelles",
+                    "vocabularyCollocationMeaning": "文化根源"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "racine carrée",
+                    "vocabularyCollocationMeaning": "平方根"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "racines"
+        },
+        {
+            "index": "3",
+            "vocabulary": "moitié",
+            "partOfSpeech": "n.f.",
+            "definition": "①半，一半 ②（口语）配偶，另一半",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la moitié de qch.",
+                    "vocabularyCollocationMeaning": "某物的一半"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à moitié",
+                    "vocabularyCollocationMeaning": "半途，到一半"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à moitié prix",
+                    "vocabularyCollocationMeaning": "半价"
+                }
+            ],
+            "synonymAnalysis": "moitié vs demi：moitié 为名词，la moitié de + 名词；demi 为形容词或前缀，置于名词前（如 une demi-heure）。",
+            "derivedWords": [],
+            "pluralForm": "moitiés"
+        },
+        {
+            "index": "4",
+            "vocabulary": "actif",
+            "partOfSpeech": "adj.",
+            "definition": "①可就业的，劳动年龄的 ②活跃的，积极的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "population active",
+                    "vocabularyCollocationMeaning": "劳动人口"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vie active",
+                    "vocabularyCollocationMeaning": "职业生涯"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rôle actif",
+                    "vocabularyCollocationMeaning": "积极的角色"
+                }
+            ],
+            "synonymAnalysis": "actif vs dynamique：actif 侧重参与劳动或社会活动，dynamique 强调充满活力、推动力强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "activité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "活动；职业"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "activement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "积极地，活跃地"
+                }
+            ],
+            "genderNumberVariation": "阴性 active，阳性复数 actifs，阴性复数 actives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "5",
+            "vocabulary": "extérieur",
+            "partOfSpeech": "n.m.",
+            "definition": "①外面，外部 ②外表，外观",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l'extérieur",
+                    "vocabularyCollocationMeaning": "在外面，在外部"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de l'extérieur",
+                    "vocabularyCollocationMeaning": "从外部"
+                }
+            ],
+            "synonymAnalysis": "extérieur（名词：外面）vs dehors（副词/名词：外面）：两者常互换，但 à l'extérieur 更正式，au-dehors 较口语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "extérieur",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "外部的，对外的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "extérieurement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "在外表上，表面上"
+                }
+            ],
+            "pluralForm": "extérieurs"
+        },
+        {
+            "index": "6",
+            "vocabulary": "enquête",
+            "partOfSpeech": "n.f.",
+            "definition": "①调查，调查研究 ②（警方）调查，侦查",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une enquête",
+                    "vocabularyCollocationMeaning": "进行一项调查"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enquête de terrain",
+                    "vocabularyCollocationMeaning": "实地调查"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "mener une enquête",
+                    "vocabularyCollocationMeaning": "开展调查"
+                }
+            ],
+            "synonymAnalysis": "enquête vs sondage：enquête 为系统性调查研究；sondage 为民意调查或抽样调查，形式更简短。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enquêter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "调查，侦查"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "enquêteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "调查员，调查者"
+                }
+            ],
+            "pluralForm": "enquêtes"
+        },
+        {
+            "index": "7",
+            "vocabulary": "dépendre",
+            "partOfSpeech": "vt.",
+            "definition": "①取决于……，依赖……（dépendre de）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "dépendre de qn.",
+                    "vocabularyCollocationMeaning": "依赖某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dépendre de qch.",
+                    "vocabularyCollocationMeaning": "取决于某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ça dépend",
+                    "vocabularyCollocationMeaning": "（口语）视情况而定"
+                }
+            ],
+            "synonymAnalysis": "dépendre de vs être tributaire de：两者均表示依赖，dépendre de 更通用；être tributaire de 多用于书面语，强调较强的依存关系。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dépendance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "依赖，依存"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dépendant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "依赖的，从属的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indépendant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "独立的，自主的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "relation",
+            "partOfSpeech": "n.f.",
+            "definition": "①关系，联系 ②人际关系，人脉 ③叙述，描述（文）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relations humaines",
+                    "vocabularyCollocationMeaning": "人际关系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir des relations",
+                    "vocabularyCollocationMeaning": "有人脉，有关系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en relation avec",
+                    "vocabularyCollocationMeaning": "与……有联系"
+                }
+            ],
+            "synonymAnalysis": "relation vs rapport：两者都表示关系，relation 偏指人与人之间的交往联系，rapport 偏指事物之间的比例或逻辑关联，也可指人际关系（en rapport avec）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "relationnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "关系的，人际的"
+                }
+            ],
+            "pluralForm": "relations"
+        },
+        {
+            "index": "9",
+            "vocabulary": "passif",
+            "partOfSpeech": "adj.",
+            "definition": "①被动的，消极的 ②（语法）被动态的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "rôle passif",
+                    "vocabularyCollocationMeaning": "被动的角色"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attitude passive",
+                    "vocabularyCollocationMeaning": "消极态度"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "voix passive",
+                    "vocabularyCollocationMeaning": "被动语态"
+                }
+            ],
+            "synonymAnalysis": "passif vs inactif：passif 强调缺乏主动性、被动接受；inactif 侧重不活跃、无所事事。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passivement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "被动地，消极地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "passivité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "被动性，消极性"
+                }
+            ],
+            "genderNumberVariation": "阴性 passive，阳性复数 passifs，阴性复数 passives",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "habile",
+            "partOfSpeech": "adj.",
+            "definition": "①灵巧的，能干的 ②机智的，精明的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être habile de ses mains",
+                    "vocabularyCollocationMeaning": "心灵手巧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "habile en qch.",
+                    "vocabularyCollocationMeaning": "在某方面灵巧/擅长"
+                }
+            ],
+            "synonymAnalysis": "habile vs adroit：两者都表示灵巧，habile 范围更广，可指能力、智慧上的聪明；adroit 更侧重动作、手法上的灵活。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "habileté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "灵巧，能力，技巧"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "habilement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "灵巧地，熟练地"
+                }
+            ],
+            "genderNumberVariation": "复数 habiles（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "11",
+            "vocabulary": "détail",
+            "partOfSpeech": "n.m.",
+            "definition": "①细节，细部 ②零售（商业）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le sens du détail",
+                    "vocabularyCollocationMeaning": "注重细节"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en détail",
+                    "vocabularyCollocationMeaning": "详细地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vendre au détail",
+                    "vocabularyCollocationMeaning": "零售"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "détailler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "详述；零售"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "détaillé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "详细的"
+                }
+            ],
+            "pluralForm": "détails"
+        },
+        {
+            "index": "12",
+            "vocabulary": "opposer",
+            "partOfSpeech": "vt.",
+            "definition": "①使……相对，用……反对 ②对立，使对抗",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'opposer à qn./qch.",
+                    "vocabularyCollocationMeaning": "反对某人/某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "opposer A à B",
+                    "vocabularyCollocationMeaning": "将A与B对立"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'opposer à ce que + subj.",
+                    "vocabularyCollocationMeaning": "反对……（虚拟式从句）"
+                }
+            ],
+            "synonymAnalysis": "s'opposer à vs refuser：s'opposer à 强调立场上的对立；refuser 直接拒绝，语气更决断。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "opposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "反对；对立；对照"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "opposé",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "相反的，对立的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "sexe",
+            "partOfSpeech": "n.m.",
+            "definition": "①性，性别 ②性器官（解剖）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'égalité des sexes",
+                    "vocabularyCollocationMeaning": "性别平等"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le sexe fort/faible",
+                    "vocabularyCollocationMeaning": "强势性别（男性）/弱势性别（女性，旧说法）"
+                }
+            ],
+            "synonymAnalysis": "sexe vs genre：sexe 指生物性别；genre 在社会学语境中指社会性别（gender），在语法中指词的性（阴性/阳性）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sexuel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "性的，性别的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sexisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "性别歧视"
+                }
+            ],
+            "pluralForm": "sexes"
+        },
+        {
+            "index": "14",
+            "vocabulary": "écraser",
+            "partOfSpeech": "vt.",
+            "definition": "①压垮，压碎 ②碾过，轧过 ③（比喻）使不堪重负",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être écrasé par qch.",
+                    "vocabularyCollocationMeaning": "被……压垮"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "écraser une mouche",
+                    "vocabularyCollocationMeaning": "拍死一只苍蝇"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "écraser qn. de travail",
+                    "vocabularyCollocationMeaning": "用工作把某人压垮"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écrasement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "压碎，碾压"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "15",
+            "vocabulary": "catastrophe",
+            "partOfSpeech": "n.f.",
+            "definition": "①灾难，灾祸 ②（口语）大失败，糟糕的事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une catastrophe naturelle",
+                    "vocabularyCollocationMeaning": "自然灾害"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en catastrophe",
+                    "vocabularyCollocationMeaning": "仓皇地，匆忙地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est une catastrophe",
+                    "vocabularyCollocationMeaning": "（口语）这真是太糟糕了"
+                }
+            ],
+            "synonymAnalysis": "catastrophe vs désastre：两者均指灾难，catastrophe 语气更口语化，也常用于夸张；désastre 更正式，多指后果严重的失败或损失。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "catastrophique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "灾难性的，极糟糕的"
+                }
+            ],
+            "pluralForm": "catastrophes"
+        },
+        {
+            "index": "16",
+            "vocabulary": "favorable",
+            "partOfSpeech": "adj.",
+            "definition": "①有利的 ②赞成的，有好感的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être favorable à qch.",
+                    "vocabularyCollocationMeaning": "赞成某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conditions favorables",
+                    "vocabularyCollocationMeaning": "有利条件"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avis favorable",
+                    "vocabularyCollocationMeaning": "正面意见，赞成意见"
+                }
+            ],
+            "synonymAnalysis": "favorable vs propice：favorable 泛指有利、赞成；propice 更偏向“吉利的、适宜的”，语感上带有某种机遇或天时之意。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "favorablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "有利地，赞成地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "faveur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "好意；恩惠；赞成"
+                }
+            ],
+            "genderNumberVariation": "复数 favorables（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "17",
+            "vocabulary": "frein",
+            "partOfSpeech": "n.m.",
+            "definition": "①刹车，闸 ②（比喻）约束，限制，阻力",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre un frein à qch.",
+                    "vocabularyCollocationMeaning": "对某事加以限制"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sans frein",
+                    "vocabularyCollocationMeaning": "无拘无束，毫无节制"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "ronger son frein",
+                    "vocabularyCollocationMeaning": "（成语）强压怒火，按捺不住"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "freiner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "刹车；抑制，限制"
+                }
+            ],
+            "pluralForm": "freins"
+        },
+        {
+            "index": "18",
+            "vocabulary": "crainte",
+            "partOfSpeech": "n.f.",
+            "definition": "①害怕，担心 ②顾虑，忧虑",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par crainte de qch.",
+                    "vocabularyCollocationMeaning": "出于对……的担心"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de crainte que + subj.",
+                    "vocabularyCollocationMeaning": "唯恐……，为了不……（虚拟式）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans crainte",
+                    "vocabularyCollocationMeaning": "无所畏惧地"
+                }
+            ],
+            "synonymAnalysis": "crainte vs peur：crainte 语气较轻，带有理性层面的担忧顾虑；peur 是强烈的恐惧感，可以是直觉反应。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "craindre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "害怕，担心"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "craintif",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "胆怯的，畏缩的"
+                }
+            ],
+            "pluralForm": "craintes"
+        },
+        {
+            "index": "19",
+            "vocabulary": "désordre",
+            "partOfSpeech": "n.m.",
+            "definition": "①混乱，无秩序 ②（复数）骚乱，动乱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mettre en désordre",
+                    "vocabularyCollocationMeaning": "弄乱，使混乱"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des désordres sociaux",
+                    "vocabularyCollocationMeaning": "社会动乱"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en désordre",
+                    "vocabularyCollocationMeaning": "乱七八糟，杂乱"
+                }
+            ],
+            "synonymAnalysis": "désordre vs chaos：désordre 指一般的混乱无序；chaos 程度更强，指极度混乱、秩序全无的状态。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "désordonné",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "杂乱无章的"
+                }
+            ],
+            "pluralForm": "désordres"
+        },
+        {
+            "index": "20",
+            "vocabulary": "ouverture",
+            "partOfSpeech": "n.f.",
+            "definition": "①开放，开口 ②开幕，开业 ③开明，开放的态度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire preuve d'ouverture",
+                    "vocabularyCollocationMeaning": "展现开放的态度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ouverture d'esprit",
+                    "vocabularyCollocationMeaning": "思想开明，开放的心态"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "heure d'ouverture",
+                    "vocabularyCollocationMeaning": "开放时间，营业时间"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ouvrir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "打开，开放"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "ouvert",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "开着的；开明的"
+                }
+            ],
+            "pluralForm": "ouvertures"
+        },
+        {
+            "index": "21",
+            "vocabulary": "bourgeois",
+            "partOfSpeech": "adj.",
+            "definition": "①有产者的，资产阶级的 ②（贬义）守旧的，因循守旧的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "valeurs bourgeoises",
+                    "vocabularyCollocationMeaning": "资产阶级价值观"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "milieu bourgeois",
+                    "vocabularyCollocationMeaning": "资产阶级环境"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bourgeois",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "资产阶级成员，市民"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bourgeoisie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "资产阶级，中产阶级"
+                }
+            ],
+            "genderNumberVariation": "阴性 bourgeoise，阳性复数 bourgeois，阴性复数 bourgeoises",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "22",
+            "vocabulary": "préciser",
+            "partOfSpeech": "vt.",
+            "definition": "①明确，使清楚 ②说明，阐明",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préciser qch.",
+                    "vocabularyCollocationMeaning": "说明某事，明确某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "préciser que + ind.",
+                    "vocabularyCollocationMeaning": "说明……，指出……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se préciser",
+                    "vocabularyCollocationMeaning": "变得清晰，逐渐明朗"
+                }
+            ],
+            "synonymAnalysis": "préciser vs clarifier：préciser 侧重给出具体细节使内容更明确；clarifier 侧重消除歧义、使意思清晰易懂。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "précis",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "精确的，明确的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "précision",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "精确，精度；说明"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "considérable",
+            "partOfSpeech": "adj.",
+            "definition": "①大量的，大规模的 ②重要的，巨大的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une différence considérable",
+                    "vocabularyCollocationMeaning": "巨大的差异"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des progrès considérables",
+                    "vocabularyCollocationMeaning": "巨大的进步"
+                }
+            ],
+            "synonymAnalysis": "considérable vs important：两者均可表示“重要的/大量的”，considerable 更强调数量或程度上的巨大；important 则更常用，范围更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "considérablement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "大大地，相当地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "considérer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "认为；重视；考虑"
+                }
+            ],
+            "genderNumberVariation": "复数 considérables（阴阳性同形）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "24",
+            "vocabulary": "position",
+            "partOfSpeech": "n.f.",
+            "definition": "①立场，观点 ②位置，姿势 ③地位，处境",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre position",
+                    "vocabularyCollocationMeaning": "表明立场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "affirmer sa position",
+                    "vocabularyCollocationMeaning": "坚持自己的立场"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "position sociale",
+                    "vocabularyCollocationMeaning": "社会地位"
+                }
+            ],
+            "synonymAnalysis": "position vs attitude：position 更侧重所持的立场观点；attitude 更侧重表现出来的态度和行为方式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "positionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "定位，安置"
+                }
+            ],
+            "pluralForm": "positions"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Dans la société française, la femme a longtemps été considérée comme «gardienne du foyer», dépendant de l'homme. Aujourd'hui, environ la moitié des femmes actives travaillent à l'extérieur. Si, en rentrant, elles trouvent tout à faire à la maison, elles ont sans doute raison de vouloir «la libération». Pourtant, on est frappé du fait que beaucoup de garçons désirent encore que leur femme reste au foyer, tandis que plus de filles demandent à continuer à travailler après leur mariage.",
+            "chineseTranslation": "在法国社会中，女性长期以来被视为“家庭的守护者”，依附于男性而存在。如今，约有一半的法国职业女性在家庭以外工作。如果她们回到家里，发现所有家务仍旧等着她们来做，那她们渴望“解放”无疑是有道理的。然而，令人惊讶的是，许多男生仍然希望自己的妻子留守家中，而更多的女生则要求婚后继续工作。",
+            "fr2cnStrategy": "① «gardienne du foyer» 中的引号需保留，体现文中的批判或反思意味，可译为“家庭的守护者”；② dépendant de l'homme 为现在分词短语，翻译时转化为动词句“依附于男性而存在”，属于词性转换；③ Si, en rentrant...tout à faire 句较长，需拆分：条件从句独立处理，tout à faire 译为“所有家务仍旧等着她们来做”，体现增译逻辑；④ on est frappé du fait que 直译“人们对……这一事实感到震惊”，意译为“令人惊讶的是”，属于结构转换；⑤ tandis que 引导对比从句，译为“而……则……”，突出对比关系，符合汉语习惯。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "尽管许多女性在外工作，她们回家后仍然要承担大部分家务。",
+                "frenchTranslation": "Bien que beaucoup de femmes travaillent à l'extérieur, elles doivent encore assumer la majeure partie des tâches ménagères en rentrant chez elles.",
+                "cn2frStrategy": "① “尽管”用 bien que 引导让步状语从句，从句动词须用虚拟式 travaillent；② “在外工作”用固定表达 travailler à l'extérieur；③ “承担家务”用 assumer les tâches ménagères；④ “回家后”用副动词 en rentrant chez elles 表示伴随动作。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "社会调查显示，男女双方对家庭分工的看法存在巨大差异。",
+                "frenchTranslation": "Les enquêtes sociales montrent qu'il existe une différence considérable entre les hommes et les femmes concernant la répartition des tâches familiales.",
+                "cn2frStrategy": "① “社会调查”译为 les enquêtes sociales；② “显示”用 montrer que 引导宾语从句；③ “存在……差异”用非人称结构 il existe une différence；④ “巨大差异”用本课词汇 une différence considérable；⑤ “对……的看法”意译为 concernant...（关于……），避免翻译腔。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "她是一个积极参与社会活动的职业女性，同时也非常注重家庭生活。",
+                "frenchTranslation": "C'est une femme active qui participe activement à la vie sociale, tout en accordant beaucoup d'importance à la vie familiale.",
+                "cn2frStrategy": "① “职业女性”用 femme active，体现本课词汇；② “积极参与”用 participer activement à；③ “同时也”用副动词短语 tout en + 现在分词表示并发动作；④ “注重”用 accorder de l'importance à 这一固定搭配；⑤ 整句采用强调句 c'est...qui 突出主语。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在富裕阶层，人们虽然口头上赞成男女平等，但一旦涉及实际操作，就会感受到明显的阻力。",
+                "frenchTranslation": "Dans les milieux riches, on est favorable à l'idée d'égalité entre hommes et femmes en principe, mais on sent un frein très net dès qu'il s'agit de la mettre en pratique.",
+                "cn2frStrategy": "① “赞成男女平等”用 être favorable à l'idée d'égalité，直接引用课文表达；② “口头上”意译为 en principe（在原则上），比“口头上”更自然；③ “一旦涉及”用 dès que + il s'agit de，固定结构；④ “感受到阻力”用课文搭配 sentir un frein；⑤ “实际操作”用 mettre en pratique，避免直译“操作”为 opération。"
+            }
+        ]
+    }
+}

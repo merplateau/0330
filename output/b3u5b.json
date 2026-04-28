@@ -1,0 +1,921 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Un système d'éducation complète s'est établi pour que les enfants soient bien instruits.",
+            "translatedSentence": "一套完善的教育体系已经建立起来，以确保孩子们能够受到良好的教育。",
+            "sentenceStructure": "主句为 Un système d'éducation complète s'est établi，pour que 引导目的状语从句 les enfants soient bien instruits。",
+            "grammarAnalysis": "① s'est établi 为代词式动词 s'établir 的复合过去时，助动词用 être。② pour que 引导目的状语从句，从句动词必须用现在虚拟式 soient。③ bien instruits 中 instruit 为过去分词兼形容词，与主语 les enfants 保持性数一致（阳性复数）。",
+            "commonMistakes": "目的状语从句中 pour que 后必须用虚拟式，不可用直陈式。另外需区分 pour que + 虚拟式（主语不同）与 pour + 不定式（主语相同）的用法。"
+        },
+        {
+            "index": "2",
+            "sentence": "D'une manière générale, il faudrait réduire le temps de travail hebdomadaire (et donc plus de vacances!).",
+            "translatedSentence": "总体来说，应该缩短每周的工作时间（因此也意味着更多假期！）。",
+            "sentenceStructure": "主句为 il faudrait réduire le temps de travail hebdomadaire，il 为非人称主语，faudrait 为 falloir 的条件式现在时，réduire 为不定式作宾语。",
+            "grammarAnalysis": "① il faudrait 为 il faut 的条件式，表示“应该/有必要”，语气比 il faut 更委婉。② D'une manière générale 为固定副词短语，作方式状语，相当于 en général。③ et donc 表示推论关系，“因此”。",
+            "commonMistakes": "il faudrait 是条件式，表示一种建议或设想，而非确定的事实；初学者易误用 il faut（现在时）导致语气过于绝对。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il faut au contraire le réduire et augmenter les activités de détente comme les sports.",
+            "translatedSentence": "恰恰相反，应该缩减学习时间，并增加娱乐休闲活动，比如体育运动。",
+            "sentenceStructure": "主句由 il faut 引导，后接两个并列的不定式短语 le réduire 和 augmenter les activités de détente，由 et 连接。",
+            "grammarAnalysis": "① il faut + 不定式，表示客观必要性。② le 为直接宾语代词，指代前文提到的“工作时间”。③ au contraire 为副词短语，作状语，表转折，“相反地”。④ comme 引导比较/列举，“例如，比如”。",
+            "commonMistakes": "宾语代词 le 须置于所替代动词前，此处替代 le temps de travail，位置正确。注意 au contraire 与 par contre 均表“相反”，但 au contraire 常直接否定前文观点，par contre 则引出对比内容。"
+        },
+        {
+            "index": "4",
+            "sentence": "Elle a expliqué ensuite qu'elle s'était couchée à minuit-1h pour se réveiller à 5h-5h30 pendant les trois jours du bac blanc.",
+            "translatedSentence": "她随后解释说，在模拟会考的三天里，她每天要到午夜至凌晨一点才睡下，然后在早上五点到五点半便起床了。",
+            "sentenceStructure": "主句为 Elle a expliqué，后接 que 引导的宾语从句，从句主干为 elle s'était couchée，pour se réveiller 表紧密衔接的后续动作，pendant les trois jours du bac blanc 为时间状语。",
+            "grammarAnalysis": "① 宾语从句中动词用愈过去时 s'était couchée，表示在主句动作（expliqué，复合过去时）之前已发生的动作。② pour + 不定式此处表两个动作的紧密连接，“然后就……”，而非目的。③ s'était couchée 为代词式动词的愈过去时，助动词用 être，过去分词与主语保持性数一致（阴性，+e）。",
+            "commonMistakes": "愈过去时（plus-que-parfait）易被误用为复合过去时；此处必须用愈过去时，以体现“睡觉/起床”早于“解释”这一时间先后关系。pour 此处不表目的，而表紧接发生，是考研常见考点。"
+        },
+        {
+            "index": "5",
+            "sentence": "La fin d'un enseignement professionnel ne se conclut-il que par des exercices de présentation aux entretiens d'embauche?",
+            "translatedSentence": "职业教育的终点，难道只是为面试而做的一些演讲练习吗？",
+            "sentenceStructure": "这是一个倒装疑问句，主语为 La fin d'un enseignement professionnel，谓语为 ne se conclut-il，que 为限制性副词，par des exercices de présentation aux entretiens d'embauche 为方式状语。",
+            "grammarAnalysis": "① ne...que 为限制结构，意为“只……”，相当于 seulement。② se conclut-il 为简单疑问句倒装，主语与动词之间加连字符。③ se conclure par qch. 为固定搭配，意为“以……告终/结束”。",
+            "commonMistakes": "ne...que 不是否定结构，不可译为“不……”，而应译为“只……”。另外，倒装后连字符的使用（conclut-il）是书面疑问句的规范写法，需注意。"
+        },
+        {
+            "index": "6",
+            "sentence": "Il n'y a aucune honte à copier un système qui fonctionne bien et qui écarte un grand nombre de jeunes du chômage.",
+            "translatedSentence": "借鉴一个运转良好、能让大量年轻人摆脱失业困境的制度，没有什么可耻的。",
+            "sentenceStructure": "主句为非人称结构 Il n'y a aucune honte，à copier un système 为不定式短语作补语，其后由两个关系从句 qui fonctionne bien 和 qui écarte un grand nombre de jeunes du chômage 修饰先行词 un système。",
+            "grammarAnalysis": "① il n'y a aucune honte à faire qch. 为固定结构，“做某事没有什么可耻的”。② aucune 为否定形容词，修饰 honte，与 ne 呼应构成全称否定。③ écarter qn. de qch. 为固定搭配，意为“使某人远离……/排除于……之外”。",
+            "commonMistakes": "aucun/aucune 必须与 ne 搭配使用构成否定，单独使用 aucun 不能构成完整否定句。注意 écarter de（使远离）与 écarter（分开）含义有别。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "aller à l'école",
+            "meaning": "上学，去学校",
+            "usage": "固定表达，à l'école 表场所。注意法语中表机构/场所时通常不加冠词（à l'école、à l'hôpital、en classe）。",
+            "exampleSentence": "Les enfants vont à l'école dès l'âge de six ans."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "continuer ses études",
+            "meaning": "继续学业",
+            "usage": "études 通常用复数形式；continuer 后可直接接名词（无介词）。",
+            "exampleSentence": "ils continuent leurs études jusqu'à l'âge de 18 ans"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "avoir le droit de faire qch.",
+            "meaning": "有权利做某事",
+            "usage": "固定结构，de 后接动词不定式；注意与 avoir la permission de 区分，前者强调权利，后者强调许可。",
+            "exampleSentence": "ils ont le droit de choisir des cours"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "d'une manière générale",
+            "meaning": "总体来说，一般而言",
+            "usage": "固定副词短语，作方式/评述状语，常置于句首；可与 en général 互换，但前者更书面正式。",
+            "exampleSentence": "D'une manière générale, il faudrait réduire le temps de travail hebdomadaire."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "au contraire",
+            "meaning": "恰恰相反",
+            "usage": "副词短语，用于直接否定前文观点；注意与 par contre（引出对比信息，不直接否定）的区别。",
+            "exampleSentence": "Il faut au contraire le réduire et augmenter les activités de détente."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "en plus de qch.",
+            "meaning": "除……之外，还……",
+            "usage": "介词短语，后接名词或名词性短语，表叠加关系，相当于 en addition à。",
+            "exampleSentence": "en plus des six heures à huit heures de travail à l'école, il faut encore rajouter les heures de travail à la maison"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "selon les jours",
+            "meaning": "因天而异，视情况而定",
+            "usage": "selon 表“根据，按照”，后接名词。常用于表示依据条件有所差异。",
+            "exampleSentence": "d'une heure à cinq heures selon les jours mais aussi les personnes"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "prendre contact avec qn.",
+            "meaning": "与某人接触，联系某人",
+            "usage": "固定搭配，contact 前无冠词；注意区分 prendre contact avec（主动联系）和 être en contact avec（保持联系状态）。",
+            "exampleSentence": "je n'ai eu aucun contact avec le monde de l'entreprise"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "faire comme si + 条件式/虚拟式",
+            "meaning": "假装……，好像……一样",
+            "usage": "固定结构，comme si 后接未完成过去时或愈过去时（表示与现实相反的假设）；口语书面均可用。",
+            "exampleSentence": "On fait comme si l'entreprise était donnée."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "bénéficier de qch.",
+            "meaning": "享有，受益于",
+            "usage": "固定介词搭配 de，后接名词，不可误用 à。强调从某事物中获益。",
+            "exampleSentence": "de quelles aides de l'État peut-on bénéficier"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "s'inspirer de qch./qn.",
+            "meaning": "从……获得灵感，借鉴……",
+            "usage": "代词式动词，固定搭配 de；常用于描述创作或制度借鉴，语体中性。",
+            "exampleSentence": "pourquoi ne peut-on pas changer complètement le système scolaire en s'inspirant du système allemand"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "en contrepartie",
+            "meaning": "作为补偿，相应地",
+            "usage": "固定副词短语，表示一种交换或补偿关系；用于说明得到某种好处的同时需付出代价。",
+            "exampleSentence": "moins de grandes vacances en contrepartie"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "écarter qn. de qch.",
+            "meaning": "使某人远离……，将某人排除于……之外",
+            "usage": "及物动词 écarter 后接直接宾语，再接 de + 名词表“从何处排除”。",
+            "exampleSentence": "un système qui écarte un grand nombre de jeunes du chômage"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "il n'y a aucune honte à faire qch.",
+            "meaning": "做某事没有什么可耻的",
+            "usage": "固定句型，honte 后接 à + 不定式；aucune 与 ne 呼应构成全称否定。",
+            "exampleSentence": "Il n'y a aucune honte à copier un système qui fonctionne bien."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "extrait",
+            "partOfSpeech": "n.m.",
+            "definition": "①摘录，摘要 ②节选，选段",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "extrait de texte",
+                    "vocabularyCollocationMeaning": "文本摘录"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quelques extraits de",
+                    "vocabularyCollocationMeaning": "……的若干节选"
+                }
+            ],
+            "synonymAnalysis": "extrait 指从原文中摘取的片段；résumé 指对原文内容的概括总结；abrégé 指删简版本，篇幅更大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "extraire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "提取，摘录"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "extraction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "提取，摘录"
+                }
+            ],
+            "pluralForm": "extraits"
+        },
+        {
+            "index": "2",
+            "vocabulary": "hebdomadaire",
+            "partOfSpeech": "adj.",
+            "definition": "①一周的，每周的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "temps de travail hebdomadaire",
+                    "vocabularyCollocationMeaning": "每周工作时间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réunion hebdomadaire",
+                    "vocabularyCollocationMeaning": "每周例会"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "hebdomadairement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "每周地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 hebdomadaires",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "détente",
+            "partOfSpeech": "n.f.",
+            "definition": "①放松，休息 ②缓和（政治关系）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "activités de détente",
+                    "vocabularyCollocationMeaning": "休闲活动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "moments de détente",
+                    "vocabularyCollocationMeaning": "休息时光"
+                }
+            ],
+            "synonymAnalysis": "détente 强调放松紧绷状态；repos 更强调休息、停止劳作；loisir(s) 侧重空闲时间及休闲活动。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "se détendre",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "放松，休息"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "détendu",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "放松的，轻松的"
+                }
+            ],
+            "pluralForm": "détentes"
+        },
+        {
+            "index": "4",
+            "vocabulary": "contact",
+            "partOfSpeech": "n.m.",
+            "definition": "①接触，往来 ②联系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre contact avec qn.",
+                    "vocabularyCollocationMeaning": "与某人取得联系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être en contact avec qn.",
+                    "vocabularyCollocationMeaning": "与某人保持联系"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "n'avoir aucun contact avec",
+                    "vocabularyCollocationMeaning": "与……毫无接触"
+                }
+            ],
+            "synonymAnalysis": "contact 偏重人与人或人与事物之间的实际接触/联系；relation 更强调较长期的关系。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "contacter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "联系，接触"
+                }
+            ],
+            "pluralForm": "contacts"
+        },
+        {
+            "index": "5",
+            "vocabulary": "salarié",
+            "partOfSpeech": "n.m.",
+            "definition": "①工薪人员，雇佣劳动者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un salarié en puissance",
+                    "vocabularyCollocationMeaning": "潜在的受薪雇员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les droits des salariés",
+                    "vocabularyCollocationMeaning": "雇员的权利"
+                }
+            ],
+            "synonymAnalysis": "salarié 指领取薪资的雇员；employé 泛指受雇人员，偏白领；ouvrier 指体力劳动工人。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "salaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "工资，薪酬"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "salarial",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "工资的，薪酬的"
+                }
+            ],
+            "pluralForm": "salariés"
+        },
+        {
+            "index": "6",
+            "vocabulary": "conclure",
+            "partOfSpeech": "vt.",
+            "definition": "①作出结论，断定 ②缔结（协议、合同）③结束，终结",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "conclure un accord",
+                    "vocabularyCollocationMeaning": "达成协议"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se conclure par qch.",
+                    "vocabularyCollocationMeaning": "以……告终"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "conclure que + 直陈式",
+                    "vocabularyCollocationMeaning": "得出……的结论"
+                }
+            ],
+            "synonymAnalysis": "conclure 强调推断出结论或正式终结；terminer/finir 泛指结束动作；déduire 强调逻辑推理过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "conclusion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "结论，结尾"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concluant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有说服力的，决定性的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je conclus, tu conclus, il conclut, nous concluons, vous concluez, ils concluent",
+                "compoundPast": "j'ai conclu",
+                "simpleFuture": "je conclurai",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "词干 conclu- 贯穿各时态；注意第三人称单数现在时 conclut 无 -t 之外的特殊变化，与 inclure 类动词类似。"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "embauche",
+            "partOfSpeech": "n.f.",
+            "definition": "①招募，录用",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entretien d'embauche",
+                    "vocabularyCollocationMeaning": "招聘面试"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "offre d'embauche",
+                    "vocabularyCollocationMeaning": "录用通知"
+                }
+            ],
+            "synonymAnalysis": "embauche 侧重雇用行为；recrutement 更正式，常指整个招聘流程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "embaucher",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "雇用，录用"
+                }
+            ],
+            "pluralForm": "embauches"
+        },
+        {
+            "index": "8",
+            "vocabulary": "financement",
+            "partOfSpeech": "n.m.",
+            "definition": "①融资，筹措资金 ②资金来源",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "trouver un financement",
+                    "vocabularyCollocationMeaning": "寻找融资/资金"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "financement public",
+                    "vocabularyCollocationMeaning": "公共资金/政府资助"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "financer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "为……提供资金，资助"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "financier",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "财政的，金融的"
+                }
+            ],
+            "pluralForm": "financements"
+        },
+        {
+            "index": "9",
+            "vocabulary": "stage",
+            "partOfSpeech": "n.m.",
+            "definition": "①实习 ②培训课程",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire un stage",
+                    "vocabularyCollocationMeaning": "参加实习/培训"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "stage en entreprise",
+                    "vocabularyCollocationMeaning": "企业实习"
+                }
+            ],
+            "synonymAnalysis": "stage 偏重在机构或企业中的实习/培训；formation 泛指各种职业培训；apprentissage 特指学徒制培训。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "stagiaire",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "实习生，学员"
+                }
+            ],
+            "pluralForm": "stages"
+        },
+        {
+            "index": "10",
+            "vocabulary": "expérience",
+            "partOfSpeech": "n.f.",
+            "definition": "①经验，经历 ②实验，试验",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir de l'expérience",
+                    "vocabularyCollocationMeaning": "有经验"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire une expérience",
+                    "vocabularyCollocationMeaning": "做一个实验"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "expériences sur le fonctionnement",
+                    "vocabularyCollocationMeaning": "关于运作方式的经验"
+                }
+            ],
+            "synonymAnalysis": "expérience 兼指“经验”和“实验”两义；savoir-faire 专指实践技能；expérimentation 专指实验过程。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "expérimenté",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有经验的，熟练的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "expérimenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "试验，尝试"
+                }
+            ],
+            "pluralForm": "expériences"
+        },
+        {
+            "index": "11",
+            "vocabulary": "fonctionnement",
+            "partOfSpeech": "n.m.",
+            "definition": "①运转，运行 ②进行，运作方式",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le fonctionnement d'une entreprise",
+                    "vocabularyCollocationMeaning": "企业的运作方式"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bon fonctionnement",
+                    "vocabularyCollocationMeaning": "正常运转"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fonctionner",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "运转，运作"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fonction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "职能，功能"
+                }
+            ],
+            "pluralForm": "fonctionnements"
+        },
+        {
+            "index": "12",
+            "vocabulary": "mathématiques",
+            "partOfSpeech": "n.f.pl.",
+            "definition": "①数学",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cours de mathématiques",
+                    "vocabularyCollocationMeaning": "数学课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "baccalauréat scientifique",
+                    "vocabularyCollocationMeaning": "理科会考"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mathématique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "数学的，精确的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "mathématicien",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "数学家"
+                }
+            ],
+            "pluralForm": "mathématiques（通常作复数使用）"
+        },
+        {
+            "index": "13",
+            "vocabulary": "attirer",
+            "partOfSpeech": "vt.",
+            "definition": "①吸引；引起 ②招致（注意、麻烦等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être attiré par qch.",
+                    "vocabularyCollocationMeaning": "被……所吸引"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "attirer l'attention",
+                    "vocabularyCollocationMeaning": "引起注意"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "attirer des ennuis",
+                    "vocabularyCollocationMeaning": "招来麻烦"
+                }
+            ],
+            "synonymAnalysis": "attirer 强调主动吸引；fasciner 强调强烈的迷恋；séduire 带有诱惑、魅力的含义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "attrait",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "吸引力，魅力"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "attirant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "吸引人的，有魅力的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "vivant",
+            "partOfSpeech": "adj.m.",
+            "definition": "①活的，有生命的 ②充满活力的，生动的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "langues vivantes",
+                    "vocabularyCollocationMeaning": "活语言（现代外语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être encore vivant",
+                    "vocabularyCollocationMeaning": "仍然在世"
+                }
+            ],
+            "synonymAnalysis": "vivant 指有生命活着的；vif 更偏向“充满活力、敏锐”；animé 偏向“热闹的、生动的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vivre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "生活，活着"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生命，生活"
+                }
+            ],
+            "genderNumberVariation": "阴性 vivante，阳性复数 vivants，阴性复数 vivantes",
+            "position": "通常置于名词后；langues vivantes 为固定表达，前置时含义变化不大。"
+        },
+        {
+            "index": "15",
+            "vocabulary": "philosophie",
+            "partOfSpeech": "n.f.",
+            "definition": "①哲学 ②哲学课",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cours de philosophie",
+                    "vocabularyCollocationMeaning": "哲学课"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "philosophie de vie",
+                    "vocabularyCollocationMeaning": "人生哲学"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "philosophe",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "哲学家"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "philosophique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "哲学的"
+                }
+            ],
+            "pluralForm": "philosophies"
+        },
+        {
+            "index": "16",
+            "vocabulary": "ailleurs",
+            "partOfSpeech": "adv.",
+            "definition": "①在其他地方，到别处",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par ailleurs",
+                    "vocabularyCollocationMeaning": "再说，另一方面，此外"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "d'ailleurs",
+                    "vocabularyCollocationMeaning": "况且，再说"
+                }
+            ],
+            "synonymAnalysis": "ailleurs 单独使用指地点“别处”；par ailleurs 作连接副词，用于补充新的论点；d'ailleurs 侧重强调补充或佐证，语气更强。",
+            "derivedWords": [],
+            "useExplanation": "用于表示地点时置于动词后；作连接副词 par ailleurs 常置于句首，引出补充信息，是正式书面语常用连接词。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "complètement",
+            "partOfSpeech": "adv.",
+            "definition": "①完全地，全面地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "changer complètement",
+                    "vocabularyCollocationMeaning": "彻底改变"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "complètement différent",
+                    "vocabularyCollocationMeaning": "完全不同"
+                }
+            ],
+            "synonymAnalysis": "complètement 与 entièrement、totalement 均表“完全”；complètement 更口语；totalement 更书面正式；entièrement 强调整体性。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "complet",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "完整的，完全的"
+                }
+            ],
+            "useExplanation": "通常置于所修饰的形容词或动词之后；修饰动词时位于助动词后、过去分词前或单一动词后。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "inspirer",
+            "partOfSpeech": "vt.",
+            "definition": "①吸（气） ②激励，启发，给予灵感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inspirer qn.",
+                    "vocabularyCollocationMeaning": "激励某人，给某人灵感"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'inspirer de qch.",
+                    "vocabularyCollocationMeaning": "借鉴……，从……获得灵感"
+                }
+            ],
+            "synonymAnalysis": "inspirer 兼指“吸气”和“启发”；motiver 侧重“激励某人行动”；encourager 偏向给予鼓励和支持。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inspiration",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "灵感；吸气"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "inspiré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有灵感的，受启发的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "contrepartie",
+            "partOfSpeech": "n.f.",
+            "definition": "①相反意见 ②交换物，补偿物",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en contrepartie",
+                    "vocabularyCollocationMeaning": "作为补偿，相应地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en contrepartie de qch.",
+                    "vocabularyCollocationMeaning": "以……作为交换/补偿"
+                }
+            ],
+            "synonymAnalysis": "contrepartie 强调以某物换取另一物的对等关系；compensation 更强调弥补损失；échange 泛指交换行为。",
+            "derivedWords": [],
+            "pluralForm": "contreparties"
+        },
+        {
+            "index": "20",
+            "vocabulary": "honte",
+            "partOfSpeech": "n.f.",
+            "definition": "①羞愧，惭愧 ②可耻的事",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir honte de qch.",
+                    "vocabularyCollocationMeaning": "为某事感到羞愧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "il n'y a aucune honte à faire qch.",
+                    "vocabularyCollocationMeaning": "做某事没什么可耻的"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire honte à qn.",
+                    "vocabularyCollocationMeaning": "让某人感到丢脸"
+                }
+            ],
+            "synonymAnalysis": "honte 指羞耻感；vergogne（古）语气更强，现多用于否定 sans vergogne（厚颜无耻地）；pudeur 侧重害羞、羞涩。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "honteux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可耻的，羞愧的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "honteusement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "可耻地"
+                }
+            ],
+            "pluralForm": "hontes（较少用复数）"
+        },
+        {
+            "index": "21",
+            "vocabulary": "copier",
+            "partOfSpeech": "vt.",
+            "definition": "①效仿，仿照 ②誊抄，抄写 ③（考试）作弊抄袭",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "copier un système",
+                    "vocabularyCollocationMeaning": "效仿一种制度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "copier sur qn.",
+                    "vocabularyCollocationMeaning": "抄某人的（作弊）"
+                }
+            ],
+            "synonymAnalysis": "copier 兼指抄写和效仿；imiter 侧重模仿行为；plagier 专指剽窃他人作品，含贬义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "copie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "副本，抄本；试卷"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "copieur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "复印机；爱抄袭的人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "écarter",
+            "partOfSpeech": "vt.",
+            "definition": "①分开，移开 ②排除，使远离",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écarter qn. de qch.",
+                    "vocabularyCollocationMeaning": "使某人远离……，将某人排除于……之外"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "écarter une hypothèse",
+                    "vocabularyCollocationMeaning": "排除一种假设"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'écarter de qch.",
+                    "vocabularyCollocationMeaning": "偏离……，背离……"
+                }
+            ],
+            "synonymAnalysis": "écarter 兼指物理上的分开和抽象意义上的排除；exclure 更正式，专指排除在外；éloigner 强调使远离。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "écart",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "差距，偏差；距离"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "D'une manière générale, il faudrait réduire le temps de travail hebdomadaire. Au lycée, en plus des six à huit heures de travail à l'école, les élèves doivent encore rajouter les heures de travail à la maison selon les jours. C'est un cas qui malheureusement n'est pas isolé. Par ailleurs, pourquoi ne peut-on pas changer le système scolaire en s'inspirant du système allemand, qui écarte un grand nombre de jeunes du chômage?",
+            "chineseTranslation": "总体来说，应该适当缩减每周的学习负担。在高中阶段，除了每天在校的六到八小时课业之外，学生们还要根据不同情况额外花费数小时在家完成作业。遗憾的是，这并非个别现象。此外，我们为何不能借鉴德国模式对本国教育体系进行改革？那套制度已让大量年轻人摆脱了失业困境。",
+            "fr2cnStrategy": "① il faudrait 为条件式，表委婉建议，译为“应该适当”，增译“适当”以体现语气；② en plus de 译为“除……之外，还要”，采用递进句式，符合汉语习惯；③ selon les jours 译为“根据不同情况”，属于语义增译，使表达更自然；④ n'est pas isolé 字面为“不是孤立的”，意译为“并非个别现象”，属于词性转换与意译；⑤ en s'inspirant du système allemand 为现在分词短语表伴随方式，拆为独立分句“借鉴德国模式”，属于拆句处理；⑥ qui écarte un grand nombre de jeunes du chômage 关系从句拆分为独立句，并增译“那套制度”作主语，属于增译与拆句。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "总体来说，法国学生每周的学习时间太长，应该增加更多休闲活动。",
+                "frenchTranslation": "D'une manière générale, les élèves français travaillent trop d'heures par semaine et il faudrait augmenter les activités de détente.",
+                "cn2frStrategy": "① “总体来说”固定译为 d'une manière générale，置于句首；② “学习时间太长”转化为动词结构 travaillent trop d'heures，属词性转换；③ “应该”用 il faudrait 体现委婉语气，而非 il faut；④ “休闲活动”用课文词汇 activités de détente。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "职业教育不应该仅仅以帮助学生通过面试为目标。",
+                "frenchTranslation": "L'enseignement professionnel ne devrait pas se fixer pour seul objectif d'aider les élèves à réussir les entretiens d'embauche.",
+                "cn2frStrategy": "① “不应该”用 ne devrait pas（条件式），表委婉否定建议；② “仅仅以……为目标”处理为 se fixer pour seul objectif de，其中 seul 前置修饰名词表强调；③ “通过面试”译为 réussir les entretiens d'embauche，使用课文词汇 embauche。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "借鉴一个运转良好的外国制度，没有任何可耻之处。",
+                "frenchTranslation": "Il n'y a aucune honte à s'inspirer d'un système étranger qui fonctionne bien.",
+                "cn2frStrategy": "① 使用课文固定句型 il n'y a aucune honte à faire qch.，aucune 与 ne 呼应构成全称否定；② “借鉴”用课文词汇 s'inspirer de；③ “运转良好”用 fonctionner bien，来自课文词汇 fonctionnement。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "作为补偿，德国学生的暑假时间比法国学生短，但青年失业率极低。",
+                "frenchTranslation": "En contrepartie, les élèves allemands ont moins de grandes vacances que les Français, mais le taux de chômage des jeunes y est extrêmement bas.",
+                "cn2frStrategy": "① “作为补偿”直接使用课文固定表达 en contrepartie，置于句首；② “暑假时间比……短”用比较结构 moins de ... que；③ “青年失业率极低”中，“青年失业率”译为 le taux de chômage des jeunes，使用课文词汇 chômage；y 为地点代词，指代德国，避免重复。"
+            }
+        ]
+    }
+}
