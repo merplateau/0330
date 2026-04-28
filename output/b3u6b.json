@@ -1,0 +1,909 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Jeanne d'Arc (1412-1431) est une héroïne nationale et une figure représentante de la France.",
+            "translatedSentence": "圣女贞德（1412—1431年）是法国的民族英雄与代表性人物。",
+            "sentenceStructure": "简单句。主语 Jeanne d'Arc，系动词 est，表语为两个并列名词短语 une héroïne nationale 和 une figure représentante de la France。",
+            "grammarAnalysis": "① 系表结构，être + 名词作表语时名词前需带冠词。② représentante 为现在分词作定语，修饰 figure。③ de la France 为介词短语作后置定语。",
+            "commonMistakes": "représentante 易与形容词 représentatif/représentative 混淆：前者为名词/分词，后者为形容词，表“有代表性的”。"
+        },
+        {
+            "index": "2",
+            "sentence": "Au début du 15e siècle, elle a uni la nation française à un moment critique de son histoire et fait tourner la Guerre de Cent Ans à l'avantage de la France, après avoir mené victorieusement les troupes françaises contre les armées anglaises, levé le siège d'Orléans, conduit le dauphin Charles au sacre à Reims.",
+            "translatedSentence": "在15世纪初，在胜利地率领法国军队抗击英军、解除奥尔良之围、引领王储查理在兰斯加冕之后，她在本国历史最关键的时刻团结了法兰西民族，并使百年战争的局势向有利于法国的方向转变。",
+            "sentenceStructure": "主句为 elle a uni...et fait tourner...，前置状语为 Au début du 15e siècle 和时间从句 à un moment critique de son histoire；后置时间状语为由 après avoir + 过去分词构成的三个并列动作：mené...、levé...、conduit...。",
+            "grammarAnalysis": "① après avoir + 过去分词构成过去不定式结构，表示主句动作之前已完成的动作。② faire tourner 为使役结构 faire + 不定式，意为“使……转变”。③ à l'avantage de 是固定介词短语，意为“对……有利”。④ 三个过去分词 mené / levé / conduit 并列，共享 après avoir。",
+            "commonMistakes": "① après avoir + 过去分词的主语必须与主句主语一致，此处均为 elle，不会产生歧义，但学生易忘记这一限制。② faire tourner 不可拆开，不能说 *faire la guerre tourner。③ levé le siège 中 siège 意为“包围、围攻”，不可译为“座位”。"
+        },
+        {
+            "index": "3",
+            "sentence": "Le roi d'Angleterre Edouard III voulait le trône de France suite au traité de Troyes, mais les nobles français s'y opposaient et voulaient que la couronne revienne au dauphin Charles.",
+            "translatedSentence": "英国国王爱德华三世依据《特鲁瓦条约》觊觎法国王位，但法国贵族对此强烈反对，希望王位重归王储查理。",
+            "sentenceStructure": "并列复合句。前半句主干为 Edouard III voulait le trône，状语 suite au traité de Troyes；后半句由 mais 连接，包含两个谓语：s'y opposaient 和 voulaient que...，后者引导宾语从句。",
+            "grammarAnalysis": "① suite à 是介词短语，意为“继……之后/根据/依据”。② s'y opposer 中 y 代替前文 le trône de France（à + 事物），s'opposer à qch. 为固定搭配。③ vouloir que + 虚拟式：revienne 为 revenir 的现在虚拟式第三人称单数，vouloir que 后必须用虚拟式。",
+            "commonMistakes": "① suite à 与 à cause de 易混淆：suite à 侧重时间或逻辑上的“承接”关系，不一定含有负面原因。② vouloir que 后必须用虚拟式，许多学生误用直陈式。③ s'y opposer 中 y 的指代对象需结合上下文判断。"
+        },
+        {
+            "index": "4",
+            "sentence": "Jeanne d'Arc, fille issue d'une famille assez aisée de Jacques d'Arc et d'Isabelle Romée, est une paysanne du village de Domrémy situé en Lorraine.",
+            "translatedSentence": "贞德出身于雅克·达尔克与伊莎贝尔·罗梅家庭，家境尚算殷实，是洛林地区栋雷米村的一位农家女。",
+            "sentenceStructure": "简单句，主语为 Jeanne d'Arc，系动词 est，表语为 une paysanne du village de Domrémy situé en Lorraine；中间插入同位语 fille issue d'une famille assez aisée de Jacques d'Arc et d'Isabelle Romée。",
+            "grammarAnalysis": "① fille issue de... 中 issue 为形容词，意为“出身于”，常与 de 搭配。② assez aisée 中 assez 修饰形容词，表程度“相当、颇为”。③ situé en Lorraine 为过去分词短语作后置定语，修饰 village。",
+            "commonMistakes": "① issue 作形容词时须与主语性数一致：fille issue（阴性单数）；② assez 修饰形容词时不加 de，而 assez de 后接名词，注意区分；③ situé / située 须与所修饰名词的性数一致。"
+        },
+        {
+            "index": "5",
+            "sentence": "Elle a été accusée par un certain tribunal religieux à Rouen, présidé par l'évêque de Beauvais Pierre Cauchon, allié des Anglais, qui prétendait que les “voix” qui l'inspiraient venaient du diable et non de Dieu.",
+            "translatedSentence": "她被鲁昂的一个宗教法庭以莫须有的罪名起诉，该法庭由英国人的同盟、博韦主教皮埃尔·科雄主持，他声称激励她的那些“天声”来自魔鬼而非上帝。",
+            "sentenceStructure": "主句为 Elle a été accusée par un certain tribunal religieux，后接两个后置定语：présidé par...（过去分词短语修饰 tribunal）和 allié des Anglais（名词作同位语）；最后由关系从句 qui prétendait que... 修饰 Pierre Cauchon，其中 que 引导宾语从句，内含两个关系从句 qui l'inspiraient 修饰 les “voix”。",
+            "grammarAnalysis": "① 被动语态 a été accusée，助动词 être + 过去分词，施动者由 par 引出。② prétendre que + 直陈式：prétendre 意为“声称”，后接直陈式从句。③ non de Dieu 为否定结构，省略动词，与 venaient du diable 对举，属于省略对比结构。④ un certain tribunal 中 certain 前置，意为“某个（不确定的）”；后置时意为“确定的”。",
+            "commonMistakes": "① certain 前置与后置含义不同：un certain homme 意为“某个人”，un homme certain 意为“有把握的人”。② prétendre que 后接直陈式，而非虚拟式；如改为 douter que，则需虚拟式，两者易混淆。③ non de Dieu 的省略结构中不可加 pas，*non pas de Dieu 语法上可用但语体不同。"
+        },
+        {
+            "index": "6",
+            "sentence": "Le 30 mai 1431, après un jugement injuste, condamnée à mort, elle a été brûlée vive par les Anglais sur la place du marché à Rouen, seulement à l'âge de dix-neuf ans.",
+            "translatedSentence": "1431年5月30日，在一场不公正的审判之后，她被判处死刑，在鲁昂集市广场上被英国人活活烧死，年仅十九岁。",
+            "sentenceStructure": "简单句，多重状语前置：时间状语 Le 30 mai 1431，介词短语 après un jugement injuste，分词短语 condamnée à mort；主干为 elle a été brûlée vive par les Anglais；地点状语 sur la place du marché à Rouen；补充状语 seulement à l'âge de dix-neuf ans。",
+            "grammarAnalysis": "① 被动语态 a été brûlée，施动者由 par 引出。② brûlée vive：vive 为形容词，与主语 elle 性数一致，作伴随状语，意为“活着地”，表示状态。③ condamnée à mort 为过去分词短语作状语，表示伴随情况，主语同为 elle。④ à l'âge de + 数字，固定表达“在……岁时”。",
+            "commonMistakes": "① brûler vif/vive 中 vif/vive 须与主语性数一致，不可用副词 vivement。② condamnée 须与主语 elle 的阴性一致，学生易漏写阴性形式。③ à l'âge de 后接基数词，不可用序数词。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "faire tourner qch. à l'avantage de qn.",
+            "meaning": "使……的形势向有利于某人的方向转变",
+            "usage": "faire + 不定式构成使役结构；à l'avantage de 为固定介词短语，后接人或组织。",
+            "exampleSentence": "elle a fait tourner la Guerre de Cent Ans à l'avantage de la France"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "mener qn./qch. contre qn.",
+            "meaning": "率领……对抗……",
+            "usage": "mener 为及物动词，直接接宾语；contre 后接对立方。常见于军事、战争语境。",
+            "exampleSentence": "après avoir mené victorieusement les troupes françaises contre les armées anglaises"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "lever le siège (de + lieu)",
+            "meaning": "解除对……的包围，解围",
+            "usage": "固定搭配，lever 此处意为“解除”，siège 意为“围攻、包围”，与“座位”义不同。",
+            "exampleSentence": "levé le siège d'Orléans"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "conduire qn. à + lieu/événement",
+            "meaning": "带领某人前往……；引领某人参与……",
+            "usage": "conduire 及物动词，后接人作直接宾语，à 后接地点或事件名词。",
+            "exampleSentence": "conduit le dauphin Charles au sacre à Reims"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "suite à + n.",
+            "meaning": "依据……；继……之后",
+            "usage": "介词短语，书面语体，表示时间或逻辑上的承接关系，不同于 à cause de（表原因）。",
+            "exampleSentence": "voulait le trône de France suite au traité de Troyes"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "s'opposer à qch./qn.",
+            "meaning": "反对……；与……对立",
+            "usage": "代词式动词，固定搭配 à；代词 y 可代替 à + 事物。",
+            "exampleSentence": "les nobles français s'y opposaient"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "vouloir que + subj.",
+            "meaning": "希望……（某事发生）",
+            "usage": "vouloir que 后必须接虚拟式，为考研高频考点，表示主观意愿。",
+            "exampleSentence": "voulaient que la couronne revienne au dauphin Charles"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "se rendre à + lieu",
+            "meaning": "前往……，赶赴……",
+            "usage": "代词式动词，表示主动前往某处，比 aller 更正式。固定搭配 à + 地点。",
+            "exampleSentence": "Jeanne d'Arc s'est rendue à Chinon"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "imposer le respect à qn.",
+            "meaning": "赢得某人的尊重；迫使某人尊重",
+            "usage": "imposer + 名词 + à qn.，意为“强加给某人”或“赢得某人的……”，视语境而定。",
+            "exampleSentence": "Jeanne a imposé le respect de ses compagnons"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "condamner qn. à mort",
+            "meaning": "判处某人死刑",
+            "usage": "固定搭配，condamner à + 刑罚名词，à mort 为固定表达，不可加冠词。",
+            "exampleSentence": "condamnée à mort, elle a été brûlée vive"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "être issu(e) de + famille/milieu",
+            "meaning": "出身于……，来自……",
+            "usage": "être issu de 为固定表达，issu 须与主语性数一致。常用于描述出身背景。",
+            "exampleSentence": "fille issue d'une famille assez aisée de Jacques d'Arc"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "présider + tribunal/réunion",
+            "meaning": "主持（法庭/会议）；担任……的主席",
+            "usage": "présider 可直接及物（présider une réunion）或与 à 搭配（présider à qch.），两者均合法但含义略有侧重。",
+            "exampleSentence": "présidé par l'évêque de Beauvais Pierre Cauchon"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "à l'âge de + nombre",
+            "meaning": "在……岁时",
+            "usage": "固定表达，介词 à，冠词 l'，后接基数词，不接序数词。",
+            "exampleSentence": "seulement à l'âge de dix-neuf ans"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "saint",
+            "partOfSpeech": "adj.",
+            "definition": "①圣洁的，神圣的 ②（用于人名前）圣……",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la Sainte Bible",
+                    "vocabularyCollocationMeaning": "圣经"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Saint-Nicolas",
+                    "vocabularyCollocationMeaning": "圣尼古拉"
+                }
+            ],
+            "synonymAnalysis": "saint vs sacré：saint 强调人或物的神圣属性，常用于宗教人物和场所；sacré 强调被奉献、供奉给神的状态，也可用于世俗语境表“神圣不可侵犯的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sainteté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "神圣；圣洁"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sanctifier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使神圣化，祝圣"
+                }
+            ],
+            "genderNumberVariation": "阴性 sainte，复数 saints / saintes；用于专有名词前时缩写为 St（阳）/ Ste（阴）",
+            "position": "通常前置于名词；用于地名或人名时必须前置"
+        },
+        {
+            "index": "2",
+            "vocabulary": "victorieusement",
+            "partOfSpeech": "adv.",
+            "definition": "胜利地，凯旋地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "mener victorieusement une bataille",
+                    "vocabularyCollocationMeaning": "胜利地指挥一场战役"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "résister victorieusement",
+                    "vocabularyCollocationMeaning": "成功抵御"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "victorieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "胜利的，凯旋的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "victoire",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "胜利"
+                }
+            ],
+            "useExplanation": "由形容词 victorieux 加后缀 -ment 构成，修饰动词，置于动词之后。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "dauphin",
+            "partOfSpeech": "n.m.",
+            "definition": "①王储，王太子 ②海豚",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le dauphin de France",
+                    "vocabularyCollocationMeaning": "法国王储"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conduire le dauphin au sacre",
+                    "vocabularyCollocationMeaning": "引领王储加冕"
+                }
+            ],
+            "synonymAnalysis": "dauphin（王储）与 prince héritier（王位继承人）：dauphin 为历史上法国王储的专有称谓；prince héritier 为通用表达，适用于各国。",
+            "derivedWords": [],
+            "pluralForm": "dauphins"
+        },
+        {
+            "index": "4",
+            "vocabulary": "sacre",
+            "partOfSpeech": "n.m.",
+            "definition": "加冕礼，涂圣油礼",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le sacre du roi",
+                    "vocabularyCollocationMeaning": "国王的加冕礼"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conduire qn. au sacre",
+                    "vocabularyCollocationMeaning": "引领某人参加加冕礼"
+                }
+            ],
+            "synonymAnalysis": "sacre vs couronnement：sacre 特指涂圣油的宗教仪式，具有神圣性；couronnement 泛指戴王冠的加冕仪式，侧重世俗层面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sacrer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "为……涂圣油，加冕"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sacré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "神圣的；被祝圣的"
+                }
+            ],
+            "pluralForm": "sacres"
+        },
+        {
+            "index": "5",
+            "vocabulary": "royaume",
+            "partOfSpeech": "n.m.",
+            "definition": "王国",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le royaume de France",
+                    "vocabularyCollocationMeaning": "法兰西王国"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sous la domination du royaume",
+                    "vocabularyCollocationMeaning": "在王国的统治之下"
+                }
+            ],
+            "synonymAnalysis": "royaume vs empire：royaume 指由国王统治的王国；empire 指由皇帝统治的帝国，规模通常更大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "roi",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "国王"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "royal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "王室的，国王的"
+                }
+            ],
+            "pluralForm": "royaumes"
+        },
+        {
+            "index": "6",
+            "vocabulary": "Bourguignon",
+            "partOfSpeech": "n.",
+            "definition": "勃艮第人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les Bourguignons et les Anglais",
+                    "vocabularyCollocationMeaning": "勃艮第人与英国人"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "Bourgogne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "勃艮第（法国大区）"
+                }
+            ],
+            "pluralForm": "Bourguignons"
+        },
+        {
+            "index": "7",
+            "vocabulary": "domination",
+            "partOfSpeech": "n.f.",
+            "definition": "①统治，控制 ②支配，主宰",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sous la domination de qn.",
+                    "vocabularyCollocationMeaning": "在某人的统治之下"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "domination anglaise",
+                    "vocabularyCollocationMeaning": "英国统治"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exercer une domination sur",
+                    "vocabularyCollocationMeaning": "对……施加控制"
+                }
+            ],
+            "synonymAnalysis": "domination vs contrôle：domination 含有强权压制的意味，多用于政治语境；contrôle 更中性，泛指管控、检查。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dominer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "统治；支配；俯视"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dominant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "占主导的，支配性的"
+                }
+            ],
+            "pluralForm": "dominations"
+        },
+        {
+            "index": "8",
+            "vocabulary": "trône",
+            "partOfSpeech": "n.m.",
+            "definition": "①王位，宝座 ②（实物）御座，宝座",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "monter sur le trône",
+                    "vocabularyCollocationMeaning": "登上王位"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vouloir le trône de France",
+                    "vocabularyCollocationMeaning": "觊觎法国王位"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "héritier du trône",
+                    "vocabularyCollocationMeaning": "王位继承人"
+                }
+            ],
+            "synonymAnalysis": "trône vs couronne：trône 侧重王位本身（权力的象征）；couronne 侧重王冠作为王权的象征，也可表“王位”（抽象义）。",
+            "derivedWords": [],
+            "pluralForm": "trônes"
+        },
+        {
+            "index": "9",
+            "vocabulary": "suite",
+            "partOfSpeech": "n.f.",
+            "definition": "①跟随，随行 ②续集；后续 ③结果，后果",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "suite à",
+                    "vocabularyCollocationMeaning": "依据……；继……之后（介词短语）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tout de suite",
+                    "vocabularyCollocationMeaning": "立即，马上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "par la suite",
+                    "vocabularyCollocationMeaning": "此后，随后"
+                }
+            ],
+            "synonymAnalysis": "suite à vs à cause de：suite à 表示时间或逻辑上的承接，不含明确的负面因果意味；à cause de 明确表示原因，多含负面语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "suivre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "跟随；遵循"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "suivant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "下一个的，随后的"
+                }
+            ],
+            "pluralForm": "suites",
+            "useExplanation": "suite à 为复合介词，书面语体，常置于句首或动词之后，后接名词短语。tout de suite 为固定副词短语，口语书面均可使用。"
+        },
+        {
+            "index": "10",
+            "vocabulary": "couronne",
+            "partOfSpeech": "n.f.",
+            "definition": "①王冠，花冠 ②王位，王权",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la couronne de France",
+                    "vocabularyCollocationMeaning": "法国王权/王冠"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "porter la couronne",
+                    "vocabularyCollocationMeaning": "戴王冠；身为君王"
+                }
+            ],
+            "synonymAnalysis": "couronne vs trône：见 trône 条目。couronne 更常用于表示抽象的“王权”，trône 更常指具体的王位或统治权。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "couronner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "加冕；为……戴花冠"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "couronnement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "加冕典礼"
+                }
+            ],
+            "pluralForm": "couronnes"
+        },
+        {
+            "index": "11",
+            "vocabulary": "envahisseur",
+            "partOfSpeech": "n.m.",
+            "definition": "侵略者，入侵者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "libérer la France des mains des envahisseurs",
+                    "vocabularyCollocationMeaning": "将法国从侵略者手中解放出来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "chasser les envahisseurs",
+                    "vocabularyCollocationMeaning": "驱逐侵略者"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "envahir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "侵略，侵入；充斥"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "invasion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "入侵，侵略"
+                }
+            ],
+            "pluralForm": "envahisseurs"
+        },
+        {
+            "index": "12",
+            "vocabulary": "vêtu",
+            "partOfSpeech": "adj.",
+            "definition": "穿了衣服的；穿着……衣服",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "vêtu de + vêtement",
+                    "vocabularyCollocationMeaning": "穿着……（衣服）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vêtu de costumes d'homme",
+                    "vocabularyCollocationMeaning": "穿着男装"
+                }
+            ],
+            "synonymAnalysis": "vêtu de vs habillé en：vêtu de 较正式，强调穿着的材质或款式；habillé en 更口语，强调装扮成某种角色或风格（如 habillé en pirate）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vêtir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "给……穿衣"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vêtement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "衣服，服装"
+                }
+            ],
+            "genderNumberVariation": "阴性 vêtue，复数 vêtus / vêtues",
+            "position": "通常后置于名词或作表语，也可作分词短语引导状语"
+        },
+        {
+            "index": "13",
+            "vocabulary": "imposer",
+            "partOfSpeech": "vt.",
+            "definition": "①强迫（某人）做；迫使 ②强加，施加 ③赢得（尊重等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "imposer qch. à qn.",
+                    "vocabularyCollocationMeaning": "将某事强加于某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "imposer le respect",
+                    "vocabularyCollocationMeaning": "赢得尊重"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'imposer",
+                    "vocabularyCollocationMeaning": "强制推行；脱颖而出"
+                }
+            ],
+            "synonymAnalysis": "imposer vs obliger：imposer 侧重权威性地强行施加；obliger 侧重外部压力迫使某人不得不做（obliger qn. à faire qch.）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "imposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "强加；课税"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "imposant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人叹服的，宏伟的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "héroïque",
+            "partOfSpeech": "adj.",
+            "definition": "①英勇的，英雄的 ②英雄主义的，慷慨激昂的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "acte héroïque",
+                    "vocabularyCollocationMeaning": "英勇之举"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "comportement héroïque",
+                    "vocabularyCollocationMeaning": "英雄的行为"
+                }
+            ],
+            "synonymAnalysis": "héroïque vs courageux：héroïque 含有超凡勇气和牺牲精神的意味，带有褒扬色彩；courageux 更日常，泛指勇敢。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "héros",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "英雄"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "héroïne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "女英雄；（小说等的）女主角"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "héroïsme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "英雄主义，英勇精神"
+                }
+            ],
+            "genderNumberVariation": "阴性同形 héroïque，复数 héroïques",
+            "position": "通常后置于名词"
+        },
+        {
+            "index": "15",
+            "vocabulary": "pucelle",
+            "partOfSpeech": "n.f.",
+            "definition": "少女，处女（古语/文学语体）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la Pucelle d'Orléans",
+                    "vocabularyCollocationMeaning": "奥尔良少女（贞德的称号）"
+                }
+            ],
+            "synonymAnalysis": "pucelle 为古语/文学语体，现代口语使用 jeune fille 或 vierge（处女）代替。",
+            "derivedWords": [],
+            "pluralForm": "pucelles"
+        },
+        {
+            "index": "16",
+            "vocabulary": "allié",
+            "partOfSpeech": "n.m.",
+            "definition": "同盟国；盟军；同盟者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les alliés des Anglais",
+                    "vocabularyCollocationMeaning": "英国人的盟友"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "allié fidèle",
+                    "vocabularyCollocationMeaning": "忠实的同盟"
+                }
+            ],
+            "synonymAnalysis": "allié vs partenaire：allié 多用于军事、政治同盟语境，带有协同对抗共同敌人的含义；partenaire 更中性，指合作伙伴。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "alliance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "同盟，联盟；结盟"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "allier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使联合；结合"
+                }
+            ],
+            "pluralForm": "alliés",
+            "genderNumberVariation": "阴性 alliée，复数 alliés / alliées",
+            "position": "作形容词时通常后置"
+        },
+        {
+            "index": "17",
+            "vocabulary": "sacrer",
+            "partOfSpeech": "vt.",
+            "definition": "①为……涂圣油，行加冕礼 ②封……为（某职位）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sacrer roi",
+                    "vocabularyCollocationMeaning": "加冕为王"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sacrer qn. champion",
+                    "vocabularyCollocationMeaning": "宣封某人为冠军"
+                }
+            ],
+            "synonymAnalysis": "sacrer vs couronner：sacrer 强调宗教仪式性（涂圣油）；couronner 强调戴王冠的世俗仪式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sacre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "加冕礼"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "sacré",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "神圣的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "tribunal",
+            "partOfSpeech": "n.m.",
+            "definition": "①法院，法庭 ②审判机构",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tribunal religieux",
+                    "vocabularyCollocationMeaning": "宗教法庭"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "comparaître devant un tribunal",
+                    "vocabularyCollocationMeaning": "出庭受审"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tribunal correctionnel",
+                    "vocabularyCollocationMeaning": "刑事法庭"
+                }
+            ],
+            "synonymAnalysis": "tribunal vs cour：tribunal 泛指法院、法庭；cour 指高级法院（如 Cour de cassation 最高法院），级别较高。",
+            "derivedWords": [],
+            "pluralForm": "tribunaux（不规则复数，-al → -aux）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "présider",
+            "partOfSpeech": "vt.",
+            "definition": "①主持（会议、法庭等）②担任……的主席",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "présider une séance",
+                    "vocabularyCollocationMeaning": "主持会议"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "présider à qch.",
+                    "vocabularyCollocationMeaning": "监督……，负责……"
+                }
+            ],
+            "synonymAnalysis": "présider vs diriger：présider 强调正式主持某会议或机构；diriger 强调日常领导和管理。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "président",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "主席；总统；庭长"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "présidence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "主席职位；总统任期"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "évêque",
+            "partOfSpeech": "n.m.",
+            "definition": "主教",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'évêque de Beauvais",
+                    "vocabularyCollocationMeaning": "博韦主教"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nommer un évêque",
+                    "vocabularyCollocationMeaning": "任命主教"
+                }
+            ],
+            "synonymAnalysis": "évêque vs archevêque：évêque 为主教；archevêque 为大主教，级别更高。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "évêché",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "主教辖区；主教府"
+                }
+            ],
+            "pluralForm": "évêques"
+        },
+        {
+            "index": "21",
+            "vocabulary": "prétendre",
+            "partOfSpeech": "vt.",
+            "definition": "①声称，宣称 ②企图，意图",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prétendre que + ind.",
+                    "vocabularyCollocationMeaning": "声称……（后接直陈式）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prétendre à qch.",
+                    "vocabularyCollocationMeaning": "声称有权获得……；渴望……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "prétendre faire qch.",
+                    "vocabularyCollocationMeaning": "声称要做某事"
+                }
+            ],
+            "synonymAnalysis": "prétendre vs affirmer vs déclarer：prétendre 含有“未经证实的声称”的意味，带有质疑语气；affirmer 为正式肯定陈述；déclarer 为公开声明。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prétention",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "自负，自以为；要求；主张"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "prétentieux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "自负的，自以为是的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je prétends, tu prétends, il prétend, nous prétendons, vous prétendez, ils prétendent",
+                "compoundPast": "j'ai prétendu",
+                "simpleFuture": "je prétendrai",
+                "memoryAids": "属于 -dre 类动词，类似 entendre、vendre，现在时第三人称单数词尾无 -t。"
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "injuste",
+            "partOfSpeech": "adj.",
+            "definition": "①不公正的 ②不公平的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "jugement injuste",
+                    "vocabularyCollocationMeaning": "不公正的判决"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "traitement injuste",
+                    "vocabularyCollocationMeaning": "不公平的对待"
+                }
+            ],
+            "synonymAnalysis": "injuste vs inéquitable：injuste 通用，表不公正；inéquitable 更强调分配或待遇上的不平等，较正式。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "injustice",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "不公正，不公平"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "juste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "公正的；准确的"
+                }
+            ],
+            "genderNumberVariation": "阴性同形 injuste，复数 injustes",
+            "position": "通常后置于名词，也可前置用于强调语气"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Jeanne d'Arc est une héroïne nationale qui a uni la nation française à un moment critique de son histoire. Issue d'une famille paysanne en Lorraine, elle se rendait à l'église chaque samedi pour prier et aider les pauvres. Ayant convaincu le futur roi Charles VII, elle a mené victorieusement les troupes françaises contre les armées anglaises et levé le siège d'Orléans. Condamnée à mort après un jugement injuste, elle a été brûlée vive par les Anglais, seulement à l'âge de dix-neuf ans.",
+            "chineseTranslation": "圣女贞德是法国的民族英雄，在国家历史最危急的关头凝聚了法兰西民族。她出身洛林农家，每逢周六都会去教堂祈祷、接济穷人。说服了未来的国王查理七世之后，她率领法国军队胜利抗击英军，解除了奥尔良之围。然而，她在一场不公正的审判后被判处死刑，年仅十九岁便被英国人活活烧死。",
+            "fr2cnStrategy": "① «Issue d'une famille paysanne en Lorraine» 为分词短语状语，翻译时转换为“出身洛林农家”，采用词性转换（分词→名词短语）并省略主语；② «Ayant convaincu...» 为完成式分词短语，表先行动作，译为“说服了……之后”，采用时间句拆分处理；③ «levé le siège» 中 siège 意为“包围”，译为“解除……之围”，需注意词义选择，避免误译为“座位”；④ «brûlée vive» 中 vive 为形容词作伴随状语，译为“活活”，属于副词化处理；⑤ «Condamnée à mort» 前置分词短语转为“被判处死刑”，调整语序至主句之前，体现汉语“先因后果”的表达习惯。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "她在奥尔良解围后赢得了同伴们的尊重，被称为“奥尔良少女”。",
+                "frenchTranslation": "Après avoir levé le siège d'Orléans, elle a imposé le respect de ses compagnons et a été appelée la «Pucelle d'Orléans».",
+                "cn2frStrategy": "① “解围后”用 après avoir + 过去分词结构；② “赢得……的尊重”用固定搭配 imposer le respect de qn.；③ “被称为”用被动语态 être appelée；④ “奥尔良少女”为专有称谓，使用法语书名号 «»。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "法国贵族反对英国国王的主张，希望王位重归王储。",
+                "frenchTranslation": "Les nobles français s'opposaient aux prétentions du roi d'Angleterre et voulaient que la couronne revienne au dauphin.",
+                "cn2frStrategy": "① “反对”用代词式动词 s'opposer à；② “主张”在此语境可用 prétentions；③ “希望……重归”用 vouloir que + 虚拟式，revenir 的虚拟式为 revienne，是考研高频考点；④ “王储”用 dauphin，无需加冠词的专名用法。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这位年轻的农村女孩出身殷实家庭，从小就以勇敢和虔诚著称。",
+                "frenchTranslation": "Cette jeune fille de la campagne, issue d'une famille assez aisée, était connue depuis son enfance pour son courage et sa piété.",
+                "cn2frStrategy": "① “出身殷实家庭”用 issue d'une famille assez aisée，issue 须与主语阴性一致；② “从小”译为 depuis son enfance；③ “以……著称”用 être connu(e) pour qch.；④ “勇敢和虔诚”转化为名词 courage 和 piété，体现词性转换。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "在一场不公正的审判之后，她被判处死刑，年仅十九岁便离开了人世。",
+                "frenchTranslation": "Après un jugement injuste, condamnée à mort, elle a quitté ce monde à l'âge de seulement dix-neuf ans.",
+                "cn2frStrategy": "① “在……之后”用 après + 名词短语；② “被判处死刑”用分词短语 condamnée à mort 前置，表伴随状态；③ “年仅”用 seulement 置于数词前强调；④ “离开了人世”采用委婉表达 quitter ce monde，避免直白的 mourir，语体更贴近书面叙事风格。"
+            }
+        ]
+    }
+}

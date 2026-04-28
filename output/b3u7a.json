@@ -1,0 +1,1162 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Le cinéma a vu le jour il y a plus de 100 ans: c'est en effet le 28 décembre 1895 qu'a eu lieu sur les grands boulevards de Paris, au «Grand café», la première projection payante organisée par les frères Lumière.",
+            "translatedSentence": "电影诞生于一百多年前：1895年12月28日，卢米埃尔兄弟在巴黎大道上的“大咖啡馆”举办了第一场售票放映。",
+            "sentenceStructure": "主句为 c'est...que 强调结构，强调时间状语 le 28 décembre 1895；主语为 la première projection payante，谓语为 a eu lieu，地点状语 sur les grands boulevards de Paris / au «Grand café»，后置定语 organisée par les frères Lumière 修饰 projection。",
+            "grammarAnalysis": "① c'est...que 强调句型，将时间状语提前强调。② a eu lieu：avoir lieu 的复合过去时，表示“发生，举行”。③ organisée par les frères Lumière：过去分词短语作后置定语，被动含义。",
+            "commonMistakes": "强调句 c'est...que 中，que 后的语序是正常陈述语序，此处主语后置（la première projection...a eu lieu）是因为主语较长，学生常误将 qu'a eu lieu 中的 a 视为主语。注意 avoir lieu 不能与 être 替换。"
+        },
+        {
+            "index": "2",
+            "sentence": "Cette date étant considérée comme celle de la naissance du spectacle cinématographique, dès lors celui-ci occupe une place importante dans la vie culturelle.",
+            "translatedSentence": "由于这一日期被视为电影演出诞生之日，从那时起，电影便在文化生活中占据了重要地位。",
+            "sentenceStructure": "分词独立结构 Cette date étant considérée... 作原因状语；主句主语为 celui-ci（指代 le spectacle cinématographique），谓语为 occupe，宾语为 une place importante，状语为 dans la vie culturelle。",
+            "grammarAnalysis": "① 现在分词独立结构（proposition participiale）：主语与主句不同，étant considérée 为被动现在分词，表原因。② dès lors 副词短语，意为“从那时起”，引导时间关系。③ celle de：指示代词 celle 代替 la date，后接 de 短语限定。",
+            "commonMistakes": "学生易将分词独立结构误读为主句的主语成分；注意 étant considérée 的主语是 Cette date，而非主句主语 celui-ci。此外，celle 作指示代词必须与所指名词性数一致。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il a bénéficié d'un système très complet de soutien à la création, à la production et à la distribution, organisé sous la protection du Centre national de la cinématographie (CNC).",
+            "translatedSentence": "它受益于一套在法国国家电影中心保护下建立的、非常完善的创作、制作与发行支持体系。",
+            "sentenceStructure": "主句：Il（指代 le cinéma français）— a bénéficié — d'un système...；过去分词短语 organisé sous la protection du CNC 作后置定语修饰 système；介词短语 à la création, à la production et à la distribution 作 soutien 的补语。",
+            "grammarAnalysis": "① bénéficier de：固定搭配，意为“受益于，享有”，de 后接名词。② 三个并列介词短语 à la création / à la production / à la distribution 共同修饰 soutien，形成排比结构。③ organisé：过去分词作后置定语，修饰 système，带被动含义。",
+            "commonMistakes": "bénéficier 须搭配介词 de，不可用 à 或直接接宾语。介词 à 在此处表示“用于……方面”，学生有时误用 de 或 pour。"
+        },
+        {
+            "index": "4",
+            "sentence": "Ainsi la France arrive au troisième rang mondial après l'Inde et les États-Unis pour la production des films.",
+            "translatedSentence": "就此，法国在电影制作领域位列世界第三，仅次于印度和美国。",
+            "sentenceStructure": "主语 la France — 谓语 arrive — 状语 au troisième rang mondial（名次状语）— 状语 après l'Inde et les États-Unis（比较状语）— 状语 pour la production des films（限定范围）。",
+            "grammarAnalysis": "① arriver au + rang：固定表达，意为“位居……名次”。② ainsi 置于句首，有总结前文的功能，相当于“就这样，因此”。③ pour 表示在某一方面的限定，意为“就……而言”。",
+            "commonMistakes": "arriver au troisième rang 中序数词前必须有冠词，不可省略。学生有时将 pour 误译为“为了”，此处应译为“在……方面/领域”。"
+        },
+        {
+            "index": "5",
+            "sentence": "Pour le moment, le danger que représente le cinéma américain, c'est qu'il puisse être considéré comme la réponse unique à la demande de tous les publics.",
+            "translatedSentence": "眼下，美国电影所构成的威胁在于：它可能被视为满足所有观众需求的唯一答案。",
+            "sentenceStructure": "主题化结构：le danger que représente le cinéma américain 为提前的主语（含关系从句），c'est 为系动词，que 引导表语从句；表语从句中 il puisse être considéré 为虚拟式被动结构。",
+            "grammarAnalysis": "① que représente le cinéma américain：关系从句，动词前置（le cinéma américain 为主语倒置，que 为直接宾语）。② c'est que + 虚拟式：表示主观判断或担忧，情态含义。③ puisse：pouvoir 的虚拟式现在时，与 c'est que 搭配表示可能性或顾虑。④ être considéré comme：被动结构，意为“被视为”。",
+            "commonMistakes": "关系从句中的主谓倒置（que représente le cinéma américain）是书面语常见结构，学生常误读语序。puisse 为虚拟式，不可替换为直陈式 peut；c'est que 后接虚拟式表达的是带有主观色彩的判断或担忧，而非客观事实。"
+        },
+        {
+            "index": "6",
+            "sentence": "Il a pour objectif, dans un esprit d'amitié et de coopération universelle, de montrer et de mettre en valeur des œuvres de qualité en vue de servir l'art cinématographique et de favoriser le développement de l'industrie du film dans le monde.",
+            "translatedSentence": "其目标是，秉承世界友谊与合作的精神，展映并推介优质影片，以服务于电影艺术、促进全球电影产业的发展。",
+            "sentenceStructure": "主语 Il（指 Le Festival international du film de Cannes）— 谓语 a — 宾语 pour objectif（固定表达，相当于“以……为目标”）；插入语 dans un esprit d'amitié et de coopération universelle 为方式状语；de montrer et de mettre en valeur 为目标内容（不定式短语）；en vue de + inf. 表示目的。",
+            "grammarAnalysis": "① avoir pour objectif de faire qch.：固定结构，意为“以……为目标”。② de montrer et de mettre en valeur：两个不定式并列，共用一个 de。③ en vue de + inf.：目的状语，意为“以便，为了”，书面语常用。④ mettre en valeur：固定短语，意为“发扬，展示，使增值”。",
+            "commonMistakes": "avoir pour objectif 后须接 de + inf.，不可直接接名词宾语。en vue de 与 pour 均可表目的，但 en vue de 更正式；学生有时将其与 en raison de（因为）混淆。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "voir le jour",
+            "meaning": "诞生，问世",
+            "usage": "固定短语，主语通常为事物或人，表示“出现于世”。常用于书面叙述。",
+            "exampleSentence": "Le cinéma a vu le jour il y a plus de 100 ans."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "avoir lieu",
+            "meaning": "发生，举行",
+            "usage": "固定短语，主语为事件，不可与 être 替换；注意与 prendre place（就位）区分。",
+            "exampleSentence": "La première projection payante a eu lieu sur les grands boulevards de Paris."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "enregistrer qch. sur qch.",
+            "meaning": "将……录制/记录在……上",
+            "usage": "vt. 搭配，sur 引导承载媒介；也可用于登记注册含义。",
+            "exampleSentence": "...qui avaient enregistré sur les films les premières images animées."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "être considéré(e) comme + n./adj.",
+            "meaning": "被视为，被认为是",
+            "usage": "被动结构，comme 后接名词（不加冠词或加冠词均可）或形容词；主动式为 considérer qn./qch. comme。",
+            "exampleSentence": "Cette date étant considérée comme celle de la naissance du spectacle cinématographique."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "occuper une place (importante) dans qch.",
+            "meaning": "在……中占有（重要）地位",
+            "usage": "固定表达，place 前可加形容词修饰；dans 引导所在领域或范围。",
+            "exampleSentence": "...celui-ci occupe une place importante dans la vie culturelle."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "jouer un rôle (+ adj.) dans qch.",
+            "meaning": "在……中发挥（……）作用",
+            "usage": "固定搭配，rôle 前可加形容词如 important, décisif 等；常用于书面语。",
+            "exampleSentence": "Le cinéma français continue ainsi à jouer un rôle international reconnu."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "bénéficier de qch.",
+            "meaning": "受益于……，享有……",
+            "usage": "vt. ind.，固定搭配介词 de，不可用 à；主语为人或事物。",
+            "exampleSentence": "Il a bénéficié d'un système très complet de soutien à la création."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "s'occuper de qch./qn.",
+            "meaning": "负责……，照管……",
+            "usage": "代词式动词，固定搭配 de；语义范围广，可指负责事务或照看人。",
+            "exampleSentence": "Celui-ci s'occupe de la vente et de la diffusion des films."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "arriver au + (numéro) rang",
+            "meaning": "位居第……名",
+            "usage": "固定结构，rang 前须有序数词和定冠词；表示名次排列。",
+            "exampleSentence": "Ainsi la France arrive au troisième rang mondial après l'Inde et les États-Unis."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "faire face à qch.",
+            "meaning": "面对……，应对……",
+            "usage": "固定短语，à 后接名词；强调主动面对困难或挑战，不可省略 à。",
+            "exampleSentence": "...le cinéma français doit faire face à une concurrence terrible."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "mettre en valeur qch.",
+            "meaning": "发扬，展示，使增值",
+            "usage": "固定短语，宾语置于 mettre 和 en valeur 之间（若为名词）或置于 en valeur 之后；书面语，语体较正式。",
+            "exampleSentence": "...de montrer et de mettre en valeur des œuvres de qualité."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "avoir pour objectif de faire qch.",
+            "meaning": "以……为目标",
+            "usage": "固定结构，pour objectif 后接 de + inf.；近义表达：avoir pour but de, viser à。",
+            "exampleSentence": "Il a pour objectif...de montrer et de mettre en valeur des œuvres de qualité."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "en vue de + inf./n.",
+            "meaning": "为了，以便",
+            "usage": "目的状语，书面语常用；后接动词不定式或名词；与 pour 可互换，但更正式。",
+            "exampleSentence": "...en vue de servir l'art cinématographique."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "non seulement..., mais aussi...",
+            "meaning": "不但……而且……",
+            "usage": "关联连词结构，连接两个并列成分（词、短语或从句）；non seulement 后可引发倒装（书面语）。",
+            "exampleSentence": "...non seulement en Europe, mais aussi sur tous les continents."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "soit...soit...",
+            "meaning": "或者……或者……",
+            "usage": "并列连词，表示两种选择；与 ou...ou... 近义，但 soit...soit... 更强调对等性；两项均为同等可能的选择。",
+            "exampleSentence": "...soit en France, soit dans d'autres pays, même aux Etats-Unis."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "boulevard",
+            "partOfSpeech": "n.m.",
+            "definition": "①林荫大道 ②（泛指）宽阔街道",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les grands boulevards",
+                    "vocabularyCollocationMeaning": "（巴黎）大道，大街"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "boulevard périphérique",
+                    "vocabularyCollocationMeaning": "环城大道"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "boulevards"
+        },
+        {
+            "index": "2",
+            "vocabulary": "projection",
+            "partOfSpeech": "n.f.",
+            "definition": "①放映；投影 ②喷出，射出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "projection payante",
+                    "vocabularyCollocationMeaning": "售票放映"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "salle de projection",
+                    "vocabularyCollocationMeaning": "放映厅"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "projection de film",
+                    "vocabularyCollocationMeaning": "电影放映"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "projeter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "放映；投射；计划"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "projecteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "放映机；探照灯"
+                }
+            ],
+            "pluralForm": "projections"
+        },
+        {
+            "index": "3",
+            "vocabulary": "payant",
+            "partOfSpeech": "adj.",
+            "definition": "①要买票的，收费的 ②付款的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "entrée payante",
+                    "vocabularyCollocationMeaning": "收费入场"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "spectacle payant",
+                    "vocabularyCollocationMeaning": "收费演出"
+                }
+            ],
+            "synonymAnalysis": "payant vs gratuit（免费的）：构成反义对。payant 强调须付费，gratuit 强调无需付费。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "payer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "付款，支付"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "paiement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "付款，支付"
+                }
+            ],
+            "genderNumberVariation": "阴性 payante，复数 payants/payantes",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "4",
+            "vocabulary": "enregistrer",
+            "partOfSpeech": "vt.",
+            "definition": "①录音、录像 ②登记，记录",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enregistrer un film",
+                    "vocabularyCollocationMeaning": "录制一部影片"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "enregistrer ses bagages",
+                    "vocabularyCollocationMeaning": "托运行李"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "enregistrer une hausse",
+                    "vocabularyCollocationMeaning": "记录到增长"
+                }
+            ],
+            "synonymAnalysis": "enregistrer vs noter：enregistrer 偏重技术手段录制或官方登记；noter 偏重手写记录或注意到。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enregistrement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "录音；录像；登记"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "animé",
+            "partOfSpeech": "adj.",
+            "definition": "①活动的，有生命的 ②充满活力的，热闹的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "images animées",
+                    "vocabularyCollocationMeaning": "动态影像"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "dessin animé",
+                    "vocabularyCollocationMeaning": "动画片"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rue animée",
+                    "vocabularyCollocationMeaning": "热闹的街道"
+                }
+            ],
+            "synonymAnalysis": "animé vs vivant：animé 强调有活力、有动感；vivant 强调有生命，活着的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "animer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使活跃；主持（节目）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "animation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "动画；活跃；节目主持"
+                }
+            ],
+            "genderNumberVariation": "阴性 animée，复数 animés/animées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "cinématographique",
+            "partOfSpeech": "adj.",
+            "definition": "电影的，电影艺术的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "spectacle cinématographique",
+                    "vocabularyCollocationMeaning": "电影演出"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "art cinématographique",
+                    "vocabularyCollocationMeaning": "电影艺术"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "industrie cinématographique",
+                    "vocabularyCollocationMeaning": "电影工业"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cinéma",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "电影；电影院"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cinématographie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "电影摄制术"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 cinématographiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "7",
+            "vocabulary": "berceau",
+            "partOfSpeech": "n.m.",
+            "definition": "①摇篮 ②发源地，起源地",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "berceau de qch.",
+                    "vocabularyCollocationMeaning": "……的摇篮（发源地）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "du berceau à la tombe",
+                    "vocabularyCollocationMeaning": "从摇篮到坟墓（一生）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "berceaux"
+        },
+        {
+            "index": "8",
+            "vocabulary": "distribution",
+            "partOfSpeech": "n.f.",
+            "definition": "①发行 ②分配，分发 ③（影视）演员阵容",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "distribution de films",
+                    "vocabularyCollocationMeaning": "电影发行"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réseau de distribution",
+                    "vocabularyCollocationMeaning": "发行网络"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "distribution des rôles",
+                    "vocabularyCollocationMeaning": "角色分配"
+                }
+            ],
+            "synonymAnalysis": "distribution vs diffusion：在电影领域，distribution 指商业发行（院线），diffusion 指播放传播（电视、网络等）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "distribuer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "发行；分发；分配"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "distributeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发行商；自动售货机"
+                }
+            ],
+            "pluralForm": "distributions"
+        },
+        {
+            "index": "9",
+            "vocabulary": "diffusion",
+            "partOfSpeech": "n.f.",
+            "definition": "①发行，传播 ②（广播、电视）播出 ③扩散",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "diffusion de films",
+                    "vocabularyCollocationMeaning": "影片的传播/播放"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "diffusion télévisée",
+                    "vocabularyCollocationMeaning": "电视播出"
+                }
+            ],
+            "synonymAnalysis": "diffusion vs distribution：见 distribution 词条辨析。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "diffuser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "传播；播放；扩散"
+                }
+            ],
+            "pluralForm": "diffusions"
+        },
+        {
+            "index": "10",
+            "vocabulary": "fonds",
+            "partOfSpeech": "n.m.",
+            "definition": "①基金，资金 ②（复数）款项，资产",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "fonds publics",
+                    "vocabularyCollocationMeaning": "公共资金"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faute de fonds",
+                    "vocabularyCollocationMeaning": "因资金不足"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "manquer de fonds",
+                    "vocabularyCollocationMeaning": "资金短缺"
+                }
+            ],
+            "synonymAnalysis": "fonds vs fond：注意区分。fonds（加 s）指资金、基金；fond（不加 s）指底部、深处，如 au fond（在深处/其实）。",
+            "derivedWords": [],
+            "pluralForm": "fonds（单复数同形）"
+        },
+        {
+            "index": "11",
+            "vocabulary": "encouragement",
+            "partOfSpeech": "n.m.",
+            "definition": "鼓励，激励",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "encouragement à faire qch.",
+                    "vocabularyCollocationMeaning": "鼓励做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "donner des encouragements",
+                    "vocabularyCollocationMeaning": "给予鼓励"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "encourager",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "鼓励"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "encourageant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "令人鼓舞的"
+                }
+            ],
+            "pluralForm": "encouragements"
+        },
+        {
+            "index": "12",
+            "vocabulary": "talent",
+            "partOfSpeech": "n.m.",
+            "definition": "①人才，有才能的人 ②才能，天赋",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir du talent",
+                    "vocabularyCollocationMeaning": "有才华"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nouveaux talents",
+                    "vocabularyCollocationMeaning": "新生代人才"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "talent artistique",
+                    "vocabularyCollocationMeaning": "艺术才能"
+                }
+            ],
+            "synonymAnalysis": "talent vs don：talent 偏重后天发展的才能；don 偏重天生的才赋。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "talentueux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有才华的"
+                }
+            ],
+            "pluralForm": "talents"
+        },
+        {
+            "index": "13",
+            "vocabulary": "figure",
+            "partOfSpeech": "n.f.",
+            "definition": "①要人，名人 ②面孔，脸 ③图形，形象",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "figure légendaire",
+                    "vocabularyCollocationMeaning": "传奇人物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "figure géométrique",
+                    "vocabularyCollocationMeaning": "几何图形"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire bonne figure",
+                    "vocabularyCollocationMeaning": "表现出色，给人好印象"
+                }
+            ],
+            "synonymAnalysis": "figure（名人）vs personnage（人物）：figure 更强调其象征意义和历史地位；personnage 更中性，泛指任何人或角色。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "figurer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "出现，位列"
+                }
+            ],
+            "pluralForm": "figures"
+        },
+        {
+            "index": "14",
+            "vocabulary": "légendaire",
+            "partOfSpeech": "adj.",
+            "definition": "①传奇的 ②家喻户晓的，闻名遐迩的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "figure légendaire",
+                    "vocabularyCollocationMeaning": "传奇人物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "personnage légendaire",
+                    "vocabularyCollocationMeaning": "传奇角色"
+                }
+            ],
+            "synonymAnalysis": "légendaire vs mythique：légendaire 偏重历史上确有其人/事但带有传奇色彩；mythique 偏重神话般的、具有象征意义的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "légende",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "传说；图例；说明文字"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 légendaires",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "15",
+            "vocabulary": "génération",
+            "partOfSpeech": "n.f.",
+            "definition": "①代，一代人 ②（技术）代，换代",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "de génération en génération",
+                    "vocabularyCollocationMeaning": "一代又一代"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la nouvelle génération",
+                    "vocabularyCollocationMeaning": "新生代"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "génération spontanée",
+                    "vocabularyCollocationMeaning": "自然发生"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "générationnel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "代际的"
+                }
+            ],
+            "pluralForm": "générations"
+        },
+        {
+            "index": "16",
+            "vocabulary": "réalisme",
+            "partOfSpeech": "n.m.",
+            "definition": "①现实主义 ②务实精神",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réalisme poétique",
+                    "vocabularyCollocationMeaning": "诗意现实主义"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réalisme social",
+                    "vocabularyCollocationMeaning": "社会现实主义"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réaliste",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "现实主义的；务实的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "真实的，现实的"
+                }
+            ],
+            "pluralForm": "réalismes"
+        },
+        {
+            "index": "17",
+            "vocabulary": "poétique",
+            "partOfSpeech": "adj.",
+            "definition": "①诗的，诗歌的 ②富有诗意的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réalisme poétique",
+                    "vocabularyCollocationMeaning": "诗意现实主义"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "image poétique",
+                    "vocabularyCollocationMeaning": "诗意的画面"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "poème",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "诗，诗歌"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "poésie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "诗歌；诗意"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "poète",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "诗人"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 poétiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "18",
+            "vocabulary": "vague",
+            "partOfSpeech": "n.f.",
+            "definition": "①浪潮，波浪 ②（比喻）浪潮，风潮",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la nouvelle vague",
+                    "vocabularyCollocationMeaning": "新浪潮（法国电影流派）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "vague de chaleur",
+                    "vocabularyCollocationMeaning": "热浪"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vague de protestations",
+                    "vocabularyCollocationMeaning": "抗议浪潮"
+                }
+            ],
+            "synonymAnalysis": "vague（n.f.）vs vague（adj.）：注意同形异义。n.f. 指波浪/浪潮；adj. 指模糊的、不清楚的（如 une idée vague 模糊的想法）。",
+            "derivedWords": [],
+            "pluralForm": "vagues"
+        },
+        {
+            "index": "19",
+            "vocabulary": "enrichir",
+            "partOfSpeech": "vt.",
+            "definition": "①使富有，使丰富多彩 ②充实，增益",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "enrichir son vocabulaire",
+                    "vocabularyCollocationMeaning": "丰富词汇量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s'enrichir de qch.",
+                    "vocabularyCollocationMeaning": "因……而变得丰富"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "enrichissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "丰富；致富"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "riche",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "富有的；丰富的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "richesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "财富；丰富"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "série",
+            "partOfSpeech": "n.f.",
+            "definition": "①系列，一批 ②连续剧",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en série",
+                    "vocabularyCollocationMeaning": "成批地，批量地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une série de",
+                    "vocabularyCollocationMeaning": "一系列……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "production en série",
+                    "vocabularyCollocationMeaning": "批量生产"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sériel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "系列的"
+                }
+            ],
+            "pluralForm": "séries"
+        },
+        {
+            "index": "21",
+            "vocabulary": "résistance",
+            "partOfSpeech": "n.f.",
+            "definition": "①反抗，抵抗 ②耐力，耐受性",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "résistance à qch.",
+                    "vocabularyCollocationMeaning": "对……的抵抗/抵制"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "opposer une résistance",
+                    "vocabularyCollocationMeaning": "予以抵抗"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "résistance physique",
+                    "vocabularyCollocationMeaning": "体能耐力"
+                }
+            ],
+            "synonymAnalysis": "résistance vs opposition：résistance 更强调持续对抗的状态；opposition 偏重立场上的对立或反对。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "résister",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "抵抗，抵制"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "résistant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "有抵抗力的；耐用的"
+                }
+            ],
+            "pluralForm": "résistances"
+        },
+        {
+            "index": "22",
+            "vocabulary": "quasi",
+            "partOfSpeech": "adv.",
+            "definition": "几乎，差不多，简直",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "quasi impossible",
+                    "vocabularyCollocationMeaning": "几乎不可能"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "quasi monopole",
+                    "vocabularyCollocationMeaning": "准垄断"
+                }
+            ],
+            "synonymAnalysis": "quasi vs presque：两者均表示“几乎”；quasi 多用于书面语，常与形容词直接连用（不加连字符或加连字符均可）；presque 口书两用，更常见。",
+            "derivedWords": [],
+            "useExplanation": "quasi 通常直接置于形容词或名词前，无需介词；书面语色彩强于 presque。"
+        },
+        {
+            "index": "23",
+            "vocabulary": "monopolistique",
+            "partOfSpeech": "adj.",
+            "definition": "垄断的，独占的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "situation monopolistique",
+                    "vocabularyCollocationMeaning": "垄断局面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pratique monopolistique",
+                    "vocabularyCollocationMeaning": "垄断行为"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "monopole",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "垄断；专卖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "monopoliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "垄断，独占"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 monopolistiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "24",
+            "vocabulary": "festival",
+            "partOfSpeech": "n.m.",
+            "definition": "节，联欢节，电影节",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "festival de films",
+                    "vocabularyCollocationMeaning": "电影节"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "festival de musique",
+                    "vocabularyCollocationMeaning": "音乐节"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "festivals"
+        },
+        {
+            "index": "25",
+            "vocabulary": "universel",
+            "partOfSpeech": "adj.",
+            "definition": "①全世界的，普遍的 ②通用的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "coopération universelle",
+                    "vocabularyCollocationMeaning": "全球合作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "suffrage universel",
+                    "vocabularyCollocationMeaning": "普选"
+                }
+            ],
+            "synonymAnalysis": "universel vs mondial：universel 强调普遍性、无一例外；mondial 强调地理范围覆盖全球。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "universellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "普遍地，全世界地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "universalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "普遍性"
+                }
+            ],
+            "genderNumberVariation": "阴性 universelle，复数 universels/universelles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "26",
+            "vocabulary": "concurrence",
+            "partOfSpeech": "n.f.",
+            "definition": "竞争，竞争关系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire face à une concurrence",
+                    "vocabularyCollocationMeaning": "面对竞争"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "concurrence déloyale",
+                    "vocabularyCollocationMeaning": "不正当竞争"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "libre concurrence",
+                    "vocabularyCollocationMeaning": "自由竞争"
+                }
+            ],
+            "synonymAnalysis": "concurrence vs compétition：concurrence 偏重商业或市场上的竞争关系；compétition 偏重竞技或比赛意义上的竞争。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "concurrent",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "竞争对手"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "concurrencer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "与……竞争"
+                }
+            ],
+            "pluralForm": "concurrences"
+        },
+        {
+            "index": "27",
+            "vocabulary": "terrible",
+            "partOfSpeech": "adj.",
+            "definition": "①猛烈的，激烈的 ②恐怖的，可怕的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "concurrence terrible",
+                    "vocabularyCollocationMeaning": "激烈的竞争"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une chose terrible",
+                    "vocabularyCollocationMeaning": "可怕的事情"
+                }
+            ],
+            "synonymAnalysis": "terrible vs effrayant：terrible 语义较宽，可指“强烈/激烈”也可指“恐怖”；effrayant 专指令人恐惧的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "terriblement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "非常，极其；可怕地"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 terribles",
+            "position": "通常置于名词之后；前置时带有强调色彩（如 un terrible problème）"
+        },
+        {
+            "index": "28",
+            "vocabulary": "romantique",
+            "partOfSpeech": "adj.",
+            "definition": "浪漫的，富有浪漫色彩的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cinéma romantique",
+                    "vocabularyCollocationMeaning": "浪漫电影"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "atmosphère romantique",
+                    "vocabularyCollocationMeaning": "浪漫氛围"
+                }
+            ],
+            "synonymAnalysis": "romantique vs sentimental：romantique 强调浪漫理想色彩；sentimental 偏重情感的、多愁善感的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "romantisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "浪漫主义"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形，复数 romantiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "29",
+            "vocabulary": "demeurer",
+            "partOfSpeech": "vi.",
+            "definition": "①仍然是（être 为助动词）②住，居住（avoir 为助动词）③逗留",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "demeurer + adj./n.",
+                    "vocabularyCollocationMeaning": "仍然是……（系动词用法）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "demeurer quelque part",
+                    "vocabularyCollocationMeaning": "居住在某处"
+                }
+            ],
+            "synonymAnalysis": "demeurer（仍然是）vs rester：两者均可作系动词表“仍然是”；demeurer 更书面，rester 更口语常用。demeurer（居住）vs habiter：两者均表居住，demeurer 更文学化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "demeure",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "住所，府邸"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "30",
+            "vocabulary": "synonyme",
+            "partOfSpeech": "n.m.",
+            "definition": "同义词",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être le synonyme de qch.",
+                    "vocabularyCollocationMeaning": "是……的代名词，等同于……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "synonyme de réussite",
+                    "vocabularyCollocationMeaning": "成功的代名词"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "synonymie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "同义关系"
+                }
+            ],
+            "pluralForm": "synonymes"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Berceau du septième Art, la France demeure un lieu saint et a donné plusieurs figures légendaires et brillantes stars internationales. Cette tradition française du cinéma s'est également enrichie de réussites industrielles. Ainsi la France arrive au troisième rang mondial pour la production des films, et les films français représentent près de 35 % des entrées en salles, ce qui traduit une bonne résistance de la production française face aux films américains, qui ont une situation quasi monopolistique sur de nombreux marchés étrangers.",
+            "chineseTranslation": "作为第七艺术的摇篮，法国始终是一片圣土，孕育了数位传奇人物和耀眼的国际巨星。法国的电影传统同样因工业上的辉煌成就而愈加丰厚。就此，法国跻身全球电影制作第三大国，法语片约占院线票房份额的35%，这充分体现了法国电影面对美国电影的强劲抗衡——而美国电影在众多海外市场已几乎形成垄断之势。",
+            "fr2cnStrategy": "① Berceau du septième Art 为同位语前置，翻译时处理为“作为……的摇篮”，属于语序调整；② demeure un lieu saint 中 demeurer 作系动词，译为“始终是”而非“居住”，须注意区分两种用法；③ s'est enrichie de réussites industrielles 将反身动词结构转换为“因……而愈加丰厚”，属于词性转换（动词→形容词比较）；④ ce qui traduit 引导非限制性关系从句，译为独立分句“这充分体现了”，属于拆句处理；⑤ qui ont une situation quasi monopolistique 中 quasi 为副词修饰形容词，译为“几乎形成垄断之势”，适当增译动词使中文更自然。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "戛纳国际电影节每年春天在戛纳举办，是法国最著名的电影节。",
+                "frenchTranslation": "Le Festival international du film de Cannes, qui a lieu à Cannes tous les printemps, est le plus connu en France.",
+                "cn2frStrategy": "① “每年春天”译为 tous les printemps，注意 printemps 前用 les 而非 chaque；② “举办”用 avoir lieu，避免直译为 organiser（organiser 需要施事主语）；③ “最著名的”用 le plus connu，形容词后置并与定冠词 le 配合形成最高级。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "法国电影受益于一套完善的体系，在创作和制作方面获得了大力支持。",
+                "frenchTranslation": "Le cinéma français a bénéficié d'un système complet qui lui apporte un soutien important à la création et à la production.",
+                "cn2frStrategy": "① “受益于”固定用 bénéficier de，不可遗漏介词 de；② “大力支持”转译为 un soutien important，名词化处理；③ “在……方面”用介词 à，注意 à la création / à la production 的固定搭配。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "自1990年代起，法国电影不得不面对来自好莱坞的激烈竞争。",
+                "frenchTranslation": "Depuis les années 1990, le cinéma français doit faire face à une concurrence terrible venant de Hollywood.",
+                "cn2frStrategy": "① “自……起”译为 Depuis，置于句首；② “不得不”用情态动词 devoir；③ “面对”固定用 faire face à；④ “来自好莱坞的”处理为后置分词短语 venant de Hollywood，而非生硬的 de Hollywood 修饰语。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "对大多数法国人来说，法国电影始终是世界上最具浪漫气息的电影。",
+                "frenchTranslation": "Pour la plupart des Français, le cinéma français demeure le plus romantique du monde.",
+                "cn2frStrategy": "① “对大多数……来说”用 Pour la plupart de + 名词，置于句首；② “始终是”用 demeurer 作系动词，体现书面语风格；③ “最具浪漫气息的”用最高级 le plus romantique，形容词后置；④ “世界上”用 du monde 作后置限定语。"
+            }
+        ]
+    }
+}
