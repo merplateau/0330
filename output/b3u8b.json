@@ -1,0 +1,660 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Ils sont cinq, bien serrés autour d'une dame blonde qui leur fait la lecture à voix haute.",
+            "translatedSentence": "他们一共五个孩子，紧紧地围坐在一位金发女士身边，听她大声朗读。",
+            "sentenceStructure": "主句 Ils sont cinq（主语 Ils — 系动词 sont — 表语 cinq）；bien serrés autour d'une dame blonde 为过去分词短语作伴随状语；qui leur fait la lecture à voix haute 为关系从句，先行词是 une dame blonde。",
+            "grammarAnalysis": "① faire la lecture à qn 为固定搭配，意为“给某人朗读”，间接宾语 leur 提到动词前。② à voix haute 表方式状语，意为“大声地、出声地”。③ serré 为过去分词转化的形容词，与逻辑主语 Ils 性数配合（阳性复数 serrés）。",
+            "commonMistakes": "易把 leur 误解为所属（“他们的”），实为间接宾语人称代词“给他们”。另注意 à voix haute 与 à haute voix 同义可互换，勿误写。"
+        },
+        {
+            "index": "2",
+            "sentence": "L'un a replié ses genoux sur sa chaise pour être plus à l'aise, un autre a posé sa joue sur sa main, et tous prononcent, un peu effrayés mais avec une sorte de sourire rêveur au coin des lèvres, les mots « sombre, très sombre » sortis d'un livre.",
+            "translatedSentence": "一个孩子把双膝蜷到椅子上，好让自己坐得更舒服；另一个把脸颊托在手上；大家都念着从书里读到的“阴森森的、非常阴森森的”这些字眼，神情中带着一丝害怕，嘴角却挂着遐想的微笑。",
+            "sentenceStructure": "三个并列分句构成：L'un a replié... / un autre a posé... / et tous prononcent...。第三个分句主干为 tous prononcent les mots（主语 tous — 谓语 prononcent — 宾语 les mots），中间插入 un peu effrayés mais avec... 作状语；sortis d'un livre 为过去分词短语作定语，修饰 les mots。",
+            "grammarAnalysis": "① L'un... un autre... 为“一个……另一个……”对举结构。② pour être plus à l'aise 为 pour + 不定式表目的。③ 课文 Note 1 指出：本句主语是 tous，宾语是 les mots。④ sorti 为 sortir 的过去分词作定语，与 les mots 配合（阳性复数 sortis）。",
+            "commonMistakes": "插入成分较长，易把 sortis d'un livre 误认为另起一句；其实它修饰 les mots（书里出来的那些字眼）。effrayés 是形容词与 tous 配合，不要漏掉性数配合。"
+        },
+        {
+            "index": "3",
+            "sentence": "La dame en bleu qui lit des histoires n'est ni la grand-mère ni la maîtresse des enfants, mais l'une des 5 000 bénévoles retraités de l'Association Lire et Faire lire, fondée en octobre 1999 pour encourager tous les citoyens à la lecture.",
+            "translatedSentence": "这位身着蓝衣、为孩子们读故事的女士，既不是孩子们的祖母，也不是他们的老师，而是“阅读与领读协会”五千名退休志愿者中的一员。该协会成立于1999年10月，旨在鼓励全体公民阅读。",
+            "sentenceStructure": "主干为 La dame... n'est ni A ni B, mais C。主语 La dame en bleu 后接关系从句 qui lit des histoires；fondée en octobre 1999... 为过去分词短语作定语，修饰 l'Association。",
+            "grammarAnalysis": "① ne... ni... ni..., mais... 为“既不……也不……，而是……”否定对举结构。② fondée 为 fonder 的过去分词作定语，与阴性名词 Association 配合。③ pour encourager... à... 表目的；encourager qn à qch 为固定搭配。",
+            "commonMistakes": "ne... ni... ni 结构中通常省略 pas；勿误加。encourager qn à qch（à 后接名词或不定式）的介词不能用 de。"
+        },
+        {
+            "index": "4",
+            "sentence": "Après avoir travaillé pendant trente-huit ans comme institutrice, Claudine a pris sa retraite il y a deux ans.",
+            "translatedSentence": "克洛迪娜当了三十八年小学教师，两年前退休了。",
+            "sentenceStructure": "Après avoir travaillé... 为不定式过去时短语作时间状语；主句为 Claudine a pris sa retraite（主语 Claudine — 谓语 a pris — 宾语 sa retraite）；il y a deux ans 作时间状语。",
+            "grammarAnalysis": "① 课文 Note 2：Après avoir + 过去分词 为不定式过去时，强调动作的“先完成”，其逻辑主语须与主句主语一致（均为 Claudine）。② prendre sa retraite 为固定搭配，意为“退休”。③ il y a + 时间段 表“……以前”。",
+            "commonMistakes": "il y a 在此表“……前”，勿误译为“有”。Après 后接动词必须用不定式（avoir/être + p.p.），不能直接用变位动词。"
+        },
+        {
+            "index": "5",
+            "sentence": "Mais comme elle aimait l'enseignement et que l'Association avait besoin de ses riches expériences, elle est vite revenue dans les écoles du département qu'elle connaissait bien, pour y faire la lecture aux jeunes élèves une fois par semaine.",
+            "translatedSentence": "但由于她热爱教学，加之协会也需要她丰富的经验，她很快便回到了自己熟悉的本省各所学校，每周一次给小学生们朗读。",
+            "sentenceStructure": "comme... et que... 引导两个并列的原因状语从句（que 替代第二个 comme）；主句为 elle est vite revenue dans les écoles...；qu'elle connaissait bien 为关系从句修饰 les écoles；pour y faire la lecture... 表目的。",
+            "grammarAnalysis": "① comme 引导原因状语从句置于句首；并列第二个从句时用 que 代替 comme，避免重复。② aimait、avait、connaissait 均为未完成过去时，描述过去的状态/背景。③ revenir 用 être 作助动词，过去分词 revenue 与阴性主语 elle 配合。④ y 代替地点状语 dans les écoles。⑤ avoir besoin de qch 为固定搭配。",
+            "commonMistakes": "并列原因从句中第二个连词应用 que 而非再用 comme；这是考研高频考点。revenir/venir 类位移动词的复合时态用 être，须性数配合。"
+        },
+        {
+            "index": "6",
+            "sentence": "Et, surtout, je ne suis pas chargée de leur apprendre à lire, mais de leur lire des histoires, pour qu'ils aient envie de le faire ensuite tout seuls.",
+            "translatedSentence": "而且最重要的是，我的职责不是教他们识字，而是给他们读故事，好让他们随后产生自己去读的愿望。",
+            "sentenceStructure": "主干为 je ne suis pas chargée de A, mais de B（ne... pas..., mais... 对举）。pour qu'ils aient envie de le faire... 为目的状语从句。",
+            "grammarAnalysis": "① être chargé de faire qch 为固定搭配（chargée 与阴性主语 je 配合）。② apprendre à qn à faire qch（教某人做某事），此处 leur 为间接宾语。③ pour que + 虚拟式，aient 是 avoir 的现在虚拟式。④ avoir envie de faire qch；中性代词 le 代替前文 lire。",
+            "commonMistakes": "pour que 后必须用虚拟式（aient，非 ont），为考研必考点。注意区分 apprendre à qn à faire（教某人）与 apprendre à faire（学会做）。"
+        },
+        {
+            "index": "7",
+            "sentence": "Je me souviens encore de mon émerveillement au premier roman que j'ai lu toute seule, Premier de cordée, de Frison-Roche.",
+            "translatedSentence": "我至今仍记得，第一次独自读完的那本小说《登山组的首攀人》（弗里松-罗什著）曾让我何等惊叹。",
+            "sentenceStructure": "主干为 Je me souviens de mon émerveillement（se souvenir de qch）。au premier roman 为状语；que j'ai lu toute seule 为关系从句，先行词 le premier roman；Premier de cordée, de Frison-Roche 为同位语，补充说明那本小说。",
+            "grammarAnalysis": "① se souvenir de qch 为代词式动词固定搭配。② 关系代词 que 作直接宾语前置，故过去分词 lu 与先行词 roman（阳性单数）配合，仍为 lu（无可见变化）。③ toute seule 中 tout 在此作副词加强，置于阴性形容词 seule 前时写作 toute。",
+            "commonMistakes": "que 引导的关系从句中，复合过去时的过去分词须与前置直接宾语性数配合，这是常考易错点。tout 作副词通常不变，但在以辅音或嘘音 h 开头的阴性形容词前要写成 toute。"
+        },
+        {
+            "index": "8",
+            "sentence": "D'après elle, transmettre le goût et le plaisir de la lecture est le meilleur moyen de lutter contre l'échec scolaire.",
+            "translatedSentence": "在她看来，把阅读的兴趣和乐趣传递给孩子，是对抗学业失败的最好办法。",
+            "sentenceStructure": "课文 Note 4 指出：本句主语是动词不定式短语 transmettre le goût et le plaisir de la lecture；系动词 est；表语 le meilleur moyen de lutter contre l'échec scolaire。",
+            "grammarAnalysis": "① 动词不定式可作句子主语（transmettre... est...）。② le moyen de faire qch（做某事的办法）。③ lutter contre qch（与……作斗争，对抗）。④ D'après elle 意为“据她说、在她看来”。",
+            "commonMistakes": "易误将 transmettre 当作状语而找不到主语；其实不定式短语整体充当主语，谓语用第三人称单数 est。lutter 的介词搭配是 contre，不能用 avec。"
+        },
+        {
+            "index": "9",
+            "sentence": "C'est la raison pour laquelle la lecture à haute voix ne se pratique plus guère aujourd'hui.",
+            "translatedSentence": "这就是为什么如今出声朗读这种做法几乎已不再流行的原因。",
+            "sentenceStructure": "主句 C'est la raison；pour laquelle la lecture à haute voix ne se pratique plus guère aujourd'hui 为关系从句修饰 la raison。",
+            "grammarAnalysis": "① la raison pour laquelle 为“……的原因”，因先行词 raison 与介词 pour 搭配（pour cette raison），故关系代词用 pour laquelle。② se pratiquer 为代词式动词表被动（“被实行、流行”）。③ ne... plus guère 叠加否定，意为“几乎不再”。",
+            "commonMistakes": "介词性关系代词 laquelle 须与先行词 raison（阴性单数）性数一致；勿误用 que/dont。ne... plus guère 是双重程度否定，应理解为“几乎不再……”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "faire la lecture à qn",
+            "meaning": "（出声）给某人朗读",
+            "usage": "固定搭配，间接宾语用 à 引出或提为代词（leur/lui）；常与 à voix haute / à haute voix 连用。书面与口语皆可。",
+            "exampleSentence": "Ils sont cinq, bien serrés autour d'une dame blonde qui leur fait la lecture à voix haute."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "à voix haute / à haute voix",
+            "meaning": "大声地，出声地",
+            "usage": "两种语序均正确、同义可互换，意为“朗读、出声地说”；反义为 à voix basse（低声）。",
+            "exampleSentence": "lequel des paragraphes préférez-vous lire à haute voix ?"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "être à l'aise",
+            "meaning": "感到舒适、自在",
+            "usage": "à l'aise 为固定短语；se mettre à l'aise 表“让自己放松、随意些”。口语常用。",
+            "exampleSentence": "L'un a replié ses genoux sur sa chaise pour être plus à l'aise."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "ne... ni... ni..., mais...",
+            "meaning": "既不……也不……，而是……",
+            "usage": "否定对举结构，ni 前的 pas 通常省略；ni 后的名词一般不带不定冠词或部分冠词。书面语色彩较强。",
+            "exampleSentence": "La dame en bleu... n'est ni la grand-mère ni la maîtresse des enfants, mais l'une des 5 000 bénévoles..."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "encourager qn à qch / à faire qch",
+            "meaning": "鼓励某人做某事",
+            "usage": "介词固定为 à（后接名词或不定式），不可用 de；近义 inciter qn à、pousser qn à。",
+            "exampleSentence": "...fondée en octobre 1999 pour encourager tous les citoyens à la lecture."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "après avoir / être + 过去分词",
+            "meaning": "（在）做完某事之后",
+            "usage": "不定式过去时，强调动作先于主句完成；逻辑主语须与主句主语一致；位移/代动词用 être 并性数配合。",
+            "exampleSentence": "Après avoir travaillé pendant trente-huit ans comme institutrice, Claudine a pris sa retraite."
+        },
+        {
+            "listIndex": "7",
+            "collocation": "prendre sa retraite",
+            "meaning": "退休",
+            "usage": "动作性短语，强调“开始退休”这一行为；être à la retraite 则表“处于退休状态”。",
+            "exampleSentence": "Claudine a pris sa retraite il y a deux ans."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "il y a + 时间段",
+            "meaning": "……以前",
+            "usage": "表过去某一时间点，通常与复合过去时连用；勿与 depuis（自……以来）混淆。",
+            "exampleSentence": "Claudine a pris sa retraite il y a deux ans."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avoir besoin de qch / qn / faire qch",
+            "meaning": "需要……",
+            "usage": "介词固定为 de；de 后接名词、代词或不定式。",
+            "exampleSentence": "l'Association avait besoin de ses riches expériences"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "une fois par semaine",
+            "meaning": "每周一次",
+            "usage": "par 表“每……”，par jour / par mois / par an 同理；fois 表次数。",
+            "exampleSentence": "pour y faire la lecture aux jeunes élèves une fois par semaine"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "être chargé de faire qch",
+            "meaning": "负责做某事，受委托做某事",
+            "usage": "介词固定为 de；chargé 须与主语性数配合（chargée 阴性）。书面语常用。",
+            "exampleSentence": "je ne suis pas chargée de leur apprendre à lire"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "apprendre à qn à faire qch",
+            "meaning": "教某人做某事",
+            "usage": "“教”用双重结构 à qn à faire；区别于 apprendre à faire qch（学会做某事）。",
+            "exampleSentence": "je ne suis pas chargée de leur apprendre à lire"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "avoir envie de faire qch",
+            "meaning": "想做某事，有意愿做某事",
+            "usage": "介词固定为 de；de 后接不定式或名词；语气较 vouloir 委婉。",
+            "exampleSentence": "pour qu'ils aient envie de le faire ensuite tout seuls"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "se souvenir de qch / qn",
+            "meaning": "记得，回忆起",
+            "usage": "代词式动词，介词固定为 de；近义 se rappeler qch（直接及物，不带 de）。两者搭配不同，为考研易混点。",
+            "exampleSentence": "Je me souviens encore de mon émerveillement au premier roman..."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "lutter contre qch / qn",
+            "meaning": "与……作斗争，对抗",
+            "usage": "介词固定为 contre；lutter pour 则表“为……而奋斗”，介词不同含义相反。",
+            "exampleSentence": "...est le meilleur moyen de lutter contre l'échec scolaire."
+        },
+        {
+            "listIndex": "16",
+            "collocation": "dès que + 直陈式",
+            "meaning": "一……就……",
+            "usage": "引导时间状语从句，强调两动作紧接；从句用直陈式（注意将来语境用先将来时表“先完成”）。",
+            "exampleSentence": "dès que les enfants savent lire, bien souvent les parents ne leur lisent plus rien"
+        },
+        {
+            "listIndex": "17",
+            "collocation": "par manque de qch",
+            "meaning": "由于缺乏……",
+            "usage": "课文 Note 5：loc.prép.（介词短语），de 后名词通常不加冠词；表消极原因。",
+            "exampleSentence": "...les parents ne leur lisent plus rien, par manque de temps..."
+        },
+        {
+            "listIndex": "18",
+            "collocation": "se débrouiller (tout seul)",
+            "meaning": "自己设法应付，自行解决",
+            "usage": "代词式动词，口语常用，含“想方设法、自食其力”之意。",
+            "exampleSentence": "leurs petits doivent désormais se débrouiller tout seuls"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "replier",
+            "partOfSpeech": "vt.",
+            "definition": "①重新折叠；合拢，收拢 ②使（身体部位）蜷起，缩起",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "replier ses genoux",
+                    "vocabularyCollocationMeaning": "蜷起双膝"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "replier une carte",
+                    "vocabularyCollocationMeaning": "把地图折起来"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se replier",
+                    "vocabularyCollocationMeaning": "（军队）撤退；蜷缩"
+                }
+            ],
+            "synonymAnalysis": "replier vs plier：plier 指“折叠”这一基本动作；replier 带前缀 re-，强调“重新折叠、向内折回、合拢”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pli",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "褶，褶皱；折痕"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "repli",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "折叠处；（军队）撤退"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "plier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "折叠，弯曲"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "effrayé",
+            "partOfSpeech": "adj.",
+            "definition": "惊恐的，受惊的，害怕的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être effrayé par / de qch",
+                    "vocabularyCollocationMeaning": "被某事吓到"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un air effrayé",
+                    "vocabularyCollocationMeaning": "惊恐的神情"
+                }
+            ],
+            "synonymAnalysis": "effrayé vs effrayant：effrayé 为过去分词转化的形容词，表“（人）感到害怕的”（被动）；effrayant 为现在分词转化，表“令人害怕的、可怕的”（主动）。这类 -é / -ant 配对是考研高频辨析点。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "effrayer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使惊恐，吓唬"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "effrayant",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可怕的，骇人的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "frayeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "惊恐，恐惧"
+                }
+            ],
+            "genderNumberVariation": "阴性 effrayée，阳性复数 effrayés，阴性复数 effrayées（规则：阴性 +e，复数 +s）",
+            "position": "通常作表语或置于名词后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "rêveur, se",
+            "partOfSpeech": "adj.",
+            "definition": "①爱幻想的，好遐想的 ②（神情）出神的，沉思的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un air rêveur",
+                    "vocabularyCollocationMeaning": "出神的神情"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un sourire rêveur",
+                    "vocabularyCollocationMeaning": "遐想的微笑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un enfant rêveur",
+                    "vocabularyCollocationMeaning": "爱幻想的孩子"
+                }
+            ],
+            "synonymAnalysis": "rêveur vs pensif：rêveur 强调耽于幻想、神思游离；pensif 强调陷入沉思、若有所思。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rêve",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "梦；梦想"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rêver",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "做梦；幻想，向往"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "rêverie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "遐想，幻想"
+                }
+            ],
+            "genderNumberVariation": "阴性 rêveuse，阳性复数 rêveurs，阴性复数 rêveuses（-eur → -euse）",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "4",
+            "vocabulary": "bénévole",
+            "partOfSpeech": "n.",
+            "definition": "①志愿者，义务工作者（n.） ②义务的，无偿的（亦可作 adj.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "travailler comme bénévole",
+                    "vocabularyCollocationMeaning": "做志愿者工作"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une association de bénévoles",
+                    "vocabularyCollocationMeaning": "志愿者协会"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un travail bénévole",
+                    "vocabularyCollocationMeaning": "无偿（义务）工作"
+                }
+            ],
+            "synonymAnalysis": "bénévole vs volontaire：bénévole 强调“无偿、不取报酬”地工作；volontaire 强调“自愿”，未必无偿（亦可指志愿兵）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bénévolat",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "志愿服务，义务工作"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bénévolement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "无偿地，义务地"
+                }
+            ],
+            "pluralForm": "bénévoles"
+        },
+        {
+            "index": "5",
+            "vocabulary": "retraité",
+            "partOfSpeech": "adj.",
+            "definition": "①退休的（adj.） ②退休者（n.）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un professeur retraité",
+                    "vocabularyCollocationMeaning": "退休教师"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les retraités",
+                    "vocabularyCollocationMeaning": "退休人员（名词用法）"
+                }
+            ],
+            "synonymAnalysis": "retraité（形容词/名词）vs prendre sa retraite / être à la retraite（动词短语）：前者表“退休的（人）”，后者表“退休、处于退休状态”这一动作或状态，搭配勿混。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "retraite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "退休；退休金；撤退"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "retraiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使退休；重新处理"
+                }
+            ],
+            "genderNumberVariation": "阴性 retraitée，阳性复数 retraités，阴性复数 retraitées",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "6",
+            "vocabulary": "présentateur, trice",
+            "partOfSpeech": "n.",
+            "definition": "①（电视、广播）节目主持人，播音员 ②推介者，介绍人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "présentateur de télévision",
+                    "vocabularyCollocationMeaning": "电视节目主持人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "présentateur du journal",
+                    "vocabularyCollocationMeaning": "新闻主播"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "présentateur de livres",
+                    "vocabularyCollocationMeaning": "图书推介人"
+                }
+            ],
+            "synonymAnalysis": "présentateur vs animateur：présentateur 侧重“播报、介绍”（如新闻主播）；animateur 侧重“活跃气氛、主持互动”（如娱乐或活动主持）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "présenter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "介绍；呈现，展示"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "présentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "介绍；展示，陈述"
+                }
+            ],
+            "pluralForm": "présentateurs / présentatrices"
+        },
+        {
+            "index": "7",
+            "vocabulary": "thème",
+            "partOfSpeech": "n.m.",
+            "definition": "①主题，题材 ②（外语学习）外译，即由母语译成外语的练习",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur le thème de",
+                    "vocabularyCollocationMeaning": "以……为主题"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le thème principal",
+                    "vocabularyCollocationMeaning": "主要主题"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "aborder un thème",
+                    "vocabularyCollocationMeaning": "谈及某一主题"
+                }
+            ],
+            "synonymAnalysis": "thème vs sujet：thème 指贯穿全文的中心思想、主题；sujet 指具体的题目、话题。另：翻译术语中 thème 指“中译外（母语→外语）”，version 指“外译中（外语→母语）”，考研须区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "thématique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "主题的，专题的"
+                }
+            ],
+            "pluralForm": "thèmes"
+        },
+        {
+            "index": "8",
+            "vocabulary": "disponible",
+            "partOfSpeech": "adj.",
+            "definition": "①（人）有空的，可自由支配时间的 ②（物）可供使用的，现有的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être disponible",
+                    "vocabularyCollocationMeaning": "有空，可被支配"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une place disponible",
+                    "vocabularyCollocationMeaning": "空位，可用座位"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "des informations disponibles",
+                    "vocabularyCollocationMeaning": "可获取的信息"
+                }
+            ],
+            "synonymAnalysis": "disponible vs libre：disponible 强调“可供支配、可使用”（人有空、物可用）；libre 强调“自由、无人占用”。如 un médecin disponible（有空的医生）/ une chambre libre（空房间）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "disponibilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "空闲；可用性，可获得性"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 disponible，复数 disponibles",
+            "position": "通常置于名词后"
+        },
+        {
+            "index": "9",
+            "vocabulary": "émerveillement",
+            "partOfSpeech": "n.m.",
+            "definition": "惊叹，赞叹，惊奇（含欣赏、赞美之情）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec émerveillement",
+                    "vocabularyCollocationMeaning": "惊叹地，赞叹地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un cri d'émerveillement",
+                    "vocabularyCollocationMeaning": "惊叹的呼声"
+                }
+            ],
+            "synonymAnalysis": "émerveillement vs étonnement vs admiration：émerveillement 为带赞美、欣喜的惊叹；étonnement 为中性的惊讶；admiration 为钦佩、赞赏。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "émerveiller",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使惊叹，使赞叹"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "s'émerveiller",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "惊叹，赞叹（de 对……）"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "merveille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "奇迹，奇观"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "merveilleux",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "奇妙的，绝妙的"
+                }
+            ],
+            "pluralForm": "émerveillements"
+        },
+        {
+            "index": "10",
+            "vocabulary": "cordée",
+            "partOfSpeech": "n.f.",
+            "definition": "（登山术语）用登山绳相互串联的一组登山者，结组",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "premier de cordée",
+                    "vocabularyCollocationMeaning": "登山组的首攀者，领攀者"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une cordée d'alpinistes",
+                    "vocabularyCollocationMeaning": "一组结绳的登山者"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "corde",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "绳，绳索"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "cordon",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "细绳，带子"
+                }
+            ],
+            "pluralForm": "cordées"
+        },
+        {
+            "index": "11",
+            "vocabulary": "guère",
+            "partOfSpeech": "adv.",
+            "definition": "①（与 ne 连用：ne... guère）不太，几乎不，很少 ②〈古/文〉很，非常（今已罕用）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ne... guère",
+                    "vocabularyCollocationMeaning": "不太，几乎不"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ne... plus guère",
+                    "vocabularyCollocationMeaning": "几乎不再"
+                }
+            ],
+            "synonymAnalysis": "ne... guère vs ne... pas：ne... guère 表“程度上不太、几乎不”，语气较委婉、偏书面；ne... pas 为一般否定，语气更直接、彻底。",
+            "derivedWords": [],
+            "useExplanation": "guère 几乎总是与 ne 连用，构成 ne... guère，置于变位动词之后（复合时态置于助动词与过去分词之间），表“程度低、数量少”，多用于书面语。课文 «ne se pratique plus guère» 即“几乎不再被实行”。教材所给“很、非常”为其古义，今已基本不用，备考应以“不太、几乎不”为准。"
+        }
+    ],
+    "translationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Après avoir travaillé pendant trente-huit ans comme institutrice, Claudine a pris sa retraite il y a deux ans. Mais comme elle aimait l'enseignement, elle est vite revenue dans les écoles pour y faire la lecture aux jeunes élèves une fois par semaine. Aujourd'hui, elle n'est pas chargée de leur apprendre à lire, mais de leur lire des histoires, pour qu'ils aient envie de le faire ensuite tout seuls. D'après elle, transmettre le goût et le plaisir de la lecture est le meilleur moyen de lutter contre l'échec scolaire.",
+            "chineseTranslation": "克洛迪娜当了三十八年小学教师，两年前才退休。但由于她热爱教学，她很快又回到了学校，每周一次给孩子们朗读。如今，她的职责不再是教孩子们识字，而是给他们读故事，好让他们随后也愿意自己去读。在她看来，把阅读的兴趣和乐趣传递给孩子，正是对抗学业失败的最好办法。",
+            "fr2cnStrategy": "① «Après avoir travaillé... comme institutrice» 不定式过去时短语前移译为主句的铺垫“当了三十八年小学教师”，并补出逻辑主语，体现语序调整与增译。② «comme elle aimait l'enseignement» 原因从句直接译为“由于她热爱教学”，保留逻辑显化。③ «pour y faire la lecture» 中的代词 y（代 dans les écoles）在译文中并入“回到了学校”，无需重复，属减译。④ «ne... pas..., mais...» 对举结构译为“不再是……，而是……”，符合汉语习惯。⑤ «pour qu'ils aient envie de le faire» 目的从句译为“好让他们……愿意自己去读”，中性代词 le 还原为“去读”，属还原增译。⑥ «transmettre... est le meilleur moyen» 不定式主语译为动词短语“把……传递给孩子”，抽象结构动词化，避免翻译腔。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "该协会成立于1999年，旨在鼓励所有公民阅读。",
+                "frenchTranslation": "L'Association a été fondée en 1999 pour encourager tous les citoyens à la lecture.",
+                "cn2frStrategy": "① “成立于”用被动语态 a été fondée（亦可用过去分词 fondée 作定语）；② “旨在”译为 pour + 不定式表目的；③ “鼓励某人……”须用固定搭配 encourager qn à qch，介词 à 不可换为 de。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "工作了三十八年之后，她退休了。",
+                "frenchTranslation": "Après avoir travaillé pendant trente-huit ans, elle a pris sa retraite.",
+                "cn2frStrategy": "① “……之后”用 après avoir + 过去分词（不定式过去时），逻辑主语与主句一致；② “退休”用固定搭配 prendre sa retraite，复合过去时 a pris；③ “工作了……（时长）”用 pendant 引出持续时间。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "她给孩子们读故事，好让他们想自己读书。",
+                "frenchTranslation": "Elle lit des histoires aux enfants pour qu'ils aient envie de lire tout seuls.",
+                "cn2frStrategy": "① “给某人读”用 lire qch à qn；② “好让……”用 pour que + 虚拟式，aient 为 avoir 的现在虚拟式（考点）；③ “想做某事”用 avoir envie de faire qch；④ “自己（独自）”用 tout seuls，与主语性数配合。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "由于缺乏时间，如今父母几乎不再给孩子读书了。",
+                "frenchTranslation": "Par manque de temps, les parents ne lisent plus guère d'histoires à leurs enfants aujourd'hui.",
+                "cn2frStrategy": "① “由于缺乏……”用介词短语 par manque de（de 后名词不加冠词）；② “几乎不再”用叠加否定 ne... plus guère；③ “给孩子读（故事）”用 lire qch à qn 结构；④ 否定句中直接宾语前的部分冠词 des 变为 d'（ne... plus d'histoires）。"
+            }
+        ]
+    }
+}

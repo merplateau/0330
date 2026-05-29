@@ -1,0 +1,1253 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Lorsque les hommes ont commencé à se poser des questions sur la Terre, ils ont d’abord supposé qu’elle était plate.",
+            "translatedSentence": "当人类开始对地球产生种种疑问时，他们最初设想地球是平的。",
+            "sentenceStructure": "主句为 ils ont d’abord supposé que...；Lorsque 引导时间状语从句 les hommes ont commencé à se poser des questions sur la Terre；que 引导宾语从句 qu’elle était plate。",
+            "grammarAnalysis": "① Lorsque 引导时间状语从句，意为“当……的时候”，语体较 quand 正式。② commencer à faire qch.（开始做某事），à 后接动词不定式。③ se poser des questions 为代词式动词搭配，意为“思考、产生疑问”。④ supposer que 后从句此处用直陈式未完成过去时 était，因为表达的是“当时被认为的客观状态”（参见课文注释①：supposer 后一般用虚拟式，但表数学、哲学等概念时可用直陈式）。",
+            "commonMistakes": "学生易把 supposer que 一律配虚拟式；此处描述客观认知内容，用直陈式更贴切。另外 se poser des questions 不要误解为“提问给别人”，而是“自问、思索”。"
+        },
+        {
+            "index": "2",
+            "sentence": "C’est ainsi que les anciens Hébreux, rédigeant la Bible, parlaient avec assurance des quatre coins de la Terre et de ses quatre côtés.",
+            "translatedSentence": "正因如此，古代希伯来人在撰写《圣经》时，曾信心十足地谈到地球的四个角和四条边。",
+            "sentenceStructure": "主干为 les anciens Hébreux parlaient... des quatre coins... et de ses quatre côtés；C’est ainsi que 为强调结构；rédigeant la Bible 为现在分词作状语，相当于一个伴随状语。",
+            "grammarAnalysis": "① C’est ainsi que... 为“就这样、正因如此”的强调句型。② rédigeant 是现在分词，表示与主句同时进行的伴随动作（=alors qu’ils rédigeaient la Bible）。③ parler de qch.（谈论某事），介词 de 与后面 des（de+les）、de ses 反复配合。④ avec assurance 为“介词 avec + 抽象名词”构成的方式状语，相当于一个副词。",
+            "commonMistakes": "易把 rédigeant 误判为修饰 la Bible 的定语；它实际描述主语 Hébreux 的状态。avec assurance 不要译作“带着保险”，assurance 此处意为“确信、自信”。"
+        },
+        {
+            "index": "3",
+            "sentence": "Puis, environ deux mille ans avant la découverte de l’Amérique par Christophe Colomb, les Grecs se mirent à penser que la Terre devait avoir la forme d’une sphère.",
+            "translatedSentence": "随后，大约在哥伦布发现美洲的两千年前，希腊人开始认为地球应当呈球形。",
+            "sentenceStructure": "主干为 les Grecs se mirent à penser que...；环境状语为 environ deux mille ans avant la découverte de l’Amérique par Christophe Colomb；que 引导宾语从句 la Terre devait avoir la forme d’une sphère。",
+            "grammarAnalysis": "① se mirent 是代词式动词 se mettre 的简单过去时（叙述书面体），se mettre à faire qch. 意为“着手、开始做某事”。② par Christophe Colomb 中的 par 引出动作的施动者（découverte de l’Amérique par...）。③ devoir 用未完成过去时 devait，表示推测，意为“理应、大概”。④ avoir la forme de qch. 为固定搭配，意为“呈……形状”。",
+            "commonMistakes": "se mirent 是简单过去时第三人称复数，易与现在时 se mettent 混淆。devait 此处非“必须”，而是表推测的“应当、大概”。"
+        },
+        {
+            "index": "4",
+            "sentence": "Voici l’une des raisons qu’ils avançaient: parfois, la nuit, il arrive que la lune ne brille pas de sa lumière habituelle.",
+            "translatedSentence": "下面就是他们提出的理由之一：有时在夜里，月亮会失去它平常的光亮。",
+            "sentenceStructure": "前半句 Voici l’une des raisons qu’ils avançaient 中，qu’ 引导关系从句修饰 raisons；冒号后为解释分句，主干是无人称结构 il arrive que la lune ne brille pas...。",
+            "grammarAnalysis": "① l’une des + 复数名词，意为“……之一”。② qu’ils avançaient 中 que 为直接宾语关系代词，先行词 raisons。③ il arrive que... 为无人称表达，意为“有时会发生……”，其后从句通常用虚拟式（brille 为 briller 的虚拟式现在时，与直陈式同形）。④ briller de sa lumière 为“以……光亮闪耀”，ne...pas 构成否定。",
+            "commonMistakes": "学生易忽略 il arrive que 后应配虚拟式；又因 briller 是第一组动词、虚拟式与直陈式同形而难以察觉考点。avancer 此处为“提出（理由、论点）”，不是“前进”。"
+        },
+        {
+            "index": "5",
+            "sentence": "S’il en était ainsi, la surface de la Terre serait courbe puisque son ombre l’était.",
+            "translatedSentence": "如果情况确实如此，那么地球表面就该是弯曲的，因为它的影子就是弯曲的。",
+            "sentenceStructure": "Si 引导条件从句 S’il en était ainsi（条件），主句 la surface de la Terre serait courbe（结果），puisque 引导原因从句 son ombre l’était。",
+            "grammarAnalysis": "① 与现在事实相反的假设句型：si + 未完成过去时（était），主句用条件式现在时（serait）。② en être ainsi 为固定表达，意为“情况如此、处于这种状态”（参见注释④）。③ l’était 中的 l’ 是中性代词 le，复指表语 courbe（参见注释⑤），故 l’était = était courbe。④ puisque 引导的原因从句表示已知、显而易见的理由。",
+            "commonMistakes": "易把 serait 误用为将来时；这是与现实相反的假设，须用条件式。中性代词 l’ 不指阴性 ombre，而是替代形容词 courbe。"
+        },
+        {
+            "index": "6",
+            "sentence": "Si la surface de la Terre était plate, on pourrait voir en permanence les étoiles du sud, quel que soit l’endroit où l’on se trouve, mais le cas est tout à fait différent.",
+            "translatedSentence": "假如地球表面是平的，那么无论我们身处何地，都能始终看到南方的群星，但事实却完全不是这样。",
+            "sentenceStructure": "Si la surface de la Terre était plate（条件从句）+ on pourrait voir...（主句）；quel que soit l’endroit où l’on se trouve 为让步状语从句；mais 引出转折分句 le cas est tout à fait différent。",
+            "grammarAnalysis": "① 假设句：si + 未完成过去时，主句用条件式现在时 pourrait。② en permanence 为固定词组，意为“持续地、始终”。③ quel que soit + 主语 为让步结构，意为“无论……是什么”，quel 须与后接名词性数一致，动词用虚拟式 soit。④ où l’on se trouve 中插入 l’ 仅为语音协调（避免 où on 的不雅连读），无实义。",
+            "commonMistakes": "quel que（无论）易与疑问形容词 quel 或 quoi que（无论什么事）混淆；quel que soit 后须用虚拟式且 quel 要配性数。l’on 的 l’ 不要当作冠词翻译。"
+        },
+        {
+            "index": "7",
+            "sentence": "La courbe étant constante, une surface courbe devient une sphère, il faut conclure que la Terre est sphérique.",
+            "translatedSentence": "由于这种弧度是恒定的，一个弯曲的表面便成了球面，因此必须得出结论：地球是球形的。",
+            "sentenceStructure": "La courbe étant constante 为独立分词从句（表原因）；主句为 une surface courbe devient une sphère；其后并列无人称结构 il faut conclure que la Terre est sphérique。",
+            "grammarAnalysis": "① La courbe étant constante 是“名词 + 现在分词”构成的独立分词结构（proposition participiale），自带主语，表原因，相当于 Comme la courbe est constante。② il faut + 不定式 为无人称结构，表“必须、应当”。③ conclure que 后接直陈式，陈述结论。",
+            "commonMistakes": "独立分词结构的主语（la courbe）独立于主句主语，学生常误把 étant 的逻辑主语当作 surface。il faut 是无人称动词，主语 il 无实义。"
+        },
+        {
+            "index": "8",
+            "sentence": "Tous ceux qui ont vécu au bord de la mer se rappellent, par exemple, avoir vu les bateaux apparaître et disparaître à l’horizon.",
+            "translatedSentence": "比如，所有在海边生活过的人都记得，曾看见船只在地平线上时隐时现。",
+            "sentenceStructure": "主语为 Tous ceux（qui ont vécu au bord de la mer 为修饰它的关系从句）；谓语 se rappellent；宾语为不定式短语 avoir vu les bateaux apparaître et disparaître à l’horizon。",
+            "grammarAnalysis": "① ceux qui... 为指示代词 + 关系从句，指“那些……的人”。② se rappeler + 名词或不定式（se rappeler avoir fait qch. 记得做过某事），此处接不定式过去时 avoir vu，强调动作先于“记得”发生。③ voir + 直接宾语 + 不定式（voir les bateaux apparaître）为感官动词结构，意为“看见船只出现”。",
+            "commonMistakes": "se rappeler 直接及物（se rappeler qch.），勿误加 de（那是 se souvenir de）。不定式过去时 avoir vu 表“曾看见”，不可用现在不定式。"
+        },
+        {
+            "index": "9",
+            "sentence": "Puis, au fur et à mesure qu’ils approchaient, la montagne semblait sortir de la mer tandis que sa base devenait plus grande.",
+            "translatedSentence": "随后，随着他们逐渐靠近，那座山仿佛从海中升起，与此同时山脚也越来越宽大。",
+            "sentenceStructure": "主干为 la montagne semblait sortir de la mer；au fur et à mesure qu’ils approchaient 为时间状语从句；tandis que sa base devenait plus grande 为对比/同时状语从句。",
+            "grammarAnalysis": "① au fur et à mesure que 为连词词组，意为“随着……（同步进行）”，后接从句。② sembler + 不定式（sembler sortir）意为“似乎、好像（做某事）”。③ tandis que 引导从句，此处表“与此同时”，亦可表对比。④ plus grande 为形容词比较级。",
+            "commonMistakes": "au fur et à mesure que（连词，后接句子）与 au fur et à mesure（副词词组，单独使用）易混；fur 一词仅用于该固定词组。tandis que 的对比义与时间义须据语境判断。"
+        },
+        {
+            "index": "10",
+            "sentence": "Et la même image se répétait, quel que soit le côté (est, ouest, nord ou sud) par lequel ils abordaient l’île.",
+            "translatedSentence": "而且无论他们从哪一侧（东、西、北或南）登岛，所看到的景象都一模一样。",
+            "sentenceStructure": "主干为 la même image se répétait；quel que soit le côté... 为让步状语从句；par lequel ils abordaient l’île 为修饰 le côté 的关系从句。",
+            "grammarAnalysis": "① se répéter 为代词式动词，意为“重复出现”。② quel que soit + 名词 让步结构，quel 与阳性单数 côté 一致作 soit（虚拟式）。③ par lequel 为介词 + 关系代词（lequel 与先行词 côté 性数一致），意为“通过／从……（这一侧）”。④ aborder 此处为及物动词“登上、靠岸（岛屿）”。",
+            "commonMistakes": "关系代词 lequel 须随先行词性数变化（le côté → lequel）；学生常误用 que。aborder une île 是“登岛”，不要理解为“搭话”。"
+        },
+        {
+            "index": "11",
+            "sentence": "Pendant des centaines d’années, les navigateurs firent cette constatation, mais il n’était pas question, à l’époque, d’en tirer des preuves de la forme de la Terre, car ce serait contraire à la doctrine de l’Église catholique.",
+            "translatedSentence": "数百年间，航海家们一直有这样的观察，但在当时根本谈不上由此推断出地球的形状，因为那会与天主教会的教义相抵触。",
+            "sentenceStructure": "并列复句：分句一 les navigateurs firent cette constatation；分句二 il n’était pas question d’en tirer des preuves...（无人称结构）；car 引导原因分句 ce serait contraire à la doctrine de l’Église catholique。",
+            "grammarAnalysis": "① firent 是 faire 的简单过去时第三人称复数，用于书面叙述。② il n’est (était) pas question de + 不定式 为无人称固定表达，意为“谈不上、不可能”。③ en 复指前文（=de cette constatation），与 tirer des preuves de... 配合（tirer qch de qch 从……得出）。④ car 引导原因；ce serait 用条件式表示假设性后果。",
+            "commonMistakes": "il n’est pas question de 不要按字面译为“没有问题”，而是“谈不上、不可能”。代词 en 的复指对象易被忽略。firent / serait 的时态语态须分辨。"
+        },
+        {
+            "index": "12",
+            "sentence": "Il fallut attendre que les grands bateaux soient construits: à ce moment-là, on put faire le tour de la Terre et prouver qu’elle était ronde.",
+            "translatedSentence": "人们不得不等到大型船只造好之后：到那时，才得以环绕地球一周，从而证明它是圆的。",
+            "sentenceStructure": "前半句无人称结构 Il fallut attendre que...，que 从句 les grands bateaux soient construits；冒号后主干 on put faire le tour de la Terre et prouver que...。",
+            "grammarAnalysis": "① Il fallut 是无人称动词 falloir 的简单过去时。② attendre que / falloir que 后接虚拟式，soient construits 为被动态虚拟式现在时。③ put 是 pouvoir 的简单过去时第三人称单数。④ faire le tour de qch. 为固定搭配，意为“环绕……一周、走遍”。",
+            "commonMistakes": "fallut（falloir 简单过去）与 voulut/put 等简单过去时形式易混；attendre que 后必须用虚拟式。put 不要误读为现在时。faire le tour de 不是“轮流”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "se poser des questions sur qch.",
+            "meaning": "对某事产生疑问、加以思索",
+            "usage": "代词式动词搭配，介词用 sur 引出思索的对象；不要与 poser une question à qn.（向某人提问）混淆。",
+            "exampleSentence": "Lorsque les hommes ont commencé à se poser des questions sur la Terre, ils ont d’abord supposé qu’elle était plate."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "commencer à faire qch.",
+            "meaning": "开始做某事",
+            "usage": "commencer 后接不定式时常用介词 à（commencer à faire）；commencer par faire 则强调“首先做……”，含先后次序，二者勿混。",
+            "exampleSentence": "Lorsque les hommes ont commencé à se poser des questions sur la Terre..."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "supposer que + 直陈式／虚拟式",
+            "meaning": "假设、设想（某情况）",
+            "usage": "一般情况下从句用虚拟式；但在表达数学、哲学等确定性概念或客观认知时可用直陈式（见课文注释①）。",
+            "exampleSentence": "ils ont d’abord supposé qu’elle était plate"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "parler de qch.",
+            "meaning": "谈论、提及某事",
+            "usage": "间接及物动词，介词固定为 de；de + le → du，de + les → des。",
+            "exampleSentence": "les anciens Hébreux... parlaient avec assurance des quatre coins de la Terre"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "avec assurance",
+            "meaning": "确信地、信心十足地",
+            "usage": "“avec + 抽象名词”构成方式状语，相当于一个副词（=avec confiance）；书面口语皆可用。",
+            "exampleSentence": "les anciens Hébreux... parlaient avec assurance des quatre coins de la Terre"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se mettre à faire qch.",
+            "meaning": "着手、开始做某事",
+            "usage": "代词式动词，介词用 à 接不定式；较 commencer 更强调动作的“起步、投入”。简单过去时为 il se mit / ils se mirent。",
+            "exampleSentence": "les Grecs se mirent à penser que la Terre devait avoir la forme d’une sphère"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "avoir la forme de qch.",
+            "meaning": "呈……形状",
+            "usage": "固定搭配，la forme de + 名词；注意 forme 前用定冠词 la。",
+            "exampleSentence": "la Terre devait avoir la forme d’une sphère"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "il arrive que + 虚拟式",
+            "meaning": "有时会发生……、（间或）出现……",
+            "usage": "无人称表达，从句须用虚拟式；表示偶发情况。注意区别于 arriver à faire qch.（成功做到某事）。",
+            "exampleSentence": "il arrive que la lune ne brille pas de sa lumière habituelle"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "il en est (était) ainsi",
+            "meaning": "情况如此、是这样",
+            "usage": "en être ainsi 为固定表达，en 复指前文情形；常用于条件句 s’il en était ainsi（如果是这样的话）。",
+            "exampleSentence": "S’il en était ainsi, la surface de la Terre serait courbe..."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "quel que soit + 名词",
+            "meaning": "无论……（是什么）",
+            "usage": "让步结构，quel 须与所修饰名词性数一致，系动词用虚拟式 soit/soient；勿与 quoi que（无论什么事）相混。",
+            "exampleSentence": "quel que soit l’endroit où l’on se trouve"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "en permanence",
+            "meaning": "持续地、始终、一直",
+            "usage": "固定副词词组，作状语；与 permanence 的搭配，相当于 sans cesse / constamment。",
+            "exampleSentence": "on pourrait voir en permanence les étoiles du sud"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "se rappeler avoir fait qch.",
+            "meaning": "记得做过某事",
+            "usage": "se rappeler 直接及物（接名词或不定式过去时），不加 de；表“记得已发生的动作”须用不定式过去时。对比 se souvenir de qch.。",
+            "exampleSentence": "Tous ceux qui ont vécu au bord de la mer se rappellent... avoir vu les bateaux apparaître et disparaître"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "au bord de qch.",
+            "meaning": "在……的边缘、岸边",
+            "usage": "au bord de la mer（在海边）、au bord de la route（在路边）；引申义 au bord des larmes（快要哭出来）。",
+            "exampleSentence": "Tous ceux qui ont vécu au bord de la mer se rappellent..."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "à bord de qch.",
+            "meaning": "在（船、飞机等）上",
+            "usage": "à bord (de + 交通工具)；monter à bord 上船／上机。注意与 au bord de（在边缘）区分。",
+            "exampleSentence": "les marins, à bord de leur bateau, pouvaient constater un phénomène semblable"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "commencer par faire qch.",
+            "meaning": "（首先、起先）做某事",
+            "usage": "commencer par + 不定式 强调动作的起始环节、先后顺序；与 commencer à faire（单纯“开始”）区别明显。",
+            "exampleSentence": "ils commençaient par apercevoir un point à l’horizon"
+        },
+        {
+            "listIndex": "16",
+            "collocation": "au fur et à mesure que + 从句",
+            "meaning": "随着……（同步推进）",
+            "usage": "连词词组，后接句子；若单独作状语则用 au fur et à mesure（副词词组）。fur 仅存于此固定结构中。",
+            "exampleSentence": "au fur et à mesure qu’ils approchaient, la montagne semblait sortir de la mer"
+        },
+        {
+            "listIndex": "17",
+            "collocation": "il n’est (était) pas question de + 不定式",
+            "meaning": "谈不上、根本不可能（做某事）",
+            "usage": "无人称固定表达，de 后接不定式或名词；语气强烈，表断然否定。",
+            "exampleSentence": "il n’était pas question, à l’époque, d’en tirer des preuves de la forme de la Terre"
+        },
+        {
+            "listIndex": "18",
+            "collocation": "tirer qch de qch.",
+            "meaning": "从……中得出、引出、推断出",
+            "usage": "tirer des preuves / des conclusions de qch.（从……得出证据／结论）；介词固定为 de。",
+            "exampleSentence": "il n’était pas question... d’en tirer des preuves de la forme de la Terre"
+        },
+        {
+            "listIndex": "19",
+            "collocation": "être contraire à qch.",
+            "meaning": "与……相反、相抵触",
+            "usage": "形容词 contraire 接介词 à；contraire à la loi / à la doctrine（违法／违背教义）。",
+            "exampleSentence": "car ce serait contraire à la doctrine de l’Église catholique"
+        },
+        {
+            "listIndex": "20",
+            "collocation": "faire le tour de qch.",
+            "meaning": "环绕……一周；走遍、遍历",
+            "usage": "固定搭配 faire le tour de + 名词；faire le tour de la Terre（环球一周）、faire le tour de la question（全面研究某问题）。",
+            "exampleSentence": "on put faire le tour de la Terre et prouver qu’elle était ronde"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "supposer",
+            "partOfSpeech": "vt.",
+            "definition": "①假设，设想，推测 ②以……为前提",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "supposer que + 直陈式／虚拟式",
+                    "vocabularyCollocationMeaning": "假设、设想（某情况）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "supposer qqn capable de faire qch.",
+                    "vocabularyCollocationMeaning": "认为某人能做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à supposer que + 虚拟式",
+                    "vocabularyCollocationMeaning": "假定、即便（让步假设）"
+                }
+            ],
+            "synonymAnalysis": "supposer vs présumer：supposer 为一般性“假设、推测”，语体中性；présumer 更正式，常含“根据迹象推定”之意（如法律 être présumé innocent 被推定无罪）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "supposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "假设，推测"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "présupposer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "预先假定，以……为前提"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "plat",
+            "partOfSpeech": "adj.",
+            "definition": "①平的，平坦的 ②（味道、文章）平淡的，乏味的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un terrain plat",
+                    "vocabularyCollocationMeaning": "平坦的地面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "de l’eau plate",
+                    "vocabularyCollocationMeaning": "无气矿泉水（对 eau gazeuse）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "à plat",
+                    "vocabularyCollocationMeaning": "平放地；（轮胎）没气；筋疲力尽"
+                }
+            ],
+            "synonymAnalysis": "plat vs plan：plat 指表面平整、无起伏；plan 多用于几何，指“平面的”（surface plane 平面）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "platitude",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "平淡，陈词滥调"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "aplatir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "压平，弄扁"
+                }
+            ],
+            "genderNumberVariation": "阴性 plate，阳性复数 plats，阴性复数 plates",
+            "position": "作客观描写时通常置于名词后（un toit plat）。注意 plat 亦可作 n.m.，意为“盘子；菜肴”。"
+        },
+        {
+            "index": "3",
+            "vocabulary": "disque",
+            "partOfSpeech": "n.m.",
+            "definition": "①圆盘，圆面 ②唱片 ③（计算机）磁盘",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un disque plat",
+                    "vocabularyCollocationMeaning": "一个扁平的圆盘"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un disque dur",
+                    "vocabularyCollocationMeaning": "硬盘"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "disquette",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "软盘"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "discothèque",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "唱片收藏室；舞厅"
+                }
+            ],
+            "pluralForm": "disques"
+        },
+        {
+            "index": "4",
+            "vocabulary": "carré",
+            "partOfSpeech": "adj.",
+            "definition": "①正方形的，四方的 ②（数学）平方的 ③（性格、回答）干脆的，直率的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une table carrée",
+                    "vocabularyCollocationMeaning": "方桌"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un mètre carré",
+                    "vocabularyCollocationMeaning": "平方米"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "carrément",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "干脆地，直截了当地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "carreau",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "方格；瓷砖；（玻璃）窗格"
+                }
+            ],
+            "genderNumberVariation": "阴性 carrée，阳性复数 carrés，阴性复数 carrées",
+            "position": "通常置于名词后；亦可作 n.m.，意为“正方形；（数学）平方”。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "assurance",
+            "partOfSpeech": "n.f.",
+            "definition": "①确信，把握，自信 ②保证，担保 ③保险",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec assurance",
+                    "vocabularyCollocationMeaning": "确信地，自信地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une compagnie d’assurance",
+                    "vocabularyCollocationMeaning": "保险公司"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "parler avec assurance",
+                    "vocabularyCollocationMeaning": "信心十足地说"
+                }
+            ],
+            "synonymAnalysis": "assurance vs confiance：assurance 侧重外在表现出的“笃定、把握”；confiance 侧重内心的“信任、信心”（avoir confiance en qn. 信任某人）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "assurer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "保证；确保；为……保险"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rassurer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使安心，使放心"
+                }
+            ],
+            "pluralForm": "assurances"
+        },
+        {
+            "index": "6",
+            "vocabulary": "sphère",
+            "partOfSpeech": "n.f.",
+            "definition": "①球，球体 ②（活动、影响的）领域，范围",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la forme d’une sphère",
+                    "vocabularyCollocationMeaning": "球形"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la sphère privée",
+                    "vocabularyCollocationMeaning": "私人领域"
+                }
+            ],
+            "synonymAnalysis": "sphère vs boule / globe：sphère 强调几何意义的“球体”；boule 指日常的“小球、团状物”；globe 多指“地球仪、球状大物”（le globe terrestre）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sphérique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "球形的，球状的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "atmosphère",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "大气层；气氛"
+                }
+            ],
+            "pluralForm": "sphères"
+        },
+        {
+            "index": "7",
+            "vocabulary": "avancer",
+            "partOfSpeech": "vt.",
+            "definition": "①提出（论点、理由） ②使前进，移前 ③vi. 前进，往前走；进展，进步",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avancer une idée / un argument",
+                    "vocabularyCollocationMeaning": "提出一个想法／论据"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avancer dans son travail",
+                    "vocabularyCollocationMeaning": "工作有进展"
+                }
+            ],
+            "synonymAnalysis": "avancer vs proposer：avancer une idée 侧重“提出（供讨论的）观点、论据”；proposer 侧重“提议、建议（让人采纳或选择）”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "avance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "前进；提前；预付款"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "avancement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "前进；（工作）进展；晋升"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j’avance, tu avances, il avance, nous avançons, vous avancez, ils avancent",
+                "compoundPast": "j’ai avancé",
+                "simpleFuture": "j’avancerai",
+                "imperfect": "j’avançais, nous avancions",
+                "memoryAids": "属 -cer 类拼写变化动词，与 commencer 同：c 在 a、o 前须改写为 ç 以保持 [s] 音，故 nous avançons、je avançais。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "ombre",
+            "partOfSpeech": "n.f.",
+            "definition": "①影子，阴影 ②暗处，背阴处 ③一丝，些许（引申）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l’ombre",
+                    "vocabularyCollocationMeaning": "在阴凉处"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l’ombre projetée sur qch.",
+                    "vocabularyCollocationMeaning": "投射在……上的影子"
+                }
+            ],
+            "synonymAnalysis": "ombre vs obscurité / ténèbres：ombre 指物体遮光形成的“影子、背阴”；obscurité 指普遍的“黑暗、昏暗”；ténèbres 为书面语，指“浓重的黑暗”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ombrage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（树木的）荫蔽，树荫"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "ombrelle",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "（女用）阳伞"
+                }
+            ],
+            "pluralForm": "ombres"
+        },
+        {
+            "index": "9",
+            "vocabulary": "projeter",
+            "partOfSpeech": "vt.",
+            "definition": "①投射，投影（光、影） ②抛出，喷射 ③计划，打算",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "projeter une ombre / une image",
+                    "vocabularyCollocationMeaning": "投射出影子／图像"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "projeter de faire qch.",
+                    "vocabularyCollocationMeaning": "打算做某事"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "projet",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "计划，方案；项目"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "projection",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "投射，投影；放映"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "projecteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "投影仪，放映机；探照灯"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je projette, tu projettes, il projette, nous projetons, vous projetez, ils projettent",
+                "compoundPast": "j’ai projeté",
+                "simpleFuture": "je projetterai",
+                "memoryAids": "属 -eter 类动词，与 jeter 同：在哑音 e 前双写 t（je projette, ils projettent），而 nous/vous 保持单 t（nous projetons）；将来时词干也双写 t（projetterai）。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "apparent",
+            "partOfSpeech": "adj.",
+            "definition": "①清楚的，明显的 ②表面的，貌似的（与实质相对）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une forme nettement apparente",
+                    "vocabularyCollocationMeaning": "十分明显的形状"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une contradiction apparente",
+                    "vocabularyCollocationMeaning": "表面上的矛盾"
+                }
+            ],
+            "synonymAnalysis": "apparent vs évident / visible：apparent 既可指“明显的”，也可暗含“表面的（未必真实）”；évident 指“显而易见、无可置疑”；visible 指“肉眼可见的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "apparence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "外表，外观；表象"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "apparemment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "显然；看来，似乎"
+                }
+            ],
+            "genderNumberVariation": "阴性 apparente，阳性复数 apparents，阴性复数 apparentes",
+            "position": "通常置于名词后。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "courbe",
+            "partOfSpeech": "adj.",
+            "definition": "①弯曲的，弧形的 ②n.f. 曲线，弧线；（统计）曲线图",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une surface courbe",
+                    "vocabularyCollocationMeaning": "弯曲的表面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une courbe de température",
+                    "vocabularyCollocationMeaning": "温度曲线"
+                }
+            ],
+            "synonymAnalysis": "courbe vs courbé：courbe 为形容词，指本身呈弧形的（ligne courbe）；courbé 为过去分词转形容词，指被弯折成弯的（dos courbé 弯曲的背）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "courber",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使弯曲，弄弯"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "courbure",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "弯曲（度），弧度"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形 courbe，复数 courbes",
+            "position": "作形容词时通常置于名词后；亦作 n.f.（曲线）。"
+        },
+        {
+            "index": "12",
+            "vocabulary": "horizon",
+            "partOfSpeech": "n.m.",
+            "definition": "①天边，地平线 ②（认识、活动的）视野，前景",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "à l’horizon",
+                    "vocabularyCollocationMeaning": "在地平线上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "élargir son horizon",
+                    "vocabularyCollocationMeaning": "开阔视野"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "horizontal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "水平的，横的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "horizontalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "水平地"
+                }
+            ],
+            "pluralForm": "horizons"
+        },
+        {
+            "index": "13",
+            "vocabulary": "argument",
+            "partOfSpeech": "n.m.",
+            "definition": "①论据，论点，理由 ②（数学、计算机）自变量，参数",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avancer un argument",
+                    "vocabularyCollocationMeaning": "提出一个论据"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un argument convaincant",
+                    "vocabularyCollocationMeaning": "有说服力的论据"
+                }
+            ],
+            "synonymAnalysis": "argument vs preuve / raison：argument 是为说服他人而提出的“论据”；preuve 是确凿的“证据、凭证”；raison 是泛指的“理由、原因”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "argumenter",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "论证，提出论据"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "argumentation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "论证（过程），论据体系"
+                }
+            ],
+            "pluralForm": "arguments"
+        },
+        {
+            "index": "14",
+            "vocabulary": "permanence",
+            "partOfSpeech": "n.f.",
+            "definition": "①永久，持久，持续 ②（机构的）值班，常设处",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en permanence",
+                    "vocabularyCollocationMeaning": "持续地，始终，一直"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "assurer la permanence",
+                    "vocabularyCollocationMeaning": "负责值班"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "permanent",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "持久的，常设的，长期的"
+                }
+            ],
+            "pluralForm": "permanences"
+        },
+        {
+            "index": "15",
+            "vocabulary": "constant",
+            "partOfSpeech": "adj.",
+            "definition": "①稳定的，恒定的 ②持续不断的 ③（人）坚定的，始终如一的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une vitesse constante",
+                    "vocabularyCollocationMeaning": "恒定的速度"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un effort constant",
+                    "vocabularyCollocationMeaning": "持续不断的努力"
+                }
+            ],
+            "synonymAnalysis": "constant vs continuel / permanent：constant 强调“恒定、不变”；continuel 强调“不断重复发生”；permanent 强调“长期持续、常设”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "constance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "恒定；坚定不移"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "constamment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "不断地，经常地"
+                }
+            ],
+            "genderNumberVariation": "阴性 constante，阳性复数 constants，阴性复数 constantes",
+            "position": "通常置于名词后；亦可作 n.f.（constante 常数，恒量）。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "sphérique",
+            "partOfSpeech": "adj.",
+            "definition": "球形的，球状的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une forme sphérique",
+                    "vocabularyCollocationMeaning": "球形"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un objet sphérique",
+                    "vocabularyCollocationMeaning": "球状物体"
+                }
+            ],
+            "synonymAnalysis": "sphérique vs rond：sphérique 指三维的“球形”；rond 既可指二维的“圆形”，也可泛指“圆的、圆滚滚的”，更口语。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sphère",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "球，球体；领域"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形 sphérique，复数 sphériques",
+            "position": "通常置于名词后。"
+        },
+        {
+            "index": "17",
+            "vocabulary": "prouver",
+            "partOfSpeech": "vt.",
+            "definition": "①证明，证实 ②表明，显示",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prouver que + 直陈式",
+                    "vocabularyCollocationMeaning": "证明……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "prouver son innocence",
+                    "vocabularyCollocationMeaning": "证明自己清白"
+                }
+            ],
+            "synonymAnalysis": "prouver vs démontrer：prouver 侧重“以证据证明（事实）”；démontrer 侧重“以推理论证（道理、定理）”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "preuve",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "证据，凭证"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "mât",
+            "partOfSpeech": "n.m.",
+            "definition": "桅，桅杆；（旗杆等）杆，柱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le bout des mâts",
+                    "vocabularyCollocationMeaning": "桅杆的顶端"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un mât de drapeau",
+                    "vocabularyCollocationMeaning": "旗杆"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "mâts"
+        },
+        {
+            "index": "19",
+            "vocabulary": "bord",
+            "partOfSpeech": "n.m.",
+            "definition": "①边，边缘 ②岸边，河岸 ③（船、飞机的）舷，内部",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au bord de la mer",
+                    "vocabularyCollocationMeaning": "在海边"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à bord (de)",
+                    "vocabularyCollocationMeaning": "在船上／飞机上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "au bord des larmes",
+                    "vocabularyCollocationMeaning": "快要哭出来"
+                }
+            ],
+            "synonymAnalysis": "au bord de vs à bord de：au bord de 指“在……边缘／岸边”；à bord de 指“在（交通工具）上”，二者意义截然不同，须严格区分。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "border",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "镶边；沿……延伸；给（床）掖被"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bordure",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "边缘，镶边"
+                }
+            ],
+            "pluralForm": "bords"
+        },
+        {
+            "index": "20",
+            "vocabulary": "phénomène",
+            "partOfSpeech": "n.m.",
+            "definition": "①现象 ②（口语）怪人，奇人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un phénomène naturel",
+                    "vocabularyCollocationMeaning": "自然现象"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "constater un phénomène",
+                    "vocabularyCollocationMeaning": "观察到一种现象"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "phénoménal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "现象的；惊人的，非凡的"
+                }
+            ],
+            "pluralForm": "phénomènes"
+        },
+        {
+            "index": "21",
+            "vocabulary": "fur",
+            "partOfSpeech": "n.m.",
+            "definition": "（仅用于固定词组中，无独立词义）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "au fur et à mesure",
+                    "vocabularyCollocationMeaning": "陆续地，逐渐地（副词词组）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au fur et à mesure que + 从句",
+                    "vocabularyCollocationMeaning": "随着……（连词词组）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "fur 仅存在于固定结构 au fur et à mesure (que) 中，本身已不再单独使用。单独作状语时用 au fur et à mesure；后接整句时用 au fur et à mesure que。"
+        },
+        {
+            "index": "22",
+            "vocabulary": "aborder",
+            "partOfSpeech": "vt.",
+            "definition": "①登上，靠岸（船只）；进入（地点） ②着手处理（问题） ③上前与（某人）搭话",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aborder une île",
+                    "vocabularyCollocationMeaning": "登上一座岛"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "aborder un sujet / une question",
+                    "vocabularyCollocationMeaning": "着手讨论一个话题／问题"
+                }
+            ],
+            "synonymAnalysis": "aborder vs accoster：aborder 词义广，含“登陆、着手、搭话”等；accoster 偏指船只“靠岸”或上前“搭讪”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "abord",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "接近；（复数）周边一带；d’abord 首先"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "abordable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可接近的；（价格）实惠的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "23",
+            "vocabulary": "navigateur",
+            "partOfSpeech": "n.m.",
+            "definition": "①航海家，航海者 ②（计算机）浏览器",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un navigateur expérimenté",
+                    "vocabularyCollocationMeaning": "经验丰富的航海家"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un navigateur web",
+                    "vocabularyCollocationMeaning": "网页浏览器"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "naviguer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "航行；（网上）浏览"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "navigation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "航行，航海；导航"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "navire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（大型）船舶"
+                }
+            ],
+            "pluralForm": "navigateurs（阴性 navigatrice，复数 navigatrices）"
+        },
+        {
+            "index": "24",
+            "vocabulary": "constatation",
+            "partOfSpeech": "n.f.",
+            "definition": "①观察，查明 ②（观察后得出的）发现，结论",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire une constatation",
+                    "vocabularyCollocationMeaning": "作出观察、得出一项发现"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une constatation objective",
+                    "vocabularyCollocationMeaning": "客观的观察结论"
+                }
+            ],
+            "synonymAnalysis": "constatation vs observation：constatation 强调“确认、查明某既成事实”；observation 强调“（持续的）观察行为”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "constater",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "查明，确认，观察到"
+                }
+            ],
+            "pluralForm": "constatations"
+        },
+        {
+            "index": "25",
+            "vocabulary": "tirer",
+            "partOfSpeech": "vt.",
+            "definition": "①拉，拽，拖 ②抽出，引出 ③（tirer qch de qch）从……得出、推断出 ④射击，开（枪）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tirer qch de qch.",
+                    "vocabularyCollocationMeaning": "从……中得出、推断出"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tirer une conclusion",
+                    "vocabularyCollocationMeaning": "得出结论"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "tirer profit de qch.",
+                    "vocabularyCollocationMeaning": "从……中获益"
+                }
+            ],
+            "synonymAnalysis": "tirer vs traîner：tirer 强调“拉、拽（使之移动或离开）”；traîner 强调“拖（往往贴地、费力或不情愿）”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tir",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "射击，发射"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tirage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（书刊）印数，发行量；抽签"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "26",
+            "vocabulary": "preuve",
+            "partOfSpeech": "n.f.",
+            "definition": "①证据，凭证 ②证明，表现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tirer des preuves de qch.",
+                    "vocabularyCollocationMeaning": "从……中得出证据"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "faire preuve de qch.",
+                    "vocabularyCollocationMeaning": "表现出、显示出（某品质）"
+                }
+            ],
+            "synonymAnalysis": "preuve vs témoignage：preuve 是广义的“证据”；témoignage 特指（证人的）“证词、见证”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prouver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "证明，证实"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "éprouver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "体验，感受；考验"
+                }
+            ],
+            "pluralForm": "preuves"
+        },
+        {
+            "index": "27",
+            "vocabulary": "doctrine",
+            "partOfSpeech": "n.f.",
+            "definition": "①学说，理论 ②教义，信条",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la doctrine de l’Église",
+                    "vocabularyCollocationMeaning": "教会的教义"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une doctrine politique",
+                    "vocabularyCollocationMeaning": "政治学说"
+                }
+            ],
+            "synonymAnalysis": "doctrine vs théorie / dogme：doctrine 指系统的“学说、教义”；théorie 指“（学术）理论”；dogme 指不容置疑的“教条、信条”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "doctrinal",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "教义的，学说的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "endoctriner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "向……灌输（学说、教条）"
+                }
+            ],
+            "pluralForm": "doctrines"
+        },
+        {
+            "index": "28",
+            "vocabulary": "église",
+            "partOfSpeech": "n.f.",
+            "definition": "①教堂 ②（大写 Église）教会",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à l’église",
+                    "vocabularyCollocationMeaning": "去教堂（做礼拜）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l’Église catholique",
+                    "vocabularyCollocationMeaning": "天主教会"
+                }
+            ],
+            "synonymAnalysis": "église（小写）指作为建筑物的“教堂”；Église（大写）指作为宗教机构的“教会”，书写时须注意大小写区别。",
+            "derivedWords": [],
+            "pluralForm": "églises"
+        },
+        {
+            "index": "29",
+            "vocabulary": "catholique",
+            "partOfSpeech": "adj.",
+            "definition": "①天主教的 ②n. 天主教徒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l’Église catholique",
+                    "vocabularyCollocationMeaning": "天主教会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la religion catholique",
+                    "vocabularyCollocationMeaning": "天主教"
+                }
+            ],
+            "synonymAnalysis": "catholique vs chrétien / protestant：chrétien 为上位概念“基督教（徒）的”；catholique（天主教）与 protestant（新教）同属基督教的不同分支。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "catholicisme",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "天主教，天主教教义"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形 catholique，复数 catholiques",
+            "position": "通常置于名词后（la religion catholique）。"
+        }
+    ],
+    "translationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Lorsque les hommes ont commencé à se poser des questions sur la Terre, ils ont d’abord supposé qu’elle était plate. Mais environ deux mille ans avant la découverte de l’Amérique, les Grecs se mirent à penser que la Terre devait avoir la forme d’une sphère. Ils remarquaient que, parfois, l’ombre projetée sur la lune présentait une forme nettement ronde. De plus, au fur et à mesure qu’un bateau s’approchait d’une île, la haute montagne semblait sortir de la mer tandis que sa base devenait plus grande. Tout cela prouvait bien que la Terre était ronde.",
+            "chineseTranslation": "当人类开始思考关于地球的种种问题时，他们最初设想地球是平的。然而，大约在哥伦布发现美洲的两千年前，希腊人就开始认为地球应当呈球形。他们注意到，有时投射在月球上的影子会呈现出十分明显的圆形。此外，随着船只逐渐驶近一座岛屿，那座高山仿佛从海中升起，山脚也越来越宽大。这一切都充分证明了地球是圆的。",
+            "fr2cnStrategy": "① Lorsque... ont commencé à se poser des questions 译为“当……开始思考种种问题”，将代词式动词转为汉语动宾结构（词性转换）；② se mirent à penser 简单过去时按汉语习惯用“就开始认为”，并以“然而”显化前后转折（增译衔接）；③ l’ombre projetée sur la lune 的后置过去分词定语前移译为“投射在月球上的影子”（语序调整）；④ au fur et à mesure que... 拆译为“随着……”引导的分句，避免长定语堆砌（拆句）；⑤ tandis que sa base devenait plus grande 译为并列短句“山脚也越来越宽大”，以逗号断句替代法语从句（拆句、避免“的的的”）；⑥ Tout cela prouvait bien 中的 bien 译为“充分”，加强语气（增译）。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "人们最初设想地球是平的。",
+                "frenchTranslation": "Les hommes ont d’abord supposé que la Terre était plate.",
+                "cn2frStrategy": "① “最初”用 d’abord 表达；② supposer que 后从句与主句过去语境配合，用未完成过去时 était（时态呼应）；③ “是平的”用系表结构 était plate。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "随着夜幕降临，越来越多的星星出现在地平线上。",
+                "frenchTranslation": "Au fur et à mesure que la nuit tombait, de plus en plus d’étoiles apparaissaient à l’horizon.",
+                "cn2frStrategy": "① “随着……”用连词词组 au fur et à mesure que 引导从句；② “夜幕降临”用习惯表达 la nuit tombait；③ “越来越多的”用 de plus en plus de；④ “在地平线上”用固定搭配 à l’horizon。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "无论我们身处何地，都能看到这一现象。",
+                "frenchTranslation": "Quel que soit l’endroit où nous nous trouvons, nous pouvons observer ce phénomène.",
+                "cn2frStrategy": "① “无论……何地”用让步结构 quel que soit l’endroit，quel 与阳性单数 endroit 一致，系动词用虚拟式 soit；② “身处”用代词式动词 se trouver；③ “这一现象”译 ce phénomène。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "这位航海家从他的观察中推断出地球是圆的。",
+                "frenchTranslation": "Ce navigateur a tiré de ses observations la conclusion que la Terre était ronde.",
+                "cn2frStrategy": "① “从……中推断出”用固定搭配 tirer qch de qch.；② “这位航海家”译 ce navigateur；③ “推断出地球是圆的”用 la conclusion que... 把宾语具体化（增译 conclusion 使结构更地道），从句时态与主句过去语境呼应用 était。"
+            }
+        ]
+    }
+}

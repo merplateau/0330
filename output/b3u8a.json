@@ -1,0 +1,850 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Nous ne pouvons y participer qu'en prenant contact avec la pensée de ces générations.",
+            "translatedSentence": "我们只有通过接触这些先辈的思想，才能融入这一文明之中。",
+            "sentenceStructure": "主语为 Nous，谓语为限定式 ne pouvons...participer（ne...que）；y 代替前文 à notre civilisation；en prenant contact... 为副动词作方式状语。",
+            "grammarAnalysis": "① ne...que 表限制，意为“只、仅仅”，被限制的成分紧跟 que（此处为 en prenant...）。② y 是副代词，代替 à + 名词（à notre civilisation），置于动词之前。③ en prenant 为副动词（gérondif，en + 现在分词），表方式，意为“通过……”。④ prendre contact avec qn/qch 是固定搭配，意为“与……接触”。",
+            "commonMistakes": "ne...que 不是否定而是限制，切勿译成“不能”。y 在此代替由 à 引导的间接成分（参与文明），不要漏译，也不要误解为地点状语“那里”。"
+        },
+        {
+            "index": "2",
+            "sentence": "Si cela est nécessaire et que nous voulions devenir cultivés, le seul moyen est la lecture.",
+            "translatedSentence": "倘若这是必要的，而且我们又想成为有教养的人，那么唯一的途径便是阅读。",
+            "sentenceStructure": "Si... 引导第一个条件状语从句，et que... 为并列的第二个条件从句，主句为 le seul moyen est la lecture。",
+            "grammarAnalysis": "① 两个并列的条件从句中，为避免重复 si，第二个从句改用 que 引导。② 由 que 替代 si 引导的此类从句，动词须用虚拟式，故 voulions 为 vouloir 的现在虚拟式（恰与 nous 的未完成过去时同形，需靠句法判断）。③ devenir + 表语形容词 cultivé，意为“变得有教养”。",
+            "commonMistakes": "et que 引导的条件从句必须用虚拟式，这是 si...et que... 句型的固定规则，考研常考。此处 voulions 不是未完成过去时，而是现在虚拟式（vouloir 在 nous 人称上二者同形）。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il nous apprend que d'autres, ont souffert et cherché comme nous, bien qu'ils soient plus grands que nous et que leurs conditions soient meilleures que les nôtres.",
+            "translatedSentence": "它（书籍）让我们懂得：尽管别人比我们更伟大、境遇也比我们更优越，但他们也曾像我们一样痛苦过、求索过。",
+            "sentenceStructure": "主句为 Il nous apprend que...；que 引导宾语从句 d'autres ont souffert et cherché；bien qu'... 引导让步状语从句，et que... 为并列的第二个让步从句。",
+            "grammarAnalysis": "① apprendre qch à qn / apprendre à qn que... 意为“告知某人某事”。② bien que 引导让步从句，动词用虚拟式，故用 soient（être 现在虚拟式）。③ 第二个让步从句承前用 que 引导，同样要求虚拟式 soient。④ les nôtres 为主有代词，代替 nos conditions（阴性复数）。",
+            "commonMistakes": "bien que 后必须用虚拟式，soient 不是将来时或条件式。第二个从句的 que 等同于 bien que（省略重复），同样要求虚拟式。les nôtres 是主有代词（= nos conditions），勿与 les autres 混淆。"
+        },
+        {
+            "index": "4",
+            "sentence": "Les grands hommes sont différents de nous par leurs dimensions, non par leur essence, et c'est la raison pour laquelle les grandes vies sont intéressantes pour tous les hommes.",
+            "translatedSentence": "伟人与我们的不同在于其格局，而非本质；正因如此，伟大的人生才对所有人都具有意义。",
+            "sentenceStructure": "前一分句为 Les grands hommes sont différents de nous...；后接 c'est la raison pour laquelle... 强调结构，pour laquelle 引导关系从句。",
+            "grammarAnalysis": "① être différent de qn par qch，意为“在……方面与某人不同”。② non par... 与前面的 par... 并列对照，意为“而非由于……”。③ la raison pour laquelle 中 laquelle 是关系代词的复合形式，前置词 pour + laquelle，先行词为 la raison，相当于英语 the reason why。",
+            "commonMistakes": "la raison pour laquelle 是固定的关系结构，不可用 que 替代；laquelle 须与先行词 raison（阴性单数）保持性数配合。"
+        },
+        {
+            "index": "5",
+            "sentence": "Aucun étudiant, si brillant soit-il, ne peut refaire seul ce que l'humanité a mis des milliers d'années à produire.",
+            "translatedSentence": "无论一个学生多么出色，他都无法独自重现人类耗费数千年才创造出来的成果。",
+            "sentenceStructure": "主语 Aucun étudiant，谓语 ne peut refaire；si brillant soit-il 为让步插入语；ce que... 为 refaire 的宾语从句。",
+            "grammarAnalysis": "① aucun...ne 构成否定，意为“没有任何”。② si + 形容词 + 虚拟式 + 主谓倒装（soit-il）是书面让步结构，意为“无论多么……”，soit 为 être 现在虚拟式。③ ce que 为复合关系代词，在从句中作 produire 的直接宾语。④ mettre + 时间 + à faire qch，意为“花（多少时间）做某事”。",
+            "commonMistakes": "si brillant soit-il 用虚拟式且主谓倒装，等同于 aussi brillant qu'il soit 或 bien qu'il soit brillant，勿写成 si brillant qu'il est。mettre des années à faire 中介词用 à，勿用 pour 或 de。"
+        },
+        {
+            "index": "6",
+            "sentence": "L'histoire serait peu de chose si elle était réduite aux faits et aux idées que le maître peut exposer en un petit nombre d'heures.",
+            "translatedSentence": "倘若历史仅仅被归结为老师在寥寥数小时内所能讲述的事实与观点，那它便微不足道了。",
+            "sentenceStructure": "主句为 L'histoire serait peu de chose（条件式现在时）；si 引导条件从句 elle était réduite...（未完成过去时）；que... 为关系从句，修饰 faits et idées。",
+            "grammarAnalysis": "① 本句是与现在事实相反的假设：si + 未完成过去时（était），主句用条件式现在时（serait）。② être réduit à qch，意为“被简化／归结为……”。③ peu de chose 意为“微不足道、没什么大不了”。④ que 引导关系从句，先行词为 les faits et les idées，que 作 exposer 的直接宾语。",
+            "commonMistakes": "这是第二种条件句（与现在相反的假设），si 从句用未完成过去时、主句用条件式现在时；切勿在 si 从句中使用条件式。être réduit à 的介词为 à。"
+        },
+        {
+            "index": "7",
+            "sentence": "Rien n'est donc plus important pour l'humanité que de mettre à sa disposition tous ces instruments pour dépasser, pour s'échapper et pour découvrir afin de transformer, à la lettre, la vie et multiplier la valeur sociale de l'individu.",
+            "translatedSentence": "因此，对人类而言，再没有什么比为其提供这一切工具更重要的了——借助它们去超越、去逃离、去发现，从而实实在在地改变生活、提升个体的社会价值。",
+            "sentenceStructure": "主干为 Rien n'est plus important...que de + 不定式（mettre...）；后续多个 pour + 不定式表目的，afin de transformer 表最终目的。",
+            "grammarAnalysis": "① Rien ne...plus...que... 是最高级比较结构，意为“没有什么比……更……”；比较项为不定式时，que 后须加 de（que de mettre）。② mettre qch à la disposition de qn，意为“把……供某人使用”，此处用 à sa disposition。③ à la lettre 是固定短语，意为“逐字地、确确实实地”。④ 连续的 pour + 不定式与 afin de + 不定式均表目的。",
+            "commonMistakes": "que de + 不定式中的 de 不可省略（比较项为不定式时须加 de）。à la lettre 不是“给字母”，而是习语“不折不扣地、确确实实地”。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "prendre contact avec qn/qch",
+            "meaning": "与……接触，取得联系",
+            "usage": "prendre contact 后用介词 avec；近义结构 entrer en contact avec。",
+            "exampleSentence": "Nous ne pouvons y participer qu'en prenant contact avec la pensée de ces générations."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "ne... que",
+            "meaning": "只，仅仅",
+            "usage": "限制性结构（非否定）；que 紧贴被限制的成分，须与表否定的 ne...pas 区分。",
+            "exampleSentence": "Nous ne pouvons y participer qu'en prenant contact avec la pensée de ces générations."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "en + 现在分词（副动词 gérondif）",
+            "meaning": "通过……；一边……一边……",
+            "usage": "en + 现在分词，其逻辑主语须与主句主语一致，可表方式、时间或条件。",
+            "exampleSentence": "...qu'en prenant contact avec la pensée de ces générations"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "en outre",
+            "meaning": "此外，而且",
+            "usage": "书面连接副词，用于补充论据；近义 de plus、par ailleurs。",
+            "exampleSentence": "En outre, cette amitié sera partagée par des millions d'êtres, en tous pays."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "une porte ouverte sur qch",
+            "meaning": "通向……的门（喻指开放的入口）",
+            "usage": "介词用 sur，常为比喻用法；ouverte 与 porte 性数配合。",
+            "exampleSentence": "Il est une porte ouverte sur d'autres âmes et d'autres peuples."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "bien que + 虚拟式",
+            "meaning": "尽管，虽然",
+            "usage": "让步连词，从句动词用虚拟式；近义 quoique，二者均较书面。",
+            "exampleSentence": "bien qu'ils soient plus grands que nous et que leurs conditions soient meilleures que les nôtres"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "grâce à qch",
+            "meaning": "多亏，由于",
+            "usage": "表积极原因，与表消极原因的 à cause de 相对。",
+            "exampleSentence": "Grâce à la lecture, nous pouvons nous échapper de notre petit univers personnel très étroit."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "s'échapper de qch",
+            "meaning": "从……中逃脱、逸出",
+            "usage": "代词式动词，固定搭配 de；须区别于 échapper à qch（躲开、逃过）。",
+            "exampleSentence": "nous pouvons nous échapper de notre petit univers personnel très étroit"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "être différent(e) de qn/qch (par qch)",
+            "meaning": "（在……方面）与……不同",
+            "usage": "形容词 différent 接 de 引出比较对象；par 引出差异所在。",
+            "exampleSentence": "Les grands hommes sont différents de nous par leurs dimensions, non par leur essence."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "la raison pour laquelle",
+            "meaning": "……的原因、缘由",
+            "usage": "复合关系代词 laquelle 须与先行词 raison（阴性单数）配合，相当于英语 the reason why；不可用 que 替代。",
+            "exampleSentence": "c'est la raison pour laquelle les grandes vies sont intéressantes pour tous les hommes"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "être bon(ne) pour qch",
+            "meaning": "对……有益",
+            "usage": "bon pour 表“有益于”；与 bon à faire qch（适合做某事）相区别。",
+            "exampleSentence": "Un soir consacré à la lecture des grands livres est bon pour l'esprit."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être consacré(e) à qch",
+            "meaning": "致力于；专用于",
+            "usage": "过去分词作定语或表语，介词用 à；主动式 consacrer qch à qch。",
+            "exampleSentence": "Un soir consacré à la lecture des grands livres est bon pour l'esprit."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "faire revivre qch",
+            "meaning": "使……复活、重现",
+            "usage": "faire + 不定式的使役结构，意为“使……再现”。",
+            "exampleSentence": "Les mémoires de Saint-Simon ont fait revivre pour nous une France qui n'est plus."
+        },
+        {
+            "listIndex": "14",
+            "collocation": "mettre + 时间 + à faire qch",
+            "meaning": "花（多少时间）做某事",
+            "usage": "介词用 à 接不定式；勿用 pour 或 de。近义 prendre du temps pour。",
+            "exampleSentence": "ce que l'humanité a mis des milliers d'années à produire"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "mettre qch à la disposition de qn",
+            "meaning": "把……供某人使用、任某人支配",
+            "usage": "固定短语；可用物主形式 à sa disposition 替代 de qn。",
+            "exampleSentence": "mettre à sa disposition tous ces instruments pour dépasser, pour s'échapper et pour découvrir"
+        },
+        {
+            "listIndex": "16",
+            "collocation": "être réduit(e) à qch",
+            "meaning": "被归结、简化为……",
+            "usage": "介词用 à；主动式 réduire qch à qch。",
+            "exampleSentence": "si elle était réduite aux faits et aux idées que le maître peut exposer"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "précéder",
+            "partOfSpeech": "vt.",
+            "definition": "①先于，在……之前 ②走在……前面，领先于",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "les générations qui nous ont précédés",
+                    "vocabularyCollocationMeaning": "先于我们的几代人，先辈们"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "précéder qn de quelques minutes",
+                    "vocabularyCollocationMeaning": "比某人早几分钟"
+                }
+            ],
+            "synonymAnalysis": "précéder vs devancer：précéder 中性，指在时间或空间上位于前面；devancer 强调超越、抢先于他人。二者反义词均为 suivre。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "prédécesseur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "前任，前辈"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "précédent",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "前面的，上一个的；（n.m.）先例"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je précède, tu précèdes, il précède, nous précédons, vous précédez, ils précèdent",
+                "compoundPast": "j'ai précédé",
+                "simpleFuture": "je précéderai",
+                "memoryAids": "属 -éder 类动词，变位类似 céder、espérer：闭音节倒数第二音的 é 在词尾为哑音 e 的人称（除 nous、vous 外）中变为 è。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "cultivé",
+            "partOfSpeech": "adj.",
+            "definition": "①有教养的，有学问的 ②被耕种的，被栽培的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un homme cultivé",
+                    "vocabularyCollocationMeaning": "有教养的人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une terre cultivée",
+                    "vocabularyCollocationMeaning": "耕种过的土地"
+                }
+            ],
+            "synonymAnalysis": "cultivé vs instruit vs savant：cultivé 指博学多才、有文化修养；instruit 指受过教育、有知识；savant 指（某领域）造诣很深的、博学的。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cultiver",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "耕种；培养，陶冶"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "culture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "文化；耕种，栽培"
+                }
+            ],
+            "genderNumberVariation": "阴性 cultivée，复数 cultivés／cultivées（阴性 +e，复数 +s）",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "3",
+            "vocabulary": "s'enfuir",
+            "partOfSpeech": "v.pron.",
+            "definition": "①逃跑，逃走 ②（时间、事物）消逝，流逝",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "s'enfuir de la maison",
+                    "vocabularyCollocationMeaning": "从家里逃走"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le temps s'enfuit",
+                    "vocabularyCollocationMeaning": "时光流逝"
+                }
+            ],
+            "synonymAnalysis": "s'enfuir vs s'échapper vs fuir：s'enfuir 强调迅速逃离（多指人）；s'échapper 强调从封闭处脱身、逸出；fuir 既可作及物（躲避某人某事），也可作不及物（逃跑、泄漏）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fuir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "逃跑；（vt.）躲避；（液体）泄漏"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "fuite",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "逃跑；泄漏"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je m'enfuis, tu t'enfuis, il s'enfuit, nous nous enfuyons, vous vous enfuyez, ils s'enfuient",
+                "compoundPast": "je me suis enfui(e)",
+                "simpleFuture": "je m'enfuirai",
+                "memoryAids": "变位同 fuir：nous、vous、ils 现在时词干为 enfuy-（enfuyons／enfuyez／s'enfuient）；代词式动词复合时态助动词用 être，过去分词与主语配合。"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "voire",
+            "partOfSpeech": "adv.",
+            "definition": "甚至，乃至",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "difficile, voire impossible",
+                    "vocabularyCollocationMeaning": "困难，甚至不可能"
+                }
+            ],
+            "synonymAnalysis": "voire vs même：voire 多用于书面语，引出更进一层、程度更强的说法（常用于形容词之间）；même（甚至）更通用、口语书面皆可。",
+            "derivedWords": [],
+            "useExplanation": "副词，置于所强调成分之前，用来递进、追加更强的表述，相当于“甚至”。书面语色彩较浓，常见于 A, voire B（A，甚至 B）的结构。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "outre",
+            "partOfSpeech": "prép.",
+            "definition": "①（介词）在……之外，除……之外 ②（en outre）此外，而且",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en outre",
+                    "vocabularyCollocationMeaning": "此外，而且，加之"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "outre cela",
+                    "vocabularyCollocationMeaning": "除此之外"
+                }
+            ],
+            "synonymAnalysis": "en outre vs de plus vs par ailleurs：三者均表“此外”；en outre、de plus 多用于补充论据；par ailleurs 还可表“在另一方面”。",
+            "derivedWords": [],
+            "useExplanation": "作介词时表“除……之外”（outre cela）；最常考的是固定短语 en outre（此外、而且），作连接副词，多用于书面论述以追加信息。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "chartreuse",
+            "partOfSpeech": "n.f.",
+            "definition": "①（沙特勒兹会的）修道院 ②（沙特勒兹）荨麻酒，黄绿色香甜酒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "La Chartreuse de Parme",
+                    "vocabularyCollocationMeaning": "《帕尔玛修道院》（司汤达小说）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "chartreuses"
+        },
+        {
+            "index": "7",
+            "vocabulary": "échapper",
+            "partOfSpeech": "vi.",
+            "definition": "①（échapper à）逃脱，避开 ②脱落，脱口而出 ③（s'échapper）逃走，逸出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "échapper à un danger",
+                    "vocabularyCollocationMeaning": "逃过危险，幸免于难"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "son nom m'échappe",
+                    "vocabularyCollocationMeaning": "我想不起他的名字了"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'échapper de qch",
+                    "vocabularyCollocationMeaning": "从……中逃出、逸出"
+                }
+            ],
+            "synonymAnalysis": "échapper à qch（避开、逃过，间接及物）与 s'échapper de qch（从某处逃出、逸出，代词式）须区分：前者强调“躲过、未被……抓住”，后者强调“从封闭空间脱身”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "échappement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（气体的）排放，逸出；排气装置"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "dimension",
+            "partOfSpeech": "n.f.",
+            "definition": "①尺寸，大小，体积 ②（常用复数）规模，程度；重要性 ③维度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre les dimensions de qch",
+                    "vocabularyCollocationMeaning": "量某物的尺寸"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un problème de grande dimension",
+                    "vocabularyCollocationMeaning": "规模重大的问题"
+                }
+            ],
+            "synonymAnalysis": "dimension vs taille vs mesure：dimension 多指（可测量的）尺寸、维度，也喻指规模、格局；taille 指身材、个头、号码；mesure 指测量、量度。",
+            "derivedWords": [],
+            "pluralForm": "dimensions"
+        },
+        {
+            "index": "9",
+            "vocabulary": "essence",
+            "partOfSpeech": "n.f.",
+            "definition": "①本质，实质 ②汽油 ③精，香精",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "par essence",
+                    "vocabularyCollocationMeaning": "本质上，从本质上说"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une voiture qui consomme de l'essence",
+                    "vocabularyCollocationMeaning": "耗油的汽车"
+                }
+            ],
+            "synonymAnalysis": "essence vs nature：essence 指事物的本质、内在属性（哲学色彩较浓）；nature 指本性、天性，也指大自然。注意 essence 另有“汽油”这一常用义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "essentiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "本质的；主要的，必不可少的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "essentiellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "本质上；主要地"
+                }
+            ],
+            "pluralForm": "essences"
+        },
+        {
+            "index": "10",
+            "vocabulary": "redescendre",
+            "partOfSpeech": "vi.",
+            "definition": "①（vi.）再下来，重新下降 ②（vt.）使再下降，再放低；往下搬",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "redescendre de la montagne",
+                    "vocabularyCollocationMeaning": "从山上再下来"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "redescendre les valises",
+                    "vocabularyCollocationMeaning": "把箱子搬下来（vt.）"
+                }
+            ],
+            "synonymAnalysis": "redescendre 由前缀 re-（再、重新）+ descendre 构成；作不及物表“再下来”，作及物表“把……搬下来”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "descendre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "下来，下降；（vt.）搬下，使下降"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "descente",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "下降，下坡；突击搜查"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je redescends, tu redescends, il redescend, nous redescendons, vous redescendez, ils redescendent",
+                "compoundPast": "（作 vi.）je suis redescendu(e)；（作 vt.）j'ai redescendu",
+                "simpleFuture": "je redescendrai",
+                "memoryAids": "变位同 descendre／rendre（-dre 类）；作不及物时复合时态助动词用 être 且过去分词配合主语，作及物时用 avoir。"
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "revivre",
+            "partOfSpeech": "vi.",
+            "definition": "①复活，再生 ②（vt.）重新经历，重温",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire revivre le passé",
+                    "vocabularyCollocationMeaning": "使往昔重现"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "revivre une scène",
+                    "vocabularyCollocationMeaning": "重温某一场景（vt.）"
+                }
+            ],
+            "synonymAnalysis": "revivre vs ressusciter：revivre 指重获生机、重新经历，使用更广；ressusciter 多指（宗教或比喻意义上的）死而复生、复活。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vivre",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "活，生活；（vt.）经历"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生命，生活"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je revis, tu revis, il revit, nous revivons, vous revivez, ils revivent",
+                "compoundPast": "j'ai revécu",
+                "simpleFuture": "je revivrai",
+                "memoryAids": "变位同 vivre：单数现在时去掉 -vre 词干，过去分词为 revécu（同 vécu）。"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "passion",
+            "partOfSpeech": "n.f.",
+            "definition": "①激情，热情 ②酷爱，痴迷 ③（强烈的）情感",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir la passion de qch",
+                    "vocabularyCollocationMeaning": "酷爱某事物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avec passion",
+                    "vocabularyCollocationMeaning": "满怀激情地"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une passion pour la musique",
+                    "vocabularyCollocationMeaning": "对音乐的酷爱"
+                }
+            ],
+            "synonymAnalysis": "passion vs émotion vs sentiment：passion 指强烈而持久的激情或酷爱；émotion 指（一时的）情绪、激动；sentiment 指（较平稳的）感情、情感。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使热爱，使着迷"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "passionné",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "热衷的，充满激情的"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "passionnant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "引人入胜的，扣人心弦的"
+                }
+            ],
+            "pluralForm": "passions"
+        },
+        {
+            "index": "13",
+            "vocabulary": "digne",
+            "partOfSpeech": "adj.",
+            "definition": "①（digne de）配得上……的，值得……的 ②与……相称的 ③有尊严的，庄重的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "digne de confiance",
+                    "vocabularyCollocationMeaning": "值得信赖的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un roman digne de Balzac",
+                    "vocabularyCollocationMeaning": "堪与巴尔扎克之作媲美的小说"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "garder une attitude digne",
+                    "vocabularyCollocationMeaning": "保持庄重的态度"
+                }
+            ],
+            "synonymAnalysis": "digne de vs méritant：digne de qch 表“配得上、值得”（后接名词）；méritant 强调因努力、品行而“有功的、值得褒奖的”。注意 digne 单用时多指“有尊严的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dignité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "尊严；尊贵，高位"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dignement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "庄重地，体面地"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "indigne",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "不配的；可耻的"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 digne，复数 dignes",
+            "position": "单用表“庄重的”时通常后置；digne de + 名词 结构作表语或后置定语。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "humanité",
+            "partOfSpeech": "n.f.",
+            "definition": "①人类 ②人性 ③人道，仁慈",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "toute l'humanité",
+                    "vocabularyCollocationMeaning": "全人类"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "traiter qn avec humanité",
+                    "vocabularyCollocationMeaning": "人道地对待某人"
+                }
+            ],
+            "synonymAnalysis": "humanité vs homme vs genre humain：humanité 指“人类（整体）”或“人性／人道”；homme 泛指人或男人；genre humain 是“人类”的较正式说法。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "humain",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "人的，人类的；有人情味的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "humanitaire",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "人道主义的"
+                }
+            ],
+            "pluralForm": "humanités"
+        },
+        {
+            "index": "15",
+            "vocabulary": "instrument",
+            "partOfSpeech": "n.m.",
+            "definition": "①工具，器具，手段 ②仪器 ③乐器",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "instrument de musique",
+                    "vocabularyCollocationMeaning": "乐器"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "instrument de mesure",
+                    "vocabularyCollocationMeaning": "测量仪器"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "servir d'instrument à qch",
+                    "vocabularyCollocationMeaning": "充当……的工具"
+                }
+            ],
+            "synonymAnalysis": "instrument vs outil：instrument 多指精密的仪器、乐器，或抽象的“手段”；outil 多指（手工、体力劳动用的）工具。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "instrumental",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "器乐的；用作工具的"
+                }
+            ],
+            "pluralForm": "instruments"
+        },
+        {
+            "index": "16",
+            "vocabulary": "multiplier",
+            "partOfSpeech": "vt.",
+            "definition": "①增加，使增多 ②（数学）乘 ③（se multiplier）增多，繁殖",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "multiplier les efforts",
+                    "vocabularyCollocationMeaning": "加倍努力，多方努力"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "multiplier deux par trois",
+                    "vocabularyCollocationMeaning": "二乘以三"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se multiplier",
+                    "vocabularyCollocationMeaning": "（数量）大增；繁殖"
+                }
+            ],
+            "synonymAnalysis": "multiplier vs augmenter：multiplier 强调成倍地、大量地增加（数量、次数）；augmenter 泛指（程度、数量上的）增加、提高。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "multiplication",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "增加，倍增；（数学）乘法"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "multiple",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "多样的，众多的；（n.m.）倍数"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "individu",
+            "partOfSpeech": "n.m.",
+            "definition": "①个体，个人 ②（含轻蔑）家伙，人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l'individu et la société",
+                    "vocabularyCollocationMeaning": "个人与社会"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la liberté de l'individu",
+                    "vocabularyCollocationMeaning": "个人的自由"
+                }
+            ],
+            "synonymAnalysis": "individu vs personne：individu 强调作为整体一员的“个体”（有时含贬义，指“某个家伙”）；personne 中性，指“人”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "individuel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "个人的，单独的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "individuellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "个别地，单独地"
+                }
+            ],
+            "pluralForm": "individus"
+        },
+        {
+            "index": "18",
+            "vocabulary": "essentiellement",
+            "partOfSpeech": "adv.",
+            "definition": "①本质上，根本上 ②主要地，基本上",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "consister essentiellement en qch",
+                    "vocabularyCollocationMeaning": "主要由……构成"
+                }
+            ],
+            "synonymAnalysis": "essentiellement vs principalement vs surtout：三者均可表“主要地”；essentiellement 还含“本质上”之义，语体较书面；surtout 更口语，强调“尤其”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "essentiel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "本质的；必不可少的，主要的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "essence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "本质；汽油"
+                }
+            ],
+            "useExplanation": "副词，修饰动词或整句，常置于动词之后；既可表“本质上、从根本上”，也可表“主要地、基本上”，须依语境判断。"
+        },
+        {
+            "index": "19",
+            "vocabulary": "exposer",
+            "partOfSpeech": "vt.",
+            "definition": "①陈述，阐述 ②陈列，展出 ③使暴露于，使遭受",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "exposer ses idées",
+                    "vocabularyCollocationMeaning": "阐述自己的观点"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "exposer des tableaux",
+                    "vocabularyCollocationMeaning": "展出画作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "exposer qn à un danger",
+                    "vocabularyCollocationMeaning": "使某人面临危险"
+                }
+            ],
+            "synonymAnalysis": "exposer vs expliquer：exposer 指（有条理地）陈述、阐述事实或观点；expliquer 侧重“解释、说明（使人理解）”。注意 exposer 另有“展出”与“使暴露”之义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "exposition",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "展览；陈述，阐述"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "exposé",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "报告，陈述"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Notre civilisation est une somme de connaissances réunies par les générations qui nous ont précédés, et nous ne pouvons y participer qu'en prenant contact avec leur pensée. Si nous voulons devenir cultivés, le seul moyen est la lecture: rien ne peut la remplacer. Le livre est une porte ouverte sur d'autres âmes; grâce à lui, nous pouvons nous échapper de notre petit univers personnel et comprendre la vie des autres. C'est pourquoi aucun étudiant, si brillant soit-il, ne peut refaire seul ce que l'humanité a mis des milliers d'années à produire.",
+            "chineseTranslation": "我们的文明，是先辈们积累下来的知识的总和；唯有接触他们的思想，我们才能真正融入其中。如果想成为有教养的人，唯一的途径便是阅读：没有什么能够取代它。书籍是一扇通向他人心灵的门；多亏了它，我们才得以走出自己狭小的个人天地，去理解他人的生活。正因如此，无论一个学生多么聪颖，都无法独自重现人类历经数千年才创造出来的成果。",
+            "fr2cnStrategy": "① réunies par les générations qui nous ont précédés（后置定语 + 关系从句）译时前移并拆为短句“先辈们积累下来的……”，避免“的的的”叠加，体现语序调整与拆句。② ne...qu'en prenant contact... 中的限制结构 ne...que 译为“唯有……才……”，并将副动词 en prenant 转为方式状语，属逻辑显化。③ une porte ouverte sur d'autres âmes 保留比喻，译为“通向他人心灵的门”，sur 不直译为“在……上”。④ nous échapper de notre petit univers personnel 化静为动，译为“走出自己狭小的个人天地”，属词性转换。⑤ si brillant soit-il 让步倒装译为“无论多么聪颖”，符合汉语让步表达。⑥ a mis des milliers d'années à produire 增译“历经……才……”，使因果与时间关系显豁。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "阅读是融入人类文明的唯一途径，没有什么能够取代它。",
+                "frenchTranslation": "La lecture est le seul moyen de participer à la civilisation humaine, et rien ne peut la remplacer.",
+                "cn2frStrategy": "① “唯一的途径”用 le seul moyen de + 不定式；② “融入”译为 participer à；③ “没有什么能取代它”用 rien ne peut + 不定式 结构，宾语代词 la 置于动词前。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "多亏了书籍，我们才能走出自己狭小的天地，去理解他人的生活。",
+                "frenchTranslation": "Grâce aux livres, nous pouvons nous échapper de notre univers étroit et comprendre la vie des autres.",
+                "cn2frStrategy": "① “多亏”用表积极原因的 grâce à；② “走出（狭小天地）”用代词式动词 s'échapper de（固定搭配 de）；③ “他人的生活”译为 la vie des autres，避免冗长定语。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "尽管那些伟人比我们更伟大，他们也曾像我们一样痛苦过、求索过。",
+                "frenchTranslation": "Bien que ces grands hommes soient plus grands que nous, ils ont souffert et cherché comme nous.",
+                "cn2frStrategy": "① “尽管”用让步连词 bien que，从句动词用虚拟式 soient；② 比较结构 plus...que；③ 主句陈述过去事实用复合过去时 ont souffert et cherché；④ “像我们一样”用 comme nous。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "无论一个学生多么有才华，他都无法独自完成人类花了数千年才完成的事。",
+                "frenchTranslation": "Si brillant qu'il soit, un étudiant ne peut refaire seul ce que l'humanité a mis des milliers d'années à produire.",
+                "cn2frStrategy": "① “无论多么有才华”用让步结构 si + 形容词 + qu'il soit（虚拟式），亦可用 aussi brillant soit-il；② “人类花了数千年才完成的事”用 ce que + mettre du temps à faire 结构，关系代词 ce que 作宾语；③ “花（时间）做某事”固定用 mettre + 时间 + à + 不定式。"
+            }
+        ]
+    }
+}

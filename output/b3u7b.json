@@ -1,0 +1,1050 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Ayant accueilli presque 190 millions de spectateurs sur son seul territoire en 2008, le cinéma français se porte bien chez lui.",
+            "translatedSentence": "2008年，仅在本土就接待了将近1.9亿观众，法国电影在国内可谓发展势头良好。",
+            "sentenceStructure": "句首 Ayant accueilli... 为现在分词复合形式引导的状语，主句为 le cinéma français se porte bien chez lui。",
+            "grammarAnalysis": "① Ayant accueilli 是现在分词的复合形式（avoir 的现在分词 ayant + 过去分词 accueilli），表示该动作发生在主句之前，在此作原因／时间状语，其逻辑主语即主句主语 le cinéma français。② se porter bien 为代词式动词的固定用法，指（状况、身体）良好。③ chez lui 在此意为“在本土、在自己国内”。",
+            "commonMistakes": "易把 Ayant accueilli 误当成完成时谓语；其实它没有变位、没有独立主语，只是分词短语作状语。se porter 不能简单理解为“携带”，这里指（健康／状况）处于某种状态。"
+        },
+        {
+            "index": "2",
+            "sentence": "S'étant créée en 1949 par les pouvoirs publics français, Unifrance assure la promotion du cinéma national à l'étranger.",
+            "translatedSentence": "Unifrance（法国电影联盟）由法国政府于1949年创立，负责在海外推广本国电影。",
+            "sentenceStructure": "句首 S'étant créée... 为代词式动词的现在分词复合形式作状语，主句为 Unifrance assure la promotion du cinéma national à l'étranger。",
+            "grammarAnalysis": "① s'étant créée 是代词式动词 se créer 的现在分词复合形式（être 的现在分词 étant + 过去分词 créée）；代词式动词复合时态助动词用 être，过去分词 créé 与主语 Unifrance（阴性单数）性数配合，故加 e。② par les pouvoirs publics 引出施动者。③ assurer la promotion de qch 意为“负责……的推广”。",
+            "commonMistakes": "代词式动词的复合时态助动词一律为 être，过去分词通常与主语配合，学生常漏掉配合的 e。pouvoirs publics 指“政府当局、公共权力机关”，不可逐字直译为“公共权力”。"
+        },
+        {
+            "index": "3",
+            "sentence": "Soutenue par près de 600 adhérents, cette association regroupant notamment des producteurs et réalisateurs français, soutient la promotion des œuvres cinématographiques en favorisant, par exemple, le déplacement des artistes dans le monde entier.",
+            "translatedSentence": "这个联盟拥有近600名会员，主要汇集了法国的制片人和导演，它通过诸如资助艺术家在全球范围内出访等方式，来支持电影作品的推广。",
+            "sentenceStructure": "全句唯一的主句是 cette association soutient la promotion...；Soutenue par... 为过去分词短语作状语（修饰主语），regroupant... 为现在分词短语作定语（相当于 qui regroupe），en favorisant... 为副动词作方式状语。",
+            "grammarAnalysis": "① Soutenue 是过去分词作状语，含被动意义（相当于 étant soutenue），与主语 association 性数配合。② regroupant 是现在分词作定语，相当于关系从句 qui regroupe。③ en favorisant 是副动词（en + 现在分词）表方式，这里相当于 en finançant。④ soutenir la promotion de qch 意为“支持……的推广”。",
+            "commonMistakes": "句子很长，须辨清唯一的主句谓语是 soutient；Soutenue（过去分词，被动）与 regroupant（现在分词，主动）的语态区别易混。注意 soutenue 与 soutient 拼写相近但词性、功能完全不同。"
+        },
+        {
+            "index": "4",
+            "sentence": "C'est un record, jamais les productions françaises n'avaient connu une telle réussite à l'étranger.",
+            "translatedSentence": "这是一项纪录，法国电影作品在海外从未取得过如此巨大的成功。",
+            "sentenceStructure": "两个分句并列；后一分句主语为 les productions françaises，谓语为 n'avaient connu（愈过去时），状语 jamais 提前至句首以加强否定语气。",
+            "grammarAnalysis": "① jamais 置于句首属于状语前置，与动词前的 ne 共同构成否定 ne...jamais，意为“从未”。② n'avaient connu 为愈过去时（plus-que-parfait），表示在过去某一时刻之前从未发生过的情况。③ une telle réussite 中 tel 表示“如此的、这样的”。",
+            "commonMistakes": "jamais 前置只是状语前移以加强语气，主谓并未真正倒装（依旧是 les productions...n'avaient），切勿误判为主谓倒装。此处否定由 jamais 承担，故只用 ne，不再加 pas。"
+        },
+        {
+            "index": "5",
+            "sentence": "Les films ayant gagné le nombre d'entrées le plus important sont, pour la plupart, des productions à gros budget.",
+            "translatedSentence": "那些观影人次最多的影片，大多是大制作（高预算）的作品。",
+            "sentenceStructure": "主语为 Les films（由 ayant gagné... 复合过去分词短语修饰），系动词为 sont，表语为 des productions à gros budget。",
+            "grammarAnalysis": "① ayant gagné 是复合过去分词（相当于 qui ont gagné）作定语，修饰 Les films。② le nombre d'entrées le plus important 是最高级结构，entrées 在电影语境下指“（影院）观影人次、入场票数”。③ à gros budget 中介词 à 表特征，意为“大预算的、大制作的”。",
+            "commonMistakes": "ayant gagné 是定语而非谓语，整句真正的谓语是 sont，学生易把分词短语误当主句。entrées 在此不是“入口”，而是“观影人次”。"
+        },
+        {
+            "index": "6",
+            "sentence": "Comme les objectifs de ses prédécesseurs, le sien consiste à faire rayonner le plus largement possible le cinéma français.",
+            "translatedSentence": "如同前任们的目标一样，他的目标在于尽可能广泛地弘扬法国电影。",
+            "sentenceStructure": "Comme... 引导比较状语，主句为 le sien consiste à...；le plus largement possible 为程度状语，因宾语 le cinéma français 较长而后置。",
+            "grammarAnalysis": "① le sien 为主有代词，代替 son objectif（阳性单数）。② consister à faire qch 是固定结构，意为“（目标／内容）在于做某事”，此处介词用 à。③ faire rayonner qch 为使役结构，意为“使……大放异彩”；le plus largement possible 意为“尽可能广泛地”。",
+            "commonMistakes": "le sien 是主有代词（= son objectif），勿与指示代词 celui 混淆。consister 后接不定式用 à（consister à faire），接名词用 en（consister en qch），二者切勿混用。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "se porter bien",
+            "meaning": "（身体／状况）良好",
+            "usage": "代词式动词。主语为人时指身体健康，主语为事物时指状况良好；反义为 se porter mal。",
+            "exampleSentence": "le cinéma français se porte bien chez lui"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "grâce à qch/qn",
+            "meaning": "多亏，由于",
+            "usage": "表示积极原因，与表示消极原因的 à cause de 相对，书面口语皆可。",
+            "exampleSentence": "Il attire un public toujours plus nombreux à travers le monde grâce à l'action d'Unifrance."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "assurer la promotion de qch",
+            "meaning": "负责……的推广",
+            "usage": "assurer 此处意为“负责、保证”；de 后接被推广的对象，多用于书面语。",
+            "exampleSentence": "Unifrance assure la promotion du cinéma national à l'étranger."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "être soutenu(e) par qn/qch",
+            "meaning": "受到……的支持",
+            "usage": "被动结构，par 引出施动者；过去分词须与主语性数配合。",
+            "exampleSentence": "Soutenue par près de 600 adhérents, cette association soutient la promotion des œuvres cinématographiques."
+        },
+        {
+            "listIndex": "5",
+            "collocation": "favoriser qch",
+            "meaning": "有利于，促进，支持",
+            "usage": "直接及物动词，后直接接名词宾语，不加介词；副动词 en favorisant 可表方式。",
+            "exampleSentence": "en favorisant le déplacement des artistes dans le monde entier"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "être destiné(e) à faire qch",
+            "meaning": "旨在做某事，用于做某事",
+            "usage": "destiné à 后既可接不定式（表目的），也可接名词（表用途、对象）。",
+            "exampleSentence": "des manifestations culturelles destinées à faire connaître davantage le cinéma français à l'étranger"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "avoir pour but de faire qch",
+            "meaning": "目的是做某事",
+            "usage": "固定结构，pour but 后用 de + 不定式；近义结构有 viser à faire qch。",
+            "exampleSentence": "ces évènements ont pour but de populariser les films français"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "conduire qn à faire qch",
+            "meaning": "促使、导致某人做某事",
+            "usage": "conduire à 表“导致、促使”；这里宾语为机构 l'association。",
+            "exampleSentence": "Ce même objectif a conduit l'association à créer un programme de rencontres."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "à part qch/qn",
+            "meaning": "除……之外",
+            "usage": "介词短语，常置于句首；近义于 sauf、excepté、en dehors de。",
+            "exampleSentence": "A part le Centre national de la cinématographie, Unifrance reçoit aussi une aide du Secrétariat d'Etat."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "permettre à qn de faire qch",
+            "meaning": "使某人能够／允许某人做某事",
+            "usage": "间接宾语（人）用 à，后接 de + 不定式；勿写成 permettre qn。",
+            "exampleSentence": "Ce nouveau partenariat lui permet de bénéficier de financements supplémentaires."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "bénéficier de qch",
+            "meaning": "受益于，享有",
+            "usage": "间接及物动词，固定搭配介词 de，强调获得好处或优惠。",
+            "exampleSentence": "Ce nouveau partenariat lui permet de bénéficier de financements supplémentaires."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "tirer profit de qch",
+            "meaning": "从……中获益",
+            "usage": "固定短语，de 引出获益来源；代词 en 可代替 de + 名词（en a tiré profit）。",
+            "exampleSentence": "Ayant réussi déjà à beaucoup de projets de coopération avec 55 pays, l'association en a tiré profit."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "rendre compte de qch",
+            "meaning": "汇报，报告，说明情况",
+            "usage": "固定短语，compte 后用 de 接所报告的内容；书面语色彩较强。",
+            "exampleSentence": "les responsables d'Unifrance rendent compte des performances du cinéma français à l'étranger"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "faire face à qch",
+            "meaning": "应对，面对",
+            "usage": "固定短语，介词用 à；à 后接所面对的困难、挑战或局面。",
+            "exampleSentence": "Unifrance doit faire face à de nouveaux défis."
+        },
+        {
+            "listIndex": "15",
+            "collocation": "consister à faire qch",
+            "meaning": "（内容、目标）在于做某事",
+            "usage": "接不定式用 à（consister à faire）；接名词成分用 en（consister en qch），二者勿混。",
+            "exampleSentence": "le sien consiste à faire rayonner le plus largement possible le cinéma français"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "territoire",
+            "partOfSpeech": "n.m.",
+            "definition": "①领土；国土 ②领地，辖区",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "territoire national",
+                    "vocabularyCollocationMeaning": "国土，本国领土"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "sur le territoire de",
+                    "vocabularyCollocationMeaning": "在……的领土上"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "territoire d'outre-mer",
+                    "vocabularyCollocationMeaning": "海外领地"
+                }
+            ],
+            "synonymAnalysis": "territoire vs terrain：territoire 指国家、地区的领土或辖区（政治、行政概念）；terrain 指一块具体的地皮、场地。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "territorial",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "领土的，地区的"
+                }
+            ],
+            "pluralForm": "territoires"
+        },
+        {
+            "index": "2",
+            "vocabulary": "promotion",
+            "partOfSpeech": "n.f.",
+            "definition": "①推广，促销 ②晋升，提升 ③（同期）毕业生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire la promotion de qch",
+                    "vocabularyCollocationMeaning": "推广、促销某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "promotion des ventes",
+                    "vocabularyCollocationMeaning": "促销"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "en promotion",
+                    "vocabularyCollocationMeaning": "（商品）打折促销中"
+                }
+            ],
+            "synonymAnalysis": "promotion vs publicité：promotion 指为扩大销路或知名度而开展的推广、促销活动；publicité 指具体的广告（宣传作品本身）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "promouvoir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "促进，提升，提拔"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "promotionnel",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "促销的，推广的"
+                }
+            ],
+            "pluralForm": "promotions"
+        },
+        {
+            "index": "3",
+            "vocabulary": "regrouper",
+            "partOfSpeech": "vt.",
+            "definition": "①重新集合 ②集中，汇集，聚集",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "regrouper des données",
+                    "vocabularyCollocationMeaning": "汇集数据"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "regrouper des membres",
+                    "vocabularyCollocationMeaning": "聚集成员"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se regrouper",
+                    "vocabularyCollocationMeaning": "（重新）聚集起来"
+                }
+            ],
+            "synonymAnalysis": "regrouper vs rassembler：regrouper 强调把分散的（重新）归并、汇集到一起；rassembler 强调把人或物召集、聚拢起来。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "regroupement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "集合，汇集，重组"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "groupe",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "组，群，集团"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "grouper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "把……归类，聚集"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "4",
+            "vocabulary": "organisme",
+            "partOfSpeech": "n.m.",
+            "definition": "①机构，组织，机关 ②机体，有机体",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "organisme public",
+                    "vocabularyCollocationMeaning": "公共机构"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "organisme international",
+                    "vocabularyCollocationMeaning": "国际组织"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "organisme vivant",
+                    "vocabularyCollocationMeaning": "生物体，有机体"
+                }
+            ],
+            "synonymAnalysis": "organisme vs organisation：organisme 多指实体性的机构、机关，也可指生物机体；organisation 多指组织行为或团体（也指安排、筹划）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "organiser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "组织，筹办"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "organisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "组织，机构；安排"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "organe",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "器官；机关，喉舌"
+                }
+            ],
+            "pluralForm": "organismes"
+        },
+        {
+            "index": "5",
+            "vocabulary": "adhérent, e",
+            "partOfSpeech": "n.m.",
+            "definition": "（团体、协会的）会员，成员",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "devenir adhérent",
+                    "vocabularyCollocationMeaning": "成为会员"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "carte d'adhérent",
+                    "vocabularyCollocationMeaning": "会员卡"
+                }
+            ],
+            "synonymAnalysis": "adhérent vs membre：adhérent 强调主动加入某协会、政党的成员（含“缴费入会”意味）；membre 泛指任何团体的成员，含义更广。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adhérer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "加入（团体）；黏附；赞同"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "adhésion",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "加入，入会；赞同"
+                }
+            ],
+            "pluralForm": "adhérents（阴性 adhérente）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "réalisateur",
+            "partOfSpeech": "n.m.",
+            "definition": "（电影、电视的）导演",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réalisateur de films",
+                    "vocabularyCollocationMeaning": "电影导演"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réalisateur renommé",
+                    "vocabularyCollocationMeaning": "著名导演"
+                }
+            ],
+            "synonymAnalysis": "réalisateur vs producteur：réalisateur 是导演，负责影片的艺术创作与拍摄；producteur 是制片人，负责出资与组织制作。二者职责不同，勿混。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réaliser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "实现；制作（影片）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "réalisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "实现；（影片的）摄制"
+                }
+            ],
+            "pluralForm": "réalisateurs（阴性 réalisatrice）"
+        },
+        {
+            "index": "7",
+            "vocabulary": "populariser",
+            "partOfSpeech": "vt.",
+            "definition": "①普及，推广，使大众化 ②使……广为人知",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "populariser une idée",
+                    "vocabularyCollocationMeaning": "普及一种思想"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "populariser un produit",
+                    "vocabularyCollocationMeaning": "推广一种产品"
+                }
+            ],
+            "synonymAnalysis": "populariser vs vulgariser：populariser 指使广泛流行、普及；vulgariser 特指把（科学、专业）知识通俗化以便大众理解。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "populaire",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "大众的，受欢迎的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "popularité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "声望，知名度，受欢迎"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "artistique",
+            "partOfSpeech": "adj.",
+            "definition": "艺术的，富有艺术性的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "valeur artistique",
+                    "vocabularyCollocationMeaning": "艺术价值"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "équipe artistique",
+                    "vocabularyCollocationMeaning": "艺术团队，主创团队"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "directeur artistique",
+                    "vocabularyCollocationMeaning": "艺术总监"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "artiste",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "艺术家，艺人"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "art",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "艺术；技艺"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 artistique，复数 artistiques",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "9",
+            "vocabulary": "renommé",
+            "partOfSpeech": "adj.",
+            "definition": "著名的，闻名的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un chef renommé",
+                    "vocabularyCollocationMeaning": "著名的厨师"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être renommé pour qch",
+                    "vocabularyCollocationMeaning": "因……而闻名"
+                }
+            ],
+            "synonymAnalysis": "renommé vs célèbre vs fameux：renommé、célèbre 均为褒义的“著名”，renommé 更书面；fameux 在口语中有时含“臭名昭著”或仅表“好极了”的语气色彩，须看语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "renommée",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "名声，声誉"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "renom",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "声望，名望"
+                }
+            ],
+            "genderNumberVariation": "阴性 renommée，阳性复数 renommés，阴性复数 renommées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "10",
+            "vocabulary": "partenariat",
+            "partOfSpeech": "n.m.",
+            "definition": "合作关系，伙伴关系",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "établir un partenariat",
+                    "vocabularyCollocationMeaning": "建立合作关系"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "partenariat commercial",
+                    "vocabularyCollocationMeaning": "商业合作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "partenariat public-privé",
+                    "vocabularyCollocationMeaning": "公私合营"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "partenaire",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "伙伴，搭档，合作者"
+                }
+            ],
+            "pluralForm": "partenariats"
+        },
+        {
+            "index": "11",
+            "vocabulary": "audiovisuel",
+            "partOfSpeech": "adj.",
+            "definition": "①视听的 ②（作名词 l'audiovisuel）视听传媒（行业）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "méthode audiovisuelle",
+                    "vocabularyCollocationMeaning": "视听教学法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "industrie audiovisuelle",
+                    "vocabularyCollocationMeaning": "视听产业"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'audiovisuel",
+                    "vocabularyCollocationMeaning": "视听传媒（领域）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "genderNumberVariation": "阴性 audiovisuelle，阳性复数 audiovisuels，阴性复数 audiovisuelles",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "12",
+            "vocabulary": "performance",
+            "partOfSpeech": "n.f.",
+            "definition": "①成果，成绩，业绩 ②（机器、设备的）性能 ③（体育）成绩，表现",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "réaliser une performance",
+                    "vocabularyCollocationMeaning": "取得佳绩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "performance économique",
+                    "vocabularyCollocationMeaning": "经济表现，经济效益"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "les performances d'une machine",
+                    "vocabularyCollocationMeaning": "机器的性能"
+                }
+            ],
+            "synonymAnalysis": "performance vs résultat：performance 强调（出色的）表现、业绩或性能；résultat 中性，指任何结果、成果。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "performant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "高效的，性能优良的"
+                }
+            ],
+            "pluralForm": "performances"
+        },
+        {
+            "index": "13",
+            "vocabulary": "distributeur",
+            "partOfSpeech": "n.m.",
+            "definition": "①（电影、商品的）发行商，经销商 ②自动售货机；分配器",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "distributeur de films",
+                    "vocabularyCollocationMeaning": "电影发行商"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "distributeur automatique",
+                    "vocabularyCollocationMeaning": "自动售货机"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "distributeur de billets",
+                    "vocabularyCollocationMeaning": "自动取款机／售票机"
+                }
+            ],
+            "synonymAnalysis": "distributeur vs producteur：在电影产业中 distributeur 负责发行、推向市场；producteur 负责出资制作。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "distribuer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "分配，分发；发行"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "distribution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "分配，分发；发行"
+                }
+            ],
+            "pluralForm": "distributeurs（阴性 distributrice）"
+        },
+        {
+            "index": "14",
+            "vocabulary": "budget",
+            "partOfSpeech": "n.m.",
+            "definition": "预算，经费",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "établir un budget",
+                    "vocabularyCollocationMeaning": "制定预算"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "film à gros budget",
+                    "vocabularyCollocationMeaning": "大制作（高预算）影片"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "dépasser le budget",
+                    "vocabularyCollocationMeaning": "超出预算"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "budgétaire",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "预算的"
+                }
+            ],
+            "pluralForm": "budgets"
+        },
+        {
+            "index": "15",
+            "vocabulary": "métrage",
+            "partOfSpeech": "n.m.",
+            "definition": "①（影片的）长度，片长 ②（以米计的）长度，米数",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "long métrage",
+                    "vocabularyCollocationMeaning": "故事片，长片"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "court métrage",
+                    "vocabularyCollocationMeaning": "短片"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "moyen métrage",
+                    "vocabularyCollocationMeaning": "中长片"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mètre",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "米（长度单位）"
+                }
+            ],
+            "pluralForm": "métrages"
+        },
+        {
+            "index": "16",
+            "vocabulary": "prédécesseur",
+            "partOfSpeech": "n.m.",
+            "definition": "①前任 ②前辈，先驱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "succéder à son prédécesseur",
+                    "vocabularyCollocationMeaning": "接替前任"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les idées de ses prédécesseurs",
+                    "vocabularyCollocationMeaning": "前辈们的思想"
+                }
+            ],
+            "synonymAnalysis": "prédécesseur vs successeur：二者互为反义。prédécesseur 指前任、前辈；successeur 指继任者、后继者。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "précéder",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "在……之前，先于"
+                }
+            ],
+            "pluralForm": "prédécesseurs"
+        },
+        {
+            "index": "17",
+            "vocabulary": "producteur, trice",
+            "partOfSpeech": "n.m.",
+            "definition": "①（作名词）（电影）制片人；生产者，制造商 ②（作形容词）生产的，出产的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "producteur de cinéma",
+                    "vocabularyCollocationMeaning": "电影制片人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "pays producteur de pétrole",
+                    "vocabularyCollocationMeaning": "石油生产国（作形容词）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "producteur agricole",
+                    "vocabularyCollocationMeaning": "农业生产者"
+                }
+            ],
+            "synonymAnalysis": "producteur vs réalisateur：producteur 是制片人，负责出资、组织制作；réalisateur 是导演，负责艺术创作。注意本词兼作形容词（生产的），此时阴性为 productrice。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "produire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "生产，出产；引起"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "production",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "生产；产品；（影视）作品"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "produit",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "产品，产物"
+                }
+            ],
+            "pluralForm": "producteurs（阴性 productrice，阴性复数 productrices）"
+        },
+        {
+            "index": "18",
+            "vocabulary": "distribuer",
+            "partOfSpeech": "vt.",
+            "definition": "①分配，分发 ②（影片）发行 ③布置，安排",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "distribuer des prospectus",
+                    "vocabularyCollocationMeaning": "分发传单"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "distribuer un film",
+                    "vocabularyCollocationMeaning": "发行一部影片"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se distribuer",
+                    "vocabularyCollocationMeaning": "被分配，被分发"
+                }
+            ],
+            "synonymAnalysis": "distribuer vs partager vs répartir：distribuer 指把东西分发给多人；partager 指（共同）分享或分成几份；répartir 指按一定标准、比例分配。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "distribution",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "分配，分发；发行"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "distributeur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "发行商；自动售货机"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "19",
+            "vocabulary": "élargir",
+            "partOfSpeech": "vt.",
+            "definition": "①扩大，放宽，加宽 ②放大；（s'élargir）变宽，变大",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "élargir une route",
+                    "vocabularyCollocationMeaning": "拓宽道路"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "élargir ses connaissances",
+                    "vocabularyCollocationMeaning": "扩大知识面"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s'élargir",
+                    "vocabularyCollocationMeaning": "变宽，扩大"
+                }
+            ],
+            "synonymAnalysis": "élargir vs agrandir：élargir 侧重在宽度上加宽、放宽（也可比喻为扩大范围）；agrandir 侧重整体尺寸、面积上的扩大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "large",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "宽的，宽阔的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "largeur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "宽度"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "élargissement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "扩大，加宽"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "favoriser",
+            "partOfSpeech": "vt.",
+            "definition": "①有利于，促进 ②优待，偏袒，照顾",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "favoriser le développement",
+                    "vocabularyCollocationMeaning": "促进发展"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "favoriser qn",
+                    "vocabularyCollocationMeaning": "优待、偏袒某人"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "être favorisé par",
+                    "vocabularyCollocationMeaning": "受惠于，得益于"
+                }
+            ],
+            "synonymAnalysis": "favoriser vs encourager：favoriser 指（客观上）创造有利条件、起促进作用；encourager 指（主观上）鼓励、激励。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "faveur",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "恩惠，好感，优待"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "favorable",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "有利的，赞成的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "réputation",
+            "partOfSpeech": "n.f.",
+            "definition": "名誉，名声，声望",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avoir bonne réputation",
+                    "vocabularyCollocationMeaning": "有好名声"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "réputation mondiale",
+                    "vocabularyCollocationMeaning": "世界声誉"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "nuire à la réputation de qn",
+                    "vocabularyCollocationMeaning": "损害某人的名声"
+                }
+            ],
+            "synonymAnalysis": "réputation vs renommée：réputation 为中性，可好可坏（须加 bonne／mauvaise 限定）；renommée 通常指（广为流传的）美名、声誉。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "réputé",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "著名的，享有盛誉的"
+                }
+            ],
+            "pluralForm": "réputations"
+        },
+        {
+            "index": "22",
+            "vocabulary": "défi",
+            "partOfSpeech": "n.m.",
+            "definition": "①挑战 ②（旧义）挑衅，挑战书",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relever un défi",
+                    "vocabularyCollocationMeaning": "迎接、应对挑战"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "lancer un défi à qn",
+                    "vocabularyCollocationMeaning": "向某人发起挑战"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire face à un défi",
+                    "vocabularyCollocationMeaning": "应对挑战"
+                }
+            ],
+            "synonymAnalysis": "défi vs provocation：défi 多为中性或积极的“挑战”（如挑战困难）；provocation 多为消极的“挑衅”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "défier",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "向……挑战；藐视"
+                }
+            ],
+            "pluralForm": "défis"
+        },
+        {
+            "index": "23",
+            "vocabulary": "rayonner",
+            "partOfSpeech": "vi.",
+            "definition": "①发光，放射光彩 ②（从中心）辐射，散布 ③（人）容光焕发",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire rayonner la culture",
+                    "vocabularyCollocationMeaning": "弘扬、传播文化"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "rayonner de joie",
+                    "vocabularyCollocationMeaning": "喜形于色，满面春风"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "rayonner autour de",
+                    "vocabularyCollocationMeaning": "以……为中心向四周散布"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rayon",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "光线；半径"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rayonnement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "辐射；光辉，影响"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "rayonnant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "容光焕发的；辐射状的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Créée en 1949 par les pouvoirs publics français, Unifrance assure la promotion du cinéma national à l'étranger. Soutenue par près de 600 adhérents, cette association favorise le déplacement des artistes dans le monde entier et organise des manifestations destinées à faire connaître le cinéma français. Ayant réussi à beaucoup de projets de coopération avec 55 pays, elle en a tiré profit. Mais aujourd'hui, ayant beaucoup souffert de la crise financière internationale, Unifrance doit faire face à de nouveaux défis. Comme les objectifs de ses prédécesseurs, le sien consiste à faire rayonner le plus largement possible le cinéma français.",
+            "chineseTranslation": "Unifrance（法国电影联盟）由法国政府于1949年创立，负责在海外推广本国电影。该联盟拥有近600名会员，它资助艺术家在全球范围内出访，并举办各种旨在让法国电影广为人知的活动。凭借与55个国家成功开展的众多合作项目，联盟从中获益良多。然而如今，由于深受国际金融危机之苦，Unifrance不得不应对新的挑战。如同前任们的目标一样，它的目标在于尽可能广泛地弘扬法国电影。",
+            "fr2cnStrategy": "① 句首过去分词短语 Créée en 1949... 译为前置状语“由……于1949年创立”，体现语序调整。② favorise le déplacement des artistes（抽象名词结构 déplacement）转译为动词结构“资助艺术家……出访”，属词性转换、化静为动。③ destinées à faire connaître... 拆为“旨在让……广为人知的活动”，将长定语转为短句。④ en a tiré profit 中代词 en 在译文中还原为“从（这些项目）中”，并增译“良多”使语气自然，属增译。⑤ ayant beaucoup souffert de... 复合现在分词作原因状语，译为“由于深受……之苦”，逻辑显化。⑥ le sien 主有代词还原为“它的目标”，避免指代不清。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "多亏了Unifrance的努力，法国电影在全世界吸引了越来越多的观众。",
+                "frenchTranslation": "Grâce à l'action d'Unifrance, le cinéma français attire un public toujours plus nombreux à travers le monde.",
+                "cn2frStrategy": "① “多亏”用表积极原因的 grâce à；② “越来越多的观众”用 un public toujours plus nombreux 表达，避免直译 de plus en plus de spectateurs 的累赘；③ “在全世界”译为 à travers le monde。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "这个协会的目的是在国外推广法国电影。",
+                "frenchTranslation": "Cette association a pour but de populariser le cinéma français à l'étranger.",
+                "cn2frStrategy": "① “目的是”用固定结构 avoir pour but de + 不定式；② “推广”选用本课动词 populariser；③ “在国外”译为 à l'étranger。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "这种新的合作关系不仅使协会获得了额外的资金，还便利了艺术家的出行。",
+                "frenchTranslation": "Ce nouveau partenariat permet à l'association non seulement de bénéficier de financements supplémentaires, mais facilite aussi les déplacements des artistes.",
+                "cn2frStrategy": "① “使……获得”用 permettre à qn de faire qch 结构；② “获得资金”用 bénéficier de（强调受益）而非 obtenir；③ “不仅……还……”用 non seulement... mais aussi... 关联；④ “出行”用抽象名词 les déplacements，符合法语名词化倾向。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "面对新的挑战，新当选的主席希望让法国电影尽可能广泛地大放异彩。",
+                "frenchTranslation": "Face à de nouveaux défis, le président nouvellement élu souhaite faire rayonner le cinéma français le plus largement possible.",
+                "cn2frStrategy": "① “面对……”用 face à（faire face à 的精简介词短语形式）；② “新当选的”用 nouvellement élu（副词 + 过去分词）；③ “大放异彩”用使役结构 faire rayonner；④ “尽可能广泛地”用 le plus largement possible。"
+            }
+        ]
+    }
+}
