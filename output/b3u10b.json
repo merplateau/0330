@@ -1,0 +1,790 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Ce message a été prononcé le 24 décembre 1941 à la Radio de Londres par le général de Gaulle qui voulait souhaiter un bon Noël aux enfants de France.",
+            "translatedSentence": "这篇致辞是1941年12月24日由戴高乐将军在伦敦广播电台发表的，他想借此向法国的孩子们致以圣诞祝福。",
+            "sentenceStructure": "主句为 Ce message a été prononcé（被动语态）；par le général de Gaulle 为施动者补语；qui voulait souhaiter... 为修饰 le général de Gaulle 的关系从句。",
+            "grammarAnalysis": "① a été prononcé 为被动语态的复合过去时，结构为 être 的复合过去时 + 过去分词，强调动作的承受者 message。② par 引出被动句中的施动者。③ qui 引导关系从句，先行词为 le général de Gaulle。④ souhaiter qch à qn 为固定结构「祝愿某人某事」。",
+            "commonMistakes": "学生易把被动语态的复合过去时 a été prononcé 误认成简单的复合过去时；要注意 être 在此本身处于复合过去时（a été）后再接过去分词 prononcé。另外 souhaiter 后面是「物在前、人在后（à qn）」，不要写成 souhaiter qn。"
+        },
+        {
+            "index": "2",
+            "sentence": "L’Allemagne, pleine d’orgueil, a voulu, un beau jour, réduire en esclaves les peuples des pays qui l’entouraient.",
+            "translatedSentence": "傲慢自大的德国曾妄想有朝一日把周边各国的人民都沦为奴隶。",
+            "sentenceStructure": "主语 L’Allemagne；pleine d’orgueil 为同位形容词短语作插入成分；谓语 a voulu réduire；en esclaves 为方式状语；宾语 les peuples des pays；qui l’entouraient 为修饰 pays 的关系从句。",
+            "grammarAnalysis": "① a voulu 为 vouloir 的复合过去时；后接动词不定式 réduire。② réduire qn/qch en... 为固定搭配「把……变成……」。③ un beau jour 为习语，意为「（从前）有那么一天」，beau 在此只起加强语气作用，无实义。④ qui l’entouraient 中 l’ 指代 l’Allemagne，entouraient 为未完成过去时，表过去持续的状态。",
+            "commonMistakes": "易把 réduire en esclaves 直译为「减少成奴隶」；réduire ... en ... 的固定义是「使……沦为/化为……」。另外注意 un beau jour 不能理解为「一个美好的日子」。"
+        },
+        {
+            "index": "3",
+            "sentence": "Si notre armée fut battue, ce n’est pas du tout parce qu’elle manquait de discipline et qu’elle n’était pas courageuse.",
+            "translatedSentence": "假如说我们的军队战败了，那绝不是因为它缺乏纪律，也不是因为它不够勇敢。",
+            "sentenceStructure": "Si 引导的让步性条件分句 Si notre armée fut battue；主句为 ce n’est pas du tout parce que...；并列的第二个原因从句以 que 重复引导（qu’elle n’était pas courageuse）。",
+            "grammarAnalysis": "① fut battue 为被动语态的简单过去时（passé simple），多用于书面叙述。② ne... pas du tout 为强调否定「根本不，绝不」。③ ce n’est pas parce que... 否定的是「原因」，意为「并非因为……」。④ 第二个原因从句用 que 代替 parce que，以避免重复，这是法语并列从句的常见省略。",
+            "commonMistakes": "学生常把否定 ce n’est pas parce que 误解为否定结果；其实它否定的是后面的原因。还易忽视第二个 que 实际等同于 parce que。fut battue 是 passé simple 的被动，不要误认成虚拟式。"
+        },
+        {
+            "index": "4",
+            "sentence": "Seulement, malgré que nous ayons subi cette défaite, il y a toujours des troupes françaises, des navires de guerre et des navires marchands français, qui continuent le combat.",
+            "translatedSentence": "只不过，尽管我们遭受了这次失败，仍然有一支支法国军队、一艘艘法国军舰和商船在继续战斗。",
+            "sentenceStructure": "malgré que nous ayons subi cette défaite 为让步状语从句；主句为 il y a toujours des troupes..., des navires...；qui continuent le combat 为关系从句，先行词为前面并列的名词。",
+            "grammarAnalysis": "① malgré que 引导让步从句，后接虚拟式（ayons subi 为虚拟式过去时）。② ayons subi = avoir 的虚拟式现在时 + 过去分词 subi。③ il y a 为无人称存在结构。④ qui continuent 关系从句中动词用复数，与前面并列的复数先行词一致。",
+            "commonMistakes": "malgré que 在规范法语中存在争议，更正式的写法是 bien que / quoique，但同样要求虚拟式；考试中若用 malgré 则只能接名词（malgré + n.），不可直接接句子。学生易漏掉虚拟式 ayons subi。"
+        },
+        {
+            "index": "5",
+            "sentence": "Vous verrez un jour toute cette machine écraser les Allemands fatigués et désespérés, à moins qu’ils ne se soient rendus plus tôt.",
+            "translatedSentence": "总有一天你们会看到这整部战争机器把疲惫绝望的德国人碾碎，除非他们提前投降。",
+            "sentenceStructure": "主句 Vous verrez... toute cette machine écraser...，为「感官动词 voir + 直接宾语 + 不定式」结构；à moins que... 引导让步条件从句。",
+            "grammarAnalysis": "① voir + qch/qn + inf. 表「看见某物/某人做某事」，宾语 toute cette machine 同时是不定式 écraser 的逻辑主语。② à moins que 引导从句，后接虚拟式。③ ne se soient rendus 中 ne 为「赘词 ne（ne explétif）」，无否定意义；se soient rendus 为代词式动词 se rendre 的虚拟式过去时。",
+            "commonMistakes": "à moins que 后的 ne 不表否定，学生易误译为「除非他们没有提前投降」；正确理解为「除非他们提前投降了」。还要注意 se rendre 的复合时态助动词用 être，过去分词与主语性数配合（rendus）。"
+        },
+        {
+            "index": "6",
+            "sentence": "A mesure qu’ils reculeront de chez nous, vous verrez se lever de nouveau une grande armée française.",
+            "translatedSentence": "随着他们从我们的国土上节节后退，你们将会看到一支强大的法国军队重新崛起。",
+            "sentenceStructure": "A mesure que 引导的时间状语从句 A mesure qu’ils reculeront...；主句 vous verrez se lever... une grande armée，为「voir + 不定式 + 不定式逻辑主语」结构（主语倒置在不定式之后）。",
+            "grammarAnalysis": "① à mesure que 表「随着……（程度同步推进）」，从句用直陈式，此处为简单将来时 reculeront。② se lever 为代词式动词「升起、起来」；在 voir se lever une grande armée 中，逻辑主语 une grande armée 后置于不定式之后，这是感官动词 + 代词式不定式时的常见语序。③ de nouveau 意为「重新，再一次」。",
+            "commonMistakes": "易把 à mesure que 与 au fur et à mesure que 混用（后者更口语、更强调同步）。还易混淆 de nouveau（重新做同一件事）与 à nouveau（以新的方式重做）。注意 voir se lever une armée 的倒装语序。"
+        },
+        {
+            "index": "7",
+            "sentence": "Or, ils sont sûrs d’y rentrer en triomphe, car, nos amis, les Anglais et les Russes, ont maintenant des forces très considérables, sans compter celles que préparent les Américains.",
+            "translatedSentence": "况且，他们确信终将凯旋而归，因为我们的盟友英国人和俄国人如今拥有相当可观的力量，更不用说美国人正在筹备的那些力量了。",
+            "sentenceStructure": "主句 ils sont sûrs d’y rentrer en triomphe；car 引导原因从句 nos amis... ont des forces considérables；sans compter celles... 为补充状语；celles que préparent les Américains 为关系从句。",
+            "grammarAnalysis": "① être sûr de + inf. 表「确信会做某事」。② 副代词 y 在此代替地点（指 la France / chez eux）。③ en triomphe 为方式状语「凯旋地」。④ sans compter 意为「还不算，更不用说」。⑤ celles que préparent les Américains 中关系从句出现主谓倒装（动词 préparent 在主语 les Américains 之前），这是关系从句中较书面的语序。",
+            "commonMistakes": "celles que préparent les Américains 的倒装易使人误判主宾关系；其实 les Américains 是 préparent 的主语，celles（指 forces）是宾语。注意区分 être sûr de（确信）与 être sûr que（后接直陈式）。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "souhaiter qch à qn",
+            "meaning": "祝愿某人某事",
+            "usage": "「物在前、人在后」：souhaiter + 宾语（物）+ à + 人。书面口语皆可。若接动词，则用 souhaiter faire / souhaiter que + 虚拟式。",
+            "exampleSentence": "le général de Gaulle qui voulait souhaiter un bon Noël aux enfants de France"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "être en train de faire qch",
+            "meaning": "正在做某事",
+            "usage": "强调动作正在进行；de 后接动词不定式。注意 train 不变，仅变 être。口语书面均常用。",
+            "exampleSentence": "Le peuple français était en train de souffrir de faim et de froid."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "souffrir de qch",
+            "meaning": "受……之苦，遭受",
+            "usage": "间接及物，固定搭配介词 de；常接 faim, froid, maladie 等。souffrir de + n.；不可用 souffrir à。",
+            "exampleSentence": "Le peuple français était en train de souffrir de faim et de froid."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "à l’occasion de qch",
+            "meaning": "值……之际，借……的机会",
+            "usage": "固定介词短语，后接名词（节日、事件等）。书面色彩较强。",
+            "exampleSentence": "le général de Gaulle a prononcé ce petit message à l’occasion de Noël"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "réduire qn/qch en qch",
+            "meaning": "把……沦为/化为……",
+            "usage": "固定搭配介词 en；常见 réduire en esclaves（沦为奴隶）、réduire en cendres（化为灰烬）。注意不用 à。",
+            "exampleSentence": "réduire en esclaves les peuples des pays qui l’entouraient"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "se lancer à l’attaque / se lancer sur qch",
+            "meaning": "发起进攻 / 扑向、猛攻",
+            "usage": "代词式动词；se lancer à l’attaque 表「投入进攻」，se lancer sur 表「扑向某目标」。介词随语义而变。",
+            "exampleSentence": "elle s’est donc lancée à l’attaque"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "réussir à faire qch",
+            "meaning": "成功地做某事",
+            "usage": "réussir 接不定式时用介词 à；réussir à qch 表「在某事上成功」；réussir un examen 则是「考试通过」（直接及物，无介词）。",
+            "exampleSentence": "Mais la France a réussi à l’arrêter sur la Marne, puis à Verdun."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "venir / arriver à l’aide de qn（à son aide）",
+            "meaning": "前来援助某人",
+            "usage": "固定搭配 à l’aide de qn 或用所有格 à son aide。注意 à l’aide de + 物 还可表「借助某物」。",
+            "exampleSentence": "ont eu ainsi le temps d’arriver à son aide"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "se rendre à qn",
+            "meaning": "向……投降",
+            "usage": "代词式动词 + 介词 à；助动词用 être，过去分词与主语配合。另有 se rendre à + 地点 = 前往某地（同形异义）。",
+            "exampleSentence": "Elle s’est rendue au Maréchal Foch."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "demander pardon (à qn)",
+            "meaning": "请求原谅，认错",
+            "usage": "demander pardon à qn de qch；口语中亦说 demander pardon 单用。注意宾语「人」用 à 引出。",
+            "exampleSentence": "Elle a demandé pardon."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "manquer de qch",
+            "meaning": "缺乏，缺少",
+            "usage": "间接及物，固定搭配 de，后接抽象/物质名词。manquer à qn 则表「使某人想念」（je te manque = 你想我），易混。",
+            "exampleSentence": "elle manquait de discipline... elle manquait d’avions et de navires"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "être sûr de + inf. / que + ind.",
+            "meaning": "确信（会做某事）",
+            "usage": "接不定式时用 de；接从句时用 que + 直陈式。否定式 ne pas être sûr que 后则常用虚拟式。",
+            "exampleSentence": "ils sont sûrs d’y rentrer en triomphe"
+        },
+        {
+            "listIndex": "13",
+            "collocation": "sans compter (qch / que)",
+            "meaning": "还不算，更不用说",
+            "usage": "插入语式状语，用于追加补充；后可接名词或 que 从句。语体偏中性书面。",
+            "exampleSentence": "sans compter celles que préparent les Américains"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "à moins que (+ ne + subjonctif)",
+            "meaning": "除非",
+            "usage": "引导让步条件从句，后接虚拟式，且常带赘词 ne（无否定义）。à moins de + inf. 为其不定式形式。",
+            "exampleSentence": "à moins qu’ils ne se soient rendus plus tôt"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "à mesure que (+ ind.)",
+            "meaning": "随着（程度同步推进）",
+            "usage": "引导时间从句，用直陈式。强调两动作同步发展，比 quand 更突出渐进性。",
+            "exampleSentence": "A mesure qu’ils reculeront de chez nous, vous verrez..."
+        },
+        {
+            "listIndex": "16",
+            "collocation": "de nouveau",
+            "meaning": "重新，再一次",
+            "usage": "副词短语，置于动词后。de nouveau 指「再做一次同样的事」；à nouveau 偏「重新（以新方式）做」。",
+            "exampleSentence": "elle s’est lancée de nouveau sur la France"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "encourager",
+            "partOfSpeech": "vt.",
+            "definition": "①鼓舞，激励 ②支持，鼓励（做某事）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "encourager qn",
+                    "vocabularyCollocationMeaning": "鼓励某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "encourager qn à faire qch",
+                    "vocabularyCollocationMeaning": "鼓励某人做某事"
+                }
+            ],
+            "synonymAnalysis": "encourager vs soutenir：encourager 侧重「以言语、态度给人勇气和信心」；soutenir 侧重「以实际行动或立场给予支持」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "encouragement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "鼓励，鼓舞"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "courage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "勇气"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "courageux, se",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "勇敢的"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "décourager",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使灰心，使气馁"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j’encourage, tu encourages, il encourage, nous encourageons, vous encouragez, ils encouragent",
+                "compoundPast": "j’ai encouragé",
+                "simpleFuture": "j’encouragerai",
+                "imperfect": "j’encourageais, nous encouragions",
+                "memoryAids": "属于 -ger 类动词：词干以 g 结尾，为保留 [ʒ] 音，在以 a、o 开头的词尾前需加 e（如 nous encourageons、j’encourageais），与 manger、voyager、changer 变位规律相同。"
+            }
+        },
+        {
+            "index": "2",
+            "vocabulary": "message",
+            "partOfSpeech": "n.m.",
+            "definition": "①信件，电文 ②留言，消息 ③（作品等传达的）寓意，讯息",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "laisser un message",
+                    "vocabularyCollocationMeaning": "留言"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "envoyer un message à qn",
+                    "vocabularyCollocationMeaning": "给某人发消息"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "message publicitaire",
+                    "vocabularyCollocationMeaning": "广告信息"
+                }
+            ],
+            "synonymAnalysis": "message vs lettre：message 范围更广，可指口信、电文、电子消息；lettre 特指书面信件。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "messager, ère",
+                    "derivedWordPartOfSpeech": "n.",
+                    "derivedWordMeaning": "送信人，使者"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "messagerie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "邮件服务，（电子）信箱；货运"
+                }
+            ],
+            "pluralForm": "messages"
+        },
+        {
+            "index": "3",
+            "vocabulary": "méchant",
+            "partOfSpeech": "adj.",
+            "definition": "①恶的，恶毒的 ②（动物）凶的 ③淘气的（用于孩子）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un homme méchant",
+                    "vocabularyCollocationMeaning": "心肠歹毒的人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un chien méchant",
+                    "vocabularyCollocationMeaning": "凶狗"
+                }
+            ],
+            "synonymAnalysis": "méchant vs cruel vs mauvais：méchant 指「存心使坏、恶毒」；cruel 强调「残忍、使人痛苦」；mauvais 泛指「坏的、不好的」，语义最宽。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "méchanceté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "恶意，狠毒；坏话"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "méchamment",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "恶毒地"
+                }
+            ],
+            "genderNumberVariation": "阴性 méchante，阳性复数 méchants，阴性复数 méchantes（阴性 +e，复数 +s）",
+            "position": "通常置于名词之后；置于名词前时多含主观评价或弱化语气。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "brutal",
+            "partOfSpeech": "adj.",
+            "definition": "①粗暴的，粗鲁的 ②（变化等）突然而猛烈的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un geste brutal",
+                    "vocabularyCollocationMeaning": "粗暴的举动"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un changement brutal",
+                    "vocabularyCollocationMeaning": "骤变"
+                }
+            ],
+            "synonymAnalysis": "brutal vs violent vs rude：brutal 强调「粗暴、缺乏分寸」；violent 强调「猛烈、暴力」；rude 偏「严酷、粗糙」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "brutalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "粗暴，野蛮"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "brutalement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "粗暴地；突然地"
+                }
+            ],
+            "genderNumberVariation": "阴性 brutale，阳性复数 brutaux，阴性复数 brutales（以 -al 结尾的形容词阳性复数变 -aux）",
+            "position": "通常置于名词之后。"
+        },
+        {
+            "index": "5",
+            "vocabulary": "rude",
+            "partOfSpeech": "adj.",
+            "definition": "①粗野的，粗鲁的 ②粗糙的，不平的 ③艰苦的，严酷的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un hiver rude",
+                    "vocabularyCollocationMeaning": "严冬"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une voix rude",
+                    "vocabularyCollocationMeaning": "粗哑的嗓音"
+                }
+            ],
+            "synonymAnalysis": "rude vs dur：rude 偏「粗糙、严酷、不温和」；dur 偏「坚硬、艰难、严厉」，二者在「艰苦」义上可互换，但 rude 更书面。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rudement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "粗暴地；〈口〉很，非常"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "rudesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "粗糙；粗暴；严酷"
+                }
+            ],
+            "genderNumberVariation": "阴阳性同形 rude，复数 rudes（词尾已含 e，阴性不再加 e）",
+            "position": "通常置于名词之后。"
+        },
+        {
+            "index": "6",
+            "vocabulary": "jaloux",
+            "partOfSpeech": "adj.",
+            "definition": "①嫉妒的 ②（对……）戒备的，珍视的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être jaloux de qn",
+                    "vocabularyCollocationMeaning": "嫉妒某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "être jaloux de son indépendance",
+                    "vocabularyCollocationMeaning": "珍视、捍卫自己的独立"
+                }
+            ],
+            "synonymAnalysis": "jaloux vs envieux：jaloux 既可指「妒忌」也可指「对所拥有之物的强烈守护」；envieux 仅指「眼红、羡慕他人所有」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "jalousie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "嫉妒，妒忌"
+                }
+            ],
+            "genderNumberVariation": "阴性 jalouse，阳性复数 jaloux（与单数同形），阴性复数 jalouses（-oux 结尾，阴性改 -ouse）",
+            "position": "通常置于名词之后；常作表语，与 de 搭配。"
+        },
+        {
+            "index": "7",
+            "vocabulary": "orgueil",
+            "partOfSpeech": "n.m.",
+            "definition": "①骄傲，傲慢 ②自豪，自尊",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plein d’orgueil",
+                    "vocabularyCollocationMeaning": "充满傲气的"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tirer orgueil de qch",
+                    "vocabularyCollocationMeaning": "以某事为傲"
+                }
+            ],
+            "synonymAnalysis": "orgueil vs fierté：orgueil 多含贬义，指「过度的傲慢」；fierté 多为中性或褒义，指「正当的自豪」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "orgueilleux, se",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "骄傲的，傲慢的"
+                }
+            ],
+            "pluralForm": "orgueils（极少用复数）"
+        },
+        {
+            "index": "8",
+            "vocabulary": "nullement",
+            "partOfSpeech": "adv.",
+            "definition": "一点也不，绝不",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ne... nullement",
+                    "vocabularyCollocationMeaning": "丝毫不，绝不"
+                }
+            ],
+            "synonymAnalysis": "nullement vs aucunement vs pas du tout：三者均表强调否定。nullement、aucunement 更书面正式；pas du tout 偏口语，最常用。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nul, nulle",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "无效的；毫无……的；没有一个的"
+                }
+            ],
+            "useExplanation": "与 ne 配合构成强调否定，置于动词之后（复合时态置于助动词后、过去分词前），如 il n’était nullement occupé。语体较正式，相当于加强版的 ne... pas。"
+        },
+        {
+            "index": "9",
+            "vocabulary": "échouer",
+            "partOfSpeech": "vi.",
+            "definition": "①失败（在某事上）②（船）搁浅 ③（最终）落到、流落到（某处）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "échouer à un examen",
+                    "vocabularyCollocationMeaning": "考试不及格"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "échouer dans une entreprise",
+                    "vocabularyCollocationMeaning": "在一项事业中失败"
+                }
+            ],
+            "synonymAnalysis": "échouer vs rater vs manquer：échouer 偏「（整体）失败」，多用 vi.；rater 口语，直接及物（rater un examen）；manquer 偏「错过、未达到」。注意 réussir 是其反义。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "échec",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "失败"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "dessus",
+            "partOfSpeech": "prép.",
+            "definition": "①在上面 ②（用作副词）在上面，在其上",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "là-dessus",
+                    "vocabularyCollocationMeaning": "在这上面；在这点上；于是，随即"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "au-dessus de",
+                    "vocabularyCollocationMeaning": "在……之上"
+                }
+            ],
+            "synonymAnalysis": "dessus vs sur：sur 为常用介词，须接宾语（sur la table）；dessus 多作副词，单独使用指「在上面」（不再接宾语）。其反义为 dessous（在下面）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ci-dessus",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "（文中）上文，前面"
+                }
+            ],
+            "useExplanation": "在课文 là-dessus 中表「随即、于是」，引出承接性动作。作副词时通常单独使用、不带宾语；与 sur 的区别在于 sur 必须引导宾语。"
+        },
+        {
+            "index": "11",
+            "vocabulary": "maréchal",
+            "partOfSpeech": "n.m.",
+            "definition": "元帅（最高军衔之一）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le maréchal Foch",
+                    "vocabularyCollocationMeaning": "福煦元帅"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "maréchaux（以 -al 结尾，复数变 -aux；阴性 maréchale 指元帅夫人）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "défaite",
+            "partOfSpeech": "n.f.",
+            "definition": "①（军事）战败，败仗 ②失败",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "subir une défaite",
+                    "vocabularyCollocationMeaning": "遭受失败"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "essuyer une défaite",
+                    "vocabularyCollocationMeaning": "吃败仗"
+                }
+            ],
+            "synonymAnalysis": "défaite vs échec：défaite 多指「战争或竞赛中的失败」，与 victoire 相对；échec 泛指各类「失败、受挫」，与 réussite 相对。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "défaire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "拆开，解开；击败"
+                }
+            ],
+            "pluralForm": "défaites"
+        },
+        {
+            "index": "13",
+            "vocabulary": "battu",
+            "partOfSpeech": "adj.",
+            "definition": "①被打的，挨打的 ②被击败的 ③（道路）被踩实的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une armée battue",
+                    "vocabularyCollocationMeaning": "一支被击败的军队"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les sentiers battus",
+                    "vocabularyCollocationMeaning": "老路，陈规俗套"
+                }
+            ],
+            "synonymAnalysis": "battu vs vaincu：battu 为 battre 的过去分词，强调「被打败、被击败」的结果；vaincu 为 vaincre 的过去分词，语体更正式，强调「被征服、被战胜」。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "battre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "打，击；战胜"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "bataille",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "战斗，战役"
+                }
+            ],
+            "genderNumberVariation": "阴性 battue，阳性复数 battus，阴性复数 battues（源自 battre 的过去分词）",
+            "position": "通常置于名词之后。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "navire",
+            "partOfSpeech": "n.m.",
+            "definition": "（大型）船，舰，轮船",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un navire de guerre",
+                    "vocabularyCollocationMeaning": "军舰"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un navire marchand",
+                    "vocabularyCollocationMeaning": "商船"
+                }
+            ],
+            "synonymAnalysis": "navire vs bateau vs vaisseau：navire 多指较大型的远洋船舶（含军舰、商船）；bateau 泛指各类船只，最常用、最口语；vaisseau 较文雅或指「（宇宙/大型）飞船、舰艇」。",
+            "derivedWords": [],
+            "pluralForm": "navires"
+        },
+        {
+            "index": "15",
+            "vocabulary": "marchand",
+            "partOfSpeech": "adj.",
+            "definition": "①商业的，经商的 ②商品的，待售的；（作名词时）商人，店主",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la marine marchande",
+                    "vocabularyCollocationMeaning": "商船队，商业航运"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "la valeur marchande",
+                    "vocabularyCollocationMeaning": "市场价值，商品价值"
+                }
+            ],
+            "synonymAnalysis": "marchand vs commercial：作形容词时 marchand 偏「与买卖/商品直接相关」（valeur marchande）；commercial 偏「与商业活动、商务相关」（relation commerciale）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marchandise",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "商品，货物"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "marché",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "市场；集市；交易"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "marchander",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "讨价还价"
+                }
+            ],
+            "genderNumberVariation": "阴性 marchande，阳性复数 marchands，阴性复数 marchandes（阴性 +e，复数 +s）",
+            "position": "作形容词时通常置于名词之后。"
+        },
+        {
+            "index": "16",
+            "vocabulary": "triomphe",
+            "partOfSpeech": "n.m.",
+            "definition": "①凯旋，胜利 ②巨大成功",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "en triomphe",
+                    "vocabularyCollocationMeaning": "凯旋地，以胜利者姿态"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l’arc de triomphe",
+                    "vocabularyCollocationMeaning": "凯旋门"
+                }
+            ],
+            "synonymAnalysis": "triomphe vs victoire：victoire 指「（战争、竞赛中的）胜利」这一结果；triomphe 强调「辉煌的胜利及其荣耀、凯旋的场面」，语气更强。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "triompher",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "获胜，战胜（de qch/qn）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "triomphal, e",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "凯旋的，胜利的"
+                }
+            ],
+            "pluralForm": "triomphes"
+        },
+        {
+            "index": "17",
+            "vocabulary": "reculer",
+            "partOfSpeech": "vi.",
+            "definition": "①后退，退却 ②退缩，畏缩 ③（vt.）使后移；推迟",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "reculer devant le danger",
+                    "vocabularyCollocationMeaning": "在危险面前退缩"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "reculer une date",
+                    "vocabularyCollocationMeaning": "推迟日期"
+                }
+            ],
+            "synonymAnalysis": "reculer vs régresser：reculer 指「（位置上）向后退」或「（行动上）退缩」；régresser 偏「（程度、水平上）倒退、退化」。其反义为 avancer。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "recul",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "后退；（时间、距离上的）回顾，间隔"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "vaincu",
+            "partOfSpeech": "adj.",
+            "definition": "①战败的，被打败的 ②（作名词）战败者，失败者",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un peuple vaincu",
+                    "vocabularyCollocationMeaning": "战败的民族"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "les fils de vaincus",
+                    "vocabularyCollocationMeaning": "战败者的子女"
+                }
+            ],
+            "synonymAnalysis": "vaincu vs battu：vaincu 为 vaincre 的过去分词，语体更正式、更强调「被彻底征服」；battu 更口语、更具体（被打败）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vaincre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "战胜，征服；克服"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vainqueur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "胜利者，征服者"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "invincible",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "不可战胜的"
+                }
+            ],
+            "genderNumberVariation": "阴性 vaincue，阳性复数 vaincus，阴性复数 vaincues（源自 vaincre 的过去分词）",
+            "position": "作形容词时通常置于名词之后；亦常用作名词。"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "En 1941, la France était occupée par les Allemands depuis dix-huit mois, et le peuple français était en train de souffrir de faim et de froid. L’Allemagne, pleine d’orgueil, avait voulu réduire en esclaves les peuples des pays qui l’entouraient. Pourtant, malgré que la France eût subi cette défaite, des troupes françaises continuaient le combat. Pour encourager les enfants de France, le général de Gaulle leur fit une promesse: à mesure que l’ennemi reculerait, une grande armée française se lèverait de nouveau, et la Victoire reviendrait bientôt.",
+            "chineseTranslation": "1941年，法国已被德军占领了十八个月，法国人民正饱受饥寒之苦。傲慢自大的德国曾妄图把周边各国的人民沦为奴隶。然而，尽管法国遭受了这次失败，仍有一支支法国军队在继续战斗。为了鼓舞法国的孩子们，戴高乐将军向他们许下承诺：随着敌人节节后退，一支强大的法国军队将重新崛起，胜利也将很快归来。",
+            "fr2cnStrategy": "① était occupée... depuis dix-huit mois 译为「已被占领了十八个月」，把被动语态保留为汉语「被」字句，并把 depuis 的「持续」义用「了……」体现，属语态保留 + 时体显化。② était en train de souffrir de faim et de froid 中抽象的「正在受苦」转译为四字格「饱受饥寒之苦」，使译文更地道，属词性/结构转换。③ réduire en esclaves les peuples des pays qui l’entouraient 中后置关系从句 qui l’entouraient 前移译为「周边各国的」，避免「的的的」叠加，属语序调整 + 拆并处理。④ malgré que... eût subi 让步从句译为「尽管……」，符合汉语先让步后转折的习惯。⑤ à mesure que l’ennemi reculerait 译为「随着敌人节节后退」，用「节节」增译以再现渐进语气，属增译。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "尽管我们遭受了这次失败，法国的军队仍在继续战斗。",
+                "frenchTranslation": "Bien que nous ayons subi cette défaite, les troupes françaises continuent le combat.",
+                "cn2frStrategy": "① 让步从句用 bien que + 虚拟式过去时 ayons subi（比 malgré que 更规范）；② 「遭受失败」用固定搭配 subir une défaite；③ 「继续战斗」用 continuer le combat。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "傲慢自大的德国曾妄想有朝一日把周边国家的人民变成奴隶。",
+                "frenchTranslation": "L’Allemagne, pleine d’orgueil, a voulu un beau jour réduire en esclaves les peuples des pays voisins.",
+                "cn2frStrategy": "① 「傲慢自大的」用同位形容词短语 pleine d’orgueil 插入，避免堆砌定语；② 「有朝一日」用习语 un beau jour；③ 「把……变成奴隶」用固定搭配 réduire en esclaves；④ 「周边国家」译为 les pays voisins。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "随着敌人后退，你们将会看到一支法国军队重新崛起。",
+                "frenchTranslation": "A mesure que l’ennemi reculera, vous verrez se lever de nouveau une armée française.",
+                "cn2frStrategy": "① 「随着……」用 à mesure que + 直陈式将来时 reculera，体现两动作同步推进；② 主句用感官动词结构 voir + 不定式 se lever，逻辑主语 une armée française 后置；③ 「重新」用 de nouveau。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "为了在圣诞节之际鼓舞孩子们，将军向他们许下了一个承诺。",
+                "frenchTranslation": "Pour encourager les enfants à l’occasion de Noël, le général leur a fait une promesse.",
+                "cn2frStrategy": "① 「为了……」用 pour + 不定式表目的；② 「在……之际」用固定短语 à l’occasion de；③ 「鼓舞」用 encourager；④ 「许下承诺」用 faire une promesse，间接宾语「向他们」用代词 leur 前置。"
+            }
+        ]
+    }
+}

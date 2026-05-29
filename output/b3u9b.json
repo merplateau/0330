@@ -1,0 +1,985 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Ceux de Paris sont de braves pigeons gris avec de grands airs de bons bourgeois en promenade, passant leur temps à trouver de quoi manger et à faire la cour aux filles pigeons en tournant autour d’elles avec des « coulou-coulou ».",
+            "translatedSentence": "巴黎的鸽子是一群灰色的好鸽子，俨然一副散步中的体面市民模样，整天忙着觅食，绕着雌鸽子打转，发出“咕咕”声向她们求爱。",
+            "sentenceStructure": "主语 Ceux de Paris — 系动词 sont — 表语 de braves pigeons gris；后接介词短语 avec de grands airs… 作修饰，再用两个现在分词短语 passant… et faire la cour… 以及副动词 en tournant… 补充说明鸽子的状态与动作。",
+            "grammarAnalysis": "① Ceux 是指示代词，替代前文的 les pigeons，避免重复。② de braves pigeons：复数不定冠词 des 在“前置形容词 + 名词”结构前要变为 de，故说 de braves pigeons、de grands airs、de bons bourgeois。③ passant 是现在分词作状语，表伴随状态。④ de quoi manger：de quoi + 不定式，意为“可以……的东西”。⑤ faire la cour à qn 是固定搭配，意为“向某人求爱”。⑥ en tournant 是副动词（gérondif），表方式。",
+            "commonMistakes": "学生易把 de braves pigeons 里的 de 误当介词或漏写，其实它是 des 在前置形容词前的变体。另外 de quoi manger 常被误解为“什么吃的”，应理解为“足以吃饱的东西、可吃之物”。"
+        },
+        {
+            "index": "2",
+            "sentence": "Autrefois, avant que l’homme arrive, ces pigeons vivaient dans les rochers.",
+            "translatedSentence": "从前，在人类到来之前，这些鸽子栖息在岩石之间。",
+            "sentenceStructure": "主句为 ces pigeons vivaient dans les rochers；句首 avant que l’homme arrive 是时间状语从句，Autrefois 为时间状语。",
+            "grammarAnalysis": "① avant que 引导时间状语从句，从句动词必须用虚拟式，故用 arrive（虚拟式现在时，与陈述式同形）。② 主句 vivaient 用未完成过去时，描述过去持续的习惯性状态。",
+            "commonMistakes": "最大的误区是忘记 avant que 要求虚拟式。注意与 après que（传统语法要求直陈式）区别。此外 arrive 在此并非现在时，而是虚拟式现在时，恰好与陈述式同形，易被误判时态。"
+        },
+        {
+            "index": "3",
+            "sentence": "Les pigeons qui passaient par là ont trouvé que le haut de ces maisons était un bon endroit pour y mettre leur nid et ils trouvaient de quoi manger sans peine, donc ils se sont installés dans notre ville.",
+            "translatedSentence": "途经此处的鸽子发现，这些房屋的顶部是筑巢的好地方，而且它们能毫不费力地找到吃的，于是便在我们的城市里安了家。",
+            "sentenceStructure": "主句 Les pigeons … ont trouvé que…；qui passaient par là 是修饰 pigeons 的关系从句；que 引导宾语从句 le haut … était un bon endroit；donc 引出结果分句 ils se sont installés…。",
+            "grammarAnalysis": "① qui 引导关系从句作主语，passaient 用未完成过去时。② 主句 ont trouvé 用复合过去时，宾语从句据时态呼应用未完成过去时 était。③ y 是副代词，代替 dans le haut de ces maisons（地点）。④ de quoi manger 同上，意为“可吃之物”。⑤ se sont installés 是代词式动词复合过去时，助动词用 être，过去分词与主语 ils 性数一致。",
+            "commonMistakes": "易错点一：y 的指代对象常被忽略，它替代“在房顶上”这一地点。易错点二：代词式动词 s’installer 的复合过去时一律用 être，且过去分词需与主语配合（installés）。"
+        },
+        {
+            "index": "4",
+            "sentence": "Et les siècles ont passé, pigeons vivant et élevant leurs petits, Parisiens se mettant à les aimer parce que ces oiseaux mettaient un peu de tendresse dans leur ville.",
+            "translatedSentence": "几个世纪过去了，鸽子繁衍生息、抚育后代，巴黎人也渐渐喜欢上了它们，因为这些鸟儿给他们的城市带来了一丝温情。",
+            "sentenceStructure": "主句 les siècles ont passé；其后是两个独立分词结构 pigeons vivant et élevant… 和 Parisiens se mettant à…，各自带有逻辑主语；最后 parce que 引导原因状语从句。",
+            "grammarAnalysis": "① pigeons vivant…、Parisiens se mettant… 是“独立分词分句”（proposition participiale absolue）：现在分词带有不同于主句的自己的主语，相当于一个时间或伴随状语从句。② se mettre à faire qch 意为“开始做某事”。③ 原因从句 mettaient 用未完成过去时，描述持续状态。",
+            "commonMistakes": "学生常把 pigeons vivant、Parisiens se mettant 误读为缺主语或语法残缺，其实这是带独立主语的分词分句，是书面语中浓缩从句的常见手法，可还原为 pendant que les pigeons vivaient… et que les Parisiens se mettaient à…。"
+        },
+        {
+            "index": "5",
+            "sentence": "Cela a duré jusqu’à ce que M. Malraux s’aperçoive que Paris était sale et fasse nettoyer les maisons.",
+            "translatedSentence": "这种状况一直持续，直到马尔罗先生发觉巴黎太脏，下令清洗房屋为止。",
+            "sentenceStructure": "主句 Cela a duré；jusqu’à ce que 引导时间状语从句，从句有两个并列谓语 s’aperçoive 和 fasse nettoyer；s’aperçoive 后又带 que 引导的宾语从句。",
+            "grammarAnalysis": "① jusqu’à ce que 引导从句，动词必须用虚拟式，故用 s’aperçoive 和 fasse（faire 的虚拟式现在时）。② s’apercevoir que… 意为“发觉、察觉到……”，是代词式动词。③ faire nettoyer les maisons 是“faire + 不定式”的使役结构，意为“让人清洗房屋、命人打扫”，动作的真正执行者另有其人。",
+            "commonMistakes": "易错点一：忘记 jusqu’à ce que 要求虚拟式（fasse 而非 fait）。易错点二：把 faire nettoyer 理解为马尔罗亲自打扫，其实使役结构表示“命人去做”。"
+        },
+        {
+            "index": "6",
+            "sentence": "Les tuer ? Vous auriez provoqué une manifestation !",
+            "translatedSentence": "杀掉它们吗？那你们准会引发一场示威游行！",
+            "sentenceStructure": "前句 Les tuer ? 是以不定式构成的设问；后句主语 Vous — 谓语 auriez provoqué（条件式过去时）— 宾语 une manifestation。",
+            "grammarAnalysis": "① Les tuer 中 Les 是直接宾语人称代词（代 les pigeons），置于不定式前。② auriez provoqué 是条件式过去时，表示对“假如真把鸽子杀掉”这一未发生假设的推断结果（本可能引发的后果）。③ provoquer une manifestation 为固定搭配，意为“引发一场示威”。",
+            "commonMistakes": "学生常把 auriez provoqué 误判为将来或过去时态。这里隐含一个未说出的条件（若你们这么做），属于“过去的非现实假设”，故用条件式过去时。"
+        },
+        {
+            "index": "7",
+            "sentence": "Il fallait donc d’abord qu’un certain nombre de pigeons quittent Paris, sans les tuer.",
+            "translatedSentence": "因此首先得让一定数量的鸽子离开巴黎，但又不能杀死它们。",
+            "sentenceStructure": "无人称主句 Il fallait que…；从句 un certain nombre de pigeons quittent Paris；句末 sans les tuer 为方式状语。",
+            "grammarAnalysis": "① Il faut que… 句型中从句动词用虚拟式，过去背景下主句用未完成过去时 fallait，从句用虚拟式 quittent。② un certain nombre de + 复数名词，谓语可用复数（quittent），与“数量”表达的实际复数意义一致。③ sans + 不定式（sans les tuer）表“不……地”，les 为前置宾语代词。",
+            "commonMistakes": "易错点：忽略 il faut que 后必须用虚拟式；以及 sans 后接不定式而非从句，宾语代词 les 要放在不定式 tuer 之前。"
+        },
+        {
+            "index": "8",
+            "sentence": "Les pigeons ayant été endormis, elle les a transportés à ces villes.",
+            "translatedSentence": "鸽子被麻醉之后，市政府便把它们运往这些城市。",
+            "sentenceStructure": "句首 Les pigeons ayant été endormis 是独立分词分句（表时间/原因）；主句 elle les a transportés à ces villes。",
+            "grammarAnalysis": "① ayant été endormis 是复合形式的现在分词被动态（avoir 的现在分词 ayant + été + 过去分词），表示“在被麻醉之后”，动作先于主句完成。② 主句 les a transportés：直接宾语 les（代 les pigeons）前置，过去分词 transportés 与之性数配合，作阳性复数。",
+            "commonMistakes": "易错点一：ayant été endormis 这种复合分词被动结构学生不熟悉，需还原为 Comme les pigeons avaient été endormis。易错点二：过去分词与前置直接宾语配合，transportés 必须加 s。"
+        },
+        {
+            "index": "9",
+            "sentence": "Si le Roi des pigeons n’avait pas adopté cette méthode, le nombre des pigeons n’aurait pas pu être facilement contrôlé.",
+            "translatedSentence": "假如鸽子之王没有采用这一办法，鸽子的数量恐怕就难以被轻易控制了。",
+            "sentenceStructure": "Si 引导条件从句 le Roi … n’avait pas adopté cette méthode；主句 le nombre des pigeons n’aurait pas pu être … contrôlé。",
+            "grammarAnalysis": "① 这是“与过去事实相反的假设”（irréel du passé）：从句用愈过去时 n’avait pas adopté，主句用条件式过去时 n’aurait pas pu。② être contrôlé 是被动语态不定式，受 pouvoir 支配，全句呈“条件式过去时 + 被动不定式”的复合结构。",
+            "commonMistakes": "易错点：把从句误用条件式或主句误用愈过去时。规则是“Si + 愈过去时，主句条件式过去时”。同时注意被动 être contrôlé 中过去分词与主语 le nombre 配合（阳性单数，无变化）。"
+        },
+        {
+            "index": "10",
+            "sentence": "Il sait, ce Roi, que la tour Saint-Jacques a droit à dix-huit couples et l’Académie française à trente, sans que les constructions se salissent.",
+            "translatedSentence": "这位“国王”心里有数：圣雅克塔可以养十八对鸽子，法兰西学院可以养三十对，而建筑物却不至于被弄脏。",
+            "sentenceStructure": "主句 Il sait que…（ce Roi 是 Il 的同位语，插入强调）；que 引导宾语从句，内含并列 la tour … a droit à dix-huit couples et l’Académie française à trente（后半省略谓语 a droit）；句末 sans que… 为状语从句。",
+            "grammarAnalysis": "① ce Roi 与主语 Il 同位，插入句中起强调说明作用。② avoir droit à qch 为固定搭配，意为“有权获得、有资格享有”。③ et l’Académie française à trente 中省略了重复的 a droit。④ sans que 引导从句，动词用虚拟式，故用 se salissent（se salir 的虚拟式现在时）。",
+            "commonMistakes": "易错点一：sans que 后须用虚拟式，se salissent 不是直陈式。易错点二：后半句省略谓语，需补出 a droit 才能读通。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "être fier, fière de qch/qn",
+            "meaning": "为……感到骄傲、自豪",
+            "usage": "形容词 fier 后固定接介词 de；fier 须与主语性数配合（fier/fière/fiers/fières）。书面口语皆可。",
+            "exampleSentence": "Chaque ville est fière de ses pigeons."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "passer son temps à faire qch",
+            "meaning": "把时间花在做某事上",
+            "usage": "à 后接动词不定式；à 不能换成 de。注意与 mettre du temps à faire qch（花时间做某事，强调耗时）区别。",
+            "exampleSentence": "… passant leur temps à trouver de quoi manger…"
+        },
+        {
+            "listIndex": "3",
+            "collocation": "faire la cour à qn",
+            "meaning": "向某人献殷勤、求爱",
+            "usage": "固定习语，cour 前用定冠词 la，对象用介词 à 引出；语体偏书面、略带文雅或调侃色彩。",
+            "exampleSentence": "… à faire la cour aux filles pigeons…"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "de quoi + 不定式",
+            "meaning": "足以（做）……的东西、可供……之物",
+            "usage": "de quoi manger=可吃的东西，de quoi vivre=赖以生活的钱物。口语常用，表示“足够用来做某事的资源”。",
+            "exampleSentence": "… ils trouvaient de quoi manger sans peine…"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "se mettre à faire qch",
+            "meaning": "开始（着手）做某事",
+            "usage": "代词式动词，à 后接不定式；强调动作的“起始”。与 commencer à 近义，但 se mettre à 更口语、更突出突然开始。",
+            "exampleSentence": "… Parisiens se mettant à les aimer…"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "s’apercevoir de qch / que + 从句",
+            "meaning": "察觉、发觉……",
+            "usage": "代词式动词，接名词用 de，接从句用 que（从句一般用直陈式）。区别于不带代词的 apercevoir qn/qch（看见某人某物）。",
+            "exampleSentence": "… jusqu’à ce que M. Malraux s’aperçoive que Paris était sale…"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "faire + 不定式",
+            "meaning": "使、让、命（某人/某物）做某事（使役结构）",
+            "usage": "faire nettoyer=命人清洗，faire faire des œufs=使产卵。动作真正的执行者并非主语；宾语代词须置于 faire 之前（如 lui fait faire）。",
+            "exampleSentence": "… et fasse nettoyer les maisons."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "empêcher qn de faire qch",
+            "meaning": "阻止某人做某事",
+            "usage": "固定结构，de 后接不定式，不可省略。注意与 défendre à qn de faire qch（禁止）区别。",
+            "exampleSentence": "On ne pouvait tout de même pas empêcher les pigeons de manger…"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "prendre qch/qn au filet",
+            "meaning": "用网捕捉……",
+            "usage": "介词用 au（à + le），表方式/工具。同类表达如 prendre au piège（落入陷阱、上当）。",
+            "exampleSentence": "… les prendre au filet…"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "s’entendre avec qn",
+            "meaning": "与某人达成一致、协调；与某人合得来",
+            "usage": "代词式动词，对象用 avec 引出。本课语境为“达成协议、商量妥当”，日常也指“相处融洽”。",
+            "exampleSentence": "… la Ville de Paris s’est entendue avec d’autres villes…"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "ne … que",
+            "meaning": "只，仅仅（限制）",
+            "usage": "que 紧贴所限制的成分；只表限制，不表否定，故 que 后名词仍可用部分冠词/数词。区别于 ne … pas（否定）。",
+            "exampleSentence": "Paris n’avait que les trois cent mille pigeons que ces monuments pouvaient supporter."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "la raison pour laquelle",
+            "meaning": "……的原因（为此……）",
+            "usage": "关系代词 laquelle 与先行词 raison 配合，前用介词 pour。常以 C’est la raison pour laquelle… 引出结果，意为“这就是……的原因/正因如此”。",
+            "exampleSentence": "C’est la raison pour laquelle l’Administration de la Ville de Paris a nommé un Roi des pigeons."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "avoir droit à qch",
+            "meaning": "有权获得、有资格享有……",
+            "usage": "固定搭配，介词用 à。区别于 avoir le droit de faire qch（有权做某事，de + 不定式）。",
+            "exampleSentence": "… la tour Saint-Jacques a droit à dix-huit couples…"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "tremper qch dans qch",
+            "meaning": "把某物浸入（蘸进）……",
+            "usage": "及物用法，地点/液体用 dans 引出；tremper 也可作不及物动词表“浸泡（着）”。",
+            "exampleSentence": "On a pris du blé qu’ils aiment, on en a trempé dans le remède."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "bourgeois, e",
+            "partOfSpeech": "n.m.",
+            "definition": "①资产者，有产者 ②市民（阴性为 bourgeoise）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un bon bourgeois",
+                    "vocabularyCollocationMeaning": "一个殷实体面的市民"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un petit bourgeois",
+                    "vocabularyCollocationMeaning": "小资产者，小市民"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "bourgeoisie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "资产阶级"
+                }
+            ],
+            "pluralForm": "bourgeois（以 -s 结尾，复数不变）"
+        },
+        {
+            "index": "2",
+            "vocabulary": "rocher",
+            "partOfSpeech": "n.m.",
+            "definition": "①岩石，礁石 ②悬岩，峭壁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "grimper sur un rocher",
+                    "vocabularyCollocationMeaning": "爬上岩石"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un rocher escarpé",
+                    "vocabularyCollocationMeaning": "陡峭的岩石"
+                }
+            ],
+            "synonymAnalysis": "rocher vs pierre vs roche：rocher 指大块突起的岩石、礁岩；roche 指作为物质的岩石（地质层）；pierre 指可搬动的石头、石块。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "rocheux, euse",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "多岩石的，岩石的"
+                }
+            ],
+            "pluralForm": "rochers"
+        },
+        {
+            "index": "3",
+            "vocabulary": "nid",
+            "partOfSpeech": "n.m.",
+            "definition": "①（鸟）巢，窝 ②穴，安乐窝",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "faire son nid",
+                    "vocabularyCollocationMeaning": "筑巢"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un nid d’oiseau",
+                    "vocabularyCollocationMeaning": "鸟巢"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nicher",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "筑巢；栖息"
+                }
+            ],
+            "pluralForm": "nids"
+        },
+        {
+            "index": "4",
+            "vocabulary": "tendresse",
+            "partOfSpeech": "n.f.",
+            "definition": "①温柔，温情 ②（复数）爱抚，亲热的表示",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avec tendresse",
+                    "vocabularyCollocationMeaning": "温柔地，深情地"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "témoigner de la tendresse à qn",
+                    "vocabularyCollocationMeaning": "向某人表达温情"
+                }
+            ],
+            "synonymAnalysis": "tendresse vs affection：tendresse 强调温柔体贴的情感及其流露；affection 泛指亲爱、依恋之情，程度更广而不必显于外表。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tendre",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "温柔的；柔嫩的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tendrement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "温柔地，深情地"
+                }
+            ],
+            "pluralForm": "tendresses"
+        },
+        {
+            "index": "5",
+            "vocabulary": "nettoyer",
+            "partOfSpeech": "vt.",
+            "definition": "①把……打扫干净，清洁 ②清洗",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "nettoyer la maison",
+                    "vocabularyCollocationMeaning": "打扫房子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nettoyer à sec",
+                    "vocabularyCollocationMeaning": "干洗"
+                }
+            ],
+            "synonymAnalysis": "nettoyer vs laver：laver 多指用水洗；nettoyer 含义更广，泛指使洁净（擦、扫、洗皆可）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "nettoyage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "清洗，打扫"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je nettoie, tu nettoies, il nettoie, nous nettoyons, vous nettoyez, ils nettoient",
+                "compoundPast": "j’ai nettoyé",
+                "simpleFuture": "je nettoierai",
+                "imperfect": "je nettoyais",
+                "presentSubjunctive": "",
+                "memoryAids": "以 -oyer/-uyer 结尾的动词，在发哑音 e 的人称（je/tu/il/ils）前 y 变 i；将来时整体词干也变为 -ier-（nettoierai）。变位规律同 employer、ennuyer。"
+            }
+        },
+        {
+            "index": "6",
+            "vocabulary": "salir",
+            "partOfSpeech": "vt.",
+            "definition": "①弄脏，玷污 ②（se salir, v.pron.）变脏，弄脏自己",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "salir ses vêtements",
+                    "vocabularyCollocationMeaning": "弄脏衣服"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se salir les mains",
+                    "vocabularyCollocationMeaning": "弄脏（自己的）手"
+                }
+            ],
+            "synonymAnalysis": "salir vs tacher：salir 泛指弄脏；tacher 指留下污渍、斑点（一处具体的痕迹）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "sale",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "脏的，肮脏的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "saleté",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "肮脏；脏东西"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第二组 -ir 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "provoquer",
+            "partOfSpeech": "vt.",
+            "definition": "①引起，激起，导致 ②向……挑衅，激怒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "provoquer une manifestation",
+                    "vocabularyCollocationMeaning": "引发一场示威"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "provoquer un accident",
+                    "vocabularyCollocationMeaning": "引起一场事故"
+                }
+            ],
+            "synonymAnalysis": "provoquer vs causer：causer 中性地表示“造成（某后果）”；provoquer 更强调“引发、挑动”，常带突发或人为挑动的意味。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "provocation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "挑衅；激起"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "somnifère",
+            "partOfSpeech": "n.m.",
+            "definition": "①安眠药，催眠药",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre un somnifère",
+                    "vocabularyCollocationMeaning": "服用安眠药"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "du blé plein de somnifère",
+                    "vocabularyCollocationMeaning": "掺满安眠药的麦子"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "somnifères"
+        },
+        {
+            "index": "9",
+            "vocabulary": "filet",
+            "partOfSpeech": "n.m.",
+            "definition": "①网，渔网 ②网袋 ③（肉、鱼的）里脊，脊肉 ④细流，一缕",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre au filet",
+                    "vocabularyCollocationMeaning": "用网捕捉"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un filet à provisions",
+                    "vocabularyCollocationMeaning": "购物网袋"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "fil",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "线，丝（filet 为其指小形式）"
+                }
+            ],
+            "pluralForm": "filets"
+        },
+        {
+            "index": "10",
+            "vocabulary": "transporter",
+            "partOfSpeech": "vt.",
+            "definition": "①运输，运送，输送 ②（情感上）使激动，使陶醉",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "transporter des marchandises",
+                    "vocabularyCollocationMeaning": "运输货物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "transporter qn à l’hôpital",
+                    "vocabularyCollocationMeaning": "把某人送往医院"
+                }
+            ],
+            "synonymAnalysis": "transporter vs porter：porter 指（随身）携带、搬运；transporter 强调借助工具、较长距离地运送。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "transport",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "运输；（复数）交通运输工具"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "transporteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "运输者，承运商"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "11",
+            "vocabulary": "éloigner",
+            "partOfSpeech": "vt.",
+            "definition": "①使离开，使远离 ②推迟，延缓 ③（s’éloigner de, v.pron.）远离，离开",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "éloigner qch de qch",
+                    "vocabularyCollocationMeaning": "使某物远离某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s’éloigner de la ville",
+                    "vocabularyCollocationMeaning": "远离城市"
+                }
+            ],
+            "synonymAnalysis": "éloigner vs écarter：éloigner 指在距离上使远离；écarter 指使分开、移开，或引申为“排除（可能性、嫌疑）”。反义词为 rapprocher（使靠近）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "éloignement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "远离；距离；疏远"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lointain, e",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "遥远的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "supporter",
+            "partOfSpeech": "vt.",
+            "definition": "①承受，支撑，承担 ②忍受，容忍",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "supporter le poids de qch",
+                    "vocabularyCollocationMeaning": "承受某物的重量"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ne pas supporter qn",
+                    "vocabularyCollocationMeaning": "受不了某人"
+                }
+            ],
+            "synonymAnalysis": "supporter vs soutenir：supporter 偏“被动地承受、忍受”；soutenir 偏“主动地支撑、支持（观点、人）”。注意 supporter 是“假朋友”：它不直接表示中文“支持（意见、主张）”，那一义应用 soutenir、appuyer。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "support",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "支撑物，支架；载体"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "insupportable",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "无法忍受的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "reproduire",
+            "partOfSpeech": "vt.",
+            "definition": "①再现，重现 ②复制，翻印 ③（se reproduire, v.pron.）繁殖，生育；再次发生",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "reproduire un document",
+                    "vocabularyCollocationMeaning": "复制一份文件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se reproduire",
+                    "vocabularyCollocationMeaning": "繁殖；（事情）再次发生"
+                }
+            ],
+            "synonymAnalysis": "se reproduire vs se multiplier：se reproduire 侧重“繁衍后代”这一生物过程；se multiplier 强调“数量成倍增多”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "reproduction",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "复制（品）；繁殖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "produire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "生产，产生"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je reproduis, tu reproduis, il reproduit, nous reproduisons, vous reproduisez, ils reproduisent",
+                "compoundPast": "j’ai reproduit",
+                "simpleFuture": "je reproduirai",
+                "imperfect": "je reproduisais",
+                "presentSubjunctive": "",
+                "memoryAids": "变位同 produire、conduire、traduire 等 -duire 类动词：单数词干 -dui-，复数 -duis-，过去分词为 -duit。"
+            }
+        },
+        {
+            "index": "14",
+            "vocabulary": "solution",
+            "partOfSpeech": "n.f.",
+            "definition": "①解决办法，解决方案 ②（问题的）解答 ③溶液",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "trouver une solution",
+                    "vocabularyCollocationMeaning": "找到解决办法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une solution efficace",
+                    "vocabularyCollocationMeaning": "有效的解决办法"
+                }
+            ],
+            "synonymAnalysis": "solution vs résolution：solution 指解决办法本身；résolution 指“下定的决心”或“解决（这一行为）”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "résoudre",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "解决（问题）"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "soluble",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "可溶的；可解决的"
+                }
+            ],
+            "pluralForm": "solutions"
+        },
+        {
+            "index": "15",
+            "vocabulary": "zoologue (zoologiste)",
+            "partOfSpeech": "n.m.",
+            "definition": "①动物学家（阴阳同形：un zoologue / une zoologue，亦作 zoologiste）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un zoologue célèbre",
+                    "vocabularyCollocationMeaning": "一位著名的动物学家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "zoologie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "动物学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "zoologique",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "动物学的（jardin zoologique 动物园）"
+                }
+            ],
+            "pluralForm": "zoologues"
+        },
+        {
+            "index": "16",
+            "vocabulary": "chimiste",
+            "partOfSpeech": "n.m.",
+            "definition": "①化学家（阴阳同形：un chimiste / une chimiste）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un grand chimiste",
+                    "vocabularyCollocationMeaning": "一位伟大的化学家"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "chimie",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "化学"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "chimique",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "化学的"
+                }
+            ],
+            "pluralForm": "chimistes"
+        },
+        {
+            "index": "17",
+            "vocabulary": "avaler",
+            "partOfSpeech": "vt.",
+            "definition": "①吞，咽，吞下 ②（口语）轻信，忍气吞声地接受",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "avaler un médicament",
+                    "vocabularyCollocationMeaning": "吞服药物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avaler de travers",
+                    "vocabularyCollocationMeaning": "呛着，吃东西呛到"
+                }
+            ],
+            "synonymAnalysis": "avaler vs avaler / déglutir：日常用 avaler（吞咽）；déglutir 为医学/正式用语，专指吞咽动作。",
+            "derivedWords": [],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "18",
+            "vocabulary": "pigeon, ne",
+            "partOfSpeech": "n.m.",
+            "definition": "①鸽子（阳性 pigeon；阴性 pigeonne 指雌鸽）②（口语）受骗的人，冤大头",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un pigeon voyageur",
+                    "vocabularyCollocationMeaning": "信鸽"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "nourrir les pigeons",
+                    "vocabularyCollocationMeaning": "喂鸽子"
+                }
+            ],
+            "synonymAnalysis": "pigeon vs colombe：二者同指鸽，但 colombe（多为白色）常作和平、纯洁的象征；pigeon 为日常所见的普通鸽。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pigeonnier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "鸽舍，鸽笼"
+                }
+            ],
+            "pluralForm": "pigeons（阴性 pigeonnes）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "tremper",
+            "partOfSpeech": "vt.",
+            "definition": "①浸湿，使湿透 ②把……浸入，蘸 ③（vi.）浸泡（着）；（贬）卷入（坏事）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "tremper qch dans qch",
+                    "vocabularyCollocationMeaning": "把某物浸入（蘸进）某物"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tremper dans une affaire",
+                    "vocabularyCollocationMeaning": "卷入（牵涉进）一桩坏事"
+                }
+            ],
+            "synonymAnalysis": "tremper vs plonger：tremper 多指部分浸入、蘸湿；plonger 指（整体）没入、潜入，程度更深。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "trempé, e",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "湿透的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "traitement",
+            "partOfSpeech": "n.m.",
+            "definition": "①处理，加工 ②治疗，疗法 ③对待，待遇 ④薪金，俸禄",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un traitement médical",
+                    "vocabularyCollocationMeaning": "医疗，药物治疗"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "le traitement de l’information",
+                    "vocabularyCollocationMeaning": "信息处理"
+                }
+            ],
+            "synonymAnalysis": "traitement vs cure：traitement 泛指治疗方案、疗法；cure 指（一段时间的）疗程或疗养（cure thermale 温泉疗养）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "traiter",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "处理；对待；治疗"
+                }
+            ],
+            "pluralForm": "traitements"
+        },
+        {
+            "index": "21",
+            "vocabulary": "adopter",
+            "partOfSpeech": "vt.",
+            "definition": "①采用，采取，选定 ②通过（议案、法律）③收养",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "adopter une méthode",
+                    "vocabularyCollocationMeaning": "采用一种方法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "adopter une loi",
+                    "vocabularyCollocationMeaning": "通过一项法律"
+                }
+            ],
+            "synonymAnalysis": "adopter vs choisir：adopter 强调“采纳、正式采用”（方法、决议）；choisir 为一般性的“挑选、选择”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "adoption",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "采用；通过；收养"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "adoptif, ive",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "收养的（père adoptif 养父）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位",
+                "present": "",
+                "compoundPast": "",
+                "simpleFuture": "",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": ""
+            }
+        },
+        {
+            "index": "22",
+            "vocabulary": "couple",
+            "partOfSpeech": "n.m.",
+            "definition": "①（人或物）一对，一双 ②夫妇，情侣",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un couple de pigeons",
+                    "vocabularyCollocationMeaning": "一对鸽子"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "former un couple",
+                    "vocabularyCollocationMeaning": "结成一对，成为情侣"
+                }
+            ],
+            "synonymAnalysis": "couple vs paire：couple 多指有配对关系的“一对”（尤指有生命的、雌雄/伴侣）；paire 指成对使用的同类两件（une paire de chaussures 一双鞋）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "coupler",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使成对，连接"
+                }
+            ],
+            "pluralForm": "couples"
+        },
+        {
+            "index": "23",
+            "vocabulary": "académie",
+            "partOfSpeech": "n.f.",
+            "definition": "①科学院，学会 ②学院 ③（法国的）大学区",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "l’Académie française",
+                    "vocabularyCollocationMeaning": "法兰西学院"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "l’académie de Paris",
+                    "vocabularyCollocationMeaning": "巴黎大学区"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "académique",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "学院的；学术的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "académicien, ne",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（法兰西学院）院士"
+                }
+            ],
+            "pluralForm": "académies"
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Autrefois, avant que l’homme arrive, les pigeons vivaient dans les rochers. Quand nous avons construit des villes avec de grandes maisons en pierre, ils ont trouvé que le haut de ces maisons était un bon endroit pour y mettre leur nid, donc ils se sont installés dans nos villes. Mais un jour, on s’est aperçu que ces oiseaux salissaient les monuments. On ne pouvait tout de même pas les tuer, car cela aurait provoqué une manifestation. C’est la raison pour laquelle l’Administration de la Ville de Paris a finalement nommé un Roi des pigeons.",
+            "chineseTranslation": "从前，在人类到来之前，鸽子栖息在岩石之间。当我们用大块石料盖起一座座城市后，它们发现这些高楼的顶部正是筑巢的好地方，于是便在我们的城市里安了家。可是有一天，人们发觉这些鸟把古迹弄得脏兮兮的。然而总不能把它们杀掉，否则准会闹出一场示威。正因如此，巴黎市政当局最终任命了一位“鸽子之王”。",
+            "fr2cnStrategy": "① avant que l’homme arrive 译为“在人类到来之前”，把虚拟式从句还原为自然的时间短语，属语序调整。② le haut de ces maisons 与 pour y mettre leur nid 合译为“高楼的顶部正是筑巢的好地方”，把副代词 y 的地点意义隐含进译文，避免生硬，属减译/隐译。③ se sont installés 译为“安了家”，用地道汉语俗语替换“安顿、定居”，体现“达、雅”。④ on s’est aperçu que… 译为“人们发觉……”，主语 on 泛指化为“人们”，属增译。⑤ cela aurait provoqué une manifestation 这一条件式过去时（与过去事实相反）译为“否则准会闹出一场示威”，用“否则……准会……”显化隐含的假设逻辑，属逻辑显化（增译）。⑥ C’est la raison pour laquelle… 译为“正因如此”，用四字短语替换冗长的关系结构，避免“……的原因”式翻译腔。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "每座城市都为自己的鸽子感到骄傲。",
+                "frenchTranslation": "Chaque ville est fière de ses pigeons.",
+                "cn2frStrategy": "① “为……感到骄傲”用固定搭配 être fier de；② fière 与主语 ville（阴性）配合；③ “自己的”译为主有形容词 ses，无须额外强调。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "尽管法国人很喜欢鸽子，但谁也无法阻止它们到处觅食。",
+                "frenchTranslation": "Bien que les Français aiment bien leurs pigeons, personne ne peut empêcher ceux-ci de chercher partout de quoi manger.",
+                "cn2frStrategy": "① “尽管”用 Bien que 引导让步从句，后接虚拟式（aiment 与陈述式同形）；② “阻止……做某事”用 empêcher qn de faire qch，de 不可省；③ “它们”用指示代词 ceux-ci 复指 pigeons，避免歧义；④ “觅食”借课文 de quoi manger 表达，译为 chercher de quoi manger。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "假如市长没有采用这个办法，鸽子的数量就无法得到控制。",
+                "frenchTranslation": "Si le maire n’avait pas adopté cette méthode, le nombre des pigeons n’aurait pas pu être contrôlé.",
+                "cn2frStrategy": "① 与过去事实相反的假设用“Si + 愈过去时（n’avait pas adopté），主句条件式过去时（n’aurait pas pu）”；② “得到控制”用被动不定式 être contrôlé；③ adopter une méthode 为“采用办法”的地道搭配。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "正是出于这个原因，市政当局决定让一部分鸽子离开巴黎。",
+                "frenchTranslation": "C’est pour cette raison que l’Administration de la Ville a décidé d’éloigner une partie des pigeons de Paris.",
+                "cn2frStrategy": "① “正是出于这个原因”用强调句 C’est pour cette raison que…；② “让……离开”不必直译为 faire partir，改用课文动词 éloigner…de（使远离），更凝练；③ décider de faire qch 为固定结构，de 后接不定式。"
+            }
+        ]
+    }
+}

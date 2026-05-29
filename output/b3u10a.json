@@ -1,0 +1,994 @@
+{
+    "sentences": [
+        {
+            "index": "1",
+            "sentence": "Marx ne permettait à personne de mettre de l’ordre, ou plutôt du désordre, dans ses livres et ses papiers.",
+            "translatedSentence": "马克思不允许任何人去整理——或者不如说弄乱——他的书籍和文稿。",
+            "sentenceStructure": "简单句。主语 Marx — 谓语 ne permettait pas（此处用 ne … à personne 表否定）— 间接宾语 à personne — 宾语 de mettre de l’ordre…，其中 dans ses livres et ses papiers 为地点状语。",
+            "grammarAnalysis": "① 句型 permettre à qn de faire qch.（允许某人做某事），间接宾语用 à，动词不定式前用 de。② ne … personne 构成否定，personne 作 permettre 的间接宾语，故写作 à personne。③ ou plutôt（或者不如说）是插入性更正语，引出后面的 du désordre 与前文 de l’ordre 形成对照。④ de l’ordre / du désordre 为部分冠词，整理 mettre de l’ordre，弄乱 mettre du désordre。",
+            "commonMistakes": "易把 permettre 误用直接宾语（误：permettre qn de…），正确为 permettre à qn de faire qch.。另需注意 ou plutôt 是“更正、改口”，不是“或者更愿意”。"
+        },
+        {
+            "index": "2",
+            "sentence": "« Ce sont mes esclaves, disait-il, et ils doivent me servir comme je l’entends. »",
+            "translatedSentence": "“这些都是我的奴隶，”他常说，“它们必须按照我的意愿为我服务。”",
+            "sentenceStructure": "由两个并列分句构成。前句 Ce sont mes esclaves 为强调结构；disait-il 为插入语（主谓倒装）；后句 ils doivent me servir，其后 comme je l’entends 为方式状语从句。",
+            "grammarAnalysis": "① Ce sont + 复数名词，表语为复数时系动词用复数 sont。② disait-il 是直接引语中的插入语，主谓倒装。③ comme je l’entends 中 entendre 取“理解、认为、希望”之义，整句意为“按照我所认为/希望的那样”，l’ 为中性代词，指代前面所说之事。④ disait 用未完成过去时，表示反复、习惯性的言说。",
+            "commonMistakes": "易把 entendre 仅理解为“听见”，此处应取“认为、希望”义。comme je l’entends ≠ “正如我所听到的”。"
+        },
+        {
+            "index": "3",
+            "sentence": "Il n’y inscrivait pas de notes, mais seulement, de loin, une marque, quand il arrivait qu’un auteur passât la mesure.",
+            "translatedSentence": "他不在书上记笔记，只是偶尔在某位作者言过其实时做个记号。",
+            "sentenceStructure": "主句 Il n’y inscrivait pas de notes, mais seulement … une marque；y 代替 dans ses livres；quand 引导时间状语从句 quand il arrivait que…，从句内含 il arrive que + 虚拟式结构。",
+            "grammarAnalysis": "① ne … pas de + 名词：否定句中直接宾语前的不定冠词/部分冠词变为 de（pas de notes）。② y 为副代词，代替 dans ses livres。③ il arrive que…（有时会发生……）为无人称结构，que 从句须用虚拟式。④ passât 是 passer 的未完成过去时虚拟式（第三人称单数），因主句 arrivait 为未完成过去时，按书面语时态配合规则虚拟式用未完成过去时。⑤ passer la mesure：超出限度，言过其实。",
+            "commonMistakes": "passât 是“虚拟式未完成过去时”，并非简单过去时或直陈式；学生常误认。口语中此处通常用现在虚拟式 passe。de loin 在此语境意为“偶尔、间或”，不要误译为“从远处”。"
+        },
+        {
+            "index": "4",
+            "sentence": "Bien que plusieurs années se soient passées, il avait l’habitude de relire ses cahiers de notes et les passages soulignés dans ses livres, pour les bien garder dans sa mémoire, qui était extraordinaire.",
+            "translatedSentence": "尽管已过去了好几年，他仍习惯重读自己的笔记本和书中划线的段落，以便把它们牢牢记住——他的记忆力非凡。",
+            "sentenceStructure": "Bien que… 引导让步状语从句（se soient passées）；主句为 il avait l’habitude de relire…；pour les bien garder… 为目的状语；qui était extraordinaire 为关系从句，修饰 sa mémoire。",
+            "grammarAnalysis": "① Bien que 引导让步从句，谓语须用虚拟式；se soient passées 为虚拟式过去时（动作已完成）。② se passer（流逝、发生）为代词式动词，复合时态助动词用 être，过去分词与主语 années 阴性复数配合，故作 passées。③ avoir l’habitude de faire qch.：习惯于做某事。④ pour les bien garder 中 les 指代前面的笔记与段落；古典语序把副词 bien 置于不定式与宾语之间。",
+            "commonMistakes": "Bien que / Quoique 后必须用虚拟式，学生常误用直陈式。se passer（流逝）与 passer（经过）变位与配合不同，注意代词式的过去分词性数配合。"
+        },
+        {
+            "index": "5",
+            "sentence": "Il l’avait appliquée dès sa jeunesse, selon le conseil de Hegel, en apprenant par cœur des vers écrits dans des langues qu’il ignorait.",
+            "translatedSentence": "他从青年时代起就运用这种记忆力，按照黑格尔的建议，背诵那些用他不懂的语言写成的诗句。",
+            "sentenceStructure": "主句 Il l’avait appliquée dès sa jeunesse；selon le conseil de Hegel 为状语；en apprenant… 为副动词作方式状语；des vers écrits… 中 écrits 为过去分词作定语；qu’il ignorait 为关系从句修饰 des langues。",
+            "grammarAnalysis": "① l’avait appliquée 为愈过去时（plus-que-parfait），表示在过去某时之前已完成的动作。② 过去分词 appliquée 作阴性配合，主流理解 l’ = la mémoire（指代前句 sa mémoire），即“运用这种记忆力”；课本注释则将 l’ 视为中性代词，代替 bien garder dans sa mémoire 一事，可作参考。③ en apprenant 为副动词（gérondif），表伴随/方式。④ apprendre par cœur：熟记、背诵。⑤ écrits 为过去分词作定语，与 des vers 配合。⑥ ignorer qch.：不知道、不懂。",
+            "commonMistakes": "l’ 的指代与过去分词配合是难点：若按阴性配合 appliquée，应理解 l’ = la mémoire。在表“运用”义时易与“申请、敷涂”等其他义项混淆。"
+        },
+        {
+            "index": "6",
+            "sentence": "A l’âge de 50 ans, il entreprit l’étude du russe, et, quoique cette langue fût très différente des autres langues qu’il connaissait, il en savait assez au bout de six mois pour pouvoir lire dans le texte les vers et les écrivains russes qu’il aimait le plus.",
+            "translatedSentence": "五十岁时，他开始学习俄语；尽管这门语言与他所掌握的其他语言大不相同，但仅仅六个月后，他便懂得足够多，能够直接阅读自己最喜爱的俄国诗作和作家了。",
+            "sentenceStructure": "主干为 il entreprit l’étude du russe；et 后接 il en savait assez… pour pouvoir lire…；中间 quoique cette langue fût très différente… 为让步状语从句；qu’il connaissait / qu’il aimait le plus 为关系从句。",
+            "grammarAnalysis": "① entreprit 为 entreprendre 的简单过去时（passé simple），用于书面叙述。② quoique + 虚拟式；fût 为 être 的未完成过去时虚拟式。③ en 代替 du russe（de cette langue），savoir assez de qch.。④ au bout de + 时间：在……之后。⑤ assez… pour + 不定式：足以……。⑥ lire dans le texte：读原文。",
+            "commonMistakes": "fût（虚拟式未完成过去时）不要误认为简单过去时 fut（直陈式）。en 的指代易被忽略。entreprit 是简单过去时，不是现在时 entreprend。"
+        },
+        {
+            "index": "7",
+            "sentence": "Ce qui le détermina à entreprendre l’étude du russe, ce fut le désir de lire les documents des commissions d’enquêtes officielles, documents que le gouvernement du tsar empêchait de répandre.",
+            "translatedSentence": "促使他着手学习俄语的，是想阅读官方调查委员会文件的愿望——而这些文件正是沙皇政府所禁止传播的。",
+            "sentenceStructure": "强调（突出）结构 Ce qui…, ce fut…；主体为 le désir de lire les documents…；documents que… empêchait de répandre 为同位语加关系从句。",
+            "grammarAnalysis": "① Ce qui…, ce fut… 为 mise en relief（突出强调）句型，强调主语成分。② détermina、fut 均为简单过去时。③ déterminer qn à faire qch.：促使某人做某事。④ le désir de + 不定式。⑤ empêcher (qn/qch) de faire qch.：阻止/禁止做某事。⑥ répandre：散布、传播。",
+            "commonMistakes": "Ce qui…, ce fut/ce sont… 句型中第二个 ce 不可省略。empêcher 后接不定式必须用 de。注意第二个 documents 是无冠词同位语。"
+        },
+        {
+            "index": "8",
+            "sentence": "Quoique la bibliothèque de Marx ait déjà réuni plus de mille volumes, elle ne lui suffisait cependant pas, et c’est pourquoi il fut pendant des années un hôte fidèle du British Museum, dont il estimait très fort les livres.",
+            "translatedSentence": "尽管马克思的藏书已逾千册，仍不能满足他的需要；正因如此，他多年来一直是大英博物馆的常客，他十分看重那里的藏书。",
+            "sentenceStructure": "Quoique… 引导让步从句（ait réuni）；主句 elle ne lui suffisait pas；c’est pourquoi 引出结果句 il fut… un hôte fidèle…；dont il estimait très fort les livres 为关系从句。",
+            "grammarAnalysis": "① Quoique + 虚拟式；ait réuni 为虚拟式过去时。② suffire à qn：满足某人的需要，lui 为间接宾语。③ cependant（然而）为转折副词。④ c’est pourquoi：因此、所以。⑤ fut 为简单过去时。⑥ dont = de + 关系代词，此处 dont il estimait les livres = il estimait les livres de ce musée。",
+            "commonMistakes": "suffire 后接间接宾语用 à（suffire à qn），不要用直接宾语。dont 引导从句时易弄错被代替的成分（此处代替 du British Museum）。"
+        },
+        {
+            "index": "9",
+            "sentence": "Il n’interrompait son travail que pour prendre ses repas et faire une promenade le soir quand le temps le permettait.",
+            "translatedSentence": "他中断工作只是为了用餐，以及在天气允许时于傍晚散散步。",
+            "sentenceStructure": "主句 Il n’interrompait son travail que…；ne… que 表限制；pour prendre… et faire… 为目的状语；quand le temps le permettait 为时间从句。",
+            "grammarAnalysis": "① ne… que：仅仅、只（限定结构），并非否定。② interrompre：中断。③ pour + 不定式表目的，两个不定式 prendre 与 faire 并列。④ quand le temps le permettait 中 le 为中性代词，代替前面的散步一事；permettre 此处意为“允许、容许”。",
+            "commonMistakes": "ne… que 是“只”，不能理解为否定“不”。学生常把 que 误当作连词从句。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "permettre à qn de faire qch.",
+            "meaning": "允许某人做某事",
+            "usage": "间接宾语用 à，后接不定式用 de。否定时若宾语为“任何人”，用 ne… à personne。书面口语通用。",
+            "exampleSentence": "Marx ne permettait à personne de mettre de l’ordre… dans ses livres et ses papiers."
+        },
+        {
+            "listIndex": "2",
+            "collocation": "mettre de l’ordre / du désordre dans qch.",
+            "meaning": "整理 / 弄乱某物",
+            "usage": "ordre 与 désordre 前用部分冠词 de l’/du；dans 引出处所。固定搭配，书面口语通用。",
+            "exampleSentence": "Marx ne permettait à personne de mettre de l’ordre, ou plutôt du désordre, dans ses livres et ses papiers."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "servir d’instrument(s) à qn",
+            "meaning": "对某人起到工具的作用",
+            "usage": "servir de + 无冠词名词，意为“充当、用作”；为某人服务时间接宾语用 lui。注意与 servir qch.（端上）区分。",
+            "exampleSentence": "Ses livres lui servaient d’instruments de travail."
+        },
+        {
+            "listIndex": "4",
+            "collocation": "avoir des soucis de qch.",
+            "meaning": "为某事操心、顾及某事",
+            "usage": "souci 后用 de 引出操心的对象；可说 se faire du souci。书面语略正式。",
+            "exampleSentence": "Il les traitait mal sans avoir des soucis de leur dimension, de leur couverture…"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "il arrive que + 虚拟式",
+            "meaning": "有时会发生……",
+            "usage": "无人称结构，que 从句用虚拟式；与之相关的 il arrive à qn de faire qch.（某人有时做某事）则后接不定式。",
+            "exampleSentence": "…quand il arrivait qu’un auteur passât la mesure."
+        },
+        {
+            "listIndex": "6",
+            "collocation": "avoir l’habitude de faire qch.",
+            "meaning": "习惯于做某事",
+            "usage": "de 后接不定式；表“养成习惯”用 prendre l’habitude de，“改掉习惯”用 perdre l’habitude de。",
+            "exampleSentence": "…il avait l’habitude de relire ses cahiers de notes et les passages soulignés dans ses livres…"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "apprendre / connaître par cœur",
+            "meaning": "熟记、背诵 / 烂熟于心",
+            "usage": "par cœur 为固定状语短语，不可改写；apprendre 侧重“学会背”，connaître 侧重“已牢记”。",
+            "exampleSentence": "Il connaissait par cœur Henri Heine et Goethe."
+        },
+        {
+            "listIndex": "8",
+            "collocation": "considérer qch./qn. comme…",
+            "meaning": "把……看作……",
+            "usage": "comme 后接名词或形容词作表语；近义结构有 prendre… pour…、tenir… pour…。",
+            "exampleSentence": "Il considérait Eschyle et Shakespeare comme les deux plus grands génies de drames de tous les temps."
+        },
+        {
+            "listIndex": "9",
+            "collocation": "avoir un grand respect pour qn/qch.",
+            "meaning": "对某人/某物十分尊敬、敬重",
+            "usage": "respect 后用 pour 引出对象；动词搭配也可用 respecter qn。书面语。",
+            "exampleSentence": "Il avait un grand respect pour Balzac…"
+        },
+        {
+            "listIndex": "10",
+            "collocation": "entreprendre l’étude de qch.",
+            "meaning": "着手研究/学习某物",
+            "usage": "entreprendre 强调“开始动手做（较大的事）”；后接名词或不定式（entreprendre de faire）。书面语。",
+            "exampleSentence": "A l’âge de 50 ans, il entreprit l’étude du russe…"
+        },
+        {
+            "listIndex": "11",
+            "collocation": "au bout de + 时间/处所",
+            "meaning": "在……之后；在……尽头",
+            "usage": "表时间时意为“经过……之后”；表处所时意为“在……的尽头”。注意与 à bout de（精疲力尽，如 à bout de forces）区分。",
+            "exampleSentence": "…il en savait assez au bout de six mois pour pouvoir lire dans le texte…"
+        },
+        {
+            "listIndex": "12",
+            "collocation": "empêcher (qn/qch) de faire qch.",
+            "meaning": "阻止/妨碍/禁止做某事",
+            "usage": "后接不定式必须用 de；无人称 (il) n’empêche que 后用直陈式，含义不同。",
+            "exampleSentence": "…documents que le gouvernement du tsar empêchait de répandre."
+        },
+        {
+            "listIndex": "13",
+            "collocation": "suffire à qn",
+            "meaning": "满足某人的需要；对某人足够",
+            "usage": "间接宾语用 à；无人称 il suffit de faire（只需做）/ il suffit que + 虚拟式。",
+            "exampleSentence": "…elle ne lui suffisait cependant pas…"
+        },
+        {
+            "listIndex": "14",
+            "collocation": "ne… que",
+            "meaning": "只，仅仅",
+            "usage": "限定结构（非否定），que 置于被限定成分之前；若要否定可叠加 ne… pas que（不仅仅）。",
+            "exampleSentence": "Il n’interrompait son travail que pour prendre ses repas…"
+        },
+        {
+            "listIndex": "15",
+            "collocation": "consacrer qch. à qch.",
+            "meaning": "把（时间、精力等）用于/献给某事",
+            "usage": "à 引出用途对象；代词式 se consacrer à qch.（专心致力于）。",
+            "exampleSentence": "…il lui arrivait souvent de consacrer des nuits entières au travail."
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "esclave",
+            "partOfSpeech": "n.",
+            "definition": "①奴隶 ②奴才；受……支配的人",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être l’esclave de qch.",
+                    "vocabularyCollocationMeaning": "为某物所役使，沦为……的奴隶"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "traiter qn en esclave",
+                    "vocabularyCollocationMeaning": "把某人当奴隶对待"
+                }
+            ],
+            "synonymAnalysis": "esclave 强调毫无人身自由、完全被占有；serviteur（仆人）有受雇关系但保有人身自由；domestique 指家仆。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "esclavage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "奴隶制；奴役状态"
+                }
+            ]
+        },
+        {
+            "index": "2",
+            "vocabulary": "couverture",
+            "partOfSpeech": "n.f.",
+            "definition": "①（书的）封面 ②被子，毯子 ③覆盖物；遮盖",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "la couverture d’un livre",
+                    "vocabularyCollocationMeaning": "书的封面"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une couverture de laine",
+                    "vocabularyCollocationMeaning": "一条羊毛毯"
+                }
+            ],
+            "synonymAnalysis": "couverture（封面/被子）与 couvercle（盖子，如锅盖）易混：前者用于书、床，后者用于容器。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "couvrir",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "覆盖，遮盖"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "couvert",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "餐具（刀叉）；遮蔽处"
+                }
+            ],
+            "pluralForm": "couvertures"
+        },
+        {
+            "index": "3",
+            "vocabulary": "impression",
+            "partOfSpeech": "n.f.",
+            "definition": "①印刷 ②印象，感想",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une faute d’impression",
+                    "vocabularyCollocationMeaning": "印刷错误"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir l’impression que…",
+                    "vocabularyCollocationMeaning": "觉得、感到（好像）……"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "faire bonne impression",
+                    "vocabularyCollocationMeaning": "给人留下好印象"
+                }
+            ],
+            "synonymAnalysis": "impression（主观印象/感觉）与 sentiment（情感）、idée（看法）有别；avoir l’impression que 表“觉得”，语气较主观、不确定。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "imprimer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "印刷；印上"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "imprimante",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "打印机"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "impressionner",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "给……留下深刻印象；使感动"
+                }
+            ],
+            "pluralForm": "impressions"
+        },
+        {
+            "index": "4",
+            "vocabulary": "plier",
+            "partOfSpeech": "vt.",
+            "definition": "①折，叠 ②使弯曲",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "plier une lettre / une feuille",
+                    "vocabularyCollocationMeaning": "折信 / 折纸"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "plier les coins",
+                    "vocabularyCollocationMeaning": "折书角"
+                }
+            ],
+            "synonymAnalysis": "plier（折叠、使弯）与 plisser（打褶）、courber（使弯曲，多指较大物体）有别；plier 也可作不及物表“弯曲、屈服”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "pli",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "褶，折痕；折叠"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "pliant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "可折叠的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "5",
+            "vocabulary": "marge",
+            "partOfSpeech": "n.f.",
+            "definition": "①（书页的）白边，页边 ②栏外，空白处 ③余地，幅度",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "écrire dans la marge",
+                    "vocabularyCollocationMeaning": "在页边空白处书写"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "en marge de qch.",
+                    "vocabularyCollocationMeaning": "在……之外，处于边缘"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "une marge de manœuvre",
+                    "vocabularyCollocationMeaning": "活动余地，回旋空间"
+                }
+            ],
+            "synonymAnalysis": "marge（页边/余地）与 bord（边缘、岸边）不同；en marge de 表“在……边缘、不属于主流”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "marginal",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "边缘的；非主流的"
+                }
+            ],
+            "pluralForm": "marges"
+        },
+        {
+            "index": "6",
+            "vocabulary": "souligner",
+            "partOfSpeech": "vt.",
+            "definition": "①在……下画线，划重点 ②强调，着重指出",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "souligner un mot / un passage",
+                    "vocabularyCollocationMeaning": "在词/段落下划线"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "souligner l’importance de qch.",
+                    "vocabularyCollocationMeaning": "强调某事的重要性"
+                }
+            ],
+            "synonymAnalysis": "souligner（强调，含“划线”本义）与 insister sur（坚持强调）、mettre l’accent sur（着重于）近义；后两者更口语化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ligne",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "线，行（同词根，sou-ligner 即“在……下画线”）"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "7",
+            "vocabulary": "inscrire",
+            "partOfSpeech": "vt.",
+            "definition": "①登记，记入，写上 ②（使）报名，注册",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inscrire qch. sur / dans",
+                    "vocabularyCollocationMeaning": "把某物记在……上/中"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s’inscrire à un cours",
+                    "vocabularyCollocationMeaning": "报名参加一门课程"
+                }
+            ],
+            "synonymAnalysis": "inscrire（登记、写入正式记录）较 écrire（书写）正式；s’inscrire à（报名）与 s’enregistrer（办理登记/签到）有别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "inscription",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "登记，注册；铭文，刻字"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j’inscris, tu inscris, il inscrit, nous inscrivons, vous inscrivez, ils inscrivent",
+                "compoundPast": "j’ai inscrit",
+                "simpleFuture": "j’inscrirai",
+                "memoryAids": "与 écrire 同类变位：复数词干变为 inscriv-，过去分词 inscrit。"
+            }
+        },
+        {
+            "index": "8",
+            "vocabulary": "mesure",
+            "partOfSpeech": "n.f.",
+            "definition": "①尺寸，大小 ②测量；度量 ③措施 ④（音乐）小节，节拍",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "prendre des mesures",
+                    "vocabularyCollocationMeaning": "采取措施"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "à mesure que",
+                    "vocabularyCollocationMeaning": "随着……（程度递进）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "passer la mesure",
+                    "vocabularyCollocationMeaning": "超出限度，言过其实"
+                }
+            ],
+            "synonymAnalysis": "mesure 作“措施”义近 disposition；à mesure que（随着……）与 au fur et à mesure que 同义，强调同步渐进。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "mesurer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "测量，量度；权衡"
+                }
+            ],
+            "pluralForm": "mesures"
+        },
+        {
+            "index": "9",
+            "vocabulary": "relire",
+            "partOfSpeech": "vt.",
+            "definition": "①重读，重新阅读 ②复看，校对",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "relire un texte",
+                    "vocabularyCollocationMeaning": "重读一篇文章"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "se relire",
+                    "vocabularyCollocationMeaning": "（写完后）重读检查自己写的内容"
+                }
+            ],
+            "synonymAnalysis": "relire（重读/校对）与 réviser（复习）、corriger（批改）有别；前缀 re- 表“再、重新”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "lire",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "读，阅读"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "lecture",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "阅读；读物"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je relis, tu relis, il relit, nous relisons, vous relisez, ils relisent",
+                "compoundPast": "j’ai relu",
+                "simpleFuture": "je relirai",
+                "memoryAids": "与 lire 同类变位：复数词干为 relis-，过去分词 relu。"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "passage",
+            "partOfSpeech": "n.m.",
+            "definition": "①通过，经过 ②（书中的）段落 ③通道，过道 ④小巷",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un passage du texte",
+                    "vocabularyCollocationMeaning": "课文中的一个段落"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passage piéton / clouté",
+                    "vocabularyCollocationMeaning": "人行横道"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "de passage",
+                    "vocabularyCollocationMeaning": "途经的，短暂停留的"
+                }
+            ],
+            "synonymAnalysis": "passage 作“段落”义近 extrait（节选）；作“通道”义近 couloir（走廊）。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "passer",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "经过，通过；度过"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "passager",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "乘客，旅客"
+                }
+            ],
+            "pluralForm": "passages"
+        },
+        {
+            "index": "11",
+            "vocabulary": "appliquer",
+            "partOfSpeech": "vt.",
+            "definition": "①应用，运用 ②敷，涂；贴 ③专心于（代词式 s’appliquer à）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "appliquer une règle / une méthode",
+                    "vocabularyCollocationMeaning": "运用一条规则/一种方法"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "s’appliquer à faire qch.",
+                    "vocabularyCollocationMeaning": "专心、努力做某事"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "s’appliquer à qch.",
+                    "vocabularyCollocationMeaning": "适用于某事物"
+                }
+            ],
+            "synonymAnalysis": "appliquer（运用、实施）与 employer / utiliser（使用）近义，但 appliquer 多用于规则、方法、原理的“施行”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "application",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "应用；专心；应用程序"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "applicable",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "可应用的，适用的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "12",
+            "vocabulary": "ignorer",
+            "partOfSpeech": "vt.",
+            "definition": "①不知道，不了解 ②不懂，不通晓 ③（故意）不理睬",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "ignorer qch.",
+                    "vocabularyCollocationMeaning": "不知道某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "ignorer que… (+ 直陈式)",
+                    "vocabularyCollocationMeaning": "不知道……（这件事）"
+                }
+            ],
+            "synonymAnalysis": "ignorer（不知道）≠ ne pas connaître（不认识某人/某地）。ignorer 强调“缺乏相关信息”，较书面；口语中“不知道”常用 ne pas savoir。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "ignorance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "无知，不了解"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "ignorant",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "无知的；不懂……的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "13",
+            "vocabulary": "original",
+            "partOfSpeech": "adj.m.",
+            "definition": "①最初的，原始的；原文的 ②有独创性的，新颖的 ③（人）古怪的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le texte original",
+                    "vocabularyCollocationMeaning": "原文，原著"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une idée originale",
+                    "vocabularyCollocationMeaning": "一个新颖独到的想法"
+                }
+            ],
+            "synonymAnalysis": "original（原文的；独创的）与 originel（本原的、起源的，如 le péché originel 原罪）易混：original 强调“原版/独创”，originel 强调“最初来源”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "origine",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "起源，来源；出身"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "originalité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "独创性，新颖"
+                }
+            ],
+            "genderNumberVariation": "阴性 originale，阳性复数 originaux，阴性复数 originales",
+            "position": "通常置于名词之后（le texte original）。"
+        },
+        {
+            "index": "14",
+            "vocabulary": "génie",
+            "partOfSpeech": "n.m.",
+            "definition": "①天才（人）②天赋，才能 ③工程，工程学（如 génie civil 土木工程）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un génie",
+                    "vocabularyCollocationMeaning": "一个天才"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "avoir du génie pour qch.",
+                    "vocabularyCollocationMeaning": "在某方面有天赋"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "génie civil",
+                    "vocabularyCollocationMeaning": "土木工程"
+                }
+            ],
+            "synonymAnalysis": "génie（天才/天赋，程度极高且多为天生）与 talent（才能，可后天培养）有别；génie 远强于 talent。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "génial",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "天才的；妙极的"
+                }
+            ],
+            "pluralForm": "génies"
+        },
+        {
+            "index": "15",
+            "vocabulary": "drame",
+            "partOfSpeech": "n.m.",
+            "definition": "①戏剧（尤指正剧）②（比喻）惨剧，悲剧性事件",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un drame historique",
+                    "vocabularyCollocationMeaning": "一部历史剧"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "tourner au drame",
+                    "vocabularyCollocationMeaning": "演变成悲剧/惨剧"
+                }
+            ],
+            "synonymAnalysis": "drame（正剧；亦泛指惨剧）与 tragédie（悲剧，古典严格意义上的悲剧体裁）、comédie（喜剧）相对。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "dramatique",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "戏剧的；戏剧性的，紧张的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "dramaturge",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "剧作家"
+                }
+            ],
+            "pluralForm": "drames"
+        },
+        {
+            "index": "16",
+            "vocabulary": "hériter",
+            "partOfSpeech": "vt.",
+            "definition": "①继承（遗产、财产）②（间接及物 hériter de）继承，承袭（特点、传统等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "hériter une fortune",
+                    "vocabularyCollocationMeaning": "继承一笔财产"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "hériter de qch. (de qn)",
+                    "vocabularyCollocationMeaning": "（从某人那里）继承到某物/某特点"
+                }
+            ],
+            "synonymAnalysis": "hériter 可直接及物（hériter qch.）或间接及物（hériter de qch.）；强调“从谁那里继承”时用 hériter de qch. de qn。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "héritage",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "遗产；继承"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "héritier",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "继承人，后嗣"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "17",
+            "vocabulary": "officiel",
+            "partOfSpeech": "adj.m.",
+            "definition": "①官方的，公务的 ②正式的，公开宣布的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une visite officielle",
+                    "vocabularyCollocationMeaning": "正式访问"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un document officiel",
+                    "vocabularyCollocationMeaning": "官方文件"
+                }
+            ],
+            "synonymAnalysis": "officiel（官方的、正式的）与 officieux（半官方的、非正式的）相对，是一对易混反义词。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "officiellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "正式地，官方地"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "officieux",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "非官方的，半官方的"
+                }
+            ],
+            "genderNumberVariation": "阴性 officielle，阳性复数 officiels，阴性复数 officielles",
+            "position": "通常置于名词之后（une visite officielle）。"
+        },
+        {
+            "index": "18",
+            "vocabulary": "tsar",
+            "partOfSpeech": "n.m.",
+            "definition": "沙皇（俄国旧时君主称号）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le gouvernement du tsar",
+                    "vocabularyCollocationMeaning": "沙皇政府"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tsarine",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "沙皇皇后；女沙皇"
+                }
+            ],
+            "pluralForm": "tsars"
+        },
+        {
+            "index": "19",
+            "vocabulary": "répandre",
+            "partOfSpeech": "vt.",
+            "definition": "①撒，倒出，洒出 ②散发（气味、光等）③散布，传播（消息、思想等）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "répandre une nouvelle",
+                    "vocabularyCollocationMeaning": "散布一条消息"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "répandre une odeur",
+                    "vocabularyCollocationMeaning": "散发出一种气味"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "se répandre",
+                    "vocabularyCollocationMeaning": "（消息等）传开，蔓延"
+                }
+            ],
+            "synonymAnalysis": "répandre（散布、传播，可指液体或抽象消息）与 diffuser（传播、播送，多用于信息媒介）、disperser（驱散、使分散）有别。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "répandu",
+                    "derivedWordPartOfSpeech": "adj.m.",
+                    "derivedWordMeaning": "普遍的，广为流传的"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je répands, tu répands, il répand, nous répandons, vous répandez, ils répandent",
+                "compoundPast": "j’ai répandu",
+                "simpleFuture": "je répandrai",
+                "memoryAids": "第三组 -andre/-endre 动词，与 rendre、vendre 同类：词干保留 d，单数前两人称作 -ds，第三人称作 -d。"
+            }
+        },
+        {
+            "index": "20",
+            "vocabulary": "avancé",
+            "partOfSpeech": "adj.m.",
+            "definition": "①先进的，超前的 ②（程度、阶段）深入的 ③（时间）很晚的，深夜的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une technique avancée",
+                    "vocabularyCollocationMeaning": "先进的技术"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une heure avancée de la nuit",
+                    "vocabularyCollocationMeaning": "深夜"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "un niveau avancé",
+                    "vocabularyCollocationMeaning": "高级水平"
+                }
+            ],
+            "synonymAnalysis": "avancé（先进的/深夜的，由 avancer 派生而来）与 moderne（现代的）不同：avancé 强调“领先、超前于一般水平”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "avancer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使前进，提前；前进"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "avance",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "提前；预付款（à l’avance 提前）"
+                }
+            ],
+            "genderNumberVariation": "阴性 avancée，阳性复数 avancés，阴性复数 avancées",
+            "position": "通常置于名词之后（une heure avancée）。"
+        },
+        {
+            "index": "21",
+            "vocabulary": "cabinet",
+            "partOfSpeech": "n.m.",
+            "definition": "①小房间，工作室 ②（医生、律师等的）诊所/事务所 ③（cabinet de toilette）盥洗室 ④（政府的）内阁",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cabinet de travail",
+                    "vocabularyCollocationMeaning": "书房，工作间"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "cabinet de toilette",
+                    "vocabularyCollocationMeaning": "盥洗室"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "cabinet médical",
+                    "vocabularyCollocationMeaning": "诊所"
+                }
+            ],
+            "synonymAnalysis": "cabinet（小房间/事务所）与 cabine（船舱、机舱、试衣间、电话亭等小隔间）易混：前者多指室内工作/办公空间。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cabine",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "（船、飞机的）舱；小隔间，试衣间"
+                }
+            ],
+            "pluralForm": "cabinets"
+        },
+        {
+            "index": "22",
+            "vocabulary": "interrompre",
+            "partOfSpeech": "vt.",
+            "definition": "①使中断，打断 ②阻断，中止",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "interrompre qn",
+                    "vocabularyCollocationMeaning": "打断某人（说话）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "interrompre son travail",
+                    "vocabularyCollocationMeaning": "中断工作"
+                }
+            ],
+            "synonymAnalysis": "interrompre（暂时中断，含可恢复之意）与 arrêter（停止）、cesser（停止、罢手）有别；interrompre 强调“打断进行中的事”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "interruption",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "中断，间断"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "interrupteur",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "（电）开关"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "j’interromps, tu interromps, il interrompt, nous interrompons, vous interrompez, ils interrompent",
+                "compoundPast": "j’ai interrompu",
+                "simpleFuture": "j’interromprai",
+                "memoryAids": "与 rompre 同类：单数前两人称作 -mps，第三人称特别加 t 作 interrompt，过去分词 interrompu。"
+            }
+        }
+    ],
+    "translationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Marx ne permettait à personne de mettre du désordre dans ses livres, car ils lui servaient d’instruments de travail. Bien que plusieurs années se soient passées, il avait l’habitude de relire les passages soulignés pour les bien garder dans sa mémoire. À l’âge de 50 ans, il entreprit l’étude du russe, et, quoique cette langue fût très différente des autres, il en savait assez au bout de six mois pour lire les écrivains russes qu’il aimait le plus. Le travail était devenu une passion pour lui.",
+            "chineseTranslation": "马克思不允许任何人弄乱他的书，因为这些书是他的工作工具。尽管时隔多年，他仍习惯重读划线的段落，以便牢牢记住。五十岁那年，他开始学习俄语；尽管这门语言与其他语言大不相同，但仅仅六个月后，他便懂得足够多，能读自己最喜爱的俄国作家的作品了。工作已成为他的一种热爱。",
+            "fr2cnStrategy": "① car 引导的原因从句前移合并为“因为……”，符合中文先因后果或紧承其后的表达；② servaient d’instruments de travail 译为“是他的工作工具”，把“起……作用”的结构简化为判断句（减译+词性转换）；③ Bien que… se soient passées 让步从句译为“尽管……”，保留逻辑关系；④ il en savait assez… pour lire 中抽象的 en savait assez 转译为“懂得足够多……能读……”，把“足以”关系显化为结果（语序调整+逻辑显化）；⑤ Le travail était devenu une passion pour lui 译为“工作已成为他的一种热爱”，避免“一种激情对于他”的翻译腔。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "他习惯重读划线的段落，以便牢牢记在脑子里。",
+                "frenchTranslation": "Il a l’habitude de relire les passages soulignés pour les bien garder dans sa mémoire.",
+                "cn2frStrategy": "① “习惯做某事”用 avoir l’habitude de + 不定式；② “划线的段落”译为 les passages soulignés，过去分词作定语后置；③ “以便”表目的用 pour + 不定式；④ “记在脑子里”用课文表达 garder dans sa mémoire。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "尽管这门语言很难，他六个月后就能读原文了。",
+                "frenchTranslation": "Bien que cette langue soit très difficile, il put lire dans le texte au bout de six mois.",
+                "cn2frStrategy": "① “尽管”用 Bien que + 虚拟式（soit）；② “六个月后”用 au bout de six mois；③ “能读”用 pouvoir 的简单过去时 put（书面叙述），口语可用复合过去时 a pu；④ “读原文”用 lire dans le texte。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他把莎士比亚视为有史以来最伟大的天才之一。",
+                "frenchTranslation": "Il considérait Shakespeare comme l’un des plus grands génies de tous les temps.",
+                "cn2frStrategy": "① “把……视为……”用 considérer… comme…；② “最伟大的天才之一”用 l’un des plus grands génies，最高级 + 部分短语；③ “有史以来”用 de tous les temps；④ 叙述背景用未完成过去时 considérait。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "他中断工作只是为了用餐和在傍晚散步。",
+                "frenchTranslation": "Il n’interrompait son travail que pour prendre ses repas et faire une promenade le soir.",
+                "cn2frStrategy": "① “只……为了”用限定结构 ne… que + pour + 不定式；② “中断工作”用 interrompre son travail；③ “用餐”用 prendre ses repas，“散步”用 faire une promenade（搭配 faire）；④ 习惯性动作用未完成过去时 interrompait。"
+            }
+        ]
+    }
+}
