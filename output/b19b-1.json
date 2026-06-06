@@ -1,0 +1,886 @@
+{
+    "sentences": [
+        {
+            "index": 1,
+            "sentence": "Je sais que vous êtes un Père Noël moderne, je préfère donc passer ma commande sur Internet, car le courrier est trop lent.",
+            "translatedSentence": "我知道您是一位与时俱进的圣诞老人，所以我宁愿在网上下单，因为邮寄太慢了。",
+            "sentenceStructure": "由三个并列分句构成：① Je sais que... 为主句，que 引导宾语从句；② je préfère donc... 为独立主句；③ car le courrier est trop lent 为原因状语从句，解释选择网购的原因。",
+            "grammarAnalysis": "① Je sais que 引导宾语从句，从句动词用直陈式现在时。② préférer + 动词不定式，表示“宁愿做某事”。③ donc 为表示结论的连词，置于主语之后。④ car 引导原因从句，语气较肯定，多用于书面语，与 parce que 相比更正式。",
+            "commonMistakes": "① car 与 parce que 均表原因，但 car 不能置于句首，而 parce que 可以；car 更多用于书面语，parce que 口语书面均可。② préférer 属于词干含 é 的不规则变位动词（第一组），注意重音符号变化：je préfère / nous préférons。"
+        },
+        {
+            "index": 2,
+            "sentence": "Les enfants comme leurs parents attendent avec impatience leurs cadeaux de Noël.",
+            "translatedSentence": "孩子们和他们的父母一样，都迫不及待地等待着圣诞礼物。",
+            "sentenceStructure": "主语 Les enfants comme leurs parents（比较结构作主语扩展）— 谓语 attendent — 状语 avec impatience — 宾语 leurs cadeaux de Noël。",
+            "grammarAnalysis": "① comme 此处表示“和……一样”，连接两个比较对象，注意谓语动词与第一个主语 les enfants 保持一致。② avec impatience 为介词短语作方式状语，相当于副词 impatiemment。③ 动词 attendre 直接接宾语（及物动词），不需要介词。",
+            "commonMistakes": "① attendre 是及物动词，直接接宾语，不需要介词，不可写成 attendre pour qch.。② comme 引入比较结构时，不改变主语的语法人称，动词仍与核心主语一致。"
+        },
+        {
+            "index": 3,
+            "sentence": "Nous n'avons pas assez d'argent pour acheter tout ce que nous désirons.",
+            "translatedSentence": "我们没有足够的钱来购买所有我们想要的东西。",
+            "sentenceStructure": "主句 Nous n'avons pas assez d'argent — 目的状语 pour acheter... — 宾语从句 tout ce que nous désirons（关系从句修饰 tout ce）。",
+            "grammarAnalysis": "① assez de + 名词，表示“足够的……”，否定形式为 pas assez de。② pour + 不定式，表示目的。③ tout ce que 为复合关系代词结构，ce 为先行词，que 为关系代词充当从句宾语，整体指“所有……的东西”。",
+            "commonMistakes": "① assez de 后接名词时，名词前不加冠词（直接用 assez d'argent，而非 assez de l'argent）。② tout ce que 与 tout ce qui 的区别：que 在从句中充当宾语，qui 充当主语，需根据从句结构判断。"
+        },
+        {
+            "index": 4,
+            "sentence": "Il est maintenant obligé d'aller en classe à pied.",
+            "translatedSentence": "他现在不得不步行去上学。",
+            "sentenceStructure": "主语 Il — 系动词 est — 表语 obligé — 不定式补语 d'aller en classe à pied。",
+            "grammarAnalysis": "① être obligé de + 不定式，为固定结构，表示“不得不做某事”，被动含义。② obligé 是形容词，须与主语性数保持一致。③ aller en classe 表示“去上课/上学”；à pied 为固定短语，表示“步行”。",
+            "commonMistakes": "① être obligé de 与 devoir 均可表示义务，但 être obligé de 更强调外力迫使，devoir 则可表示主观义务或推测。② 注意 obligé 是形容词，需要配合 être，不能省略 être 直接用 obligé de。"
+        },
+        {
+            "index": 5,
+            "sentence": "Il y a du champagne et de la bûche au chocolat pour vous devant la cheminée, c'est moi qui vous invite.",
+            "translatedSentence": "壁炉前为您准备了香槟和巧克力薪柴蛋糕，是我来招待您。",
+            "sentenceStructure": "前半句为 il y a 存在句结构，列举存在的物品；后半句 c'est moi qui vous invite 为强调句（强调主语 moi），qui 引导关系从句。",
+            "grammarAnalysis": "① il y a + 不可数名词时，用部分冠词 du / de la（du champagne, de la bûche）。② c'est... qui... 为强调句型，强调主语，关系从句中的动词与被强调成分保持一致（c'est moi qui → invite，动词用第三人称单数）。",
+            "commonMistakes": "① c'est moi qui invite 中，关系从句动词用第三人称单数（而非 c'est moi qui j'invite），这是强调句的固定用法。② 部分冠词在否定句中变为 de/d'，但此处为肯定句，需保留 du / de la。"
+        }
+    ],
+    "collocations": [
+        {
+            "listIndex": "1",
+            "collocation": "passer une commande (sur Internet)",
+            "meaning": "下订单（在网上下单）",
+            "usage": "passer 在此为“进行”义，commande 指订购行为。固定搭配，不可替换为 faire une commande（虽然口语中也偶见，但 passer une commande 更规范）。",
+            "exampleSentence": "je préfère donc passer ma commande sur Internet"
+        },
+        {
+            "listIndex": "2",
+            "collocation": "mettre qch. dans qch.",
+            "meaning": "把某物放入某物中",
+            "usage": "mettre 表“放置”，后接直接宾语和介词短语 dans。注意区分 mettre（放入）与 poser（放下/搁置）。",
+            "exampleSentence": "Le facteur met souvent dans notre boîte aux lettres les catalogues."
+        },
+        {
+            "listIndex": "3",
+            "collocation": "lire les catalogues",
+            "meaning": "阅读商品目录",
+            "usage": "lire 为不规则动词，直接及物，接名词宾语，不需要介词。",
+            "exampleSentence": "je les lis tous"
+        },
+        {
+            "listIndex": "4",
+            "collocation": "attendre avec impatience",
+            "meaning": "迫不及待地等待，急切地盼望",
+            "usage": "固定表达，avec impatience 作方式状语，等同于副词 impatiemment。书面语和口语均适用。",
+            "exampleSentence": "les enfants comme leurs parents attendent avec impatience leurs cadeaux de Noël"
+        },
+        {
+            "listIndex": "5",
+            "collocation": "compter sur qn./qch.",
+            "meaning": "依靠某人/某事，指望某人/某事",
+            "usage": "compter sur 为固定介词搭配，sur 不可替换。与 avoir confiance en 近义，但 compter sur 更口语化。",
+            "exampleSentence": "alors je compte sur vous !"
+        },
+        {
+            "listIndex": "6",
+            "collocation": "comme d'habitude",
+            "meaning": "像往常一样",
+            "usage": "固定短语，d'habitude 作状语，修饰整个句子或动词。注意 habitude 前用介词 d'（de 的省音形式）。",
+            "exampleSentence": "Voulez-vous préparer quelques choses pour notre famille comme d'habitude ?"
+        },
+        {
+            "listIndex": "7",
+            "collocation": "être équipé(e) de/avec qch.",
+            "meaning": "配备有某物，装备了某物",
+            "usage": "被动结构，équipé 为形容词，需与主语性数一致。de 和 avec 均可，de 更常见于书面语。",
+            "exampleSentence": "Une cuisine équipée avec des appareils modernes pour maman"
+        },
+        {
+            "listIndex": "8",
+            "collocation": "perdre qch.",
+            "meaning": "失去某物，丢失某物",
+            "usage": "perdre 直接及物，常见搭配有 perdre son vélo（丢失自行车）、perdre son temps（浪费时间）等。",
+            "exampleSentence": "il a perdu son vélo le mois dernier"
+        },
+        {
+            "listIndex": "9",
+            "collocation": "être obligé(e) de + inf.",
+            "meaning": "不得不做某事，被迫做某事",
+            "usage": "固定结构，obligé 为形容词，需与主语性数一致；de 后接不定式。与 devoir 近义，但 être obligé de 更强调被外力所迫。",
+            "exampleSentence": "Il est maintenant obligé d'aller en classe à pied."
+        },
+        {
+            "listIndex": "10",
+            "collocation": "aller à pied",
+            "meaning": "步行，走路去",
+            "usage": "固定短语，à pied 无冠词，表示步行这一交通方式。类似结构：à vélo（骑自行车），en voiture（乘车）。注意 à pied 与 en voiture 介词不同：代步工具多用 en，步行用 à。",
+            "exampleSentence": "Il est maintenant obligé d'aller en classe à pied."
+        },
+        {
+            "listIndex": "11",
+            "collocation": "remercier qn. (de/pour qch.)",
+            "meaning": "感谢某人（为某事）",
+            "usage": "remercier 直接及物，接人作宾语；感谢的原因用 de + 不定式或 pour + 名词引导。",
+            "exampleSentence": "Je vous remercie."
+        },
+        {
+            "listIndex": "12",
+            "collocation": "inviter qn. (à qch./à faire qch.)",
+            "meaning": "邀请某人（做某事）",
+            "usage": "inviter 直接及物接人，邀请做的事用 à + 不定式或 à + 名词。",
+            "exampleSentence": "c'est moi qui vous invite"
+        }
+    ],
+    "vocabulary": [
+        {
+            "index": "1",
+            "vocabulary": "moderne",
+            "partOfSpeech": "adj.",
+            "definition": "①现代的，当代的 ②新式的，时髦的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un Père Noël moderne",
+                    "vocabularyCollocationMeaning": "一位与时俱进的圣诞老人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "des appareils modernes",
+                    "vocabularyCollocationMeaning": "现代化的电器"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "l'art moderne",
+                    "vocabularyCollocationMeaning": "现代艺术"
+                }
+            ],
+            "synonymAnalysis": "moderne vs contemporain：moderne 侧重与传统相对的“新式/现代化”；contemporain 强调“当代的，与某时期同时代的”，多用于学术或文艺语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "moderniser",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使现代化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "modernisation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "现代化"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "modernité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "现代性，现代感"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 modernes",
+            "position": "通常置于名词之后；偶尔前置时带有主观评价色彩"
+        },
+        {
+            "index": "2",
+            "vocabulary": "préférer",
+            "partOfSpeech": "vt.",
+            "definition": "①宁愿，更喜欢 ②偏爱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "préférer faire qch.",
+                    "vocabularyCollocationMeaning": "宁愿做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "préférer qch. à qch.",
+                    "vocabularyCollocationMeaning": "喜欢某物胜过另一物"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "je préfère que + subj.",
+                    "vocabularyCollocationMeaning": "我更希望……（后接虚拟式）"
+                }
+            ],
+            "synonymAnalysis": "préférer vs aimer mieux：两者均表“更喜欢”，可互换；aimer mieux 更口语化。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "préférence",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "偏好，偏爱"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "de préférence",
+                    "derivedWordPartOfSpeech": "loc.",
+                    "derivedWordMeaning": "最好，优先"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "不规则变位",
+                "present": "je préfère, tu préfères, il préfère, nous préférons, vous préférez, ils préfèrent",
+                "compoundPast": "j'ai préféré",
+                "simpleFuture": "je préférerai（或 je préférerai，两种拼写均可接受）",
+                "imperfect": "",
+                "presentSubjunctive": "",
+                "memoryAids": "属于词干含 é 的动词，单数和第三人称复数现在时 é → è（重音符号变化）；nous/vous 保留 é。类似动词：espérer, répéter, céder。"
+            }
+        },
+        {
+            "index": "3",
+            "vocabulary": "donc",
+            "partOfSpeech": "conj.",
+            "definition": "①因此，所以（表结果或推论）②那么（表话题转接或强调）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "je préfère donc...",
+                    "vocabularyCollocationMeaning": "因此我更愿意……"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "Venez donc !",
+                    "vocabularyCollocationMeaning": "那就来吧！（强调语气）"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "useExplanation": "① donc 表结果时，置于主句主语之后（je préfère donc...），而非句首；② 置于句首时（Donc, il faut partir.）语气更随意，多见于口语；③ 与 alors 近义但有别：donc 强调逻辑推论，alors 更多表时间顺序或口语中的话题连接。"
+        },
+        {
+            "index": "4",
+            "vocabulary": "commande",
+            "partOfSpeech": "n.f.",
+            "definition": "①订货，订单 ②命令，指令",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "passer une commande",
+                    "vocabularyCollocationMeaning": "下订单"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "recevoir une commande",
+                    "vocabularyCollocationMeaning": "收到订单"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sur commande",
+                    "vocabularyCollocationMeaning": "按订单，定制"
+                }
+            ],
+            "synonymAnalysis": "commande（订单/命令）vs ordre（命令/顺序）：表“命令”时，ordre 更正式，commande 多用于商业语境的“订购”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "commander",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "订购；命令"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "commandant",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "指挥官，司令"
+                }
+            ],
+            "pluralForm": "commandes"
+        },
+        {
+            "index": "5",
+            "vocabulary": "Internet",
+            "partOfSpeech": "n.m.",
+            "definition": "①因特网，互联网",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "sur Internet",
+                    "vocabularyCollocationMeaning": "在网上"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "passer une commande sur Internet",
+                    "vocabularyCollocationMeaning": "在网上下单"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "accéder à Internet",
+                    "vocabularyCollocationMeaning": "接入互联网"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "无复数（专有名词）"
+        },
+        {
+            "index": "6",
+            "vocabulary": "catalogue",
+            "partOfSpeech": "n.m.",
+            "definition": "①商品目录，产品手册 ②（图书馆等的）目录，索引",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "lire un catalogue",
+                    "vocabularyCollocationMeaning": "翻阅商品目录"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "catalogue en ligne",
+                    "vocabularyCollocationMeaning": "网上目录"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "catalogue de vente par correspondance",
+                    "vocabularyCollocationMeaning": "邮购目录"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "cataloguer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "将……编入目录；归类"
+                }
+            ],
+            "pluralForm": "catalogues"
+        },
+        {
+            "index": "7",
+            "vocabulary": "facteur",
+            "partOfSpeech": "n.m.",
+            "definition": "①邮递员 ②因素，要素",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "le facteur apporte le courrier",
+                    "vocabularyCollocationMeaning": "邮递员送来邮件"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un facteur important",
+                    "vocabularyCollocationMeaning": "一个重要因素"
+                }
+            ],
+            "synonymAnalysis": "facteur（邮递员/因素）是多义词：①作“邮递员”时与 postier 近义；②作“因素”时与 élément, paramètre 近义，但 facteur 更常用于科学或正式语境。",
+            "derivedWords": [],
+            "pluralForm": "facteurs"
+        },
+        {
+            "index": "8",
+            "vocabulary": "boîte",
+            "partOfSpeech": "n.f.",
+            "definition": "①盒，箱，罐 ②（俚语）公司，单位",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boîte aux lettres",
+                    "vocabularyCollocationMeaning": "邮箱（实体或电子）"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "boîte de conserve",
+                    "vocabularyCollocationMeaning": "罐头"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "boîte à outils",
+                    "vocabularyCollocationMeaning": "工具箱"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "boîtes"
+        },
+        {
+            "index": "9",
+            "vocabulary": "compter",
+            "partOfSpeech": "vi./vt.",
+            "definition": "①（vi./vt.）计数，数数 ②（vt.）计算，算入 ③（vi.）compter sur：依靠，指望",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "compter sur qn./qch.",
+                    "vocabularyCollocationMeaning": "依靠某人/某事，指望"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "compter les jours",
+                    "vocabularyCollocationMeaning": "数日子，掐指计算"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "sans compter",
+                    "vocabularyCollocationMeaning": "不算，另外；慷慨地"
+                }
+            ],
+            "synonymAnalysis": "compter sur vs se fier à：两者均表依赖，compter sur 更强调“寄望于”，se fier à 更强调“信任”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "compte",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "账户；账目；计算"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "comptable",
+                    "derivedWordPartOfSpeech": "n.m./n.f.",
+                    "derivedWordMeaning": "会计"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "10",
+            "vocabulary": "habitude",
+            "partOfSpeech": "n.f.",
+            "definition": "①习惯，习性 ②惯例",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "d'habitude",
+                    "vocabularyCollocationMeaning": "通常，平时"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "comme d'habitude",
+                    "vocabularyCollocationMeaning": "像往常一样"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "avoir l'habitude de faire qch.",
+                    "vocabularyCollocationMeaning": "习惯于做某事"
+                },
+                {
+                    "index": "4",
+                    "vocabularyCollocation": "prendre l'habitude de",
+                    "vocabularyCollocationMeaning": "养成……的习惯"
+                }
+            ],
+            "synonymAnalysis": "habitude vs coutume：habitude 指个人习惯；coutume 指社会或群体的风俗习惯，范围更大。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "habituel",
+                    "derivedWordPartOfSpeech": "adj.",
+                    "derivedWordMeaning": "习惯的，通常的"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "habituellement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "通常地，习惯上"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "habituer",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "使习惯于"
+                },
+                {
+                    "index": "4",
+                    "derivedWord": "s'habituer à",
+                    "derivedWordPartOfSpeech": "v.pron.",
+                    "derivedWordMeaning": "习惯于……"
+                }
+            ],
+            "pluralForm": "habitudes"
+        },
+        {
+            "index": "11",
+            "vocabulary": "vieux (vieil, vieille)",
+            "partOfSpeech": "adj.",
+            "definition": "①老的，年迈的 ②旧的，古老的 ③年长的（作称谓）",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "une vieille voiture",
+                    "vocabularyCollocationMeaning": "一辆旧车"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un vieux monsieur",
+                    "vocabularyCollocationMeaning": "一位老先生"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "vieil ami",
+                    "vocabularyCollocationMeaning": "老朋友（多年的朋友）"
+                }
+            ],
+            "synonymAnalysis": "vieux vs ancien：vieux 强调年龄大或使用时间长（旧）；ancien 置于名词前表“前任的，以前的”，置于名词后表“古老的”。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "vieillir",
+                    "derivedWordPartOfSpeech": "vi.",
+                    "derivedWordMeaning": "变老，老化"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "vieillesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "老年，晚年"
+                },
+                {
+                    "index": "3",
+                    "derivedWord": "vieillard",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "老人"
+                }
+            ],
+            "genderNumberVariation": "阳性单数：vieux（辅音/h aspiré前）或 vieil（元音/h muet前）；阴性单数：vieille；阳性复数：vieux；阴性复数：vieilles",
+            "position": "通常置于名词前（前置形容词）"
+        },
+        {
+            "index": "12",
+            "vocabulary": "équipé",
+            "partOfSpeech": "adj.",
+            "definition": "①装备好的，配备……的 ②设施齐全的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "cuisine équipée",
+                    "vocabularyCollocationMeaning": "配备齐全的厨房"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "bien équipé",
+                    "vocabularyCollocationMeaning": "装备齐全"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "équipé de/avec qch.",
+                    "vocabularyCollocationMeaning": "配备了某物"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "équiper",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "装备，配备"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "équipement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "设备，装备；设施"
+                }
+            ],
+            "genderNumberVariation": "阴性 équipée，阳性复数 équipés，阴性复数 équipées",
+            "position": "通常置于名词之后"
+        },
+        {
+            "index": "13",
+            "vocabulary": "portable",
+            "partOfSpeech": "adj. / n.m.",
+            "definition": "①（adj.）可携带的，手提（式）的 ②（n.m.）笔记本电脑；手机；便携式器材",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un téléphone portable",
+                    "vocabularyCollocationMeaning": "手机"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "un ordinateur portable",
+                    "vocabularyCollocationMeaning": "笔记本电脑"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "appeler sur le portable",
+                    "vocabularyCollocationMeaning": "打手机"
+                }
+            ],
+            "synonymAnalysis": "portable（手机）在口语中常省略 téléphone，直接说 le portable；另有 le mobile 或 le smartphone 等说法，均指手机，但 smartphone 特指智能手机。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "portabilité",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "便携性；（号码）可携带性"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 portables",
+            "position": "作形容词时置于名词之后"
+        },
+        {
+            "index": "14",
+            "vocabulary": "moto",
+            "partOfSpeech": "n.f.",
+            "definition": "①摩托车",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "aller à moto / en moto",
+                    "vocabularyCollocationMeaning": "骑摩托车去"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "conduire une moto",
+                    "vocabularyCollocationMeaning": "驾驶摩托车"
+                }
+            ],
+            "synonymAnalysis": "moto 是 motocyclette 的缩略形式，口语中普遍使用 moto。",
+            "derivedWords": [],
+            "pluralForm": "motos"
+        },
+        {
+            "index": "15",
+            "vocabulary": "obligé",
+            "partOfSpeech": "adj.",
+            "definition": "①必须的，不得不的 ②（être obligé de）被迫，不得不",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être obligé(e) de faire qch.",
+                    "vocabularyCollocationMeaning": "不得不做某事"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "c'est obligé",
+                    "vocabularyCollocationMeaning": "这是必须的（口语）"
+                }
+            ],
+            "synonymAnalysis": "être obligé de vs devoir：être obligé de 强调被外力所迫；devoir 语义更广，可表义务、推测或礼貌请求。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "obliger",
+                    "derivedWordPartOfSpeech": "vt.",
+                    "derivedWordMeaning": "强迫，迫使；使承担义务"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "obligation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "义务，责任；债券"
+                }
+            ],
+            "genderNumberVariation": "阴性 obligée，阳性复数 obligés，阴性复数 obligées",
+            "position": "通常置于名词后；作表语时与 être 连用"
+        },
+        {
+            "index": "16",
+            "vocabulary": "triste",
+            "partOfSpeech": "adj.",
+            "definition": "①悲伤的，忧愁的 ②令人悲伤的，凄凉的",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "être triste",
+                    "vocabularyCollocationMeaning": "感到悲伤"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une nouvelle triste",
+                    "vocabularyCollocationMeaning": "一个令人悲伤的消息"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "triste à mourir",
+                    "vocabularyCollocationMeaning": "悲伤至极"
+                }
+            ],
+            "synonymAnalysis": "triste vs malheureux：triste 强调短暂的悲伤情绪；malheureux 更强调持久的不幸或悲惨境况。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "tristesse",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "悲伤，忧愁"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "tristement",
+                    "derivedWordPartOfSpeech": "adv.",
+                    "derivedWordMeaning": "悲伤地，令人悲哀地"
+                }
+            ],
+            "genderNumberVariation": "阴阳同形，复数 tristes",
+            "position": "可前置或后置；后置更常见，表客观描述；前置时带有主观强调色彩"
+        },
+        {
+            "index": "17",
+            "vocabulary": "ordinateur",
+            "partOfSpeech": "n.m.",
+            "definition": "①计算机，电脑",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "un ordinateur portable",
+                    "vocabularyCollocationMeaning": "笔记本电脑"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "travailler sur l'ordinateur",
+                    "vocabularyCollocationMeaning": "在电脑上工作"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "allumer/éteindre l'ordinateur",
+                    "vocabularyCollocationMeaning": "开/关电脑"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "ordinateurs"
+        },
+        {
+            "index": "18",
+            "vocabulary": "champagne",
+            "partOfSpeech": "n.m.",
+            "definition": "①香槟酒",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "boire du champagne",
+                    "vocabularyCollocationMeaning": "喝香槟"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "une coupe de champagne",
+                    "vocabularyCollocationMeaning": "一杯香槟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "champagnes（指不同类型的香槟时）"
+        },
+        {
+            "index": "19",
+            "vocabulary": "cheminée",
+            "partOfSpeech": "n.f.",
+            "definition": "①壁炉 ②烟囱",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "devant la cheminée",
+                    "vocabularyCollocationMeaning": "在壁炉前"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "allumer la cheminée",
+                    "vocabularyCollocationMeaning": "点燃壁炉"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "la fumée de la cheminée",
+                    "vocabularyCollocationMeaning": "烟囱里冒出的烟"
+                }
+            ],
+            "synonymAnalysis": "",
+            "derivedWords": [],
+            "pluralForm": "cheminées"
+        },
+        {
+            "index": "20",
+            "vocabulary": "inviter",
+            "partOfSpeech": "vt.",
+            "definition": "①邀请 ②（inviter à）请求，促使",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "inviter qn. à dîner",
+                    "vocabularyCollocationMeaning": "邀请某人共进晚餐"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "inviter qn. chez soi",
+                    "vocabularyCollocationMeaning": "邀请某人到家里"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "c'est moi qui invite",
+                    "vocabularyCollocationMeaning": "我来做东/我请客"
+                }
+            ],
+            "synonymAnalysis": "inviter vs convier：两者均表邀请，convier 更书面正式，多用于正式场合的邀请函。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "invitation",
+                    "derivedWordPartOfSpeech": "n.f.",
+                    "derivedWordMeaning": "邀请；请柬"
+                },
+                {
+                    "index": "2",
+                    "derivedWord": "invité",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "被邀请的人，客人"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        },
+        {
+            "index": "21",
+            "vocabulary": "remercier",
+            "partOfSpeech": "vt.",
+            "definition": "①感谢，道谢 ②（委婉）解雇",
+            "vocabularyCollocations": [
+                {
+                    "index": "1",
+                    "vocabularyCollocation": "remercier qn. de/pour qch.",
+                    "vocabularyCollocationMeaning": "为某事感谢某人"
+                },
+                {
+                    "index": "2",
+                    "vocabularyCollocation": "je vous remercie",
+                    "vocabularyCollocationMeaning": "感谢您（正式用语）"
+                },
+                {
+                    "index": "3",
+                    "vocabularyCollocation": "remercier qn. d'avoir fait qch.",
+                    "vocabularyCollocationMeaning": "感谢某人做了某事"
+                }
+            ],
+            "synonymAnalysis": "remercier vs être reconnaissant：remercier 是具体的感谢行为（动词）；être reconnaissant 表示内心的感激之情（形容词结构），更多用于书面或正式语境。",
+            "derivedWords": [
+                {
+                    "index": "1",
+                    "derivedWord": "remerciement",
+                    "derivedWordPartOfSpeech": "n.m.",
+                    "derivedWordMeaning": "感谢；（复数）谢辞"
+                }
+            ],
+            "inflectionInfo": {
+                "verbType": "第一组 -er 规则变位"
+            }
+        }
+    ],
+    "traslationPart": {
+        "frenchToChinesePractice": {
+            "frenchOriginalSentence": "Je sais que vous êtes un Père Noël moderne, je préfère donc passer ma commande sur Internet. Les enfants comme leurs parents attendent avec impatience leurs cadeaux, mais nous n'avons pas assez d'argent pour acheter tout ce que nous désirons, alors je compte sur vous ! Il y a du champagne devant la cheminée, c'est moi qui vous invite.",
+            "chineseTranslation": "我知道您是一位与时俱进的圣诞老人，所以我宁愿在网上下单。孩子们和家长们一样，都迫不及待地盼着收礼物，可我们没有足够的钱买下所有心仪的东西，因此全靠您了！壁炉前备有香槟，是我来招待您。",
+            "fr2cnStrategy": "① je préfère donc 中的 donc 译为“所以”，放在分句之间，体现逻辑顺承；② Les enfants comme leurs parents 的比较结构转为“孩子们和家长们一样，都……”，符合汉语并列表达习惯；③ tout ce que nous désirons 拆解为“所有心仪的东西”，将关系从句转为定语，避免生硬的“所有我们想要的”；④ alors je compte sur vous 的“compter sur”意译为“全靠您了”，保留口语语气；⑤ c'est moi qui vous invite 强调句型，译为“是我来招待您”，保留强调焦点。"
+        },
+        "chineseToFrenchPractice": [
+            {
+                "index": "1",
+                "chineseOriginalSentence": "我宁愿在网上下单，因为邮寄太慢了。",
+                "frenchTranslation": "Je préfère passer ma commande sur Internet, car le courrier est trop lent.",
+                "cn2frStrategy": "① “宁愿”用 préférer + 不定式；② “在网上下单”用固定搭配 passer une commande sur Internet；③ “因为”选用 car（书面语，语气肯定），而非 parce que；④ “太慢”用 trop + 形容词结构。"
+            },
+            {
+                "index": "2",
+                "chineseOriginalSentence": "他们迫不及待地等待着圣诞礼物。",
+                "frenchTranslation": "Ils attendent avec impatience leurs cadeaux de Noël.",
+                "cn2frStrategy": "① “迫不及待地”用固定搭配 avec impatience 作方式状语，置于动词之后；② “等待”用 attendre（直接及物，不加介词）；③ “圣诞礼物”用 cadeaux de Noël，注意名词复数形式。"
+            },
+            {
+                "index": "3",
+                "chineseOriginalSentence": "他现在不得不步行去上学，他很难过。",
+                "frenchTranslation": "Il est maintenant obligé d'aller en classe à pied. Il est triste.",
+                "cn2frStrategy": "① “不得不”用 être obligé de + 不定式；② “步行”用固定短语 à pied（不用介词 en）；③ “去上学”用 aller en classe；④ “难过”用 être triste（表语形容词结构），分两句表达，符合法语简洁倾向。"
+            },
+            {
+                "index": "4",
+                "chineseOriginalSentence": "壁炉前是我为您准备的香槟，是我来招待您的。",
+                "frenchTranslation": "Il y a du champagne pour vous devant la cheminée, c'est moi qui vous invite.",
+                "cn2frStrategy": "① “壁炉前有香槟”用存在句 il y a + 部分冠词 du champagne；② 地点状语 devant la cheminée 置于宾语之后；③ “是我来招待您”用强调句型 c'est moi qui + 动词（关系从句动词用第三人称单数 invite，非 j'invite）。"
+            }
+        ]
+    }
+}
